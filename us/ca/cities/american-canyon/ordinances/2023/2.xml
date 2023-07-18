@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., 2023-02">
+  <num>2023-02</num>
+  <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON, CALIFORNIA, ACCEPTING THE DEVELOPMENT IMPACT FEE NEXUS STUDY AND LEVYING A FIRE CAPITAL FACILITIES FEE FOR ALL NEW CONSTRUCTION AND NEW DEVELOPMENT TO FUND FIRE PROTECTION SERVICES</heading>
+  <meta>
+    <effective>2023-03-21</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-02.pdf" proof="needed">Ord. No. 2023-02</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2023-02</citation>
+    </citations>
+    <history>
+      <introduced>2023-03-07</introduced>
+      <adopted>2023-03-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the American Canyon Fire Protection District (District) provides fire protection, emergency medical services and hazardous material response to residents and businesses within the City of American Canyon (City);</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Mitigation Fee Act authorizes the City to impose fees that offset the costs imposed on public services by new development, including the costs incurred for emergency response and fire protection services;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the District has identified the need to plan for the impact of future development on existing resources, including keeping pace with new development by constructing and equipping current and future fire stations, and therefore retained the services of AP Triton to conduct a Long- Range Master Plan and Capitol PFG to conduct a development impact fee study;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Capitol PFG has completed a development impact fee study which meets the requirements of the California Mitigation Fee Act. Specifically, the fee study makes findings as to the purpose and use of the fee as it pertains to the District's growth plan and the associated capital costs, and determines that the fees are supported by an appropriate "nexus" – meaning the amount of the fees successfully approximate the actual costs for which they are intended to offset;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>although the Fire Protection District Law of 1987 does not allow a fire district to directly charge a fee for public improvements, facilities, or equipment, it is common practice for fire districts to work with cities and counties to impose an impact fee on the fire district's behalf;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the mutual interest of the City and District are fulfilled by the City enacting a Development Impact Fee, as authorized by the Mitigation Fee Act and the City's police powers, to fund fire and emergency response services for the protection of lives and property of City residents and to ensure that the District has the resources and capabilities of keeping pace with new construction within the City;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>consistent with Government Code section 66001, the City intends to levy a Development Impact Fee on all new residential, commercial, and industrial development within the City's boundaries, to fund capital equipment and facilities construction needs for the District;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>at the Fire Board's January 24, 2023 Regular Meeting, the Board adopted a Resolution to begin the process of implementing a fee to offset the rising costs that new development imposes on the District, and to work with the City to implement the fee (for properties within both the City and the District) and to work with the County of Napa (for properties within the District and the County); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed fee shall be updated on an annual basis to account for inflationary costs and/or as updates are needed based upon the current costs of construction and equipping fire stations.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>The City Council, having considered all the evidence, accepts the Development Impact Fee Nexus Study Prepared by Capitol PFG and the findings and conclusions therein, attached as Exhibit A and incorporated herein.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>The City Council adopts a Fire Capital Facilities Fee based upon the square footage of the structure as determined from the plans submitted with the application for a building permit and computed as follows:</text>
+    <para>
+      <num>A.</num>
+      <text>Any proposed structure designed for use as a single-family dwelling unit shall be assessed a fee of ninety-eights cents ($.98) per square foot. For purposes of this subsection a single-family dwelling shall mean a dwelling unit containing not more than one kitchen and designed to house not more than one family.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Any proposed structure designed for use as a multiple family dwelling unit shall be assessed a tax of ninety-eights cents ($.98) per square foot. For purposes of this subsection, a multiple family dwelling unit shall mean any structure designed to house two or more families living independently of each other and may consist of one building or a series of detached dwelling units.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Any proposed structure designed to be used for business or commercial purposes shall be assessed a tax of ninety-eights cents ($.98) per square foot. Business or commercial purposes as used herein includes, but is not limited to, facilities used primarily for public assembly, sleeping rooms in hotels, or motels, and mental or physical convalescent facilities.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Any proposed structure designed to be used for industrial purposes shall be assessed a tax of ninety-eights cents ($.98) per square foot. Industrial purposes as used in this subsection shall mean any use involving manufacturing, fabricating, refining, processing, research, warehousing, or similar uses.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Where a structure is replaced, no fee shall be payable, provided the square footage of the new structure is the same or less than the replaced structure.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Where a structure is remodeled, no fee shall be payable, provided the square footage of the new structure is the same or less than the remodeled structure.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>If a fee had been previously paid to the District, and the new structure contains less square footage than the old structure, no refund shall be payable by the District.</text>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>The Fire Capital Facilities Fee shall automatically be adjusted July 1 of each year according to the change in the Consumer Price Index for the San Francisco / Oakland / San Jose area for the twelve-month period ending the preceding April.</text>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <text>The City shall implement, administer, and oversee the collection of such fees and remit those fees to the District. The actual amount of Fire Capital Facilities Fee due and payable shall be the amount determined under section 2 above less any Fire Mitigation Fee paid pursuant to District Resolution 86-5.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>The Development Impact Fee, including any adjustments based on inflation, may be required to be paid prior to the issuance of a building permit.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Staff shall assist the District Fire Chief to take all actions necessary to implement, administer, and collect the Fire Capital Facilities Fee Schedule, and as part of the District's budget process shall annually review the estimated costs of capital improvements and capital equipment and evaluate the continued need for those improvements and the reasonable relationship between such need and the impacts of the various types of development pending or anticipated and for which the fee is charged.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 7th day of March, 2023 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Councilmember Oro</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 21st day of March, 2023, by the</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Oro, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>______________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

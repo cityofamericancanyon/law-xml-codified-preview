@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., 2023-04">
+  <num>2023-04</num>
+  <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON AMENDING CHAPTER 10.56 SPEED LIMITS, TITLE 10 – VEHICLES AND TRAFFIC OF THE AMERICAN CANYON MUNICIPAL CODE</heading>
+  <meta>
+    <effective>2023-06-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-04.pdf" proof="needed">Ord. No. 2023-04</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2023-04</citation>
+    </citations>
+    <history>
+      <introduced>2023-04-18</introduced>
+      <adopted>2023-05-02</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>State law establishes prima facie speeds limits of 25 mph and 55 mph on certain City streets but allows the City to set lower prima facie speed limits based upon recommendations from an Engineering and Traffic Survey; and upon adoption by ordinance of the City and posting of such limits on the street thereon; and; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Engineering and Traffic Surveys are valid up to ten years depending upon site conditions and law enforcement personnel training and any recommendations for a lower prima facie speed limit must be adopted by ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City commissioned the 2022 Engineering and Traffic Surveys Report prepared by Fehr and Peers on April 2023; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the 2022 Engineering and Traffic Surveys Report was prepared under the direction of a Professional Traffic Engineer based upon speed survey data, traffic volume counts, accident reports, roadway characteristics, adjacent land uses, side street traffic and sight distance for the selected streets and include recommendations for Speed Limits; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Public Works Director, the Fire Chief, and the Police Chief agree with the recommendations in the 2022 Engineering and Traffic Surveys Report.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Chapter 10.56 Speed Limits, Title 10 vehicles and Traffic of the American Canyon Municipal Code is superseded and replaced with:</text>
+    <text>
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Roadway</th>
+            <th>Segment</th>
+            <th>Current Speed Limit (mph)</th>
+            <th>Recommended Speed Limit (mph)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>Green Island Road</td>
+            <td>Mezzetta Court to SR 29</td>
+            <td>40</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Eucalyptus Drive</td>
+            <td proof="needed">
+              <p>Wetlands Edge Road to</p>
+              <p>Donaldson Way</p>
+            </td>
+            <td>35</td>
+            <td>30</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Benton Way</td>
+            <td>Wetlands Edge Road to Donaldson Way</td>
+            <td>25</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Donaldson Way West</td>
+            <td>Donaldson Way to SR 29</td>
+            <td>25</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Donaldson Way East</td>
+            <td>SR 29 to Newell Drive</td>
+            <td>25</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>West American Canyon Road</td>
+            <td>Wetlands Edge Road to James Road</td>
+            <td>40</td>
+            <td>35</td>
+          </tr>
+          <tr>
+            <td>7</td>
+            <td>Kimberly Drive</td>
+            <td>Meadow Bay Drive to SR 29</td>
+            <td>25</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>8</td>
+            <td>Wetlands Edge Road</td>
+            <td>Eucalyptus Drive to Kensington Way</td>
+            <td>25</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>9</td>
+            <td>Hummingbird Way</td>
+            <td>Benton Way to West American Canyon Road</td>
+            <td>25</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>10</td>
+            <td>Donaldson Way</td>
+            <td>Eucalyptus Drive to Benton Way</td>
+            <td>25</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>11</td>
+            <td>Elliott Drive</td>
+            <td>Benton Way to West American Road</td>
+            <td>30</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>12</td>
+            <td>Elliott Drive</td>
+            <td>West American Canyon Road and Marla Drive</td>
+            <td>25</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>13</td>
+            <td>James Road</td>
+            <td>Wilson Way to West American Canyon Road</td>
+            <td>25</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>14</td>
+            <td>Danrose Drive</td>
+            <td>West American Canyon Road to Mini Drive</td>
+            <td>25</td>
+            <td>25</td>
+          </tr>
+          <tr>
+            <td>15</td>
+            <td>Broadway Street</td>
+            <td>American Canyon Road to Mini Drive</td>
+            <td>30</td>
+            <td>30</td>
+          </tr>
+          <tr>
+            <td>16</td>
+            <td>Newell Drive</td>
+            <td>Northern Newell Open Space Extents to American Canyon Road</td>
+            <td>35</td>
+            <td>30</td>
+          </tr>
+          <tr>
+            <td>17</td>
+            <td>Flosden Road</td>
+            <td>American Canyon Road to Southern City Limits</td>
+            <td>45</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>18</td>
+            <td>American Canyon Road East</td>
+            <td>Broadway Street to Eastern City limits</td>
+            <td>45</td>
+            <td>40</td>
+          </tr>
+        </tbody>
+      </table>
+    </text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>The Ordinance shall take effect 30 days from adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 18<sup>th</sup> day of April, 2023, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Oro, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 2<sup>nd</sup> day of May, 2023, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Oro, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

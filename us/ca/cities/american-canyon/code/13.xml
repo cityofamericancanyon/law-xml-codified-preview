@@ -1,0 +1,1236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>13</num>
+  <heading>WATER SERVICE SYSTEM</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.04</num>
+    <heading>WATER AND SEWER SYSTEMS ADOPTED</heading>
+    <section>
+      <num>13.04.010</num>
+      <heading>District enactments to remain in effect.</heading>
+      <para>
+        <num>A.</num>
+        <text>All ordinances of the American Canyon county water district which have been applicable within the territory now incorporated as the city of American Canyon, to the extent that they applied before incorporation, shall remain in full force and effect as ordinances of the city.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The resolutions, rules and regulations of the American Canyon county water district which have been so applicable in implementation of the aforesaid ordinances and state law (such as, but not limited to, the California Environmental Quality Act and regulations pertaining to traffic), to the extent that they applied before incorporation shall remain in full force and effect as resolutions, rules and regulations, respectively, of the city, and which may be amended or repealed in the future by any form of enactment (motion, resolution or ordinance) deemed appropriate by the council.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Additionally, all resolutions, rules, regulations, and policies of the American Canyon county water district to the extent that they applied before incorporation shall be deemed to be of the city, and shall remain in full force and effect as resolutions, rules, regulations, and policies, respectively, of the city.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 5 § 1, 1992</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.04.020</num>
+      <heading>Declaration of intent.</heading>
+      <text>Certain provisions of the district enactments referred to in <cite path="|13.04.010">Section 13.04.010</cite> of this chapter reflect the district governmental structure and contain references to officials, official titles, commissions, and other designations which are not a part. of the structure of this city's government. In order to effectively and intelligently administer the district enactments to the extent that they are continued in effect by this chapter, it is the purpose of this chapter to provide for the substitution of the appropriate city official, title, or designation in district enactments. (Ord. 5 § 2, 1992)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.04.030</num>
+      <heading>Substitution of appropriate reference to city.</heading>
+      <para>
+        <num>A.</num>
+        <text>Whenever in the enactments of the American Canyon county water district which are continued in effect by the city there is a reference to "board of directors," this reference shall be interpreted to mean the "city council of the city of American Canyon."</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Whenever in the enactments of the American Canyon county water district which are continued in effect by the city there is a reference to an office, official title, or other designation, the reference shall be interpreted to mean that office, title, or designation in the governmental structure of the city, or if there is none, any official or titleholder of the city who has been specifically directed by the council or the city manager to perform the functions referred to or the duties imposed.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Whenever it is appropriate under the circumstances, and in the enactments of the American Canyon county water district which are continued in effect by the city, there is a reference to the "American Canyon county water district," "district," or "territory" of the American Canyon county water district, such reference shall be interpreted to mean the "city of American Canyon."</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 5 § 3, 1992</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.04.040</num>
+      <heading>Continuance of district ordinances within city.</heading>
+      <text>Each ordinance or enactment of the American Canyon county water district which remains in effect as a city ordinance or enactment by virtue of <cite path="|13.04.010">Section 13.04.010</cite> of this chapter shall be deemed a city ordinance or enactment, and may be modified or superseded by the council in the same manner as other city ordinances or enactments. (Ord. 5 § 4, 1992)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.04.050</num>
+      <heading>Enforcement of continuing district ordinances.</heading>
+      <text>The enforcement of the district ordinances continuing in effect in the incorporated area shall be by the city.</text>
+      <annotations>
+        <annotation type="History">Ord. 5 § 5, 1992</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.06</num>
+    <heading>WATER RATES AND CONNECTION FEES</heading>
+    <section>
+      <num>13.06.010</num>
+      <heading>Definitions.</heading>
+      <text>For purposes of this chapter, the following terms shall be defined as set forth below:</text>
+      <text>"Commercial" means any nonresidential premises classified as a retail store, restaurant, office building, laundry, master-metered multifamily or mobile home park, and other service establishment (including churches, lodges, government services, or public services) connected to the city water system, and which cannot be classified as a large industrial, raw water, landscape service, recycled water, or single-family residential, pursuant to this section.</text>
+      <text>"Cost of service" means the sum of all expenses relating to the ongoing operation of the water enterprise, to include but not be limited to salaries and benefits of all city staff required to run the water enterprise, operating expenses such as utilities and the purchase of water, related wastewater operations debt service related to improvements to the water system, and the maintenance and timely replacement of all existing capital infrastructure.</text>
+      <text>"Customer" means any residence, business or other entity that has signed up and contracted with the city for a specific water service. The type of customer is determined by the rate charged; thus, a commercial use could be a single-family residential customer, if the business qualified pursuant to <cite path="|13.06.020">Section 13.06.020</cite>(C) of this chapter.</text>
+      <text>"Customer charge" means a flat fee per each water billing period, billed on a monthly basis.</text>
+      <text>"Inside-the-city" means any water connection within the city corporate boundaries as they presently exist or as they may be modified from time to time.</text>
+      <text>"Landscape service" means a metered account used exclusively for landscaping purposes. Such accounts are exempt from wastewater service charges, but must agree to use recycled water, if and when it becomes available; must agree to participate in the city's water conservation program; and would be subject to use restrictions and/or fee surcharges during periods of drought.</text>
+      <text>"Large industrial" means any premises whose annual water use is in excess of four thousand two hundred units (Ccf) per year, is located within city boundaries, is separately connected to the water system, and whose predominant water use is for industrial purposes. Such customers must agree to supplemental conditions of service, including compliance with the city water conservation program, use of landscape service accounts as appropriate, and use of recycled water as appropriate, if and when it becomes available.</text>
+      <text>"Meter charge" means a flat fee, based on the size of water meter in service, billed on a monthly basis.</text>
+      <text>"Multifamily" means any premises that is residential in nature and consists of more than one dwelling unit served by a single metered water connection including any mobilehome park. Such master-metered customers shall be charged the same as commercial customers. Temporary residential premises (e.g., hotels) are treated as a commercial use.</text>
+      <text>"Outside-the-city" means any water connection outside the incorporated city limits.</text>
+      <text>"Private fire protection service" means water service for a sprinkler system obtained through a separate service line connected in accordance with city standards to the water system.</text>
+      <text>"Quantity charge" means a charge per unit of water consumed by a customer. For example, this charge may be fixed for all units of water consumed for commercial customers, or, for single-family residential customers, may be "tiered" so that the charge increases in increments as more water is used in order to encourage conservation.</text>
+      <text>"Raw water" means any premises or property, which, by action of the city council, makes a special arrangement to use water provided by the city that is not treated at the city's water treatment plant. A raw water customer must agree to use recycled water, when available, and would be subject to use restrictions and/or surcharges during periods of drought or restricted supply.</text>
+      <text>"Recycled water" means wastewater effluent treated to tertiary levels consistent with California Code of Regulations Title 22 standards, and may include, but not be limited to, irrigation, landscaping, groundwater, industrial and groundwater recharge uses.</text>
+      <text>"Single-family residential" means a free-standing home that is served by a dedicated water service line and meter and has only one legal dwelling unit.</text>
+      <text>"Temporary meter" means a metered water connection to the city's system for a duration of no longer than six months, or, under special circumstances approved by the city manager no longer than twelve months. The connection must conform to city standards for temporary connections.</text>
+      <text>"Unit" means one hundred cubic feet of water as measured by water meters approved by the city, or approximately seven hundred forty eight gallons</text>
+      <annotations>
+        <annotation type="History">Ord. 2007-13 § 3, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.020</num>
+      <heading>Declaration of intent in establishing water rates.</heading>
+      <para>
+        <num>A.</num>
+        <text>It shall be city policy to collect water rates and charges that meet but do not exceed the cost of service of the water enterprise.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>It shall be city policy to set water rates and charges that are fair and equitable to all customer classes and recover each customer share of the total cost of service in proportion to their use of the city system.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>It shall be city policy to have a water rate study performed, by a qualified independent rate consultant, at least once every five years, to ensure that water rates and charges are set to an appropriate level. Rate studies will be based on American Water Works Association (AWWA) rate setting principles and shall recommend rates which meet the cost of service of the city water enterprise.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The city may exercise its discretion consistent with <em>Hansen v. City of San Buenaventura,</em> 42 Cal.3d 1172 (1986) to enact a rate for property owners outside the city which is forty percent greater than the rate for water customers within the city. (Ord. 2007-13 § 3, 2007)</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.06.030</num>
+      <heading>Water meter charges and provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Each customer shall pay a fixed monthly fee based on the size of water meter in service to allow the city to recover a portion of its fixed costs that it incurs regardless of water use. Water meter charges shall be paid monthly and calculated according to AWWA-approved demand ratios, and shall be equally applied based on meter size to all customer classes.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>As of the effective date of the ordinance codified in this chapter, or January 1, 2008, whichever comes later, the water meter charges for customers shall be levied according to the following schedule.</text>
+        <text>Inside city customers:</text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Meter size</th>
+                <th>1-Jan-08</th>
+                <th>1-Jan-09</th>
+                <th>1-Jan-10</th>
+                <th>1-Jan-11</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>5/8″ and 3/4″</td>
+                <td>$  4.00</td>
+                <td>$  4.40</td>
+                <td>$  4.84</td>
+                <td>$  5.32</td>
+              </tr>
+              <tr>
+                <td>1″<br/>Residential</td>
+                <td>4.00</td>
+                <td>4.40</td>
+                <td>4.84</td>
+                <td>5.32</td>
+              </tr>
+              <tr>
+                <td>1″</td>
+                <td>6.67</td>
+                <td>7.34</td>
+                <td>8.07</td>
+                <td>8.88</td>
+              </tr>
+              <tr>
+                <td>1.5″</td>
+                <td>13.33</td>
+                <td>14.67</td>
+                <td>16.13</td>
+                <td>17.75</td>
+              </tr>
+              <tr>
+                <td>2″</td>
+                <td>21.33</td>
+                <td>23.47</td>
+                <td>25.81</td>
+                <td>28.39</td>
+              </tr>
+              <tr>
+                <td>3″</td>
+                <td>42.67</td>
+                <td>46.93</td>
+                <td>51.63</td>
+                <td>56.79</td>
+              </tr>
+              <tr>
+                <td>4″</td>
+                <td>66.67</td>
+                <td>73.33</td>
+                <td>80.67</td>
+                <td>88.73</td>
+              </tr>
+              <tr>
+                <td>6″</td>
+                <td>133.33</td>
+                <td>146.67</td>
+                <td>161.33</td>
+                <td>177.47</td>
+              </tr>
+              <tr>
+                <td>8″</td>
+                <td>213.33</td>
+                <td>234.67</td>
+                <td>258.13</td>
+                <td>283.95</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>Outside city customers:</text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Meter size</th>
+                <th>1-Jan-08</th>
+                <th>1-Jan-09</th>
+                <th>1-Jan-10</th>
+                <th>1-Jan-11</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>5/8″ and 3/4″</td>
+                <td>$5.60</td>
+                <td>$6.16</td>
+                <td>$6.78</td>
+                <td>$7.45</td>
+              </tr>
+              <tr>
+                <td>1″ Residential</td>
+                <td>5.60</td>
+                <td>6.16</td>
+                <td>6.78</td>
+                <td>7.45</td>
+              </tr>
+              <tr>
+                <td>1″</td>
+                <td>9.34</td>
+                <td>10.27</td>
+                <td>11.30</td>
+                <td>12.43</td>
+              </tr>
+              <tr>
+                <td>1.5″</td>
+                <td>18.67</td>
+                <td>20.53</td>
+                <td>22.59</td>
+                <td>24.85</td>
+              </tr>
+              <tr>
+                <td>2″</td>
+                <td>29.87</td>
+                <td>32.85</td>
+                <td>36.14</td>
+                <td>39.75</td>
+              </tr>
+              <tr>
+                <td>3″</td>
+                <td>59.73</td>
+                <td>65.71</td>
+                <td>72.28</td>
+                <td>79.51</td>
+              </tr>
+              <tr>
+                <td>4″</td>
+                <td>93.33</td>
+                <td>102.67</td>
+                <td>112.93</td>
+                <td>124.23</td>
+              </tr>
+              <tr>
+                <td>6″</td>
+                <td>186.67</td>
+                <td>205.33</td>
+                <td>225.87</td>
+                <td>248.45</td>
+              </tr>
+              <tr>
+                <td>8″</td>
+                <td>298.67</td>
+                <td>328.53</td>
+                <td>361.39</td>
+                <td>397.53</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>As of the effective date of the ordinance codified in this chapter, or January 1, 2008, whichever comes later, temporary water meter charges for customers shall be levied according to the following schedule:</text>
+        <text>Inside and outside city customers:</text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Meter size</th>
+                <th>1-Jan-08</th>
+                <th>1-Jan-09</th>
+                <th>1-Jan-10</th>
+                <th>1-Jan-11</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Temporary Meter</td>
+                <td>$59.73</td>
+                <td>$65.71</td>
+                <td>$72.28</td>
+                <td>$79.51</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Starting on January 1st, 2012, and on every January 1st thereafter, all water meter charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2007-13 § 3, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.040</num>
+      <heading>Water quantity charges and provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Each customer shall pay a quantity charge for each unit of water used in a given month. In order to encourage conservation among city users, single-family residential customers will pay a "tiered" rate that increases in increments as water consumption increases. All commercial customers (to include master metered multi-family, industrial, landscaping, public, and schools) shall pay a fixed quantity rate for all water consumed.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>As of the effective date of the ordinance codified in this chapter, or January 1, 2008, whichever comes later, customers will pay quantity rates according to the schedule included below.</text>
+        <text>Single-family residential—Inside city:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <th>1-Jan-08</th>
+                <th>1-Jan-09</th>
+                <th>1-Jan-10</th>
+                <th>1-Jan-11</th>
+              </tr>
+              <tr>
+                <td>Tier 1</td>
+                <td>0-8 hcf</td>
+                <td>$2.25</td>
+                <td>$2.41</td>
+                <td>$2.58</td>
+                <td>$2.76</td>
+              </tr>
+              <tr>
+                <td>Tier 2</td>
+                <td>9-20 hcf</td>
+                <td>2.88</td>
+                <td>3.08</td>
+                <td>3.30</td>
+                <td>3.53</td>
+              </tr>
+              <tr>
+                <td>Tier 3</td>
+                <td>21+ hcf</td>
+                <td>3.45</td>
+                <td>3.55</td>
+                <td>3.66</td>
+                <td>3.77</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>Single-family residential—Outside city:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <th>1-Jan-08</th>
+                <th>1-Jan-09</th>
+                <th>1-Jan-10</th>
+                <th>1-Jan-11</th>
+              </tr>
+              <tr>
+                <td>Tier 1</td>
+                <td>0-8 hcf</td>
+                <td>$3.15</td>
+                <td>$3.37</td>
+                <td>$3.61</td>
+                <td>$3.86</td>
+              </tr>
+              <tr>
+                <td>Tier 2</td>
+                <td>9-20 hcf</td>
+                <td>4.03</td>
+                <td>4.31</td>
+                <td>4.62</td>
+                <td>4.94</td>
+              </tr>
+              <tr>
+                <td>Tier 3</td>
+                <td>21+ hcf</td>
+                <td>4.83</td>
+                <td>4.97</td>
+                <td>5.12</td>
+                <td>5.28</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>Commercial, industrial, multifamily, landscaping, public—Inside city:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td proof="needed"/>
+                <th>1-Jan-08</th>
+                <th>1-Jan-09</th>
+                <th>1-Jan-10</th>
+                <th>1-Jan-11</th>
+              </tr>
+              <tr>
+                <td>All water consumed</td>
+                <td>$2.63</td>
+                <td>$2.81</td>
+                <td>$3.01</td>
+                <td>$3.22</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>Commercial, industrial, multifamily, landscaping, public—Outside city:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td proof="needed"/>
+                <th>1-Jan-08</th>
+                <th>1-Jan-09</th>
+                <th>1-Jan-10</th>
+                <th>1-Jan-11</th>
+              </tr>
+              <tr>
+                <td>All water consumed</td>
+                <td>$3.68</td>
+                <td>$3.94</td>
+                <td>$4.22</td>
+                <td>$4.51</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>Temporary meters—Inside and outside city customers:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td proof="needed"/>
+                <th>1-Jan-08</th>
+                <th>1-Jan-09</th>
+                <th>1-Jan-10</th>
+                <th>1-Jan-11</th>
+              </tr>
+              <tr>
+                <td>All water consumed</td>
+                <td>$3.68</td>
+                <td>$3.94</td>
+                <td>$4.22</td>
+                <td>$4.51</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>Raw water—Inside and outside city customers:</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td proof="needed"/>
+                <th>1-Jan-08</th>
+                <th>1-Jan-09</th>
+                <th>1-Jan-10</th>
+                <th>1-Jan-11</th>
+              </tr>
+              <tr>
+                <td>All water consumed</td>
+                <td>$1.26</td>
+                <td>$1.35</td>
+                <td>$1.44</td>
+                <td>$1.54</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Effective January 1, 2012, and on every January 1st thereafter, water quantity charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2007-13 § 3, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.050</num>
+      <heading>Water rates—Adoption by resolution.</heading>
+      <text>The city council declares its intent that any future changes in the water rates established in this chapter shall be by resolution, and the adoption of such a resolution shall have the same force and effect as though the changes had been made by the adoption of an ordinance.</text>
+      <annotations>
+        <annotation type="History">Ord. 2007-13 § 3, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.060</num>
+      <heading>Private fire protection.</heading>
+      <para>
+        <num>A.</num>
+        <text>Each customer who obtains or utilizes a private fire protection service inside-the-city shall pay a charge for water measured as having passed through a bypass meter on the service protective backflow apparatus. The charge for such service shall be one-half the customer charge for inside-the-city commercial users.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Each customer who obtains or utilizes a private fire protection service outside-the-city shall pay a charge for water measured as having passed through a bypass meter on the service protective backflow apparatus. The charge for such service shall be one-half the customer charge for outside-the-city users.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Existing commercial customers requesting to retrofit an existing building with a private fire protection service shall pay the appropriate meter installation fee and related charges, including any required devices. No additional connection fee shall be charged.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2007-13 § 3, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.070</num>
+      <heading>Water rates—Other provisions.</heading>
+      <para>
+        <num>A.</num>
+        <text>Commercial users who desire the single-family residential rate may apply for the rate. If approved by the city manager, the single-family rate shall remain in force for a minimum of twelve months. It is the customer's responsibility to request a further modification.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The city council may, establish policies and procedures by resolution to administer this chapter, including, but not limited to, allowing credits to customers for large, one time water losses and related wastewater charges.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Raw water users, prior to connection, shall apply to the city for permission to connect and receive raw water.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Existing commercial customers requesting a landscape meter shall pay the appropriate meter installation fee and related charges. An additional connection fee shall not be required unless either the overall water consumption increases, or the landscape meter size is larger than the currently installed meter. In either event, the customer shall pay the incremental increase in the connection fee amount. Any landscape-related arrangements between the city and any specific customer established by city council action prior to February 3, 2000 shall remain in full force and effect, unless and until it is modified by a subsequent city council action.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any water user that establishes a well for domestic water purposes after January 1, 2008 shall apply to the city for permission to receive and use well water upon dedication of the well and well water to the city water system.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2007-13 § 3, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.080</num>
+      <heading>Declaration of intent to provide for water capacity fees.</heading>
+      <text>The purpose of a water capacity fee is to allow the city to recover the costs associated with providing a new connection to the city's water system. The fee is set to recover the costs of all existing infrastructure, provided by existing customers for the benefit of the new connection, as well as all future capital projects required to provide that new connection with sufficient water supply, treatment, and distribution capacity in the city's water system.</text>
+      <annotations>
+        <annotation type="History">Ord. 2007-09 § 1, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.090</num>
+      <heading>Water capacity fee.</heading>
+      <para>
+        <num>A.</num>
+        <text>At the time of submission of an application for a building permit for connection to the city water system, an applicant shall be required to pay a water capacity fee, in proportion to the new connection's impact on the water system.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>For the purposes of calculating the water capacity fee, a single-family residence shall be considered one "equivalent dwelling unit (EDU)," with one EDU being assigned a design flow of six hundred eighty gallons per day. For the purposes of calculating the maximum daily water use of a multifamily residence requesting connection to the water system, each within a multifamily residence unit will be assumed to be sixty-five percent of one single-family EDU. Single- and multifamily residences will pay water capacity fees according to subsection D of this section.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All applications for building permits for nonresidential connections will be required to pay a water capacity fee proportional to the expected maximum daily water use of the connection, as calculated by the applicant and certified by the city manager, public works director or other designated staff. The applicant shall, using commonly accepted building and plumbing practices, demonstrate the average daily and maximum daily water use in gallons per day (gpd) for the connection to the water system. Nonresidential water capacity fees shall be calculated according to the cost per gpd detailed in subsection D.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Water capacity fees shall be calculated according to the following schedule.</text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td>Single-family residence (one EDU)</td>
+                <td>$12,462.00</td>
+              </tr>
+              <tr>
+                <td>Multifamily residence (0.65 EDU)</td>
+                <td>$8,100.00</td>
+              </tr>
+              <tr>
+                <td>Commercial/industrial/public (per gpd)</td>
+                <td>$18.33</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The city in its sole discretion may adopt revised water capacity fees based on the proportionate effects of inflation or changes to the cost of living. The Engineering News Record Construction Cost Index for the San Francisco region shall be used for adjusting said fees. Any such adjustment in accordance with this section may be approved by a resolution of the city council.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">RES. 2009-76</annotation>
+        <annotation type="History">Ord. 2008-01 § 1, 2008</annotation>
+        <annotation type="History">Ord. 2007-09 § 1, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.100</num>
+      <heading>Water use substantially increased—Additional water capacity fee.</heading>
+      <text>If, in the judgment of the city manager or public works director, and after the final water capacity fee is established, any customer increases the demand on the water system capacity in a substantial and permanent way, due to changes in the size or nature of the building or premises previously permitted, the city shall charge and collect additional water capacity fees based upon the increased water use. The additional water capacity fee shall be established by computing the new number of EDUs in service at the connection, and then subtracting from that figure the number of EDUs originally purchased in accordance with <cite path="|13.06.020">Section 13.06.020</cite>. (Ord. 2008-01 § 1, 2008; Ord. 2007-09 § 1, 2007)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.06.110</num>
+      <heading>Water capacity fees—Economic development incentives.</heading>
+      <para>
+        <num>A.</num>
+        <text>At the written request of the applicant, and with the approval by resolution of the city council, an applicant may enter into an agreement with the city for a revised water capacity fee upon finding of one or more of the following conditions:</text>
+        <para>
+          <num>1.</num>
+          <text>The project provides a needed public service to the city of American Canyon or its residents;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The project provides a significant contribution of sales tax or transient occupancy tax to the city of American Canyon;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Based on an independent economic analysis, a project water demand for an inside-the-city application for water service might vary by more than ten percent from anticipated water demand calculated in accordance with Table <cite path="|13.06.020">13.06.020</cite>, including the addition of an allowance for unmetered water losses throughout the city's water system.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Agreements for a revised water capacity fee shall be approved by a resolution of the city council.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>An applicant may enter into an agreement with the city to provide improvements to the city water system that are off-site to the project or oversized. In such an event, the applicant may be reimbursed the cost of such facility from water capital improvement funds, not to exceed that portion of the improvement considered off-site or oversized to the applicant's project.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The city may require an applicant to construct oversize or off-site facilities as shown on the capital improvement program adopted by the city council, if the applicant's project increases the city's water system average-day annual demand by two percent or greater as determined by the city engineer. In such cases, the applicant shall be offered a credit against water connection fees in the amount of the estimated off-site or oversized facilities to applicant's project.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2007-09 § 1, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.120</num>
+      <heading>Water capacity fee—Intense uses.</heading>
+      <para>
+        <num>A.</num>
+        <text>All projects within the city conforming to city zoning as industrial and all projects within the unincorporated area of Napa County, for which the city provides water connections pursuant to <cite path="|13.10.040">Section 13.10.040</cite> of this title, shall be subject to a limitation on water service if and when the project's average day annual demand for water exceeds six hundred fifty gallons per acre per day on any parcel. The average day annual demand shall include an allowance for unmetered water losses of the city system as determined by the city engineer. In such cases, the applicant shall mitigate the consumption above six hundred fifty gallons of water per acre per day, average annual demand, as provided in <cite path="|13.10.040">Section 13.10.040</cite>.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The city shall monitor the annual average daily demand, and in increments more frequently than once a year as deemed appropriate by the city.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The city's provision of water services to projects located outside city limits shall be governed by Chapter 13.10 of this title and applicable state law.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2007-09 § 1, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.130</num>
+      <heading>Water capacity fees—Adopted by resolution use.</heading>
+      <para>
+        <num>A.</num>
+        <text>The city council declares its intent to make any future changes in water capacity fees established in this chapter by setting forth the changes in a resolution duly adopted, and the adoption of such a resolution shall have the same force and effect as though the changes had been made by the adoption of an ordinance.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The city may use capacity fees to advance funds to implement provisions of the annual city capital improvement program or to deal with short-term cash flow requirements.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2007-09 § 1, 2007</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.10</num>
+    <heading>NEW WATER AND SEWER CONNECTIONS AND SERVICES</heading>
+    <section>
+      <num>13.10.010</num>
+      <heading>Legislative findings.</heading>
+      <text>The city council of the city finds and declares the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Under state law, the city may provide water and sewer connections and service to residences and businesses within its corporate boundaries before committing to provide water and sewer connections and services to developments outside city limits;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The city has approved and may have applications in the future for new developments for residential, commercial and industrial uses that will require water and sewer connections and service;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Applications for the annexation of various properties to the city and the American Canyon fire protection district, a subsidiary district of the city (district) are currently pending before the Napa County local agency formation commission (LAFCO), and other applications may be submitted in the future from time to time;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Applications for new developments that will require large amounts of water which will be located in unincorporated county territory are pending before the county of Napa (county) and to date, applications for the annexation of these developments into the city have not been filed with LAFCO;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The city's primary obligation as a local government is to provide water and sewer connections and service within its boundaries or to those developments where applications for annexation to the city are pending before LAFCO, rather than to developments in unincorporated county territory;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The city is committed to the prudent management of its resources and to its economic growth and development;</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Notwithstanding the foregoing, consistent with the City-County Agreement, the city will provide water service to all outside customers and other outside customers upon request under all of the same terms and conditions under which the city provides water service to city customers, and the city will not impose any term or condition on any water service to any outside customer and other outside customers that is different from the terms and conditions that the city imposes on city customers, except that the city may continue to impose higher water rates on outside customers and other outside customers consistent with Hansen v. City of San Buenaventura (1986) 42 Cal.3d 1172;</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The city shall continue to provide water service to existing outside customers and other outside customers and, upon request, the city shall provide new or increased water service to all outside customers and other outside customers under the same terms and conditions under which the city provides water service to city customers, as provided in subsection G of this section. The city shall provide all new city customers, all new outside customers and other outside customers with water service under the conditions set forth in subsection I of this section;</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Water Conditions to be Imposed on all Parcels (City Customers, Outside Customers and Other Outside Customers) for which New Water Service is Requested.</text>
+        <text>The city may impose the conditions listed below on new water services for outside customers and other outside customers by including these conditions in the "will-serve" letters that the city provides to such customers, but only if the city also imposes the same conditions on all new water services for parcels with similar uses within the city's limits. Napa County shall include these same conditions in all new land use development permits for parcels within the Airport Industrial Area Specific Plan area.</text>
+        <para>
+          <num>1.</num>
+          <text>City Capacity Fees and Conditions of Approval for Water Service. Capacity fees charged for parcels within the city's water service area shall be established by the city and will be periodically reviewed and updated. Capacity fees (also known as connection fees) will be uniform throughout the water service area, regardless of whether the parcel to which the fee applies is inside or outside the city's limits. The capacity fee and any conditions on new water service will be determined based on the Water Supply Report, which shall contain the analysis described in the City-County Agreement Part II.C. of Exhibit F, and which will be consistent with the city's Zero Water Footprint Policy, adopted by the city on October 23, 2007, or as may be subsequently amended.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Cost of Water Service. The cost of new water service shall be imposed through the capacity fees in the city's Ordinance 2007-09 or through new capacity fees approved by Napa County and enacted in a new city ordinance. However, if the Water Supply Report finds, consistent with the city's Zero Water Footprint Policy or as may be subsequently amended (see City-County Agreement Exhibit F), that the city will have to obtain additional water supplies to meet "dry year" shortfalls, then the cost of water to meet such "dry year" shortfalls will be the sole responsibility of the applicant. In determining whether or not such "dry year" shortfalls will occur, the city shall include in the base supplies available to the city during "dry years" the new water supplies that have been or will be included in the calculations used to set the city's capacity fees and water rates. The city will conclude that "dry year" shortfalls will occur only if such base supplies will not be adequate to meet anticipated "dry year" demands. The city may not impose any costs on the applicant under this section to reimburse the city for any capital or operating costs that have been or will be included in the calculations used to set the city's capacity fees or water rates. The city may impose the additional costs described in the preceding sentence on outside customers and other outside customers only if the city also imposes such additional costs uniformly on city customers.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Maximum Allowable Water Use. Water received from the city for use on parcels within the Airport Industrial Area Specific Plan area and on parcels with similar uses within the city's limits and other outside customers with similar uses shall be limited to an average of six hundred fifty gallons of water per day per acre (measured monthly), and applicants for new or increased city water service for all such parcels shall be required to demonstrate to the city while the city is preparing the Water Supply Report for the applicant the maximum extent to which the applicant can further reduce its water consumption by applying the following best management practices:</text>
+          <para>
+            <num>a.</num>
+            <text>No Flow or Low Flow Fixtures. These applicants shall be required to install no flow or low flow water fixtures, and to implement other reasonable water conservation measures that are described in the city's Water Conservation Guidelines adopted in the city's Resolution No. 2008-08 or in new city water conservation guidelines approved by Napa County and adopted in a new city ordinance or resolution.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Drought Tolerant Landscape and Irrigation with Recycled Water. These applicants shall be required to use only drought tolerant landscaping, and they may only irrigate landscaped areas with recycled water, when it is available.</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>Purple Pipe. These applicants shall be required to dual plumb their buildings and install "purple pipe" in all landscape areas in anticipation of the availability of recycled water and shall use the recycled water when available.</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>These applicants shall follow the water conservation methods that are described in the Water Conservation Guidelines adopted in the city's Resolution No. 2008-08 or in new city water conservation guidelines approved by Napa County and adopted in a new city ordinance or resolution.</text>
+          </para>
+          <text>The city may apply the provisions of this paragraph to applicants for new or increased city water service for parcels within the Airport Industrial Area Specific Plan area only if the city also uniformly applies these provisions to all applicants for new or increased city water service for parcels with similar uses within the city's limits and other outside customers.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Water Offsets. Applicants for city water service for parcels within the Airport Industrial Area Specific Plan area and for parcels with similar uses within the city's limits and other outside customers with parcels with similar uses that wish to use more than an average of six hundred fifty gallons of water per day per acre (measured monthly) shall offset the proposed water use over six hundred fifty gallons per day per acre (measured monthly) through the use of one or more options that are made available by the city to the applicants. These options include, but are not limited to, retrofitting of existing residences with low flow fixtures, purchase of otherwise developable land as permanent open space, or acquisition of other water supply resources as provided for by a water supply analysis that follows the Zero Water Footprint Methodology, or as may be subsequently amended, described in Exhibit F to the City-County Agreement. The city shall make all such options available uniformly to applicant for city water service for parcels within the Airport Industrial Area Specific Plan area and for parcels with similar uses within the city's limits and other outside customers with parcels with similar uses, and that seek such offsets.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Drought Restrictions. To the extent permitted by law, the city may curtail or ration the use of water provided by the city below the limit of six hundred fifty gallons per day per acre (measured monthly) in dry years through the imposition of drought restrictions that are uniformly applied throughout the city's water service area.</text>
+        </para>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>For purposes of this Chapter 13, "city customers" shall mean all persons and entities presently receiving water service from the city, and all persons and entities that are requesting or in the future request new or increased water service from the city, for parcels that are located within city's incorporated limits.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>For purposes of this Chapter 13, "outside customers" shall mean all persons and entities presently receiving water service from the city, and all persons and entities that are requesting or in the future request new or increased water service from the city for parcels that are located outside the city's limits but within the Airport Industrial Area Specific Plan boundaries.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>For purposes of this Chapter 13, "other outside customers" shall mean all persons and entities presently receiving water service from the city, and all persons and entities that are requesting or in the future request new or increased water service from the city for parcels that are located outside the city's limits but not within the Airport Industrial Area Specific Plan boundaries.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2008-08 §§ 1, 3, 2008</annotation>
+        <annotation type="History">Ord. 2000-04 § 1, 2000</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.10.020</num>
+      <heading>Priority of service.</heading>
+      <para>
+        <num>A.</num>
+        <text>The city shall give first priority for new water and sewer connections and services to residential developments with affordable housing as defined in California Government Code 65589.7 or any successor statute.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The city shall give second priority for new water and sewer connections and services to residences and businesses located within the city corporate boundaries.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Notwithstanding the foregoing, consistent with the City-County Agreement, the city will provide water service to all outside customers and other outside customers upon request under all of the same terms and conditions under which the city provides water service to city customers, and the city will not impose any term or condition on any water service to any outside customer and other outside customers that is different from the terms and conditions that the city imposes on city customers, except that the city may continue to impose higher water rates on outside customers and other outside customers, consistent with <em>Hansen v. City of San Buenaventura (1986)</em> 42 Cal.3d 1172.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Applicants for water service from other outside customer applicants must comply with all standards applicable to outside customers set forth in this chapter and in the discretion of the city, applicants may be required to enter into a revenue sharing agreement.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2019-09 § 1, 2019</annotation>
+        <annotation type="History">Ord. 2008-08 §§ 2, 4, 2008</annotation>
+        <annotation type="History">Ord. 2000-04 § 1, 2000</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.10.030</num>
+      <heading>Exemptions.</heading>
+      <text>Notwithstanding the provisions of <cite path="|13.10.020">Section 13.10.020</cite> of this chapter, city may provide water and sewer connections and services to developments outside of city limits, but within the urban limit line area or the water service area of city when it is established that there is a vested right to such connections or services under agreement or as otherwise provided by state law. Interested parties claiming a vested or other legal right to water or sewer connections or service which predated the adoption of the ordinance codified in this chapter may advance such a claim and appeal to the city council pursuant to Chapter 2.04 of this code. (Ord. 2000-04 § 1, 2000)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.10.040</num>
+      <heading>General requirements and limitations on will-serve letters issued to developments outside city's corporate limits.</heading>
+      <text>Unless otherwise agreed to in writing by the city council, any development outside the city's corporate boundaries must agree to the following conditions, in order to receive city water and/or sewer services:</text>
+      <para>
+        <num>A.</num>
+        <text>The applicant must clearly define the project being proposed, including the estimated water or sewage services required;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The applicant must agree to abide by the rules and regulations of the city, including the payment of any and all fees and charges, unless otherwise specified in writing;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The applicant must agree to waive any protest to the city's forty percent surcharge on outside city water customers, established to offset the tax and other revenue loss to the city by not annexing into the city;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The applicant must agree to grant any required utility or access easements that may be reasonably required by the city;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The applicant must agree to pay a nonrefundable deposit of five percent of the engineer's estimated costs of all required on- and off site public water and/or sewer facilities, in order to cover plan check and inspection charges;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>In the event the applicant's estimated or actual water consumption exceeds the city's per acre water limit, currently at six hundred fifty gallons of water per day per acre, then the applicant must agree to any one or a combination of the following conditions:</text>
+        <para>
+          <num>1.</num>
+          <text>Reduce or redesign the project to reduce overall water consumption to a point at or below the city's limit, including but not limited to, a more aggressive water conservation program, or the use of recycled water whenever possible,</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Integrate additional land into the project, which is also within the city's water service area, in such a manner that the overall consumption for the entire area is at or below the city's limit, or</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Agree to advance the costs to enhance the city's water supply, treatment and/or delivery system in order to compensate for the extra water demand. Any costs in excess of the project's fair share will be credited against the project's connection fees or be reimbursed to the applicant, as future development occurs;</text>
+        </para>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The applicant shall connect to city's wastewater collection and treatment system, if the applicant's project is within the city's sewer service area, unless the city council finds it creates an undue hardship on applicant;</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>To the extent practical, the applicant must agree to utilize recycled water in its business operations or for landscaping and irrigation purposes, if and when it becomes available to applicant;</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The city may impose any other requirements that are appropriate to the specific development being proposed, such as, but not limited to, participation in a benefit assessment district;</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>No will-serve letter shall be valid for a period greater than two years, unless specified in the letter itself;</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>Any changes to the project description may void the letter, at the sole discretion of the city council; and</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>In granting a will-serve letter, city makes no determination as to land use entitlements required for the proposed project, and the issuance shall not be construed to be an expression of city's position regarding the use or intensity of use of the development property.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>Notwithstanding the foregoing, consistent with the City-County Agreement, the city will provide water service to all outside customers and other outside customers upon request under all of the same terms and conditions under which the city provides water service to city customers, and the city will not impose any term or condition on any water service to any outside customer and other outside customers that is different from the terms and conditions that the city imposes on city customers, except that the city may continue to impose higher water rates on outside customers and other outside customers consistent with Hansen v. City of San Buenaventura (1986) 42 Cal.3d 1172.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2008-08 § 5, 2008</annotation>
+        <annotation type="History">Ord. 2000-04 § 1, 2000</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.10.050</num>
+      <heading>Declaring outdated will-serve letters to be null and void.</heading>
+      <text>Any will-serve letter issued two years prior to the effective date of the ordinance codified in this chapter, and for which no building permit has been issued, shall be considered null and void, and shall have no effect whatsoever on city. Furthermore, the will-serve letter will be void if the use for which it was intended has changed substantially, as determined by city council.</text>
+      <annotations>
+        <annotation type="History">Ord. 2000-04 § 1, 2000</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.14</num>
+    <heading>WATER CONSERVATION PLAN</heading>
+    <section>
+      <num>13.14.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be known as the "Water Conservation Plan" of the city of American Canyon and may be so cited. This chapter serves as the city's water shortage contingency plan.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.020</num>
+      <heading>Purpose and intent.</heading>
+      <text>The purpose of this chapter is to have a plan for water conservation resulting from a reduced supply of water such as may result from drought, water supply shortages, or limitations of water delivery conditions.</text>
+      <text>Nothing in this chapter will preclude the city council from passing an emergency resolution for the immediate curtailment of water use by its customers due to water supply shortages and delivery limitations caused by catastrophic events and conditions, either natural or unnatural.</text>
+      <text>In the event any provision of this chapter conflicts or overlaps with any mandatory state regulation related to water conservation, the most stringent shall apply.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.030</num>
+      <heading>Definitions.</heading>
+      <text>The terms used in this chapter shall have the following meanings:</text>
+      <text>"City" means the city of American Canyon acting by and through the city of American Canyon public works department as operator of the city of American Canyon water and recycled water systems.</text>
+      <text>"Customer" means any person, firm, partnership, association, corporation, company, organization, property, or governmental entity, whether within or outside the geographic boundaries of the city of American Canyon, who uses water supplied by the city.</text>
+      <text>"Essential water use" means water necessary for human consumption, sanitation, and fire protection. All other uses of water that are not specifically required to meet these needs shall be considered non-essential.</text>
+      <text>"GPD" means gallons per day.</text>
+      <text>"Low-flow toilet" means a toilet that uses no more than 1.6 gallons of water per flush or less.</text>
+      <text>"Manager" is the city manager of the city of American Canyon.</text>
+      <text>"Nonresidential uses" means all other uses not classified as residential pursuant to <cite path="|19.05.040">Section 19.05.040</cite>.</text>
+      <text>"Ornamental" or "decorative" means a water feature where artificially supplied open water performs solely an aesthetic function. Ornamental (or decorative) water features do not include recreational water features, such as swimming pools and spas.</text>
+      <text>"Maintenance and utilities director" is the public works department head of the city of American Canyon.</text>
+      <text>"Recycled water" means water treated in accordance with Title 22, Section 60301 et seq., of the California Code of Regulations and suitable for reuse under the circumstances outlined.</text>
+      <text>"Residential uses" means all those uses classified as residential pursuant to <cite path="|19.05.040">Section 19.05.040</cite>.</text>
+      <text>"Turf" means a species of grass that was developed to be used as a lawn together with the surface layer of earth held together by its roots.</text>
+      <text>"Water" means potable water.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.040</num>
+      <heading>Authorization.</heading>
+      <text>The manager or designee is authorized and directed to implement the applicable provisions of this chapter upon adoption of a city council resolution determining that such implementation is necessary to protect the public health, safety and welfare.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.050</num>
+      <heading>Application.</heading>
+      <text>The provisions of this chapter shall apply to all persons, customers and properties served by the city, including expressly those outside the geographic boundaries of the city of American Canyon.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.060</num>
+      <heading>Water waste prohibitions.</heading>
+      <text>The following uses of water are defined as "waste of water" and are absolutely prohibited:</text>
+      <para>
+        <num>A.</num>
+        <text>Failing to repair a leak and/or otherwise permit the escape of water through breaks or leaks within the customer's plumbing or private distribution system for any substantial period of time within which such break or leak should reasonably have been discovered and corrected. It shall be presumed that a period of seventy-two hours after the customer discovers such a break or leak or receives notice from the city, is a reasonable time within which to correct such a break or leak or, at a minimum, to stop the flow of water from such break or leak.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Use water to irrigate grass, lawns, groundcover, shrubbery, crops, trees, or other vegetation or in such a manner as to result in runoff to any gutter, ditch, drain or impermeable surface. Every customer is deemed to have his or her water system under control at all times, to know the manner and extent of his or her water use and any run-off, and to employ available alternatives to apply irrigation water in an efficient manner.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Washing cars, boats, trailers or other vehicles and machinery directly with a hose not equipped with a shutoff nozzle.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Water for non-recycling decorative water fountains.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Water for single-pass evaporative cooling systems for air conditioning in all connections installed after the effective date of the ordinance codified in this chapter, unless required for health or safety reasons.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Water for non-recirculating conveyor car wash systems, industrial clothes wash systems, and/or other commercial purposes for which recirculated or recycled water can safely and effectively serve the same purpose.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Water for the irrigation of turf for nonresidential uses.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Water for the flushing of toilets for nonresidential uses with the exception of water for flushing low-flow toilets and/or as provided by <cite path="|13.14.110">Section 13.14.110</cite>.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The use of water for earth compaction, dust control, or other construction use, including the testing of new sewer lines unless the water is obtained from a source expressly approved by the maintenance and utilities director; provided, however, notwithstanding the foregoing, that water may be used for purposes of testing new water service lines.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>Withdrawal of water from fire hydrants within the service area of the city, except for purposes of fire-fighting, water system maintenance, and other uses as permitted by the city.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>All restaurants, hotels, cafés, cafeterias, bars, or other public places where food or drink are served and/or purchased are to serve water to customers only when specifically requested by the customer.</text>
+      </para>
+      <para>
+        <num>L.</num>
+        <text>All hotels and motels shall provide guests with the option of choosing not to have towels and linens laundered daily. The hotel or motel shall prominently display notice of this option in each guestroom using clear and easily understood language.</text>
+      </para>
+      <para>
+        <num>M.</num>
+        <text>The irrigation with water of landscapes outside of newly constructed homes and buildings in a manner inconsistent with Chapter 16.14.</text>
+      </para>
+      <para>
+        <num>N.</num>
+        <text>Use of water that is inconsistent with state or federal regulations.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.065</num>
+      <heading>Recycled water service required.</heading>
+      <text>Following a public hearing, the city's nonresidential water customers whose properties may be served by recycled water shall connect their property to recycled water for those uses for which the use of potable domestic water would be deemed a waste or unreasonable use of water as specified in Division 7, Chapter 7, of the California Water Code (Section 13550 et seq.). Recycled water customers shall pay for recycled water at the rate established by the city council.</text>
+      <text>Upon written notification from the city, new development shall construct the infrastructure to accept recycled water from the city. New development shall pay any applicable recycled water connection fees at the rate established by the city council.</text>
+      <text>Upon written notification from the city, new development abutting on any street in which there is now or may in the future be located a public recycled water line, is required to connect the property directly to the recycled water line, provided that the public recycled water line is within two hundred feet of the nearest point of the property. The expense to extend the public recycled water line and associated appurtenances to and across the street frontage is the sole responsibility of the developer.</text>
+      <text>Upon written notification from the city, new development abutting on any street in which there may be located a public recycled water line in the future is required to construct the recycled water line and associated appurtenances along the street frontage at the developer's sole expense, including the new development's connection thereto.</text>
+      <text>Failure of a water customer to accept service of recycled water when it is made available, where use of potable water would otherwise be deemed a waste or unreasonable use of water, may be grounds for termination of the customer's potable water service.</text>
+      <text>Failure of a recycled water customer to comply with the city's conditions for recycled water use shall be deemed a violation and shall be subject to enforcement as outlined in <cite path="|13.14.120">Section 13.14.120</cite>.</text>
+      <text>Water customers may appeal the city's determination that recycled water of suitable quality is available as outlined in <cite path="|13.14.110">Section 13.14.110</cite>. (Ord. 2022-06 § 1, 2022)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.14.070</num>
+      <heading>Water conservation stages.</heading>
+      <text>The intent of this section is to provide for the escalation of customer demand management strategies that may be necessary due to an emergency caused by drought and/or water supply shortages. There are six stages of strategies, each of which builds upon its predecessor stage and are to be implemented as the severity of conditions increase. Stage 6 can be implemented at any time due to catastrophic events and conditions, either natural or unnatural, including flooding, major fire emergencies, earthquakes, regional power outages, water contamination, and emergencies other than water shortage. No customer of the city shall make, cause, use, or permit the use of water from the city for residential, commercial, industrial, agricultural, governmental, or any other purpose in a manner contrary to any provision of this chapter, or in an amount in excess of what is permitted in accordance with the provisions of this chapter. The reductions shall be based upon the amount of water used during that base period defined as the amount of water used on a customer's property during the corresponding monthly billing period in the previous year, or other year as may be designated by the city council. New services or services without a base year billing history shall be allotted on comparable customer usage.</text>
+      <para>
+        <num>A.</num>
+        <text>Stage 1—Voluntary Conservation. The intent of Stage 1 is to achieve an overall system-wide demand reduction of ten percent. The city council may, by resolution, declare a "Drought Emergency Stage 1 (Voluntary Conservation)" upon recommendation by the manager and based on water supply and delivery projections by the maintenance and utilities director, that an overall system-wide reduction of ten percent is necessary. During Stage 1, all water customers of the city shall be requested to implement the following best practices:</text>
+        <para>
+          <num>1.</num>
+          <text>Apply irrigation water only during the evening and early morning hours to reduce evaporation losses.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Utilize water conservation incentive, rebate and giveaway programs to replace water guzzling plumbing fixtures and appliances with water efficient models.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Utilize city information regarding using water efficiently, reading water meters, repairing ordinary leaks, and water efficient landscape.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Wash automobiles, trucks, trailers, boats, airplanes, and other types of mobile equipment during the evening and early morning hours to reduce evaporation losses. Such washing shall be done with a hand-held bucket, or hand-held hose equipped with a positive shutoff nozzle used for quick rinses.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Reduce monthly demand by ten percent when compared to the same time period in the established base year.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Stage 2—Mandatory Compliance—Water Alert. The intent of Stage 2 is to achieve an overall system-wide demand reduction of twenty percent. The city council may, by resolution, declare a "Drought Emergency Stage 2 (Mandatory Compliance—Water Alert)" upon recommendation by the manager and based on water supply and delivery projections by the maintenance and utilities director, that an overall system-wide reduction of twenty percent is necessary. In addition to the mandatory twenty percent reduction for each water customer, and in addition to the requirements in Stage 1, the following activities shall be prohibited:</text>
+        <para>
+          <num>1.</num>
+          <text>Gardening and landscape irrigation utilizing individual sprinklers or sprinkler systems on lawns, gardens, landscaped areas, trees, shrubs, or other plants except as expressly provided for by resolution of the city council.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The washing of automobiles, trucks, trailers, boats, airplanes, and other types of mobile equipment except as expressly allowed by the adoption of a resolution by city council.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The washing of sidewalks, driveways, parking areas, tennis courts, patios, or other paved areas except as expressly allowed by the adoption of a resolution by city council.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The irrigation of turf on street medians with water.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The use of water to fill a new or existing swimming pool, spa, pond, or similar recreational basin of water.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>The operation of any ornamental fountain or other structure making similar or otherwise ornamental use of water outside.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Stage 3—Mandatory Compliance—Water Emergency. The intent of Stage 3 is to achieve an overall system-wide demand reduction of thirty percent. The city council may, by resolution, declare a "Drought Emergency Stage 3 (Mandatory Compliance—Water Emergency)" upon recommendation by the manager and based on water supply and delivery projections by the maintenance and utilities director, that an overall system-wide demand reduction of thirty percent is necessary. In addition to a mandatory reduction of thirty percent for each water customer, and in addition to the requirements in Stages 1 and 2, the following activities shall be prohibited:</text>
+        <para>
+          <num>1.</num>
+          <text>Planting any new landscaping, except for native, drought-tolerant species as defined by Chapter 16.22.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Stage 4—Mandatory Compliance—Critical Water Emergency. The intent of Stage 4 is to achieve an overall system-wide demand reduction of forty percent. The city council may, by resolution, declare a "Drought Emergency Stage 4 (Mandatory Compliance—Critical Water Emergency)" upon recommendation by the manager and based on water supply and delivery projections by the maintenance and utilities director, that an overall system-wide demand reduction of forty percent is necessary. In addition to the mandatory conservation goals for each water customer, and in addition to the requirements in Stages 1, 2, and 3, the following activities shall be prohibited:</text>
+        <para>
+          <num>1.</num>
+          <text>Residential development unless the developer has submitted a complete building permit application to the city prior to the Stage 4 declaration. Building permit applications may proceed with a deferral of landscape installation, until the water shortage level has been lifted.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Linen/towel exchanges more frequently than once every three nights or for the entire stay, whichever is shorter, except for health and safety.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Stage 5—Mandatory Compliance—Severe Water Emergency. The intent of Stage 5 is to achieve an overall system-wide demand reduction of fifty percent. The city council may, by resolution, declare a "Drought Emergency Stage 5 (Mandatory Compliance—Severe Water Emergency)" upon recommendation by the manager and based on water supply and delivery projections by the maintenance and utilities director, that an overall system-wide demand reduction of fifty percent is necessary. During Stage 5, mandatory water rationing will occur on a property by property basis. Regardless of water consumption in the prior or other base year, the city council may set water allocation amounts based on minimum health and safety standards. In addition to the mandatory conservation goals for each water customer, and in addition to the requirements in Stages 1, 2, 3 and 4, the following activities shall be prohibited:</text>
+        <para>
+          <num>1.</num>
+          <text>The use of water outside of a home or business except as expressly provided for by resolution of the city council.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Use of water in excess of the allocation to a property.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Stage 6—Mandatory Compliance—Catastrophic Interruption of Water Supplies. The intent of Stage 6 is to achieve an overall system-wide demand reduction of greater than fifty percent. The city council may, by resolution, declare a "Drought Emergency Stage 6 (Mandatory Compliance—Catastrophic Interruption of Water Supplies)" upon recommendation by the manager and based on water supply and delivery projections by the maintenance and utilities director, that an overall system-wide demand reduction of greater than fifty percent is necessary. In addition to the mandatory conservation goals for each water customer, and in addition to the requirements in Stages 1, 2, 3, 4, and 5, the following activities shall be prohibited:</text>
+        <para>
+          <num>1.</num>
+          <text>Non-Essential Water Use. Water use is restricted to essential water uses only.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.080</num>
+      <heading>Mandatory conservation phase implementation.</heading>
+      <text>After the city council, by resolution, declares a Stage 1, 2, 3, 4, 5 or 6 Drought Emergency, the manager shall order that the appropriate stage of water conservation be implemented in accordance with the applicable provisions of this chapter. Said order shall be made by public announcement; shall be published a minimum of one time in a daily newspaper of general circulation. The city council shall receive a report at least monthly, noticed on a city council agenda, regarding the city's water supply situation as long as the drought conditions remain in effect.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.090</num>
+      <heading>Duration of conservation stages.</heading>
+      <text>Mandatory stages shall be effective upon the effective date of the ordinance codified in this chapter and may be implemented as authorized by city council resolution. Current conservation stages as authorized by city council will be modified at such time that conditions indicate a more or less restrictive stage is necessary.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.100</num>
+      <heading>Drought surcharge.</heading>
+      <text>Customers will receive prior notification of the standard allotment basis, applicable rates, and the opportunity to request exceptions to the standard allotment basis.</text>
+      <text>Water use beyond the maximum allowed for each water conservation stage shall be subject to a drought surcharge pursuant to the schedule set forth below. The customer of record may request an increase in this basic allotment as set forth in <cite path="|13.14.110">Section 13.14.110</cite> hereof. Application forms and instructions will be available at the American Canyon City Hall.</text>
+      <text>In addition to the general water service rates, each customer shall pay, during each billing period, a drought surcharge for water delivered in excess of the basic allotment. The surcharge is as follows:</text>
+      <para>
+        <num>A.</num>
+        <text>Up to 10% in excess of allotment = 1.0 times the applicable volume charge.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>10.01% to 20% in excess of allotment = 2.0 times the applicable volume charge.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Over 20% in excess of allotment = 3.0 times the applicable volume charge.</text>
+        <text>Customers whose water usage falls in Tier 1 of the rate schedule are assumed to have maximized their conservation effort and will not be subject to a drought surcharge if their water consumption is not further reduced.</text>
+        <text>In addition to the drought surcharge, if drought usage exceeds the allowed allotment, a warning will be issued and enforcement actions may be taken as described in <cite path="|13.14.120">Section 13.14.120</cite>. (Ord. 2022-06 § 1, 2022)</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.14.110</num>
+      <heading>Exceptions and application procedures for exceptions.</heading>
+      <text>All water use associated with the operation and maintenance of fire suppression equipment or employed by the city for water quality flushing and sanitation purposes shall be exempt from the provisions of this chapter. Use of water supplied by a private well or from a rain water utilization system is also exempt.</text>
+      <text>Any customer of the city may make written application for an exception to uses and activities prohibited by this chapter. Said application shall describe in detail why applicant believes an exception is justified.</text>
+      <para>
+        <num>A.</num>
+        <text>The manager may grant exceptions for use of water otherwise prohibited or required by this section upon finding and determining that failure to do so would cause an emergency condition affecting the health, sanitation, fire protection, or safety of the applicant or public or cause an unnecessary and undue hardship on applicant or the public, including, but not limited to, adverse economic impacts, such as loss of production or jobs.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In the event of an appeal of a drought surcharge, customers who can clearly demonstrate that they have taken steps to reduce their water consumption (by installing water-efficient appliances, drip irrigation, drought-tolerant landscaping, etc.) shall be considered favorably in granting waivers.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>No increase in the basic water allotment shall be granted unless the customer has installed all water-saving devices which are feasible. Water-saving devices include: (1) ultra-low flush toilets utilizing 1.6 gallons per flush or less; (2) low-flow shower heads; (3) low-flow faucet restrictors utilizing two gallons per minute or less; and (4) drip irrigation systems.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The decision of the manager may be appealed to the city council by submitting a written appeal to the city clerk within fifteen calendar days of the date of the decision. Upon granting any appeal, the city council may impose any conditions it determines to be just and proper. Exceptions granted by the city council shall be prepared in writing and the city council may require the exception be recorded at applicant's expense.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.120</num>
+      <heading>Violation—Enforcement.</heading>
+      <text>The violation of each provision of this chapter, and each separate violation thereof, shall be deemed a separate offense, and shall be enforced accordingly.</text>
+      <para>
+        <num>A.</num>
+        <text>Any customer that violates any provision of this chapter shall, in addition to the imposition of the drought surcharge rates of <cite path="|13.14.100">Section 13.14.100</cite> hereof, receive a personal contact by the city at the address of the water service. If personal contact is unsuccessful, written notice of the violation, including a date that the violation is to be corrected, may be left on the premises, with a copy of the notice sent by certified mail to the customer.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If after issuance of the written warning, the manager determines that the customer has continued or is continuing to violate the provisions of this chapter, the manager may authorize and implement installation of a flow restricting device on the service line or reduce the amount of water available to the customer. Any costs incurred by the city to authorize and implement the flow restricting device or reduce the amount of water available to the customer shall be borne by the customer. The flow restricting device shall be removed and the prior water supply amount resumed no sooner than sixty days after the date of the installation of the flow restricting device or a reduction in water available, provided that no further violations have occurred within that time.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If after implementation of a flow restricting device or reduction of water available to a customer, the customer continues to violate the provisions of the chapter, the city may disconnect the service to the customer for a period of three days. All costs or expenses incurred by the city for enforcement of this section shall be borne by the customer.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The unauthorized use of water following a disconnection of service pursuant to subsection C above, or any other unauthorized use of water from a fire hydrant or other use bypassing an installed meter, shall be subject to an automatic fine of two thousand five hundred dollars for the first offense and five thousand dollars for the second offense.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.14.130</num>
+      <heading>Violation—Penalties.</heading>
+      <text>In addition to all other remedies provided herein, any person who violates any provision of this chapter after having received a written notice to refrain as provided in <cite path="|13.14.120">Section 13.14.120</cite>, is guilty of an infraction. The violation of each provision of this chapter and each separate violation thereof shall be deemed a separate offense and shall be punishable pursuant to Chapter 1.24. (Ord. 2022-06 § 1, 2022)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>13.14.140</num>
+      <heading>Violation—Additional remedy.</heading>
+      <text>As an additional remedy, the violation of any provision of this chapter by any person who has received more than one written warning pursuant to <cite path="|13.14.120">Section 13.14.120</cite> to refrain from the same or any other violation under this chapter in one calendar year shall be deemed, and is declared to be, a public nuisance and may be subject to abatement in accordance with Chapter 8.04 of the city of American Canyon Municipal Code. (Ord. 2022-06 § 1, 2022)</text>
+      <annotations/>
+    </section>
+  </container>
+</container>

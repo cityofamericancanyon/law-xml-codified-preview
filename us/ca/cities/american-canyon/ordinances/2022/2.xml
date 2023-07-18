@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., 2022-02">
+  <num>2022-02</num>
+  <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON, CALIFORNIA, AMENDING THE AMERICAN CANYON MUNICIPAL CODE CHAPTER 19.04 DEFINITIONS; CHAPTER 19.05 COMMERCIAL CLASSIFICATIONS; CHAPTER 19.11 COMMERCIAL ZONING DISTRICT; CHAPTER 19.49 NONCONFORMING USES, STRUCTURE, AND LOTS; AND BROADWAY DISTRICT SPECIFIC PLAN TABLE 2-3 PERMITTED USES TO PROHIBIT NEW AND EXPANDED SERVICE STATIONS IN ALL ZONING DISTRICTS IN THE CITY OF AMERICAN CANYON THAT ENGAGE IN RETAIL SALE OF MOTOR VEHICLE FOSSIL FUELS (PL21-0028)</heading>
+  <meta>
+    <effective>2022-02-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2022-02.pdf" proof="needed">Ord. No. 2022-02</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2022-02</citation>
+    </citations>
+    <history>
+      <introduced>2022-01-18</introduced>
+      <adopted>2022-02-01</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Article XI, Section 7 of the California Constitution authorizes cities to adopt local police, sanitary, and other ordinances not in conflict with general laws; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Climate change represents a growing danger to human health, safety, economic prosperity, basic services, and natural resources. The State of California as a whole, and Napa County residents, the economy, and environment have experienced adverse effects associated with climate change, such as a prolonged wildfire seasons and firestorms, rising temperatures, mudslides, severe droughts, property destruction and damage to infrastructure; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>American Canyon has a long history of supporting policies to protect the environment. In 2013, American Canyon's Energy Efficiency Climate Action Plan (EECAP) was the first Climate Action Plan adopted in Napa County; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on June 18, 2019, the City Council approved a Countywide Commitment to Address Climate Change Proclamation declaring the City's support of local actions to address climate change including joining the Napa Countywide Climate Action Committee (CAC); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on April 6, 2021, due to concerns of greenhouse gas emissions as well as market saturation and Broadway District Specific Plan (BDSP) community character, the City Council adopted Urgency Ordinance 2021-03 to impose an immediate 10-Month, 15-day moratorium on processing discretionary entitlements to establish, use, and operate new fuel stations within the City of American Canyon; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>according to the California Air Resources Board (CARB), transportation accounts for about 40% of the state's greenhouse gas (GHG) pollution in the State which places transportation as the leading source of GHG pollution in California; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as of 2017, the CARB reports that passenger vehicles represent the largest single source of transportation GHG emissions in California; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>according to the California Department of Transportation (Caltrans), widespread use of Zero Emission Vehicles (ZEVs) will improve California's air quality and help meet California's GHG reductions targets; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a ZEV is defined as plug-in hybrid electric, full battery electric, hydrogen, and fuel cell vehicles because they have no greenhouse gas or air pollutant tailpipe emissions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>according to Caltrans, ZEVs are typically cheaper to fuel than gasoline-powered vehicles, and there are an increasing number of models to choose from, including longer-range Battery Electric Vehicles (BEVs), All-wheel-drive vehicles, SUVs, and mini-vans; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in September 2020, as part of an effort to address the impacts of climate change caused by transportation-related greenhouse gas emissions, Governor Newsom issued Executive Order N-79-20 to require all in-state sales of new passenger vehicles be ZEV by 2035; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Governor's Executive Order sets a further State goal that 100 percent of medium- and heavy-duty (MD/HD) vehicles be zero-emission by 2045 for all operations where feasible, and by 2035 for drayage trucks, and transition to 100 percent zero-emission off-road vehicles and equipment by 2035 where feasible; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City is an active member of the Napa County Climate Action Committee and this Committee is contemplating policy amendments to reduce greenhouse gas emissions in Napa County; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>there are three existing fuel stations in American Canyon and one approved fuel station in American Canyon and the existing and proposed fuel stations do not include any Zero Emission Vehicle (ZEV) fueling infrastructure; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to Section 65300 of the State Planning and Zoning Law, the City of American Canyon (City) has adopted a General Plan to provide comprehensive long-range planning and a blueprint of the City's future form, including land use and circulation maps that specify the roadway network and the distribution of types and intensities of land; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on July 22, 2021, the Planning Commission recommended City Council approval of a General Plan Amendment to incorporate climate change, adaptation, and greenhouse gas reduction policies into the Land Use Element (Resolution 2021-16); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on September 7, 2021, the City Council approved climate change, adaptation, and greenhouse gas reduction policies into the General Plan (Resolution 2021-60); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on November 16, 2021, the City Council issued a Climate change Emergency Proclamation that acknowledges climate change caused by human activity represents a growing danger to human health, safety, and economic prosperity, and the window of opportunity for long term climate preservation is rapidly closing and commits to a goal of net zero climate pollution, measured in terms of net contribution to excess trapped heat, by or before 2030 by implementing immediate and sustained actions in support of its achievement; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to the California Environmental Quality Act (CEQA), (Public Resources Code Section 21000, et seq.), the proposed Zoning Code and Specific Plan Amendment is categorically exempt from environmental review in accordance with CEQA Guidelines Section 15307 Actions by Regulatory Agencies for Protection of Natural Resources, and CEQA Guidelines Section 15308 Actions by Regulatory Agencies for Protection of the Environment. CEQA Guidelines Section 15307 and 15308 are applicable because the proposed Zoning Code and Specific Plan amendments are intended to address climate change impacts that pose an immediate and growing threat to California's economy, environment, and public health; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a duly-noticed public hearing was held by the City of American Canyon Planning Commission on October 28, 2021 and December 16, 2021 on the subject project, and recommends City Council approval; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a duly-noticed public hearing was held by the City of American Canyon City Council on January 18, 2022 on the subject project, at which time all those in attendance were given the opportunity to speak on this proposal and to submit comments.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>BE IT ORDAINED that the City Council of the City of American Canyon, having considered all the evidence, including any submitted by member of the public, hereby approves Zoning Code Amendments as shown below.</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>FINDINGS.  Based on the following evidence and as required by Zoning Ordinance Section 19.48.040 C, the City Council finds that:</text>
+    <para>
+      <num>a.</num>
+      <text>The amendment is consistent with the goals and policies of the general plan.</text>
+      <text><em>General Plan Opportunities and Constraints #15 states that</em> c<em>limate change impacts pose an immediate and growing threat to California's economy, environment, and public health. The effects of climate change in American Canyon include increased temperatures, decreased air quality, reduced precipitation, flooding, a prolonged wildfire seasons and firestorms, mudslides, severe droughts, reduced water supply, property destruction, and damage to infrastructure.</em></text>
+      <text>
+        <em>To address these constraints, the proposed ordinance will fulfill related General Plan Policy 1.37.2 which states: "Recognizing that the transportation sector is the largest source of GHG emissions in American Canyon and in California more broadly, prohibit construction of new fossil-fuel stations in American Canyon."   The proposed Ordinance would achieve Policy 1.37.2 by prohibiting new fossil fuel stations in American Canyon.  The proposed ordinance includes reasonable measures to address nonconforming gas stations and unforeseen "Force Majeure" events that cause a gap in gas station operations.</em>
+      </text>
+    </para>
+    <para>
+      <num>b.</num>
+      <text>The amendment is consistent with the purposes of this title, as set forth in Chapter 19.01, Authority, Purposes and Effects of the Zoning Ordinance.</text>
+      <text>
+        <em>The amendment is consistent with the purpose of the Zoning Ordinance to protect and promote the public health, safety, peace, comfort, convenience, aesthetics, prosperity, and general welfare consistent with the City Council Climate Change Emergency Proclamation that acknowledges climate change caused by human activity represents a growing danger to human health, safety, and economic prosperity, and commits to a goal of net zero climate pollution, measured in terms of net contribution to excess trapped heat, by or before 2030 by implementing immediate and sustained actions in support of its achievement.</em>
+      </text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Zoning Code Amendments.</text>
+    <text>The following policies are hereby incorporated into the American Canyon Chapter 19 ("Zoning Code"):</text>
+    <text>
+      <strong>
+        <em>Chapter 19.04 – Definitions</em>
+      </strong>
+    </text>
+    <text>
+      <strong>Section 19.04.030 – Citywide Definitions</strong>
+    </text>
+    <text><strong>*Note to Codifier: Add this new definition</strong>.</text>
+    <text>Force Majeure Event. A Force Majeure Event is an extraordinary event or circumstance beyond the control of one or more parties that impacts their ability to perform. This definition of Force Majeure Event shall be limited to situations resulting in a declaration of a state or local emergency that was caused by acts of God or the elements, storms, wildfires, earthquakes, pandemics, wars, acts of terrorism, riots, or insurrection that significantly impact a party.</text>
+    <text><strong>*Note to Codifier: Add this new definition</strong>.</text>
+    <text>"Zero-Emission Vehicle. A zero-emission vehicle is any type of vehicle that has no tailpipe emissions. Vehicles run on electric motors and are powered by electricity delivered from batteries or hydrogen and fuel cells. In contrast to conventional internal combustion vehicles, zero emission vehicles prevent air pollution, lower greenhouse gas emissions, and help integrate renewable energy into the transportation sector. There are two kinds of zero emission vehicles: plug-in electric vehicles and hydrogen fuel cell electric vehicles."</text>
+    <text>
+      <strong>Chapter 19.05 – Use Classifications</strong>
+    </text>
+    <text>The Zoning Code Use Classification chapter defines every use that is Permitted, Conditionally-Permitted, or Prohibited in the City.  Service Stations are only permitted in Commercial Zoning Districts and the Broadway District Specific Plan.</text>
+    <text>
+      <strong>Section 19.05.050 – Commercial Classifications</strong>
+    </text>
+    <text>
+      <strong>*Note to Codifier: Delete this definition.</strong>
+    </text>
+    <text><strong>Gas stations and automobile service facilities</strong>: an establishment engaged primarily in the retail sale of motor fuels and incidentally in the supplying of goods and services required in the operation and maintenance of motor vehicles. This classification includes incidental maintenance and repair of automobiles and light trucks. Should be discouraged at major intersections.</text>
+    <text>
+      <strong>*Note to Codifier: Add this new definition.</strong>
+    </text>
+    <text><strong>Fossil Fuel Service Station</strong>: an establishment engaged primarily in the retail of motor vehicle fossil fuels sales and incidentally in the supplying of goods and services required in the operation to operate and maintain maintenance of motor vehicles. This classification includes incidental of automobiles and light trucks repair and maintenance, but excludes body and fender work or repair of heavy trucks or vehicles, upholstery work, auto glass work, painting, tire recapping, auto dismantling, auto storage, and the sale of groceries, dairy products, liquor, garden supplies and similar items.</text>
+    <text>
+      <strong>*Note to Codifier: Add this new definition.</strong>
+    </text>
+    <text><strong>Zero Emission Vehicle Service Station</strong>: an establishment engaged primarily in retail electric vehicle fuel sales and incidental goods and services required to operate and maintain zero emission motor vehicles. This classification includes incidental maintenance and repair of automobiles and light trucks, but excludes body and fender work or repair of heavy trucks or vehicles, upholstery work, auto glass work, painting, tire recapping, auto dismantling, auto storage, and the sale of groceries, dairy products, liquor, garden supplies and similar items.</text>
+    <text>This classification does not include electric vehicle charging stations installed as an accessory use (see "Accessory Use" Definition Section 19.04.030).</text>
+    <text>
+      <strong>Chapter 19.11 – Commercial Districts</strong>
+    </text>
+    <text>The Zoning Code Commercial District chapter identifies the development standards and allowable uses in Commercial Zoning districts throughout the city.</text>
+    <text>
+      <strong>Section 19.11.040 – Permitted Uses in Commercial Zoning Districts</strong>
+    </text>
+    <text>
+      <strong>*Note to Codifier: Amend Table 1 to with the following changes:</strong>
+    </text>
+    <para>
+      <num>1.</num>
+      <text>Delete Gas Stations and automobile service facilities because this use is redundant with service station.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Change Service Station from Conditionally Permitted to Prohibited in the Neighborhood Commercial and Community Commercial zoning districts.</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Add Zero Emission Service Station as a Conditionally Permitted use in the Neighborhood Commercial and Community Commercial zoning districts.</text>
+    </para>
+    <text>
+      <strong>Chapter 19.49 – Nonconforming Uses, Structure, and Lots</strong>
+    </text>
+    <text>
+      <strong>*Note to Codifier: Add this new Section 19.49.090.</strong>
+    </text>
+    <text>
+      <strong>19.49.090 - Regulation of Fossil Fuel Service Station Uses and Structures</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Purpose.</text>
+      <para>
+        <num>1.</num>
+        <text>Accommodate continued Fossil Fuel Service Station operation as a legal non-conforming use and describe when they may be deemed abandoned.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Allow alterations to Fossil Fuel Service Station when such changes provide greater protection of the environment, safeguard public health and safety, facilitate the use of zero emission vehicles, or enable other uses permitted within the respective zoning district.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Prohibit Fossil Fuel Service Station operations from increasing the storage and dispensing capacity of gasoline and any other fossil fuel.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Applicability. This section applies to:</text>
+      <para>
+        <num>1.</num>
+        <text>All lawfully developed and operating Fossil Fuel Service Station uses in existence prior to March 3, 2022.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>All Fossil Fuel Service Station uses not yet developed and/or operating but subject to an approved and unexpired land use permit as of March 3, 2022.</text>
+      </para>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Modifications to Fossil Fuel Service Station Uses, Generally. Except as provided below, Fossil Fuel Service Station uses and structures shall not be enlarged, extended, reconstructed or moved to a different portion of the lot or parcel of land occupied by such use. Examples of features subject to this provision include, but are not limited to retail fossil fuel sale, storage, conveyance, and dispensing (i.e., storage tanks, pumps, dispensers).</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Modifications to Improve Public Health and Safety. Fossil Fuel Service Station uses may be modified to conform to current public health and safety standards (i.e.: stormwater quality control regulations or remediate contamination of the soil, groundwater, pedestrian and bicycle access safety, traffic control devices).</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Modifications to Enable Zero Emission Vehicles (Battery Charging Station). Fossil Fuel Service Station uses may be modified to accommodate battery charging station(s) for Zero Emission Vehicles.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Modifications to Enable Zero Emission Vehicles (Hydrogen Fuel Cell Station). Fossil Fuel Service Station uses may be altered to include hydrogen storage, conveyance and dispensing facilities.</text>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Discontinuation of Fossil Fuel Service Station Uses or Structures. A Fossil Fuel Service Station Use shall not be re-established if such use has been discontinued for a continuous period of one hundred and eighty (180) days or longer, unless either of the following exceptions apply:</text>
+      <para>
+        <num>1.</num>
+        <text>If the use has discontinued for one hundred and eighty (180) days or longer because the nonconforming Fossil Fuel Service Station is subject to construction with a valid building permit that has not received final inspection, the nonconforming timeframe will be extended in accordance with the building permit application completion.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the use has discontinued for of one hundred and eighty (180) days or longer due to a Force Majeure Event, the nonconforming timeframe may be extended in accordance with a timeframe that receives the approval of the City Community Development Director and the concurrence of the City Attorney. The determination of whether an event or circumstance is a "Force Majeure Event" is to be made at the discretion of the City.</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Broadway District Specific Plan amendments.</text>
+    <text>
+      <strong>*Note to Codifier: Amend Table 2-3 with the following changes:</strong>
+    </text>
+    <para>
+      <num>1.</num>
+      <text>Delete Gas Stations and automobile service facilities because this use is redundant with service station.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Add Zero Emission Service Station as a Conditionally Permitted use in the Business Park zoning district.</text>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Community Development Department.  The Community Development Director is directed to provide a written report to the City Council at least ten (10) days prior to the expiration of this ordinance, describing the study conducted of the local conditions that led to the adoption of this ordinance.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Effective Date.  This ordinance shall become effective immediately upon the date of its adoption pursuant to Government Code section 65858.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <text>Severability.  If any section, sentence, clause or phrase of this Ordinance is for any reason held to be invalid or unconstitutional by a decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this Ordinance.  The City Council hereby declares that it would have passed this Ordinance and adopted this Ordinance and each section, sentence, clause or phrase thereof, irrespective of the fact that one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <text>Compliance with California Environmental Quality Act.  Consistent with Public Resources Code Section 21000, et seq., the California Environmental Quality Act, ("CEQA"), the proposed Zoning Code and Specific Plan Amendments are categorically exempt from environmental review in accordance with CEQA Guidelines Section 15307 Actions by Regulatory Agencies for Protection of Natural Resources, and CEQA Guidelines Section 15308 Actions by Regulatory Agencies for Protection of the Environment. CEQA Guidelines Section 15307 and 15308 are applicable because the proposed amendments are intended to address Climate change impacts that pose an immediate and growing threat to California's economy, environment, safety, and public health.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <text>Custodian of Records. The documents and materials that constitute the record of proceedings on which this Ordinance is based are located at the City Clerk's office located at 4831 Broadway, Suite 201, American Canyon, CA 94503.  The custodian of these records is the City Clerk.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 18th day of January, 2022 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Joseph, Oro, Washington, Vice Mayor Aboudamous, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 1<sup>st</sup> day of February, 2022, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Joseph, Oro, Washington, Vice Mayor Aboudamous, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <heading>City of American Canyon Law Library</heading>
+  <meta>
+    <description/>
+    <contact>
+      <email>help@openlawlib.org</email>
+    </contact>
+    <canonical-urls>
+      <xml-bulk>https://github.com/cityofamericancanyon/law-xml</xml-bulk>
+      <html-bulk>https://github.com/cityofamericancanyon/law-html</html-bulk>
+      <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
+      <law-git>https://github.com/cityofamericancanyon/law.git</law-git>
+      <html/>
+    </canonical-urls>
+    <history-start>0001-01-01</history-start>
+    <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="cityofamericancanyon/law-xml" commit="a99a39f062e52f97e457855fc07023b1471b78b5"/>
+      </repositories>
+      <platform version="2.11.0" reproducible="false"/>
+      <build-date>2023-07-18</build-date>
+      <codified-date>2023-07-06</codified-date>
+    </build>
+  </meta>
+  <xi:include href="./us/ca/cities/american-canyon/code/index.xml"/>
+  <collection name="us/ca/cities/american-canyon/ordinances">
+    <heading>Ordinances</heading>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2023/index.xml"/>
+    <xi:include href="./us/ca/cities/american-canyon/ordinances/2022/index.xml"/>
+  </collection>
+</library>

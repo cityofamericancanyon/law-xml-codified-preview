@@ -1,0 +1,1336 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>15</num>
+  <heading>PUBLIC SERVICES—OTHER</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>15.04</num>
+    <heading>MOBILEHOME PARK RENT STABILIZATION PROGRAM*</heading>
+    <section>
+      <num>15.04.010</num>
+      <heading>Purpose and findings.</heading>
+      <para>
+        <num>A.</num>
+        <text>Residents of mobilehome parks, unlike apartment residents or residents of other rental properties, are in a unique position in that prior to occupation of a mobilehome space they are required to make substantial investments in a mobilehome residence and incur the expense of placing their mobilehome on the rented mobilehome site. In addition, the removal or relocation of a resident's mobilehome from a given space can be accomplished only at substantial costs, such relocation may cause extensive damage to the mobilehome, and many older mobilehomes cannot, in fact, be relocated to newer mobilehome parks due to permit, landscaping, site preparation requirements, and restrictions that many newer mobilehome parks impose on renters.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>There is presently within the city a shortage of mobilehome spaces on which there are not currently located mobilehomes and which are therefore available for occupancy. This shortage of empty spaces, which currently approximates one percent of all mobilehome spaces within the city, has resulted in an extreme shortage of decent, safe and sanitary mobilehome housing in the city.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Mobilehomes constitute an important source of housing for persons of low and moderate income. Because of the present shortage of empty mobilehome spaces, there is a low vacancy rate and rents are rapidly rising and have been for several years in mobilehome parks in the city, causing concern, anguish and stress to a substantial number of the mobilehome owners and residents of mobilehome parks within the city, many of whom are retired persons on fixed incomes, elderly persons on fixed incomes, or persons with relatively low incomes.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Alternative sites for the relocation of mobilehomes within the city and surrounding areas are difficult to find due to the shortage of vacant spaces, restrictions on the age, size or style of mobilehomes permitted in many parks, and requirements related to the installation of mobilehomes, including permits, landscaping and site preparation.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The result of the conditions identified above has been the creation of a captive audience of mobilehome owners. This in turn has contributed to the creation of a great imbalance in the bargaining positions of the park owners and mobilehome owners in favor of the park owners.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Mobilehome owners are property owners with sizable investments in their homes and appurtenances and would incur significant costs in the event of relocation.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The continuing possibility of unreasonable space rental increases in mobilehome parks within the city threatens to diminish the value of the investment of the mobilehome owner in his or her mobilehome and contributes to unreasonably suppressed resale rates. Therefore, it is desirable to provide vacancy control in the rent stabilization program.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Existing state law permits mobilehome park owners to require mobilehome owners to make modifications to their homes for reasons of aesthetics or conformity to park standards that amount to capital improvements which accrue to the benefit of the park owner by potentially increasing the market value of the park itself.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Because of the low vacancy rate, it is necessary to encourage the development of mobilehome parks within the city to the extent permitted by state and local law by exempting newly constructed mobilehome spaces from the provisions of this chapter.</text>
+      </para>
+      <para>
+        <num>J.</num>
+        <text>It is the purpose of this chapter to protect the owners and occupiers of mobilehomes within the city from unreasonable space rent increases or assessments, while at the same time providing the mobilehome park owners with a just and reasonable rate of return on their property.</text>
+      </para>
+      <para>
+        <num>K.</num>
+        <text>There is no possibility that the adoption of the ordinance codified in this chapter will have a significant effect on the environment in that there will be no deviation from the general plan and no change in the present use of property within the city and therefore its enactment is exempt from the California Environmental Quality Act.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.020</num>
+      <heading>Definitions.</heading>
+      <text>"Administrator" means the administrator of the city's mobilehome space rent stabilization program. The "administrator" shall be the city manager of the city of American Canyon.</text>
+      <text>"Affected residents" mean those mobilehome residents as defined in this section who are subject to a rent increase (as defined in this section). For purposes of providing notice of rent increases and copies of this chapter, and calculating the number of affected residents in support of a rent arbitration petition, each mobilehome space subject to a rent increase shall be deemed to have only one affected resident. Reference to "all affected residents" shall mean one representative resident from each space subject to the proposed rent increase.</text>
+      <text>"Arbitrator" means a person: (1) who is neither a resident (as defined in this section) nor has an interest in a mobilehome park of a nature that would require disqualification under the provisions of the Political Reform Act if the person were an elected state official; and (2) who the administrator (as defined in this section) determines meets one of the following criteria:</text>
+      <para>
+        <num>1.</num>
+        <text>Completion of a juris doctor or equivalent degree from a school of law and completion of a formal course of training in arbitration which, in the sole judgment of the administrator, provides that person with the knowledge and skills to conduct a space rent dispute arbitration in a professional and successful manner; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Completion of at least three arbitration proceedings for a Superior Court or other public entity that involved issues the administrator finds similar to those raised in space rent dispute arbitrations; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Prior service as a California Municipal or Superior Court Pro Tempore Judge; Judge, Court of Appeal or Supreme Court Justice or comparable experience within the Federal Judiciary or service as a neutral evaluator in a Court sponsored alternative dispute resolution program.</text>
+      </para>
+      <text>"Arms-length transaction" means a transaction negotiated by unrelated parties, each acting in his or her own self-interest as a willing participant in the transaction.</text>
+      <text>"Base rent" means the authorized rent calculated pursuant to the provisions of <cite path="|15.04.040">Section 15.04.040</cite>, plus any rent increase allowed under this chapter, unless it is expressly excluded from base rent, plus any rent adjustment attributable to vacancy decontrol as provided in <cite path="|15.04.050">Section 15.04.050</cite>.</text>
+      <text>"Capital improvements" mean those new improvements or replacements that materially adds to the value of the property and appreciably prolongs its useful life or adapt it to new uses; consist of more than ordinary maintenance and/or repairs, and which may be amortized over the useful remaining life of the improvement to the property. Capital improvement costs shall include all costs reasonably and necessarily related to the planning, engineering and construction of the improvement or replacement and shall include debt service costs, if any, incurred as a direct result of the capital improvement or replacement.</text>
+      <text>"Consumer Price Index (CPI)" means the Consumer Price Index as determined on an annual basis up to and including the month of June for all Urban Consumers in the San Francisco-Oakland-San Jose Area published by the U.S. Department of Labor, Bureau of Labor Statistics.</text>
+      <text>"Expert" means an unbiased third party who is recognized as an authority on mobilehome rent issues for purposes of providing an independent analysis as set forth in <cite path="|15.04.100">Section 15.04.100</cite>(C).</text>
+      <text>"Gross income" has the meaning set forth in <cite path="|15.04.140">Section 15.04.140</cite>.</text>
+      <text>"Housing service" means a service or facility provided by the park owner related to the use or occupancy of a mobilehome space, which is neither a capital improvement nor substantial rehabilitation as those terms are defined herein. Housing service includes, but is not limited to, repairs, replacement, maintenance, landscaping, painting, lighting, heat, water, utilities, laundry facilities, refuse removal, recreational and meeting facilities, parking, security service, and employee services.</text>
+      <text>"In place transfer" means a sale, transfer, or other conveyance of a mobilehome, with the mobilehome remaining in the same mobilehome space it occupied prior to the sale, transfer or other conveyance, except if the sale, transfer, or other conveyance is to the park owner.</text>
+      <text>"Lawful space vacancy" means a vacancy occurring due to specific circumstances set forth in <cite path="|15.04.050">Section 15.04.050</cite>.</text>
+      <text>"Mandatory mediation" means a meeting in which a mobilehome park owner and resident have the opportunity to communicate with a mediation panel and each other in a face-to-face setting at a neutral location in order to resolve a rental housing dispute using ground rules designed to protect the confidentiality and neutrality of the communications.</text>
+      <text>"Mediation panel" means a committee consisting of three individuals which will be composed of one individual representing mobilehome park owners from a mobilehome park within the city that is not subject to the mediation; one member who is a resident that resides in a mobilehome park within the city not subject to the mediation; and, one qualified mediator as defined in this chapter selected by the city after consultation with the mobilehome park owner and mobilehome park residents subject to the mediation. All panel members must be free from any conflict of interest under the provisions of Government Code Section 1090 et seq., or a financial interest under the provisions of Government Code Section 87100 et seq.</text>
+      <text>Selection of Mediation Panel. The panel members representing residents and the park owner not subject to mediation of the panel may be selected in the following manner:</text>
+      <text>The city shall submit three names of mobilehome park residents subject to this chapter but not the mediation and three names of owners or the owners' representative of a mobilehome park not subject to the mediation. The selected qualified mediator, a representative from Golden State Manufactured Home Owners League ("GSMOL") who is also a board member or regional manager of GSMOL, and the owner of the park subject to mediation shall select one owner and resident to the mediation panel from the city's submitted list.</text>
+      <text>"Mediator" means a mediator who is experienced in the mediation process both in facilitating communications in conciliation between parties and in mediating disputes. The selected qualified mediator is prohibited from also serving as an arbitrator under this chapter.</text>
+      <text>"Mobilehome" means a structure designed for human habitation and for being moved on a street under permit pursuant to California Vehicle Code Section 35790. Mobilehome includes a manufactured home, as defined in California Health and Safety Code Section 18007, and a mobilehome, as defined in California Health and Safety Code Section 18008. Mobilehome does not include a recreational vehicle, as defined in Section 799.24 of the California Civil Code and Section 18010 of the California Health and Safety Code, or a commercial coach, as defined in Section 18001.8 of the California Health and Safety Code, except when such a vehicle has continuously remained within a mobilehome park for a period in excess of nine months.</text>
+      <text>"Mobilehome park" means any area of land within the city where two or more mobilehome spaces are rented, or held out for rent, to accommodate mobilehomes used for human habitation.</text>
+      <text>"Mobilehome park owner" means any park owner, lessor, or sublessor of a mobilehome park in the city who receives or is entitled to receive rent for the use or occupancy of any mobilehome space therein and who reports to the Internal Revenue Service any income received or loss of income resulting from such ownership or claims any expenses, credits or deductions because of such ownership, and the representative, agent or successor of such park owner, lessor or sublessor.</text>
+      <text>"Mobilehome resident" means a person who has a tenancy in a mobilehome park under a rental agreement that is not otherwise exempt from regulation under this chapter pursuant to California Civil Code Section 798.17 or 798.45.</text>
+      <text>"Mobilehome space" means any site within a mobilehome park located in the city intended, designed or used for the location or accommodation of a mobilehome. Mobilehome space includes any accessory structures or appurtenances attached to the mobilehome or used in conjunction therewith. Mobilehome space does not include: (1) sites rented together and concurrently with a mobilehome provided by the mobilehome park owner; and (2) "new construction" as defined by California Civil Code Section 798.45. Mobilehome space shall also include, for purposes of this chapter, rentable spaces within mobilehome parks which have been occupied by a recreational vehicle as defined by Civil Code Section 799.24 or a commercial coach as defined by Health and Safety Code Section 18001.8 for a period of nine months or more.</text>
+      <text>"Net operating income" has the meaning set forth in <cite path="|15.04.130">Section 15.04.130</cite>.</text>
+      <text>"Operating expenses" has the meaning set forth in <cite path="|15.04.150">Section 15.04.150</cite>.</text>
+      <text>"Park owner" means a mobilehome park owner.</text>
+      <text>"Party" means any affected resident and/or park owner involved in proceedings under this chapter.</text>
+      <text>"Percent change in Consumer Price Index" means the annual percent change in the Consumer Price Index (CPI), as determined on an annual basis up to and including the month of June for all Urban Consumers in the San Francisco-Oakland-San Jose Area published by the U.S. Department of Labor, Bureau of Labor Statistics, calculated to the nearest tenth, published up to and including June and averaged over the preceding twelve months.</text>
+      <text>"Prospective resident" means:</text>
+      <para>
+        <num>1.</num>
+        <text>A person who is not currently a resident in a mobilehome park but is a prospective mobilehome resident who desires the use of a mobilehome space as defined in this chapter and has approached the mobilehome park owner as such; or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A person who is a party to a rental agreement pursuant to California Civil Code Section 798.17(a) and (b), which has terminated or expired, or is being considered for renewal or extension.</text>
+      </para>
+      <text>"Qualified mediator" means a mediator who is experienced in the mediation process both in facilitating communications in conciliation between parties and in mediating disputes. The selected qualified mediator is prohibited from also serving as an arbitrator under this chapter.</text>
+      <text>"Rent" means mobilehome space rent.</text>
+      <text>"Rent increase" means any additional space rent demanded of or paid by a resident for a mobilehome space. "Rent increase" includes any reduction in housing services without a corresponding reduction in the amount demanded or paid for rent.</text>
+      <text>"Rent stabilization administration fee" means the fee established from time to time by resolution of the city council in accordance with the provisions of <cite path="|15.04.200">Section 15.04.200</cite>.</text>
+      <text>"Resident" means a homeowner or other person who lawfully occupies a mobilehome.</text>
+      <text>"Resident representative" means a person appointed in writing by a group of residents to represent the interests of, negotiate on behalf of, and bind the appointing parties.</text>
+      <text>"Section," unless otherwise indicated, means a section of this chapter.</text>
+      <text>"Space rent" means the total consideration, including any bonus, benefit or gratuity, demanded or received by a mobilehome park owner for or in connection with the use or occupancy of a mobilehome space or any housing services provided with the mobilehome space. Space rent shall not include any amount paid for the acquisition, use or occupancy of a mobilehome dwelling unit.</text>
+      <text>"Substantial rehabilitation" means that work done by a park owner to a mobilehome space or to the common areas of the mobilehome park, exclusive of a capital improvement (as defined in this section), which has a value in excess of two hundred dollars, and is performed either to secure compliance with any state or local law or to repair damage resulting from fire, earthquake, or other casualty or natural disaster, to the extent such work is not reimbursed by insurance or other benefits. Costs of substantial rehabilitation include all costs reasonably and necessarily related to the planning, engineering and construction of the work. Such costs shall also include debt service costs, if any, incurred as a direct result of the substantial rehabilitation work.</text>
+      <text>"Vacancy control" means the prohibition of a park owner on increasing space rent upon the sale of a mobilehome on-site to a prospective resident or a current resident except as provided in <cite path="|15.04.050">Section 15.04.050</cite>(A).</text>
+      <text>"Vacancy decontrol" means the increase in space rent permitted upon the qualifying sale or other conveyance of a mobilehome described in <cite path="|15.04.050">Section 15.04.050</cite>(A). (Ord. 2011-04 § 1, 2011; Ord. 97-03 § 1, 1997; Ord. 95-20 § 1, 1995)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>15.04.030</num>
+      <heading>Applicability.</heading>
+      <para>
+        <num>A.</num>
+        <text>The provisions of this chapter shall apply to every mobilehome park within the city, except that the provisions of this chapter shall not apply to mobilehome spaces which are subject to a written rental agreement that is for more than a twelve-month duration. Such spaces are exempt from regulation under this chapter pursuant to Civil Code Section 798.17. The provisions of this chapter shall also not apply to a newly constructed space initially held out for rent after January 1, 1990, in accordance with Civil Code Section 798.45.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The exception provided in subsection A for spaces subject to long term rental agreements shall be effective only until the expiration or other termination of the rental agreement whereupon any provisions of this chapter shall immediately be applicable to the mobilehome space, unless such rental agreement meets the exemption criteria of Civil Code Section 798.17.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Before any rental agreement or lease in excess of twelve months is executed by a resident or prospective resident, the park owner must:</text>
+        <para>
+          <num>1.</num>
+          <text>Offer any resident or prospective resident the option of a rental agreement or lease for a term of twelve months or less which will permit such person to receive the benefits of the mobilehome space rent stabilization program;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Provide the resident or prospective resident a copy of this chapter if a copy has not already been provided; and</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Inform the resident or prospective resident orally and in writing that if the resident or prospective resident signs a lease or rental agreement with a term in excess of twelve months, that complies with Civil Code Section 798.17, then the lease or rental agreement is not subject to the terms and protections of this chapter. Such written notification shall contain the following recitation:</text>
+        </para>
+        <text>"UNDER THE CITY OF AMERICAN CANYON MOBILEHOME RENT STABILIZATION ORDINANCE, YOU ARE LEGALLY ENTITLED TO ELECT A MONTH-TO-MONTH TENANCY OVER ANY OTHER LONGER PERIODIC TENANCY. YOU MAY NOT BE ENTITLED TO RENT STABILIZATION (RENT CONTROL) PROGRAM BENEFITS IF YOU ELECT A LEASE OF MORE THAN 12 MONTHS IN DURATION IF THAT LEASE MEETS THE REQUIREMENTS OF CIVIL CODE SECTION 798.17(a) &amp; (b) WHICH HAS BEEN ATTACHED HERETO."</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any effort to circumvent the requirements of this section is unlawful, as well as an unfair business practice subject to enforcement under California Business and Professions Code Section 17200 et seq. A lease or rental agreement in excess of twelve months, executed by a resident or prospective resident shall not be exempt from this chapter unless it complies with each and every requirement of Civil Code Section 798.17(a) through (c) for such exemptions.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.040</num>
+      <heading>Base rent.</heading>
+      <para>
+        <num>A.</num>
+        <text>Initial Calculation.</text>
+        <para>
+          <num>1.</num>
+          <text>Except as provided in this section, a park owner shall not demand, accept or retain rent for a mobilehome space exceeding the rent in effect on that space on the effective date of the ordinance codified in this chapter. If a previously rented mobilehome space was not rented on the effective date of the ordinance codified in this chapter, the park owner shall not, except as provided in this section, demand, accept or retain rent for that space exceeding the rent in effect during the last month the space was rented prior to the effective date of the ordinance codified in this chapter.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If a mobilehome space is exempted from the provisions of this chapter because it is the subject of a rental agreement pursuant to California Civil Code Section 798.17(a) and (b), and that agreement expires and is not renewed, then the base rent, until the next annual adjustment pursuant to this chapter, shall be the space rent in effect for that space prior to the expiration of the rental agreement, excluding separately billed pass-throughs for capital improvements.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>It shall be presumed that the initial base date rent yields a fair return.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Adjustment. A park owner may seek an adjustment to the initial base rent where the park owner can clearly establish that circumstances exist which requires an adjustment to assure that the park owner is receiving a fair and reasonable return.</text>
+        <para>
+          <num>1.</num>
+          <text>In seeking an adjustment to the initial base rent under this section, the procedures set forth in <cite path="|15.04.090">Section 15.04.090</cite> and shall be followed.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The guidelines for determining an adjustment to the initial base rent are set forth in <cite path="|15.04.160">Section 15.04.160</cite>. (Ord. 2011-04 § 1, 2011; Ord. 97-03 § 2, 1997; Ord. 95-20 § 1, 1995)</text>
+        </para>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>15.04.050</num>
+      <heading>Vacancy control—Establishment of new base rent.</heading>
+      <para>
+        <num>A.</num>
+        <text>A park owner shall be permitted to charge a new base rent for a mobilehome space whenever a lawful vacancy occurs. For purposes of this chapter, "lawful space vacancy" means:</text>
+        <para>
+          <num>1.</num>
+          <text>A vacancy occurring because of the termination of the tenancy of a mobilehome resident in accordance with the Mobilehome Residency Law, California Civil Code Sections 798.55 through 798.60; or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A vacancy of the mobilehome space arising from the voluntary removal of a mobilehome from the mobilehome space. A removal of the mobilehome from the space for the purpose of performing rehabilitation or capital improvements to the space or for the purpose of upgrading the mobilehome shall not constitute a voluntary removal of the mobilehome.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Lawful space vacancy" shall not include sale or other permitted assignment of a mobilehome by a mobilehome resident where the mobilehome is not removed from its mobilehome space. However, a mobilehome park owner may increase the monthly base rent for a mobilehome space at the time of such sale or assignment by up to twenty-five dollars per month.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any alleged violation of this provision shall be subject to the alternative dispute resolution procedures pursuant to <cite path="|15.04.100">Section 15.04.100</cite>, as needed. (Ord. 2011-04 § 1, 2011; Ord. 97-03 § 3, 1997; Ord. 96-05 § 1, 1997; Ord. 95-20 § 1, 1995)</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>15.04.060</num>
+      <heading>Anniversary date.</heading>
+      <text>Each park owner shall, by May 15, 1994, establish an anniversary date for all rent increases in the park owner's park. Such rent increases, if any, except as specified below, shall be enacted only on the anniversary date of that park. The park owner shall post the anniversary date in the park office or office areas where it can easily be seen by the residents and shall notify the administrator in writing of the anniversary date on or before May 15, 1994. If a park owner wishes to adjust its anniversary date, the park owner may petition the administrator for such change. The administrator shall, in his or her discretion, determine whether the change is acceptable.</text>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.070</num>
+      <heading>Rent increase limitations.</heading>
+      <para>
+        <num>A.</num>
+        <text>From and after the effective date of the ordinance codified in this chapter, space rent shall not be increased within twelve months of the anniversary date of the preceding increases unless otherwise determined by a mediation panel or an arbitrator as provided elsewhere in this chapter. The permissible annual increase upon the anniversary date shall be one hundred percent of the annual percentage increase in CPI as defined in this chapter, as long as the annual percentage increase in CPI is no more than six percent. No increase of more than six percent shall be permitted unless otherwise determined by a mediation panel or an arbitrator as provided elsewhere in this chapter.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If the annual percent change in CPI is negative, there shall not be a rent increase. However, the park owner may decrease the rent by an amount in the park owner's discretion.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Notwithstanding the foregoing, the permissible annual increase may be adjusted based on the mitigating factors set forth in <cite path="|15.04.120">Section 15.04.120</cite>(E).</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>A park owner may not increase the space rent within twelve months of the effective date of the preceding rent increase period, unless the park owner can clearly establish that the rental increase is necessary to cover costs of operation, maintenance, capital improvements or substantial rehabilitation not reasonably foreseeable at the time notice of the preceding rent increase was given. If a park owner seeks a rent increase pursuant to this subsection, the procedures set forth in Sections <cite path="|15.04.090">15.04.090</cite> and <cite path="|15.04.100">15.04.100</cite> shall be followed.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>If a park owner wishes to increase the space rent on the anniversary date or within a twelve-month period more than the amount permitted in subsection A of this section, the procedures set forth in Sections <cite path="|15.04.090">15.04.090</cite> and <cite path="|15.04.100">15.04.100</cite> shall be followed.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>If an agreement is not reached by the parties through mandatory mediation, and the matter proceeds to arbitration, the arbitrator may reduce the proposed rent increases pursuant to the provisions of this section to a figure determined upon the evidence submitted by the park owner or the park owner's representative to be a fair return.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Any notice of space rent increase given by a park owner pursuant to this section shall be given in writing to the resident affected by the increase at least ninety days before any rent increase is to take effect and if the increase is that of the permissible CPI then the amount of the applicable CPI, as defined in this chapter, shall be set forth in the notice.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 4, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.090</num>
+      <heading>Information to be provided by the park owner.</heading>
+      <para>
+        <num>A.</num>
+        <text>Within thirty days after the effective date of the ordinance codified in this chapter, and upon the re-renting of each mobilehome space thereafter, the park owners shall supply each affected resident or prospective resident with a current copy of this chapter.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>When raising rent pursuant to <cite path="|15.04.070">Section 15.04.070</cite>(A) the park owner must provide a minimum ninety-day written notice to the mobilehome resident and the administrator outlining the calculations used to compute the new rent, both as a dollar amount and a percentage.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Whenever the park owner serves a copy of a rent increase, except where the rent increase is calculated pursuant to <cite path="|15.04.070">Section 15.04.070</cite>(A), the park owner shall at the same time and in the same manner serve the affected resident or prospective resident with a notice that sets forth all of the following information:</text>
+        <para>
+          <num>1.</num>
+          <text>The amount of the rent increase, both in dollars and as a percentage of existing rent and documentation supporting the level of increase desired, including at a minimum: a summary of the unavoidable increases in maintenance and operating expenses, a statement of the cost, nature, amortization, and allocation among mobilehome spaces of any substantial rehabilitation or capital improvements; a summary of the increased cost of the park owner's debt service and the date and nature of the sale or refinancing transaction; a summary of the park owner's net operating income of the preceding twenty-four months and other relevant information that supports the level of rent increase desired;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The identity of all other affected residents in the spaces which they rent;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The address and telephone number of the administrator and a statement that the resident is encouraged to contact the administrator for an explanation of the provisions of this chapter;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>A copy of the petition form prepared and provided by the administrator which initiates the process of mandatory mediation, and if necessary, arbitration, established by this chapter; and</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>If applicable, notification that the proposed increase exceeds the annual change in the CPI and that mandatory mediation and, if necessary, arbitration are available as alternative dispute resolution remedies by the provisions of <cite path="|15.04.100">Section 15.04.100</cite>. Such notices shall bear the following language in capital letters:</text>
+        </para>
+        <text>"MANDATORY MEDIATION AND, IF NECESSARY, ARBITRATION OF THE PROPOSED INCREASE ARE AVAILABLE AS ALTERNATIVE DISPUTE RESOLUTION REMEDIES IN THIS MATTER BY OPERATION OF LAW."</text>
+        <text>Erroneous use of this notice should be regarded as a irrevocable stipulation to submit to mandatory mediation and, if necessary, arbitration.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The park owner shall at the same time file with the administrator two copies of the notice and summary of expenses required by subsection B of this section, along with two copies of all relevant financial records, bills or documents which substantiate the level of increase proposed. This information will be made available at the administrator's office during normal business hours for inspections and copying by the affected residents.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Any financial information presented to the park owner pursuant to subsection C of this section, shall be verified in writing by an auditor or certified accountant or certified in writing as true and correct under penalty of perjury by the park owner.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>A park owner failing to provide any information, documents or notices required by this section shall not be entitled to collect any rent increase that might otherwise be agreed upon through mandatory mediation or awarded by an arbitrator. Such failure by the park owner shall be a defense in any action brought by the park owner to recover possession of a mobilehome space or to collect any rent increase from a resident.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>With the exception of rent increases pursuant to <cite path="|15.04.070">Section 15.04.070</cite>(A) a rental dispute hearing process may be invoked by written petition of mobilehome owners representing fifty-one percent of the mobilehome spaces affected by a rent increase as provided in <cite path="|15.04.100">Section 15.04.100</cite>, regardless of whether the park owner has failed to provide the affected residents with all the information, documents, and notices required by this chapter, except in the case of an increase allowed per <cite path="|15.04.070">Section 15.04.070</cite>(A). (Ord. 2011-04 § 1, 2011; Ord. 97-03 §§ 5, 6, 1997; Ord. 96-05 § 2, 1997; Ord. 95-20 § 1, 1995)</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>15.04.100</num>
+      <heading>The rent dispute resolution process.</heading>
+      <para>
+        <num>A.</num>
+        <text>The resident may contact the administrator for an explanation of the provisions of this chapter.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Settlement Offers. At any time after residents file a petition for mandatory mediation in response to a proposed rent increase, the park owner and the residents may tender settlement offers to each other to stipulate to a compromised amount for the proposed rent increase. The party tendering the settlement offer shall also file a copy of the written settlement offer with the administrator in a separately sealed envelope and with a statement written on the outside of the envelope that it is a written settlement offer pursuant to this subsection. The sealed copy of the written settlement offer that is filed with the city is not to be opened by the administrator until it is either accepted by the other party or if the dispute subsequently enters into mediation and/or arbitration and the mediation panel or arbitrator deems it necessary to open it. Upon receiving such offer to compromise, the receiving party has seven days to accept the offer by filing a written acceptance with the administrator.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Mandatory Mediation.</text>
+        <para>
+          <num>1.</num>
+          <text>A petition signed by fifty-one percent of the mobilehome spaces affected by a rent increase may request mandatory discussion of disputes under this chapter by filing a written request for dispute resolution within twenty-one days of learning the facts that give rise to the dispute. The request must be filed with the administrator, and provide enough factual information to outline the basic issue or issues being raised.</text>
+          <text>In the petition, the mobilehome residents shall designate an individual to serve as the mobilehome resident representative for the purposes of receipt of all notices, correspondence decisions and findings of fact. Service of notice upon the designated mobilehome resident representative will constitute adequate and sufficient notice of the mobilehome owners who signed the petition.</text>
+          <text>Failure to designate a mobilehome resident representative will render the petition incomplete and the petition will not be accepted for filing.</text>
+          <text>For the purpose of counting petition signatures only, each mobilehome space for which a rent increase was noticed shall count as one unit, regardless of the number of persons living in the mobilehome unit on said space.</text>
+          <text>For the purpose of counting petition signatures only, any person over the age of eighteen living in a given mobilehome may sign a petition on behalf of that mobilehome unit.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Within seven days of receiving a written request for dispute resolution, the administrator will notify both the resident representative and park owner that a case has been opened involving all of the spaces affected by the rent increase and will provide a copy of the request to the responding party and a copy of the request shall be received and filed with the city clerk on behalf of the city council.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The administrator will not open dispute resolution, or will order dispute resolution closed, when it is clear from the written request that there is no substantial factual basis for the dispute, or when the dispute involves the actions or behavior of persons, or conditions, that are not within the control or responsibility of the parties; or when the dispute is frivolous, malicious or vexatious; or when further proceedings are not, in the sole judgment of the administrator, likely to be productive. Both parties will be notified of the administrator's action and shall have access to the case summary forms used by the administrator, which will not contain any confidential communications from the parties.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The administrator will promptly assign the request to a mediation panel who will contact all relevant parties to conciliate and mediate the dispute. The administrator shall have the authority to combine different disputes or different parties in the interest of efficiently addressing the disputes, provided that any party may, for reasons of confidentiality or otherwise, opt out of a combined mediation involving more than one resident or park owner by notifying the administrator. All communications between the administrator and the parties as well as between the mediation panel and the parties shall be confidential and subject to the confidentiality guarantees set forth in California Evidence Code Sections 703.5 and 1115 through 1128, as they may be amended or superseded. The mediation panel assigned to the case will promptly investigate and if necessary disclose any conflict of interest or potential conflict of interest to the parties as soon as the conflict or potential conflict becomes known to a member of the mediation panel. At the time of disclosure, the parties will have the option of waiving any such conflict as long as the waiver is in writing.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The mediation panel shall be selected consistent with <cite path="|15.04.020">Section 15.04.020</cite> (Mediation panel) and the city shall bear the cost of the mediation panel. The city may utilize a volunteer mediator, if such person is a qualified mediator under this subsection. The qualified mediator on the mediation panel shall be experienced in the mediation process both in facilitating communications in conciliation between parties and in mediating disputes. The selected qualified mediator is prohibited from also serving as an arbitrator under subsection D of this section.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Unless all parties agree in writing to waive the time limit, the initial mediation session will be conducted within twenty-eight days of the date the written request for dispute resolution is filed. The park owner's business location shall be considered so that the mediation will be scheduled at a reasonably convenient time taking into account the distance that the park owner must travel to attend the mediation.</text>
+          <text>If a mediation session is held, the mediation panel shall provide the parties with an opening statement explaining the nature of the process and the ground rules. Thereafter the mediation panel will determine the manner and course of the session, including whether to meet with the parties in caucus, provided that the general guiding principle will always be to provide the parties with a full opportunity to air the concerns giving rise to the dispute.</text>
+          <para>
+            <num>a.</num>
+            <text>Independent Expert Analysis.</text>
+            <para>
+              <num>i.</num>
+              <text>The mediation panel, through the administrator, shall arrange for the employment of an independent expert to perform an independent analysis of the application and prepare an independent determination regarding the subject matter of the application. Any expert hired pursuant to this section shall be instructed to give an unbiased analysis.</text>
+            </para>
+            <para>
+              <num>ii.</num>
+              <text>Cost of Expert. The mediation panel, through the administrator, shall also determine the anticipated cost of employing such expert. The determined cost of the independent expert shall be paid by the park owner to the administrator prior to commencement of the expert's analysis. Any unused portion of the payment collected from the park owner by the administrator shall be refunded to the park owner.</text>
+            </para>
+            <para>
+              <num>iii.</num>
+              <text>At the conclusion of the independent expert analysis, the mediation panel shall communicate the results of the analysis to the park owner and the residents. The decision rendered through the independent expert analysis shall be utilized as a tool by the mediation panel to assist the parties in negotiations.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>The parties involved in the dispute, including any resident representative, shall be obligated to personally appear at a mediation session scheduled by a mediation panel. No attorneys are permitted to be utilized in the mediation process. However, a party who is a licensed attorney may represent him or herself. All parties must participate in the mediation session until completion of the mediation panel's opening statement. All parties, including any representative acting on behalf of any resident(s), appearing must have the legal authority to resolve disputes arising under this chapter. Participation in mediation shall be voluntary in all respects after the opening statement. The mediation panel may, with the consent of all parties, schedule additional sessions as needed.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>Pursuant to <cite path="|15.04.200">Section 15.04.200</cite>, the administrator shall have the power to impose monetary sanctions on any party not appearing in person at a mediation session.</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>No party shall be obligated to reach any specific agreement, or to reach any agreement at all, as a result of participating in conciliation or mediation communications. If an agreement is reached, it will be stated in writing by the mediation panel or by the parties. Any such agreement shall be confidential and will not be enforceable or usable for any purpose outside the dispute resolution process unless all signatories agree that the document can be disclosed or used in other proceedings.</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>In the event the parties do not come to an agreement through mediation, either party may file a petition for arbitration consistent with the procedures set forth in subsection D. In the event the parties do come to an agreement through mediation, a copy of that agreement shall be received and filed with the city clerk on behalf of the city council.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Arbitration.</text>
+        <para>
+          <num>1.</num>
+          <text>If mediation between the park owner and the affected residents pursuant to the mandatory mediation process outlined above in subsection C does not resolve the dispute, the park owner, the affected residents, or their representative(s), may file with the administrator a petition requesting arbitration. Any petition requesting arbitration must comply with the provisions of this section, except that a petition filed by a park owner need not be signed by the affected residents. Pursuant to subsection (E)(3), no petition shall be accepted unless it is accompanied by the requisite number of signatures and is received in the office of the administrator within thirty days of the last session of mandatory mediation. The administrator shall provide a copy of the completed petition to the park owner and the arbitrator.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>As soon as possible after a petition has been filed with the administrator with respect to mobilehome spaces which are within a single park, the administrator shall, to the extent possible, and consistent with the time limitations provided herein, consolidate requests for arbitration involving similarly situated affected residents who have already participated in mandatory mediation.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Upon the filing of petition with the administrator, the rent increase at issue is not effective and may not be collected until and to the extent it is awarded by an arbitrator or until the request for arbitration is abandoned by the affected residents or their representative(s). "Abandoned" as used in this section means a failure to actively pursue the necessary steps to prepare the residents' case for the arbitration.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Contents of Petition for Arbitration.</text>
+        <para>
+          <num>1.</num>
+          <text>The administrator shall not accept a petition for arbitration of a rent increase from any resident(s) unless it has been signed by at least fifty-one percent of all affected residents.</text>
+          <para>
+            <num>a.</num>
+            <text>For the purpose of counting petition signatures only, each mobilehome space for which a rent increase was noticed shall count as one unit, regardless of the number of persons living in the mobilehome unit on said space.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>For the purpose of counting petition signatures only, any person over the age of eighteen living in a given mobilehome may sign a petition on behalf of that mobilehome unit.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The petition for arbitration shall set forth the total number of affected rented spaces in the mobilehome park, and shall identify the name of the resident(s) who occupies each such space. A petition filed by any resident(s) shall state the date upon which the notice of the rent increase was received by the resident(s). A petition filed by a park owner shall state the date upon which the notice of the rent increase was served on the resident(s). Neither a park owner nor any resident(s) may participate in arbitration unless the park owner or resident(s) participated in all portions of mandatory mediation (personally or through a designated representative).</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>In the case of residents filing a petition for arbitration, after obtaining the signature(s) of affected resident(s), the resident representative must personally deliver the petition or mail it by certified mail to the administrator at the following address: City Manager, City of American Canyon, 4381 Broadway St., Suite 201, American Canyon, CA 94503 (or successor address or agency). No resident petition shall be accepted unless it is accompanied by the requisite number of signatures and is received in the office of the administrator within thirty days of the last session of mandatory mediation. The administrator shall provide a copy of the completed petition to the park owner and the arbitrator.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>In the case of a park owner filing a petition, the park owner must personally deliver the petition or mail it by certified mail to the administrator at the following address: City Manager, City of American Canyon, 4381 Broadway St., Suite 201, American Canyon, CA 94503 (or successor address or agency). No petition shall be accepted unless it is received in the office of the administrator within thirty days of the last session of mandatory mediation. The administrator shall provide a copy of the completed petition to the affected park residents or their representative(s) and the arbitrator.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Information Questionnaire. After the administrator has accepted a petition for arbitration, the administrator shall remit to the park owner and petitioning residents or the resident representative an information questionnaire in such form as the administrator may prescribe. The completed information questionnaire must be returned to the administrator at least five business days prior to the date scheduled for hearing of the petition by the arbitrator. The administrator shall provide copies of the completed information questionnaire to the arbitrator, the mobilehome park owner, and the affected residents or the resident representative.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Assignment of Arbitrator and Hearing Date/Service of Documents. The administrator shall assign an arbitrator within fifteen business days after receipt of the arbitration petition.</text>
+        <text>Additional documents to be presented at the hearing by either the park owner or the affected resident(s), other than those previously submitted pursuant to <cite path="|15.04.090">Section 15.04.090</cite>(B) and (C) or subsection C of this section, shall be served on the other party, the administrator, and the arbitrator at least ten working days before the hearing by mail or in-person delivery. All financial documents submitted must be verified in writing by an auditor or certified public accountant or certified in writing as true and correct under penalty of perjury by the park owner.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>Arbitration Fees.</text>
+        <para>
+          <num>1.</num>
+          <text>Once the arbitrator has been selected, the administrator will contact the arbitrator to determine the estimated hearing fee, which shall include an estimate of all fees generated by the arbitrator relative to reviewing submittals by the parties, conducting the hearing, and engaging in any activities related to the determination of whether the proposed special rent increase shall be permitted. The administrator shall notify the park owner in writing of the estimated arbitrator fees no less than fifty days prior to the first date set for the hearing.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>No later than thirty-five days prior to the first date set for the hearing, the park owner shall submit to the administrator payment in full of the estimated arbitrator fees. If payment is not timely received, the hearing shall be postponed, and the hearing shall not be re-scheduled until such time as payment is received.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Upon completion of the hearing and the issuance of a decision, the arbitrator shall submit to the administrator a final invoice for all services. To the extent that the invoice amount exceeds the fees paid by the park owner pursuant to this section, the park owner shall issue payment of the difference to the administrator. In the event that the total fee is less than the original estimate paid by the park owner, such amount will be refunded to the park owner.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Except for the refunds provided for in subsection (H)(3) of this section, a park owner may only recover from the affected residents arbitration costs only when an arbitrator's statement of decision, required by subsection (I)(4), specifically awards such costs to the park owner. An arbitrator's statement of decision may award a park owner no more than twenty-five percent of arbitration costs.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Commencing no sooner than thirty-five days after the final arbitration award, and subject to the provisions of subsection (H)(4) of this section, the park owner may pass through, as hereinafter described, the arbitration costs awarded to all of the mobilehome residents occupying spaces in the affected park subject to mobilehome rent stabilization under this chapter. The awarded costs shall be prorated by the number of spaces subject to mobilehome rent stabilization under this chapter, and shall further be amortized, interest free, over a period of twelve months. To the extent that a mobilehome is sold prior to payment by the resident of the arbitrator fees described in this section, the purchaser of the mobilehome shall be responsible for any remaining amount.</text>
+        </para>
+        <text>This chapter makes no provision for the recovery of attorney fees and costs by park owners or mobilehome owners with respect to special rent increase hearings or any hearings described in this section, regardless of which party prevails.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>Arbitration Hearing.</text>
+        <para>
+          <num>1.</num>
+          <text>The park owner and any affected resident(s) may appear at the hearing and offer oral and documentary evidence. Both the park owner and resident(s) may designate a representative or representatives to appear for them at the hearing. The arbitrator may grant or order one or more continuances to each party for a period to be determined by the arbitrator upon a showing of good cause. A further continuance may be granted if stipulated to by all the parties. The burden of providing that the amount of rent increase is reasonable shall be on the park owner by a preponderance of the evidence. The hearing need not be conducted according to technical rules relating to evidence and witnesses. The rules of evidence and manner of producing evidence shall be those rules set forth in California Government Code Section 11513 for the conduct of hearings under the Administrative Procedure Act. These rules may be relaxed at the discretion of the arbitrator in the interests of justice.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Any party may have electronic recording equipment or a court reporter present to record and prepare a transcript of the hearing before the arbitrator. Such equipment or reporter shall be provided at that party's own expense.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Any jurisdictional or procedural dispute regarding the process set forth herein may be decided by the arbitrator.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The arbitrator shall, within fourteen days of the conclusion of the hearing, submit by mail a written statement of decision and the reasons for the decision to the administrator. The administrator shall forthwith mail copies of the decision to the park owner and affected resident(s).</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The decision of the arbitrator, rendered in accordance with this section, shall be final and binding upon the park owner and all affected residents. The decision of the arbitrator will be subject to the provisions of California Code of Civil Procedure Section 1094.5.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>It is the intent of the city council to have a final decision rendered within one hundred fifty days of the initial notice of the rent increase. The administrator or the arbitrator may, however, modify the time periods set forth in this section at his or her discretion to promote the purposes of this chapter.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 §§ 7-9, 1997</annotation>
+        <annotation type="History">Ord. 96-05 §§ 3-5, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.110</num>
+      <heading>Subpoena power.</heading>
+      <text>Subpoenas, including subpoenas duces tecum, requiring a person to attend at a particular time and place to testify as a witness, may be issued in connection with any dispute pending before an arbitrator. Subpoenas shall be issued at the request of the administrator, an arbitrator, the resident(s) or a park owner. Subpoenas shall be issued and attested by the city attorney. A subpoena duces tecum shall be issued only upon the filing with the city attorney of an affidavit showing good cause for the production of the matters or things desired to be produced, setting forth in full detail the materiality thereof to the issues involved in the proceedings, and stating that the witness has the desired matters or things in his or her possession or under his or her control. A copy of such affidavit shall be served with the subpoena. Any subpoena or subpoena duces tecum issued pursuant to the provisions of this chapter may be served in person or by certified mail, before the hearing for which attendance is sought. Any subpoena or subpoena duces tecum issued pursuant to the provisions of this chapter shall be deemed issued by and in the name of the city council.</text>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 10, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.120</num>
+      <heading>Standards of review.</heading>
+      <para>
+        <num>A.</num>
+        <text>The arbitrator shall determine whether space rent increases proposed or imposed by the park owner are reasonable based upon the circumstances and all the provisions of this chapter. The arbitrator shall take into consideration that the purpose of this chapter is to permit park owners a just and reasonable return, while protecting residents from unnecessary or unreasonable rent increases.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The arbitrator shall not allow more than one rent increase per mobilehome space per twelve-month period, unless a park owner can clearly establish that the rent increase is necessary to cover costs of operation, maintenance, capital improvements or substantial rehabilitation not reasonably foreseeable at the time notice of the preceding rent increase was given.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Maintenance of Net Operating Income ("NOI").</text>
+        <para>
+          <num>1.</num>
+          <text>It shall be presumed that the base year NOI adjusted by seventy-five percent of the increase or decrease in the CPI since the base year yields a fair return. Park owners shall be entitled to maintain and increase their NOI in accordance with this section. The arbitrator shall make a determination of whether the park owner's NOI yields a fair return under this standard.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The formula for calculating the fair NOI return shall be as follows:</text>
+        </para>
+        <text>Fair NOI =</text>
+        <text>base year NOI × (1 +.75 % change CPI)</text>
+        <para>
+          <num>3.</num>
+          <text>Except as provided in this section, it shall be presumed that the NOI produced by the park during the base year provided a fair return.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Calendar year 2010 shall be established as the base year for purposes of determining whether a park owner's NOI provides a fair return. If a satisfactory base year is, in the arbitrator's opinion, not otherwise available, such as where a park owner did not own the subject property in the base year and/or the 2010 operating expenses are not available, the arbitrator may take evidence of historical factors to construct a base year.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The base year CPI shall be the CPI level in June 2010.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>The percentage change in the CPI shall be calculated by using the CPI as of the month prior to the noticed increase.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>The comparison NOI year shall be the most recent calendar or fiscal year, unless another period is found by the arbitrator to be more appropriate.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>New Capital Improvements. A park owner may seek a rent increase based on the cost of a completed new capital improvement (as defined in <cite path="|15.04.020">Section 15.04.020</cite>), together with a reasonable return upon the capital improvement investment, only if the park owner has:</text>
+        <para>
+          <num>1.</num>
+          <text>Obtained the written consent of fifty-one percent of the spaces in the park (one vote per space); and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Established by written verification or other competent evidence to the satisfaction of the arbitrator that the costs of the new capital improvement are factually correct as claimed; and</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Cost factored and amortized the costs of the capital improvement over the good faith estimate of the remaining life of the improvement, but in no event for a period of less than sixty months; and</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Allocated the increase among affected residents on a per space basis and separately itemized such increase on the rent bill. Such increases shall not be considered included in the base rent for purposes of the annual permissible rent increases pursuant to <cite path="|15.04.070">Section 15.04.070</cite>(A).</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Mitigating Factors. In evaluating a space rent increase, the arbitrator should also consider the following factors in addition to any other factors the arbitrator deems relevant in order to determine whether there are any circumstances that may justify a reduction in a proposed rent increase:</text>
+        <para>
+          <num>1.</num>
+          <text>In the event the park owner reduces or eliminates any housing services, a proportionate share of the cost savings due to such reduction or elimination shall be passed on in the form of a decrease in existing rent or a decrease in the amount of a rent increase otherwise proposed or permitted by this chapter.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The physical condition of the mobilehome space or park of which it is a part, including the quantity and quality of maintenance and repairs performed during the preceding twelve months or since the last rent increase. In order to justify the denial or reduction of a rent increase, the arbitrator must find that there are substantial maintenance problems or code violations in the mobilehome space and/or park, and that the owner has had adequate previous notice of these problems and a reasonable opportunity to correct them. If a reduction in the proposed rent increase is justified pursuant to this section, the arbitrator shall make a reasonable effort to quantify the approximate cost of the repairs or maintenance work needed or the amount of the rent increase that would be appropriate after the completion of the repairs or maintenance work, in order to ensure that there is some proportionality between the reduction in the proposed rent increase and the condition of the premises.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Notwithstanding any other provision to the contrary, no provision of this chapter shall be applied to prohibit the granting of a rent increase that is demonstrated to be necessary to provide a park owner with a fair and reasonable return.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 11, 1997</annotation>
+        <annotation type="History">Ord. 96-05 §§ 6, 7, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.130</num>
+      <heading>Net operating income ("NOI").</heading>
+      <text>In evaluating a space rent increase imposed by a park owner to maintain the park owner's NOI from a mobilehome park, "NOI" means the "gross income" (as defined in <cite path="|15.04.140">Section 15.04.140</cite>) of the mobilehome park less the "operating expenses" (as defined in <cite path="|15.04.150">Section 15.04.150</cite>) of the mobilehome park. (Ord. 2011-04 § 1, 2011; Ord. 97-03 § 12, 1997; Ord. 95-20 § 1, 1995)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>15.04.140</num>
+      <heading>Gross income.</heading>
+      <text>For purposes of calculating NOI pursuant to <cite path="|15.04.130">Section 15.04.130</cite>, "gross income" means the sum of the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Gross space rents, computed as gross space rental income at one hundred percent occupancy; plus</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Other income generated as a result of the operation of the mobilehome park, including, but not limited to, fees for services actually rendered; plus</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Revenue received by a park owner from the sale of gas and electricity to residents where such utilities are billed individually to the residents by the mobilehome park owner. Such revenue shall equal the total cost of the utilities to the residents minus the amount paid by the park owner for such utilities to the utility provider; minus</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Uncollected space rents due to vacancy and bad debts to the extent that the same are beyond a park owner's control. Uncollected space rents in excess of three percent of gross space rent shall be presumed to be unreasonable unless established otherwise and shall not be included in computing gross income. If uncollected space rents must be estimated, then the average of the preceding three years' experience shall be used.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 13, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.150</num>
+      <heading>Operating expenses.</heading>
+      <para>
+        <num>A.</num>
+        <text>For purposes of calculating NOI pursuant to <cite path="|15.04.130">Section 15.04.130</cite>, "operating expenses" may include:</text>
+        <para>
+          <num>1.</num>
+          <text>Real property taxes and assessments;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Utility costs to the extent that they represent costs to the park owner which are not passed through to residents of the mobilehome park;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Management expenses (including the compensation of administrative personnel, including the value of any mobilehome space offered as part of compensation for such services), reasonable and necessary advertising to ensure occupancy, legal and accounting services as permitted herein, and other managerial expenses. Management expenses are presumed to be not more than five percent gross income, unless established otherwise;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>In addition to the management expenses listed above, if the park owner performs managerial or maintenance services which are uncompensated, the park owner may include the reasonable value of such services or operating expenses. Park owner performed labor shall be limited to five percent of gross income unless the arbitrator finds that such a limitation would be substantially unfair in a given case. A mobilehome park owner must devote substantially all of the park owner's time, that is, at least forty hours per week, to performing such managerial or maintenance services in order to warrant the full five percent credit as an operating expense. No credit for such services shall be authorized unless a park owner documents the hours utilized in performing such services and the nature of the services provided;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Normal repair and maintenance expenses for the grounds and common facilities including, but not limited to, landscaping, cleaning and repair of equipment and facilities;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Operating supplies such as janitorial supplies, gardening supplies and stationery;</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Insurance premiums prorated over the life of the policy;</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>Other taxes, fees, and permits, except as provided in <cite path="|15.04.200">Section 15.04.200</cite>;</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>Reserves for replacement of long term improvements or facilities, provided that accumulated reserves shall not exceed five percent of gross income;</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>Costs of necessary capital improvements or substantial rehabilitation which exceeds existing reserves for replacement. A necessary capital improvement shall be an improvement required to maintain the common facilities and areas of the mobilehome park in a decent, safe and sanitary condition or to maintain the existing level of mobilehome park amenities and services. In the event that the capital improvement or substantial rehabilitation expenditure is necessitated as the result of an accident, disaster, or other event for which the park owner received insurance or other benefits, only those costs otherwise allowable and exceeding such benefits may be calculated as operating expenses.</text>
+          <text>Expenditures for necessary capital improvements to upgrade existing facilities, together with a reasonable return upon the capital improvement investment made by the park owner, shall be an allowable operating expense only if the park owner has:</text>
+          <para>
+            <num>a.</num>
+            <text>Consulted with the affected residents prior to initiating construction or implementation of the capital improvement regarding the nature, purpose and estimated cost of the improvement, and</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Established by written verification or other competent evidence to the satisfaction of the arbitrator that the costs of the necessary capital improvements are factually correct as claimed, and</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>Cost-factored and amortized the costs of the improvement over the good faith estimate of the remaining life of the improvement, but in no event for a period of less than sixty months, and</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>Allocated the increase among affected residents on a per space basis and separately itemized such increase on the rent bill. Such increases shall not be considered included in the base rent for purposes of the annual permissible rent increases pursuant to <cite path="|15.04.070">Section 15.04.070</cite>(A);</text>
+          </para>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>Increases in interest payments which result from one of the following situations or the equivalent thereof:</text>
+          <para>
+            <num>a.</num>
+            <text>Refinancing of the outstanding principal owed for the acquisition of a park where such refinancing is mandated by the terms of a financing transaction entered into prior to July 1, 2010, for instance, termination of a loan with a balloon payment, or</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Increased interest costs incurred as a result of a variable interest rate loan used to finance the acquisition of the park and entered into prior to July 1, 2010.</text>
+          </para>
+          <text>In refinancing, increased interest shall be permitted to be considered as an operating expense only where the park owner can show that the terms of the refinancing were reasonable and consistent with prudent business practices under the circumstances.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Operating expenses" shall not include the following:</text>
+        <para>
+          <num>1.</num>
+          <text>Debt service expenses, except as provided in subsection (A)(11) of this section and as permitted in connection with the computation of costs of a capital improvement or substantial rehabilitation;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Depreciation;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Any expense for which the park owner is reimbursed;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Arbitration fees; or</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Attorneys' fees and costs (except printing costs and documentation as required by <cite path="|15.04.090">Section 15.04.090</cite>) incurred in proceedings before an arbitrator or in connection with legal proceedings challenging the decision of an arbitrator or the validity or applicability of this chapter.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>All operating expenses must be reasonable. Whenever a particular expense exceeds the normal industry or other comparable standard, the park owner shall bear the burden of proving the reasonableness of the expense. To the extent that the arbitrator finds any such expense to be unreasonable, the arbitrator shall adjust the expense to reflect the normal industry or other comparable standard.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 14, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.160</num>
+      <heading>Special base year NOI/base rent adjustments.</heading>
+      <para>
+        <num>A.</num>
+        <text>Park owners may obtain a one-time special adjustment to the base year NOI and/or base date rent(s), if the park owner rebuts the presumption that the base year NOI and/or base date rent(s) yielded a fair return. The arbitrator shall not make such a determination unless the arbitrator has first made at least one of the following findings:</text>
+        <para>
+          <num>1.</num>
+          <text>That the park owner's operating expenses in the base year were unusually high or low in comparison to the three years prior to the base year. The average expenses for this period shall be presumed to reflect reasonable average annual expenses and the average of such expenses shall be used to calculate and adjust the base year NOI.</text>
+          <text>In determining whether the park owner's operating expenses were unusually high or low, the arbitrator shall consider whether:</text>
+          <para>
+            <num>a.</num>
+            <text>The park owner made substantial capital improvements during the base year, which were not reflected in the rent levels on the base date,</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Substantial repairs were made due to uninsured damage caused by fire, natural disaster or vandalism,</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>Maintenance and repair were below accepted standards so as to cause significant deterioration in the quality of housing services, or</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>Other expenses were unreasonably high or low notwithstanding the following of prudent business practice;</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>That the rent was disproportionate due to one of the enumerated factors below:</text>
+          <para>
+            <num>a.</num>
+            <text>The rent on the base date was exceptionally high or low due to the fact that the rent was not established in an arms-length transaction, or</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The rent on the base date was substantially higher or lower than at other times of the year by reason of premiums being charged or rebates given for reasons unique to particular spaces.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If the circumstances specified in subsection (A)(2) of this section are demonstrated, the base date rent shall be adjusted to reflect the rent that would have been received if the base date rent had been set under general market conditions. In making this adjustment, the arbitrator shall utilize the median rent in effect on the base date, or a good faith estimate of such median rent, for comparable spaces within the park or, if necessary, other comparable parks. Comparability shall be judged based on the location of the park, services, amenities provided, and other relevant factors.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 15, 1997</annotation>
+        <annotation type="History">Ord. 96-05 § 8, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.170</num>
+      <heading>Obligations of the parties.</heading>
+      <para>
+        <num>A.</num>
+        <text>If, after the park owner's proposed effective date of a noticed rent increase, the arbitrator finds that the proposed increase or any portion thereof that was previously inoperative is justified, all affected residents shall pay the amount found justified to the park owner within sixty days after the decision is made, unless the arbitrator sets a different time frame for payment.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>If the arbitrator finds that an increase or any portion thereof is not justified, the park owner shall refund any amount found to be unjustified, but that had been paid, to all affected residents within sixty days of the arbitrator's decision unless the arbitrator sets a different time frame for payment. If such refund is not made within the sixty-day period, the resident(s) may withhold the amount from the next space rent(s) due until the full amount of the refund has been made. Notwithstanding the foregoing, in the event that the tenancy of an affected resident is terminated for any reason prior to full credit of the refund against rent, the balance of the credit due the resident shall be paid by the park owner within sixty days from the date of termination of the tenancy.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Any sum of money that under the provisions of this section is the obligation of the park owner or resident to pay, as the case may be, shall constitute a debt and, subject to the foregoing provisions of this section, may be collected in any manner provided by law for the collection of debts.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 15, 1997</annotation>
+        <annotation type="History">Ord. 96-05 § 9, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.180</num>
+      <heading>Resident's right of refusal.</heading>
+      <text>An affected resident may refuse to pay any increase in rent which is in violation of this chapter, provided the resident has participated in mandatory mediation and a petition for arbitration has been filed and either no final decision has been reached by an arbitrator or the increase has been determined to violate the provisions of this chapter. Such right of refusal to pay shall be a defense in any action brought to recover possession of a mobilehome space or to collect the rent increase.</text>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 15, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.190</num>
+      <heading>Retaliatory acts—Resident's right to organize.</heading>
+      <text>No park owner may retaliate against a resident or prospective resident for the resident's or prospective resident's assertion or exercise of rights under this chapter in any manner. This includes, but is not limited to, threatening to bring or bringing an action to recover possession of a mobilehome space; engaging in any form of harassment that causes a resident to quit the premises; dissuading a prospective resident from freely exercising the resident's legal option to choose a month-to-month rental; decreasing housing services; increasing the space rent; or imposing or increasing a security deposit or any other charge payable by a resident.</text>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 15, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.200</num>
+      <heading>Fees and sanctions.</heading>
+      <para>
+        <num>A.</num>
+        <text>The costs of administration of this chapter, including the costs of mediation, shall be borne by the city, subject to reimbursement by imposition of a rent stabilization administration fee chargeable against each mobilehome space in the city not otherwise exempt from the fee. The cost of the independent expert review shall be paid by the park owner. The cost for arbitration shall be borne by the parties as set forth in <cite path="|15.04.100">Section 15.04.100</cite>(H).</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The administrator shall recommend to the city council the amount of such fee and the city council shall adopt such fee by resolution. The fee may be reviewed by the city council annually, but in any event, must be reviewed every two years and increased based on any increase in city administration costs. Sanctions will be recorded as revenue and will be taken into account when computing the annual administration fee.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>On or before October 31st of each year, each park owner of a mobilehome park in the city shall register with the administrator. The park owner shall provide in writing, the name and address of such park owner, a statement of the number of mobilehome spaces, including both occupied and unoccupied spaces, contained in that park owner's mobilehome park, and the number of recreational and commercial coach spaces, both occupied and unoccupied, in the mobilehome park. Re-registration and provision of this information must also be made upon change of ownership of the mobilehome park or an increase or a decrease in the number of spaces.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>On or before October 31st of each year, each mobilehome park owner shall pay to the administrator the mobilehome park rent stabilization program administration fee then in effect for each occupied mobilehome space in the park owner's mobilehome park, except for those spaces subject to a rental agreement in full compliance with the requirements of California Civil Code Section 798.17(a) and (b) or which qualify as new construction under California Civil Code Section 798.45. The administrator shall issue to each park owner a receipt for payment of the fees required by this section.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Allocation of Fee.</text>
+        <para>
+          <num>1.</num>
+          <text>A park owner who pays the fees may allocate fifty percent of the fees assessed against a mobilehome space to the resident pursuant to the provisions set forth below. This allocation shall be passed on, if at all, no later than the next park anniversary date or within twelve months from the date of payment to the city, and shall be prorated over a twelve-month period. The remaining fifty percent of the fees assessed against a mobilehome space shall not be passed on in any way to residents. Sanctions assessed to a mobilehome park owner may not be passed through to the residents, as the administration fee is.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The park owner shall provide to all affected residents documentation supporting the allowable amount to be collected in order to recover a portion of rent stabilization administration fees. At a minimum, such documentation shall include: (1) billing notices or other equivalent documents from the city imposing the rent stabilization administration fee; (2) a copy of this section; (3) the calculations used by the park owner to apportion the cost of the allowable percentage among the affected residents; (4) the address and telephone number of the administrator; and (5) notice to the affected resident that such resident is encouraged to contact the administrator for an explanation of the provisions of this chapter.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The fee allocation shall not be considered part of the base rent upon which future rent increases can be made.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The fee allocation shall be separately listed on any monthly or other periodic billing statement to the resident.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>A service fee equal to one and one-half percent per month will be charged on all late payments of administration fees under this chapter. The service fee may not be passed on to residents.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>The administrator shall have the power to impose monetary sanctions on any party violating this chapter. Any sanctions imposed shall not be subject to a claim for reimbursement or allocation of a fee. The administrator shall establish from time to time a schedule of the amount of sanctions to ensure chapter compliance subject to confirmation by resolution of the city council.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 16, 1997</annotation>
+        <annotation type="History">Ord. 96-05 § 10, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.210</num>
+      <heading>Exemption from fees.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any park owner who believes that the park owner may be entitled to a space fee exemption pursuant to California Civil Code Section 798.17 or 798.45 or any provision of this chapter, shall provide the administrator with the following documentation, as appropriate:</text>
+        <para>
+          <num>1.</num>
+          <text>The executed lease for each exempt space claimed and any amendments thereto;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>For a newly constructed space, proof that the space was constructed and initially held out for rent after January 1, 1990;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>For a recreational vehicle or commercial coach space, adequate documentation of a change in space tenancy within the preceding nine months;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>A statement of the basis for the exemption.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The administrator's decision as to an exemption shall be final.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 17, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.220</num>
+      <heading>When recreational vehicle/ commercial coach space residents are to be treated as prospective residents.</heading>
+      <text>Any recreational vehicle space that is occupied by a recreational vehicle as defined in Civil Code Section 799.24, and any commercial coach space that is occupied by a commercial coach as defined in Health and Safety Code Section 18001.8, for a period in excess of nine months on or after the effective date hereof shall be regarded as a "mobilehome space" for purposes of this chapter, and a resident upon such a space shall be entitled to all the rights, protections and obligations of this chapter. Such a space resident shall be counted as a "prospective resident" upon the effective date of the ordinance codified in this chapter, and said space shall be subject to the fees authorized by the city for mobilehome spaces. The space resident and the park owner shall apportion the fee in the manner authorized for mobilehome spaces subject to this chapter generally.</text>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 17, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.230</num>
+      <heading>Nonwaivable obligations.</heading>
+      <text>Any provision, whether oral or written, in or pertaining to a rental agreement, whereby any provision of this chapter is waived or modified, is against public policy and void, except with respect to any rental agreement complying with all of the terms and conditions set forth in California Civil Code Section 798.17.</text>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 17, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.240</num>
+      <heading>Penalties and remedies.</heading>
+      <text>In addition to those penalties and remedies set forth elsewhere in this chapter, any park owner who demands, accepts, receives or retains any money as rent from a resident to which the park owner is not entitled under the provisions of this chapter shall be liable to the resident for any actual damages, attorney's fees, and costs incurred by the resident as a consequence thereof plus a penalty in the sum of three times the amount of money the park owner accepted, received or retained in violation of the provisions of this chapter or five hundred dollars, whichever is greater.</text>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 17, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.250</num>
+      <heading>Rights of affected residents reserved.</heading>
+      <text>This chapter shall not be construed to limit or curtail any other action or proceeding which may be pursued by an affected resident against a park owner before any court or other body having jurisdiction thereof.</text>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 17, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.04.260</num>
+      <heading>Review by the city council.</heading>
+      <text>The administrator shall prepare an annual report to the city council which contains an overview of actions taken during the previous year to administer the provisions of this chapter and shall include a summary of staff time spent on tasks to administer the provisions of this chapter. Beginning no later than July 1, 2011, city staff shall track actual time spent on administration of this chapter.</text>
+      <text>The city council may review the effectiveness of the ordinance codified in this chapter annually, but in any event, must review it no later than two years from its enactment and every two years thereafter, and shall use the information contained in the administrator's annual report in its review. Notice of the time and place of the council's review shall be posted as required by law.</text>
+      <annotations>
+        <annotation type="History">Ord. 2011-04 § 1, 2011</annotation>
+        <annotation type="History">Ord. 97-03 § 17, 1997</annotation>
+        <annotation type="History">Ord. 95-20 § 1, 1995</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>15.08</num>
+    <heading>PARK AND CIVIC FACILITIES DEVELOPMENT IMPACT FEES</heading>
+    <section>
+      <num>15.08.010</num>
+      <heading>Purpose.</heading>
+      <text>This chapter has been enacted for the purpose of establishing development impact fees for parks and civic facilities fees to defray the actual costs of constructing improvements to mitigate impacts resulting from proposed new development identified in the American Canyon general plan.</text>
+      <annotations>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.08.020</num>
+      <heading>Findings.</heading>
+      <para>
+        <num>A.</num>
+        <text>The American Canyon general plan land use element identifies projected build out for the city of American Canyon; and</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The parks and recreation element of the general plan identifies the park facility needs of the community at build-out; and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>A portion of the land necessary will be dedicated by developers as conditions of subdivision approval while other developers may not have land of sufficient size, configuration, or quality for dedication. Where the payment of a fee is proposed in lieu of dedicating land, it is necessary to have an equitable fee structure in place; and</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The public services and facilities element of the general plan identifies the need for a police station, library, and other public facilities necessary to provide the range of services desired by existing and future residents; and</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>It is the intent of the city council to adopt by this chapter a fair and equitable method of securing the revenues necessary to fund the construction and implementation of necessary parks, civic facilities, and the future general plan update.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.08.030</num>
+      <heading>Definitions.</heading>
+      <text>As used in this chapter:</text>
+      <para>
+        <num>A.</num>
+        <text>"Civic facilities" include, but are not necessarily limited to, a City Hall, a police station, a corporation yard, a public library, or similar facilities desired to serve the public as more fully described in Exhibit A to the ordinance codified in this chapter.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Civic facilities fee" means the fee contributed by each land use category as more fully described in Exhibit A to the ordinance codified in this chapter.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>"Construction" means the original construction of a new single-family residence, duplex, condominium, townhouse, apartment, restaurant, motel or hotel, industrial use, retail use, commercial use, office use, institutional use, or any other use allowed under the general plan or zoning ordinance.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>"Parks" include active and passive public recreation facilities, and can include land, trails, and or buildings or other similar and related improvements.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.08.040</num>
+      <heading>Exemptions.</heading>
+      <text>The following projects are exempt from the provisions of this chapter:</text>
+      <para>
+        <num>A.</num>
+        <text>Development for which a vesting tentative map application has been accepted as complete or has been approved prior to the effective date of the ordinance codified in this chapter;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Capital improvements/buildings related to the operation of the city of American Canyon governmental operations;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Temporary uses less than twelve months in duration;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Replacement development on a one to one basis for residential construction;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Additions to residential units unless a new bedroom is constructed or created as a part of the proposed addition, in which case the fee shall be twenty percent of the adopted fee;</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Replacement of commercial units destroyed by fire or natural disaster provided the floor area is not increased.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.08.050</num>
+      <heading>Development impact fees.</heading>
+      <para>
+        <num>A.</num>
+        <text>A parks and civic facilities fee is imposed on new construction as set forth in this chapter. The fee shall be in accordance with the cost per unit (e.g., dwelling unit, square feet, hotel/motel rooms, etc.) as identified in Exhibit A to the ordinance codified in this chapter and defined in this section.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The city at its sole discretion may adopt revised parks and civic facilities impact fees based on the proportionate effects of inflation or changes to the cost of living. For purposes of calculation, the Engineering News Record 20-City Construction Cost Index shall be used for adjusting said fees. Said adjustments in accordance with this section may be approved by a resolution of the city council.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2004-03 § 1, 2004</annotation>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.08.060</num>
+      <heading>Collection of fees.</heading>
+      <text>The development impact fees set forth in this chapter shall be collected from new construction prior to issuance of a building permit, and for subdivisions prior to approval of a final map, unless other provisions are adopted as a part of an approved development agreement, or the city council authorizes an alternative to the timing of such fees by resolution.</text>
+      <annotations>
+        <annotation type="History">Ord. 2012-02 § 1, 2012</annotation>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.08.070</num>
+      <heading>In lieu contributions.</heading>
+      <para>
+        <num>A.</num>
+        <text>The parks fee set forth by this chapter may be reduced by a credit given for construction by a developer of all or a portion of the improvements identified in Exhibit A to the ordinance codified in this chapter and/or other on-site and/or off-site park lands dedicated in excess of the requirements of the city's subdivision ordinance, subject to the approval by the city council in each case.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The amount of the credit for parks fees shall be approved by the city council on recommendation by the community services director.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The civic facilities fee set forth by this chapter may be reduced by a credit given for construction by a developer of all or a portion of the improvements identified in Exhibit A to the ordinance codified in this chapter and/or other on-site and/or off-site civic facilities, subject to the approval by the city council in each case.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The amount of the credit for civic facilities fees shall be approved by the city council, based upon the recommendation of the city manager.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.08.080</num>
+      <heading>Change of use.</heading>
+      <text>In the event of change of use in a development for which parks and civic facilities fees were paid in accordance with this chapter, the city council may require the payment of the difference between the parks and civic facilities fees originally paid and the amount required by this chapter for the new use. The community development director and city engineer shall forward a recommendation to the city council in each case.</text>
+      <annotations>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.08.090</num>
+      <heading>Disposition of revenues.</heading>
+      <text>The fees collected pursuant to this chapter shall be held in separate accounts as deemed appropriate by the finance director and expended solely on the parks and civic facilities identified in this chapter and the future general plan update.</text>
+      <annotations>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.08.100</num>
+      <heading>Refunds.</heading>
+      <text>Where a building permit has expired and no extension has been granted, a refund of fees paid may be given, provided the claim for refund is made within one year after the expiration date of the building permit.</text>
+      <annotations>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.08.110</num>
+      <heading>Supplementary provisions.</heading>
+      <text>The fees required by this chapter shall be supplementary to the fees, dedications or conditions imposed on a development of new construction pursuant to city approval, or as may be imposed by existing state or local law.</text>
+      <annotations>
+        <annotation type="History">Ord. 98-03, 1998</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>15.12</num>
+    <heading>TRAFFIC MITIGATION IMPACT FEES</heading>
+    <section>
+      <num>15.12.010</num>
+      <heading>Purpose.</heading>
+      <text>This chapter has been enacted for the purpose of establishing development impact fees to defray the actual costs of constructing traffic improvements to mitigate impacts resulting from proposed new development identified in the American Canyon general plan.</text>
+      <annotations>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.020</num>
+      <heading>Findings.</heading>
+      <para>
+        <num>A.</num>
+        <text>The American Canyon general plan land use element identifies projected build-out for the city of American Canyon;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Each new land development project in the city of American Canyon will generate additional traffic within the city limits of American Canyon, which will cumulatively cause adverse environmental effects if improvements for traffic circulation are not made;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The American Canyon general plan circulation element identifies the roadway and intersection improvements necessary to accommodate the anticipated levels of development;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Without a traffic mitigation fee, existing and future sources of revenue will be inadequate to fund a substantial portion of the improvements for traffic circulation which are necessary to avoid the unacceptable level of congestion and related adverse impacts created by expected development within the city of American Canyon; and</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>It is the intent of the city council to adopt by the ordinance codified in this chapter a fair and equitable method of securing the revenues necessary to fund the construction and implementation of necessary traffic circulation improvements.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.030</num>
+      <heading>Definitions.</heading>
+      <text>For the purposes of this chapter:</text>
+      <para>
+        <num>A.</num>
+        <text>"Construction" means the original construction of a new single-family residence, townhouse, apartment, restaurant, motel or hotel, industrial use, retail use, office use, or institutional use.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>"Traffic improvements" mean those roadway and intersection improvements identified in the Circulation Element of the General Plan, the current City Traffic Impact Mitigation Fee Nexus Study, and the City Capital Improvement Program.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>"Traffic mitigation fee" or "traffic impact fee" or "traffic development impact fee" means that fee for traffic mitigation identified in the most recent traffic impact fee nexus study.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>"Traffic Impact Mitigation Fee Nexus Study" or "Traffic Development Impact Fee Study" or "Fee Study" means the most recent study, adopted by resolution of the city council pursuant to Government Code Section 66000 et seq. (Mitigation Fee Act), of the nexus between traffic impact mitigation fees and traffic improvements needed to serve new development in American Canyon.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-02 §§ 1-3, 2015</annotation>
+        <annotation type="History">Ord. 2006-10 § 2, 2006</annotation>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.040</num>
+      <heading>Exemptions.</heading>
+      <text>The following projects are exempt from the provisions of this chapter:</text>
+      <para>
+        <num>A.</num>
+        <text>Development for which a vesting tentative map application has been accepted as complete or has been approved prior to the effective date of the amended ordinance codified in this chapter. In such cases, an agreed-upon fee as part of the conditions of approval for said application shall remain in effect;</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Capital improvements/buildings related to the operation of the city of American Canyon governmental operations;</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Temporary uses less than twelve months in duration;</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Replacement development on a one-to-one basis for residential, industrial and commercial construction;</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Replacement of commercial units destroyed by fire or natural disaster, provided the floor area is not increased.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.050</num>
+      <heading>Development impact fees.</heading>
+      <para>
+        <num>A.</num>
+        <text>A traffic impact fee is imposed on new construction as set forth in this chapter. The fee shall be in accordance with the most recent Traffic Impact Mitigation Fee Nexus Study.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The city at its sole discretion may adopt revised traffic mitigation impact fees based on the proportionate effects of inflation or changes to the cost of living. For purposes of calculation, the Engineering News Record 20-City Construction Cost Index shall be used for adjusting said fees. Said adjustments in accordance with this section may be approved by a resolution of the city council.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The city, at its sole discretion, may adopt revised traffic mitigation impact fees based on a revised Traffic Impact Mitigation Fee Nexus Study adopted by resolution of the City Council pursuant to the Mitigation Fee Act.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-02 §§ 4, 5, 2015</annotation>
+        <annotation type="History">Ord. 2011-05 § 1, 2011</annotation>
+        <annotation type="History">Ord. 2004-02 § 1, 2004</annotation>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.060</num>
+      <heading>Collection of fees.</heading>
+      <text>The development impact fees set forth in this chapter shall be collected from new construction prior to issuance of a building permit, and for subdivisions prior to approval of a final map, unless other provisions are adopted as a part of an approved development agreement, or the city council authorizes an alternative to the timing of such fees by resolution.</text>
+      <annotations>
+        <annotation type="History">Ord. 2012-02 § 2, 2012</annotation>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.070</num>
+      <heading>In lieu contributions.</heading>
+      <text>The traffic impact fee set forth in this chapter may be reduced by a credit given for construction by a developer of all or a portion of the traffic improvement identified in this chapter subject to recommendation by the city engineer and approval by the city council.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-02 §§ 6, 7, 2015</annotation>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.090</num>
+      <heading>Alternative commercial rate program.</heading>
+      <text>The alternative commercial rate program recognizes the diversity of commercial uses and the potential differences in traffic generation rates and peak hour characteristics. The city council may consider the findings of an independent traffic study, prepared under the direction of the city engineer and funded by the applicant, justifying a lesser traffic impact fee.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-02 § 8, 2015</annotation>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.100</num>
+      <heading>Change of use.</heading>
+      <text>In the event of change of use in a development for which traffic impact fees were paid in accordance with this chapter, particularly those projects benefiting from either the special industrial incentive program or the alternative commercial rate program, the city council may require the payment of the difference between the traffic impact fees originally paid and the amount required by this chapter for new use. The community development director and city engineer shall forward a recommendation to the city council in each case.</text>
+      <annotations>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.110</num>
+      <heading>Disposition of revenues.</heading>
+      <text>The fees collected pursuant to this chapter shall be held in separate accounts as deemed appropriate by the city manager and expended solely on the traffic improvements identified in this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-02 § 9, 2015</annotation>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.120</num>
+      <heading>Refunds.</heading>
+      <text>Where a building permit has expired with no notable progress and no extension has been granted, a refund of fees paid may be given, provided the claim for refund is made within one year after the expiration date of the building permit.</text>
+      <annotations>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>15.12.130</num>
+      <heading>Supplementary provisions.</heading>
+      <text>The fees required by this chapter shall be supplementary to the fees, dedications or conditions imposed on a development of new construction pursuant to city approval, or as is imposed by existing state or local law.</text>
+      <annotations>
+        <annotation type="History">Ord. 99-18 § 1, 1999</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

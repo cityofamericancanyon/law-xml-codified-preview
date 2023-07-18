@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>6</num>
+  <heading>ANIMALS</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.04</num>
+    <heading>DOGS</heading>
+    <section>
+      <num>6.04.010</num>
+      <heading>When dogs to be leashed.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person owning or possessing a dog must keep the dog on a leash not exceeding six feet in length. The leash must be of sufficient strength to hold the dog, and the leash must be held by a person physically able to control the dog.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Exceptions. A dog may be unleashed under any of the following circumstances:</text>
+        <para>
+          <num>1.</num>
+          <text>When the dog is on enclosed property with the consent of the owner, lessee, or other person with legal control of the property; or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>When the dog is assisting a peace officer who is engaged in law enforcement duties; or</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>When the dog is a service animal, guide dog or Seeing-Eye dog used by a visually or mobility-impaired individual; or</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>When the dog is assisting a duly authorized person in an official search and rescue operation; or</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>When the dog is participating in law enforcement training or demonstration as authorized by the chief of police; or</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>When the dog is in a designated off-leash area as designated by the city council pursuant to resolution; or when the dog and the dog owner are in compliance with a park use permit issued by the community resources director for training, exhibition, or competition, and the permit is displayed, on request of any city employee, establishing the dog's compliance with the permit.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2014-05 § 1, 2014</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>6.04.020</num>
+      <heading>When dogs to be leashed—Enforcement.</heading>
+      <text>Pursuant to American Canyon Municipal Code <cite path="|1.24.010">Section 1.24.010</cite> violation of when dogs to be leashed constitutes an infraction unless such violation is specifically designated. (Ord. 2014-05 § 2, 2014)</text>
+      <annotations/>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.12</num>
+    <heading>BEEHIVES</heading>
+    <section>
+      <num>6.12.010</num>
+      <heading>Definitions.</heading>
+      <text>For the purpose of this chapter, the following words and phrases are defined and shall be construed as hereinafter set forth unless it shall be apparent from the context that a different meaning is indicated. Any word or phrase used in this chapter and not defined in this section shall be given the meaning established for such word or phrase by Chapter 1 of Division 13 of the California Agricultural Code.</text>
+      <text>"Apiary" means bees, comb, hives, appliances or colonies, wherever the same are kept, located or found.</text>
+      <text>"Bees" means honey-producing insects of the genus Apis, including all life stages of such insects.</text>
+      <text>"City" means the city of American Canyon.</text>
+      <text>"City council" means the city council of the city of American Canyon.</text>
+      <text>"Code" means the municipal code of the city of American Canyon.</text>
+      <text>"Commissioner" means the county agricultural commissioner and all regularly appointed employees of the commissioner's office acting pursuant to their official duties.</text>
+      <text>"County" means the county of Napa</text>
+      <text>"Hive" means any receptacle or container made or prepared for the use of bees, or which is inhabited by bees.</text>
+      <annotations>
+        <annotation type="History">Ord. 2013-01 § 1, 2013</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>6.12.020</num>
+      <heading>Apiary best management practices.</heading>
+      <para>
+        <num>A.</num>
+        <text>Apiaries shall be permitted within the city consistent with all of the provisions of this section:</text>
+        <para>
+          <num>1.</num>
+          <text>Apiaries shall consist of moveable frame hives in sound and useable condition.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Apiaries shall be operated and maintained in accordance with best management practices developed by the Napa County Beekeepers Association and as adopted by resolution of the city council.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Apiaries shall be screened from neighboring dwellings and public walkways.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The provisions of this chapter, however, shall not authorize the keeping of bees in a manner constituting a public nuisance as defined in <cite path="|1.20.020">Section 1.20.020</cite>(B)(2) of the Napa County Code, although no resolution of the city council shall be required to establish the public nuisance. (Ord. 2013-01 § 1, 2013)</text>
+      </para>
+      <annotations/>
+    </section>
+    <section>
+      <num>6.12.030</num>
+      <heading>Right of entry for enforcement.</heading>
+      <text>The commissioner is empowered to enter upon any premises where bees are kept, or upon which there is reason to believe that bees are kept, in order to carry into effect the provisions of this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2013-01 § 1, 2013</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>6.12.040</num>
+      <heading>Violation—Notice requirements.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person owning, controlling or maintaining an apiary who violates any of the provisions of this chapter shall be given notice thereof and an order to abate, either by the commissioner or any code enforcement officer. The order shall specify the violations of this chapter and conditions to be abated.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The order of abatement may be personally served, or if personal service cannot be effectuated, then by both posting a copy of the order on the property and mailing a copy of the order by certified mail to the owner of the property.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If, in the commissioner's or code enforcement officer's opinion, the specified violations constitute an immediate threat to the public's health and safety, the order shall provide the condi-</text>
+      </para>
+      <text>tions are to be corrected and abated within seventy-two hours of personal service or posting of the order.</text>
+      <para>
+        <num>D.</num>
+        <text>In all other instances, the specified violations shall be corrected and abated within fourteen days of personal service or posting of the order.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2013-01 § 1, 2013</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>6.12.050</num>
+      <heading>Violation—Remedies.</heading>
+      <text>In addition to remedies otherwise provided by law, a violation of this chapter shall be a public nuisance which may be civilly abated or criminally prosecuted and published in the manner set forth in Chapter 9.04 of this code.</text>
+      <annotations>
+        <annotation type="History">Ord. 2013-01 § 1, 2013</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>6.12.060</num>
+      <heading>Compliance with state law.</heading>
+      <text>Nothing in this chapter shall excuse compliance with state laws applicable to apiaries.</text>
+      <annotations>
+        <annotation type="History">Ord. 2013-01 § 1, 2013</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6.13</num>
+    <heading>KEEPING OF ROOSTERS</heading>
+    <section>
+      <num>6.13.010</num>
+      <heading>Purpose.</heading>
+      <text>The intent of this chapter is to limit the number of roosters that may be kept on a single legal parcel, to eliminate the potential for public nuisance, illegal cockfighting and the raising of birds to be used for cockfighting, and for the protection of the health and safety of the residents of American Canyon.</text>
+      <annotations>
+        <annotation type="History">Ord. 2014-02 § 2, 2014</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>6.13.020</num>
+      <heading>Definitions.</heading>
+      <text>Unless the context requires otherwise, the definitions in this section shall govern the interpretation of the provisions of this chapter.</text>
+      <text>"Agricultural commissioner" means the Napa County agricultural commissioner-sealer of weights and measures, or the agricultural commissioner's designees.</text>
+      <text>"City" means the city of American Canyon</text>
+      <text>"Cockfighting" is the practice of setting two male birds or roosters to fight each other.</text>
+      <text>"Rooster" means any male chicken which has any one of the following characteristics:</text>
+      <para>
+        <num>1.</num>
+        <text>Six months or older;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Has full adult plumage;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Capable of crowing.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2014-02 § 2, 2014</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>6.13.030</num>
+      <heading>Rooster keeping.</heading>
+      <para>
+        <num>A.</num>
+        <text>The number of roosters that may be raised or kept on any property within the city of American Canyon is limited in accordance with the following schedule:</text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Parcel Size</th>
+                <th>Max. No. of Roosters</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Less than 0.5 acres</td>
+                <td>0 Roosters</td>
+              </tr>
+              <tr>
+                <td>0.5 acres to 1.5 acres</td>
+                <td>1 Rooster</td>
+              </tr>
+              <tr>
+                <td>Greater than 1.5 acres</td>
+                <td>4 Roosters</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Rooster enclosures shall have a minimum setback from adjacent residences of one hundred and fifty feet.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>This section shall not apply to commercial poultry ranches whose primary commodity is the production of eggs or meat for sale as permitted by the city, public or private schools as registered with the California Department of Education, Future Farmers of America (FFA) or 4-H sponsored projects, or to legitimate poultry hobbyists as approved in writing by the agricultural commissioner.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Each individual rooster beyond the rooster limitation in subsection A of this section constitutes a separate violation.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>No rooster may kept on property so that it constitutes a nuisance in accordance with Chapter 8.12 of the municipal code (Community Noise Ordinance).</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Nothing in the foregoing is to be construed as approving the keeping of any poultry in contravention of any statute, zoning ordinance, or other law.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>At all times, roosters shall be provided:</text>
+        <para>
+          <num>1.</num>
+          <text>Access to water and shelter from the elements (rain, wind, direct sun, etc.);</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Sufficient room to spread both wings fully and to be able to turn in a complete circle without any impediment and without touching the side of an enclosure; and</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Clean and sanitary premises that are kept in good repair.</text>
+        </para>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The agricultural commissioner shall establish written standards necessary to carry out the intent of this chapter and may condition any approval based on compliance with the written regulations and standards. Failure of any property owner and any person occupying or leasing the property to comply with any of the provisions of this chapter or applicable law, or the regulations and standards of the agricultural commissioner shall constitute good cause for the denial of any approval, either original or renewal, or for its revocation.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2014-02 § 2, 2014</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>6.13.040</num>
+      <heading>Tethering prohibited.</heading>
+      <text>Notwithstanding any other provision of law, no person shall maintain any rooster by means of a tether attached to an object. Each individual rooster so tethered constitutes a separate violation.</text>
+      <annotations>
+        <annotation type="History">Ord. 2014-02 § 2, 2014</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>6.13.050</num>
+      <heading>Liability and enforcement.</heading>
+      <para>
+        <num>A.</num>
+        <text>Any person who violates any of the provisions of this chapter shall be guilty of either an infraction or a misdemeanor.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>In addition to the penalties set forth in subsection A of this section, violators of this chapter may be subject to a public nuisance abatement action brought under the provisions of Chapter 9.12 and the civil penalty provisions as provided in subsection D of <cite path="|9.12.030">Section 9.12.030</cite> and may also be subject to an unfair competition action brought pursuant to Business and Professions Code Section 17200 et seq. and up to two thousand five hundred dollars civil penalty per violation.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>The civil remedies and penalties provided by this subsection are cumulative to each other.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2014-02 § 2, 2014</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

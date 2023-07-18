@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., 2023-03">
+  <num>2023-03</num>
+  <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON AMENDING THE AMERICAN CANYON MUNICIPAL CODE CHAPTER 19.38 "EMERGENCY SHELTERS"; AND CHAPTER 19.39 "ACCESSORY DWELLING UNITS CONSISTENT WITH CURRENT STATE LAW</heading>
+  <meta>
+    <effective>2023-05-18</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-03.pdf" proof="needed">Ord. No. 2023-03</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2023-03</citation>
+    </citations>
+    <history>
+      <introduced>2023-04-04</introduced>
+      <adopted>2023-04-18</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on January 31, 2023, the Planning Commission recommended, and the City Council approved the 6th Cycle Housing Element (Housing Element); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on February 7, 2023, the State of California Department of Housing and Community Development (HCD) submitted a letter that identifies needed changes to the City's Accessory Dwelling Unit Ordinance (American Canyon Municipal Code (ACMC) Chapter 19.39); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on February 10, 2023, HCD submitted a letter that comprehensively reviews the Housing Element including comments to amend the Emergency Shelter parking requirements (ACMC Chapter 19.38); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Staff is actively working on responding to all of HCD's comments. Specific Ordinance Amendments that address certain HCD Housing Element letter comments include the following:</text>
+      <para>
+        <num>1.</num>
+        <text><u>Zoning for a Variety of Housing Types (Emergency Shelters)</u> Municipal Code Chapter 19.38 requires Emergency Shelters provide two parking spaces per staff and one space per six occupants. However, State Law prohibits resident parking requirements unless the City can demonstrate that the combined employee and resident requirements do not exceed the parking standards for other commercial and residential uses in that zone. To address HCD’s State Law Emergency Shelter parking requirement comment, the resident parking requirement will be deleted. </text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text><u>ADU Ordinance Update</u> HCD identified inconsistencies between the Municipal Code Chapter 19.39 ADU ordinance and State Law. To address HCD’s comments, the ADU ordinance will be revised consistent with HCD review comments that address State law; and</text>
+      </para>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments modifies Chapter 19.38 Emergency Shelters consistent with current State law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments modifies Chapter 19.39 Accessory Dwelling Units consistent with current State law; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a duly-noticed public hearing was held by the City of American Canyon Planning Commission on March 23, 2023 on the subject ordinance, and recommends City Council approval; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a duly-noticed public hearing was held by the City of American Canyon City Council on April 4, 2023 on the subject ordinance, at which time all those in attendance were given the opportunity to speak on this proposal and to submit comments.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Adopt the updated American Canyon Municipal Code Chapter 19.38 "Emergency Shelter" as follows:</text>
+    <text>
+      <strong>Chapter 19.38 EMERGENCY SHELTERS</strong>
+    </text>
+    <text>
+      <strong>19.38.010 Location of emergency shelters.</strong>
+    </text>
+    <text>Emergency shelters are permitted as an allowed use in the community commercial (CC) and light industrial (LI) subject to the location restrictions identified in this section. Emergency shelters are also permitted within the medium density residential (RM), high density residential (RH) with approval of a conditional use permit and subject to the location restrictions identified in this section. Emergency shelters shall not be located within less than three hundred from any other existing emergency shelter facility. (Ord. 2014-06 § 6, 2014)</text>
+    <text>
+      <strong>19.38.020 Standards.</strong>
+    </text>
+    <text>In addition to the development standards in the underlying zoning district, emergency shelters shall comply with the standards set forth in this section. In the event of conflict between these standards and the underlying zoning district regulations, the provisions of this section shall apply.</text>
+    <para>
+      <num>A.</num>
+      <text>Physical Characteristics.</text>
+      <para>
+        <num>1.</num>
+        <text>Compliance with applicable state and local uniform housing and building code requirements.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The facility shall have on-site security during all hours when the shelter is open.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Facilities shall provide exterior lighting on pedestrian pathways and parking lot areas on the property. Lighting shall reflect away from residential areas and public streets.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Facilities shall provide secure areas for personal property.</text>
+      </para>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Limited Number of Beds per Facility. Emergency shelters shall not exceed forty beds.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Limited Terms of Stay. The maximum term of staying at an emergency shelter is six months in a consecutive twelve-month period.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Parking. The emergency shelter shall provide on-site parking at a rate of two spaces per facility for staff.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Emergency Shelter Management. A management plan is required for all emergency shelters to address management experience, good neighbor issues, transportation, client supervision, client services, and food services. Such plan shall be submitted to and approved by the community development department prior to operation of the emergency shelter. The plan shall include a floor plan that demonstrates compliance with the physical standards of this chapter. The operator of each emergency shelter shall annually submit the management plan to the planning, inspections and permitting department with updated information for review and approval. (Ord. 2014-06 § 6, 2014)</text>
+    </para>
+    <text><strong>Section 2:</strong> Adopt the updated American Canyon Municipal Code Chapter 19.39 "Accessory Dwelling Units" as follows:</text>
+    <text>American Canyon, California Municipal Code Title 19 ZONING</text>
+    <text>DIVISION 2. ZONING DISTRICT PERMITTED USES AND DEVELOPMENT STANDARDS</text>
+    <text>Chapter 19.39 ACCESSORY DWELLING UNITS</text>
+    <text>
+      <strong>19.39.010 Purpose of the chapter.</strong>
+    </text>
+    <text>
+      <strong>19.39.020 Applicability.</strong>
+    </text>
+    <text>
+      <strong>19.39.030 General plan consistency.</strong>
+    </text>
+    <text>
+      <strong>19.39.040 Definitions.</strong>
+    </text>
+    <text>
+      <strong>19.39.050 Development standards—Generally.</strong>
+    </text>
+    <text>
+      <strong>19.39.060 Junior accessory dwelling unit standards.</strong>
+    </text>
+    <text>
+      <strong>19.39.070 Parking standards.</strong>
+    </text>
+    <text>
+      <strong>19.39.080 Operational standards.</strong>
+    </text>
+    <text>
+      <strong>19.39.090 Design standards.</strong>
+    </text>
+    <text>
+      <strong>19.39.100 Review and approval process.</strong>
+    </text>
+    <text>
+      <strong>19.39.110 Code enforcement.</strong>
+    </text>
+    <text>
+      <strong>19.39.010 Purpose of the chapter.</strong>
+    </text>
+    <text>The purpose of this chapter is to increase the supply of smaller units and rental housing units by allowing accessory dwelling units on lots containing a single-family dwelling in various residential districts as shown on Table 19.10.040, and to establish design and development standards for accessory dwelling units to ensure that they are compatible with existing neighborhoods and consistent with the general plan and its elements. Accessory dwelling units contribute needed housing to the community's housing stock. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
+    <text>
+      <strong>19.39.020 Applicability.</strong>
+    </text>
+    <text>The provisions of this chapter apply to all lots that are occupied with a single-family dwelling unit and multifamily dwelling and zoned residential. Accessory dwelling units do not exceed the allowable density for the lot upon which the accessory dwelling unit is located and are a residential use that is consistent with the existing general plan and zoning designation for the lot. (Ord. 2020-04 § 1, 2020; Ord. 2017-05</text>
+    <text>§ 2, 2017)</text>
+    <text>
+      <strong>19.39.030 General plan consistency.</strong>
+    </text>
+    <text>An accessory dwelling unit that conforms to this chapter shall be deemed to be an accessory use or an accessory building and shall not be considered to exceed the allowable density for the lot upon which it is located, and shall be deemed to be a residential use that is consistent with the existing general plan and zoning designations for the lot. The accessory dwelling units shall not be considered in the application of any local ordinance, policy, or program to limit residential growth in accordance with Government Code Section 65852.2(a)(8). (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
+    <text>
+      <strong>19.39.040 Definitions.</strong>
+    </text>
+    <text>"Accessory dwelling unit" means one additional dwelling unit attached to, within, or detached from the proposed or existing primary dwelling unit  one thousand two hundred square feet or less that is on the same parcel in areas zoned to allow  single-family and/or multifamily dwelling residential use, and provides permanent and independent provisions for living, sleeping, eating, cooking, and sanitation for one or more persons. An accessory dwelling unit also includes the following:</text>
+    <para>
+      <num>1.</num>
+      <text>An efficiency unit, as defined in Section 17958.1 of the Health and Safety Code.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>A manufactured home, as defined in Section 18007 of the Health and Safety Code.</text>
+    </para>
+    <text>"Junior accessory dwelling unit" means one accessory dwelling unit that is five hundred square feet or less that is contained entirely in the primary residence or within an attached garage.</text>
+    <text>"Primary residence" means the residential dwelling that existed on the parcel before or constructed concurrent with the accessory dwelling unit. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
+    <text>
+      <strong>19.39.050 Development standards—Generally.</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Each accessory dwelling unit requires approval of a building permit.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The applicant of each accessory dwelling unit building permit application shall identify the anticipated rent and household size of the new accessory dwelling unit.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>One detached accessory dwelling unit and one junior accessory dwelling unit are permitted per single-family parcel.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>A single-family primary residence dwelling must exist on the parcel before the accessory dwelling unit is built or it shall be built concurrently with the accessory dwelling unit.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Accessory dwelling units shall comply with the lot area, yard setback, height, and building coverage standards of the applicable residential zoning district as described in Section 19.10.050 except for the following:</text>
+      <para>
+        <num>1.</num>
+        <text>The accessory dwelling unit is built in the garage and the garage setback is closer than the setback for the primary residence.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>If the accessory dwelling unit is built in an existing accessory structure, the existing accessory structure setbacks apply and not the setbacks for a single-family house.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Existing setbacks apply to existing structure conversions.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Development standards shall be waived to permit a detached accessory dwelling unit that is no greater than eight hundred square feet, and has four-foot setbacks.  The maximum height depends on these conditions:</text>
+        <para>
+          <num>i.</num>
+          <text>A height of 16 feet for a detached accessory dwelling unit on a lot with an existing or proposed single family or multifamily dwelling unit.</text>
+        </para>
+        <para>
+          <num>ii.</num>
+          <text>A height of 18 feet for a detached accessory dwelling unit on a lot with an existing or proposed single family or multifamily dwelling unit that is within one-half of one mile walking distance of a major transit stop or a high-quality transit corridor, as those terms are defined in Section 21155 of the Public Resources Code. A local agency shall also allow an additional two feet in height to accommodate a roof pitch on the accessory dwelling unit that is aligned with the roof pitch of the primary dwelling unit.</text>
+        </para>
+        <para>
+          <num>iii.</num>
+          <text>A height of 18 feet for a detached accessory dwelling unit on a lot with an existing or proposed multifamily, multistory dwelling.</text>
+        </para>
+        <para>
+          <num>iv.</num>
+          <text>A height of 25 feet or the height limitation in the local zoning ordinance that applies to the primary dwelling, whichever is lower, for an accessory dwelling unit that is attached to a primary dwelling. This clause shall not require a local agency to allow an accessory dwelling unit to exceed two stories.</text>
+        </para>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The applicant shall not be required to correct pre-existing nonconforming zoning conditions as conditions of approval.</text>
+      </para>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>Accessory Dwelling Living Area Standard.</text>
+      <para>
+        <num>1.</num>
+        <text>Detached accessory dwelling units shall not exceed one thousand two hundred square feet and height in accordance with Section 19.35.050(E)(4).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Attached accessory dwelling units may occupy up to fifty percent of the primary residence living area but shall not exceed one thousand two hundred square feet.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Junior accessory dwelling units shall not exceed five hundred square feet.</text>
+      </para>
+    </para>
+    <para>
+      <num>G.</num>
+      <text>Fire Sprinkler Requirements.</text>
+      <para>
+        <num>1.</num>
+        <text>Accessory dwelling units shall comply with all applicable fire safety provisions of state law as well as locally adopted building and fire codes under Title 16. Examples include, but are not limited to, standards such as water supply and fire department access.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Under state law, in general, accessory dwelling units shall not be required to be equipped with fire sprinklers unless fire sprinklers are required for the primary residence. For purposes of this requirement, the following standards shall apply:</text>
+        <para>
+          <num>i.</num>
+          <text>When the primary residence has fire sprinklers, the accessory dwelling unit shall be constructed with fire sprinklers.</text>
+        </para>
+        <para>
+          <num>ii.</num>
+          <text>When the primary residence does not have fire sprinklers, the junior accessory dwelling unit and attached accessory dwelling unit do not require fire sprinklers unless the junior accessory dwelling unit or attached accessory dwelling unit increases the size of the house by at least fifty percent.</text>
+        </para>
+        <para>
+          <num>iii.</num>
+          <text>Detached accessory dwelling units require fire sprinklers unless the primary residence does not have fire sprinklers.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>H.</num>
+      <text>Deed Restrictions. Prior to issuing a building permit for an accessory dwelling unit, the property owner shall file with the county recorder, in a format with language approved by the city, a declaration of restrictions containing a reference to the deed under which the property was acquired by the present owner and stating that:</text>
+      <para>
+        <num>1.</num>
+        <text>The accessory dwelling unit shall not be sold separately.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The restrictions are binding upon any successor in ownership of the property.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The property owner must occupy as a primary residence one of the two dwelling units on the property, either the primary or accessory dwelling unit except accessory dwelling unit and junior accessory dwelling unit applications submitted between January 1, 2020 to January 1, 2025.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>When the applicant is a qualified nonprofit housing organization, a deed restriction is not required.</text>
+      </para>
+    </para>
+    <para>
+      <num>I.</num>
+      <text>Impact Fees.</text>
+      <para>
+        <num>1.</num>
+        <text>Accessory dwelling units less than seven hundred and fifty square feet are exempt from all city impact fees.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Impact fees for accessory dwelling units equal or greater than seven hundred and fifty square feet are exempt from water and sewer capacity fees. All remaining impact fees shall be charged proportionately in relation to the square footage of the primary dwelling unit.</text>
+      </para>
+    </para>
+    <para>
+      <num>J.</num>
+      <text>Accessory Dwelling Units on Multifamily Dwellings. The building division shall review and approve ministerially accessory dwelling units under the following conditions.</text>
+      <para>
+        <num>1.</num>
+        <text>Non-habitable area within an existing multifamily dwelling structure, including, but not limited to: storage rooms, boiler rooms, passageways, attics, basements or garages, may be converted to one or more accessory dwelling units if each accessory dwelling unit complies with state dwelling unit building standards.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>An existing multifamily dwelling shall be permitted to accommodate additional accessory dwelling units in an amount up to twenty-five percent of the existing multifamily dwelling units.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>An existing multifamily dwelling is permitted up to two detached accessory dwelling units on the same lot. Each detached accessory dwelling unit shall subject to a height limit in accordance with Section 19.35.050(E)(4) and four- foot rear yard and side yard setbacks.</text>
+      </para>
+    </para>
+    <para>
+      <num>K.</num>
+      <text>CC&amp;Rs. As defined in California Civil Code Section 4751 or any successor statute, any covenant, condition, and restriction (CC&amp;R) or contained in any deed, contract, security instrument, or other instrument affecting the transfer or sale of any interest in a planned development, and any provision of a governing document, that effectively prohibits or unreasonably restricts the construction or use of an accessory dwelling unit or junior accessory dwelling unit on a lot zoned for single-family residential use that meets the above-described minimum standards (subsections F and G) established for those units shall be void and unenforceable. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
+    </para>
+    <text>
+      <strong>19.39.060 Junior accessory dwelling unit standards.</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>Each junior accessory dwelling unit shall comply with the following building standards.</text>
+      <para>
+        <num>1.</num>
+        <text>Electric service may not exceed one hundred twenty volts.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>No appliances may be fueled with natural gas or propane.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>The dwelling must have its own exterior entrance.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>The kitchen must include a cooking facility with appliances, and includes a food preparation counter and storage cabinets that are of reasonable size in relation to the size of the junior accessory dwelling unit.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The kitchen sink waste line may not exceed one and one-half inches.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>The bathroom may be included in the unit or shared with the primary residence.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Junior accessory dwelling units are exempt from the building code wall separation requirements with the primary residence. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
+      </para>
+    </para>
+    <text>
+      <strong>19.39.070 Parking standards.</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>When accessory dwelling unit parking is required by this chapter or provided at the discretion of the homeowner, parking spaces may be covered or uncovered, provided as tandem parking on an existing driveway or on a paved surface in a setback or yard area.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Primary Residence. Parking for the primary residence must comply with Chapter 19.21.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Detached Accessory Dwelling Unit.</text>
+      <para>
+        <num>1.</num>
+        <text>A minimum of one on-site parking space is required.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Notwithstanding subsection (C)(1), on-site parking is not required when:</text>
+        <para>
+          <num>i.</num>
+          <text>The detached accessory dwelling unit is located within one-half mile walking distance of public transit or within one block of a car- sharing pickup/drop-off location; and/or</text>
+        </para>
+        <para>
+          <num>ii.</num>
+          <text>The ADU is located within an architecturally and historically significant historic district; and/or</text>
+        </para>
+        <para>
+          <num>iii.</num>
+          <text>The ADU is part of the proposed or existing primary residence or an accessory structure; and/or</text>
+        </para>
+        <para>
+          <num>iv.</num>
+          <text>On-street parking permits are required but not offered to the occupant of the ADU.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Attached Accessory Dwelling Unit. No on-site parking is required.</text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>Junior Accessory Dwelling Unit. No on-site parking is required.</text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>When a garage, carport, or covered parking structure is demolished in conjunction with the construction of an accessory dwelling unit or converted to an accessory dwelling unit, the city shall not require replacement of the off-street parking spaces. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
+    </para>
+    <text>
+      <strong>19.39.080 Operational standards.</strong>
+    </text>
+    <para>
+      <num>A.</num>
+      <text>The accessory dwelling unit may not be sold separately from the primary residence.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Owner-Occupancy. The property owner shall reside in either the primary residence or the accessory dwelling unit except accessory dwelling unit and junior accessory dwelling unit applications submitted between January 1, 2020 to January 1, 2025.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>An accessory dwelling unit may not be rented for transient occupancy (less than thirty consecutive days). (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
+    </para>
+    <text>
+      <strong>19.39.090 Design standards.</strong>
+    </text>
+    <text>Accessory dwelling units shall comply with the following design standards that are intended to maximize the compatibility of accessory dwelling units with the neighborhoods in which they are located.</text>
+    <para>
+      <num>A.</num>
+      <text>The accessory dwelling unit shall comply with any City adopted objective design standards applicable to ADUs.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>An accessory dwelling unit connected to an onsite water treatment system requires a percolation test completed within the last five years, or, if the percolation test has been recertified, within the last ten years. (Ord. 2020-04 § 1, 2020; Ord. 2017-05 § 2, 2017)</text>
+    </para>
+    <text>
+      <strong>19.39.100 Review and approval process.</strong>
+    </text>
+    <text>Permits for accessory dwelling units and junior accessory dwelling units shall be reviewed ministerially through the building division in accordance to Government Code Section 65852.2 (a) through (e).</text>
+    <para>
+      <num>A.</num>
+      <text>The building division shall act on the application to create an accessory dwelling unit or junior accessory dwelling unit within sixty days from the date the building division receives a completed application if there is an existing single-family or multifamily dwelling on the lot.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>If the permit application to create an accessory dwelling unit or junior accessory dwelling unit is submitted concurrently with a permit application to create a new single-family dwelling on the lot, the building division may delay acting on the accessory dwelling unit or junior accessory dwelling unit permit application until the building division acts on the new single-family dwelling permit application, but the application to create the accessory dwelling unit or junior accessory dwelling unit shall be considered ministerial without discretionary review or a hearing. If the applicant requests a delay, the sixty-day time period shall be tolled for the period of the delay. (Ord. 2020-04 § 1, 2020)</text>
+    </para>
+    <text>
+      <strong>19.39.110 Code enforcement.</strong>
+    </text>
+    <text>For accessory dwelling units built before January 1, 2020, the property owner may request delayed enforcement of building standards for five years.</text>
+    <para>
+      <num>A.</num>
+      <text>There shall be no delays granted after January 1, 2030.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>There shall be no delays granted if the delay of the correction will cause a violation needed to protect health and safety. (Ord. 2020-04 § 1, 2020)</text>
+    </para>
+  </section>
+  <section>
+    <num>3</num>
+    <text>CEQA FINDINGS. The City Council finds the municipal code amendments are exempt from environmental review under CEQA because the amendments are consistent with State law that preempt any inconsistent local ordinance.  Thus, the City's action is not creating a new land use regulation and it can be seen with certainty that no environmental impacts will result from the City's action. Consequently, and in accordance with CEQA Section 21084(a) and both Section 15002(i)(1) – lack of Local Jurisdictional Discretion – and Section 15061(b)(3) – General Rule of Exemption – of the CEQA Guidelines, the ordinance adoption is exempt from CEQA review and a Notice of Exemption has been prepared for this proposed amendment.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Effective Date.  This ordinance shall become effective effect 30 days after its final passage pursuant to Government Code section 36937.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Severability.  If any section, sentence, clause or phrase of this Ordinance is for any reason held to be invalid or unconstitutional by a decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this Ordinance.  The City Council hereby declares that it would have passed this Ordinance and adopted this Ordinance and each section, sentence, clause or phrase thereof, irrespective of the fact that one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <text>Custodian of Records. The documents and materials that constitute the record of proceedings on which this Ordinance is based are located at the City Clerk's office located at 4831 Broadway, Suite 201, American Canyon, CA 94503.  The custodian of these records is the City Clerk.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 4<sup>TH</sup> day of April, 2023 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Joseph, Oro, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Councilmember Aboudamous</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 18th day of April, 2023, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Oro, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

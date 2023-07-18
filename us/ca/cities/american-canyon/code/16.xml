@@ -1,0 +1,2539 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>16</num>
+  <heading>BUILDING AND CONSTRUCTION CODES</heading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.01</num>
+    <heading>GENERAL PROVISIONS</heading>
+    <section>
+      <num>16.01.010</num>
+      <heading>Title.</heading>
+      <text>The title of Title 16 shall be "Building and Construction Codes."</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.01.020</num>
+      <heading>Purpose.</heading>
+      <text>Building Codes are adopted as a means of regulating the construction, alteration, and maintenance of buildings. This Building and Construction Code is intended to:</text>
+      <para>
+        <num>A.</num>
+        <text>Promote the health, safety, and welfare of the residents of the city of American Canyon and other persons visiting the city; and</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Ensure compliance with local, state, and nationally adopted standards and methods of building construction; and</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Enable the building official to enforce the provisions of this title.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.01.030</num>
+      <heading>Administration of title.</heading>
+      <text>The provisions of this title shall be administered by the building official, who is the enforcement officer for all provisions, unless otherwise specified in a particular section, and authorized representatives. All other officers and employees of the city shall assist and cooperate in the administration of this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.01.040</num>
+      <heading>Applicability of certain terms.</heading>
+      <text>The term "building official" means the chief building official or designee.</text>
+      <text>The term "authority having jurisdiction" means the chief building official or designee.</text>
+      <text>The term "fire marshal" is used, it means the fire chief of the American Canyon fire protection district or designee.</text>
+      <text>The term "health officer" means the authorized representative of the Napa County environmental health department.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.02</num>
+    <heading>CALIFORNIA BUILDING CODE</heading>
+    <section>
+      <num>16.02.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the California Building Code of the city and any reference in the city municipal code or any chapter thereof to the California Building Code applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Building Code, 2022 Edition," published and copyrighted by the International Code Council. The documents identified in this section are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.02.030">16.02.030</cite> through <cite path="|16.02.260">16.02.260</cite> of this chapter. A copy of the adopted California Building Code shall be kept on file in the office of the building official for use and examination by members of the public. (Ord. 2022-05 § 1, 2022)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.02.030</num>
+      <heading>Appendices.</heading>
+      <text>The Building Code as adopted by <cite path="|16.02.020">Section 16.02.020</cite> is amended and adopted with the following appendices:</text>
+      <text>Appendix Chapter C, Group U – Agricultural Buildings</text>
+      <text>Appendix Chapter F, Rodent Proofing</text>
+      <text>Appendix Chapter G, Flood Resistant Construction</text>
+      <text>Appendix Chapter H, Signs</text>
+      <text>Appendix Chapter I, Patio Covers</text>
+      <text>Appendix Chapter J, Grading</text>
+      <text>Appendix Chapter O, Emergency Housing</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.040</num>
+      <heading>Findings and determination.</heading>
+      <text>As permitted in Health and Safety Code Section 17958.7, the city of American Canyon finds and determines the local amendments to the 2022 California Building Code are either administrative in nature or reasonably necessary to protect the health, safety and general welfare of the public due to local climatic, geological or topographical conditions. Those findings are as follows:</text>
+      <text>Express Finding Number 1: Climatic. The city is located in a climatic zone with precipitation ranging from fifteen to twenty-six inches per year. Ninety-five percent of precipitation falls during the months of November through April, leaving a dry period of approximately six months each year. Relative humidity remains moderate most of the time. High temperatures in the summer average in the mid-eighty degrees Fahrenheit and in the winter in the mid-fifty degrees Fahrenheit. Prevailing winds in the area are common with gusts up to thirty-five miles per hour. These climatic conditions, along with our topography, necessitate a greater requirement for fire-sprinklers in residential construction, a minimum Class A roof covering and adequate spark arrestors.</text>
+      <text>Express Finding Number 2: Geological. The city is located in Seismic Design Category D, which is indicative of high seismic vulnerability. The West Napa fault is documented to be present in our city. The area includes various soil conditions and areas with significant movement potential. Buildings and other structures in Seismic Design Category D can experience major seismic damage. These geological conditions necessitate the prohibition of gypsum as a lateral-resisting building element, and the restriction of Portland cement plaster as a lateral-resisting building element to one-story structures of R-3 and U-1 occupancies.</text>
+      <text>Express Finding Number 3: Topographical. Areas of highly combustible dry grasses, weeds, brush and trees adjacent to structures are common throughout the city. Above-ground electrical power transmission lines are suspended through trees and above large areas of dry vegetation. The arrangement of man-made features around many buildings greatly limits any approach to all but one side of a building. The area immediately adjacent to the eastern border of the city has been classified as high and very high fire severity zones under the Fire and Resource Assessment Program of the California Department of Forestry and Fire Protection. These topographical conditions, along with our climate, necessitate a greater requirement for fire-sprinklers in residential construction, a minimum Class A roof covering and adequate spark arrestors.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.060</num>
+      <heading>Amend Section 101.4.1 Gas.</heading>
+      <text>Section 101.4.1 first sentence is amended to read as follows:</text>
+      <text><strong>101.4.1 Gas.</strong> The provisions of the California Plumbing Code and California Mechanical Codes shall apply in the installation of gas piping from the point of delivery, gas appliances and related accessories as covered in this code.</text>
+      <text>The remainder of the paragraph is retained as published.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.070</num>
+      <heading>Amend Section 105.2 exception 1 Work exempt from permit.</heading>
+      <text>Section 105.2 exception 1 is hereby deleted and amended to read as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>One-story detached accessory structures used as tool and storage sheds, playhouses and similar uses, provided the floor area does not exceed 120 square feet. It is permissible for these structures to be regulated by Section 337 despite exemption from permit when they provide habitable living space.</text>
+        <text/>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.080</num>
+      <heading>Amend Section 105.5 Expiration.</heading>
+      <text>Section 105.5 is hereby deleted and amended to read as follows:</text>
+      <text>Every permit issued by the Building Official under the provisions of this code shall expire by limitation and become null and void if the building, structure, equipment or work authorized by such permit is not commenced within twelve (12) months from the date of such permit, or if the building, structure, equipment or work authorized by such permit is suspended or abandoned at any time after the work is commenced for a period of one hundred eighty (180) days.</text>
+      <text>Before such work can recommence, a new permit shall be first obtained to do so, and the recommence fee shall be one half the amount required for a new permit (i.e. building, electrical, plumbing and mechanical fees only) for such work, provided no changes have been made or will be made in the original plans and specifications for such work, and provided further such suspension or abandonment has not exceeded one year. To renew a permit after expiration for over one year, the permittee shall pay new full permit fee. The maximum life of any permit is three (3) years.</text>
+      <text>Any permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time frame required by this section for good and satisfactory reasons. The Building Official may extend the time for action by the permittee for a period not exceeding one hundred eighty (180) days on written request by the permittee showing circumstances beyond the control of the permittee that prevented action from being taken.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.090</num>
+      <heading>Amend Section 107.1.2 Electric vehicle charging stations.</heading>
+      <text>Section 107.1.2 of Chapter 1 of Division II of the California Building Code is hereby added to read:</text>
+      <text><strong>107.1.2 Electric vehicle charging stations.</strong> Applications for electric vehicle charging stations may be processed utilizing the City of American Canyon Electric Vehicle Charging Station Expedited/Streamlined ordinance.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.095</num>
+      <heading>Amend Section 202 General definitions.</heading>
+      <text>Section 202 of Chapter 2 of the California Building Code is hereby amended to add or modify the following definitions to read:</text>
+      <text><strong>City of American Canyon Electric Vehicle Charging Station Expedited/Streamlined Permitting Process.</strong> A ministerial permitting process for electric vehicle charging station installations that utilizes an application checklist to expedite review of an electric vehicle charging station permit. For such installations, the process, including permit issuance, may be conducted entirely online utilizing digital forms or may be conducted at the City's Building Permit Counter utilizing printed forms.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.100</num>
+      <heading>Amend Section 109.2 Schedule of permit fees.</heading>
+      <text>Section 109.2 is deleted and replaced as follows:</text>
+      <text><strong>109.2 Permit fees.</strong> Each building, structure, electrical, gas, mechanical, and plumbing system or alteration that requires a permit shall include a fee payment in accordance with a schedule established by City Council Resolution.</text>
+      <text>The Building Official shall collect fees for permits and services specified in this title. Where the Building Official Director or designee finds the fees prescribed in this title do not cover the cost of providing the service which is the subject of the fee, the Building Official may charge a supplemental fee for the unpaid cost of the services provided.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.110</num>
+      <heading>Amend Section 109.4 Work commencing before permit issuance.</heading>
+      <text>Section 109.4 is deleted and replaced as follows:</text>
+      <text><strong>109.4 Work commencing before permit issuance.</strong> Any person who commences any work on a building, structure, electrical, gas, mechanical or plumbing system before obtaining the necessary permits shall be subject to a fee established by the Building Official that shall be in addition to the required permit fees. An investigation fee, in addition to the permit fee, shall be collected whether or not a permit is then or subsequently issued. The investigation fee shall not exceed five times the permit fee required by this code. The minimum investigation fee set forth in the fee schedule adopted by this jurisdiction or a lesser fee than the fee resolution may be permitted on the merits of each individual case by the Building Official. The payment of such investigation fee shall not exempt any person from compliance with all other provisions of this code nor from any penalty prescribed by law.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.120</num>
+      <heading>Amend Section 901.2 Fire protection systems.</heading>
+      <text>Chapter 9, Section 901.2 is hereby amended by repealing the first two sentences of Section 901.2 (thus, the provisions of Section 902.2.1 remain in effect) and replacing it with the following:</text>
+      <text><strong>901.2 Construction documents.</strong> The Fire Chief shall have the authority to require construction documents and calculations for all fire protection systems and to require permits be issued for the installation, rehabilitation or modification of any fire protection system. Construction documents for fire protection systems shall be submitted for review and approval prior to the issuance of a building permit.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.130</num>
+      <heading>Amend Section 903.2 Where required.</heading>
+      <text>Section 903.2 of Chapter 9 is deleted in its entirety based upon Express Findings 1 and 3 in <cite path="|16.02.040">Section 16.02.040</cite>, and replaced with the following section:</text>
+      <text><strong>903.2: Item 1,</strong> Approved automatic sprinkler systems shall be installed throughout all existing commercial or multi-family residential building when the floor area of an addition (including mezzanines) exceeds 50% of the existing floor area of the building or when an additional story is added.</text>
+      <text><strong>903.2: Item 2,</strong> Any change of occupancy when the proposed new occupancy classification is more hazardous based on a fire and life safety evaluation by the Fire Code Official and Building Code Official, including conversion of buildings to single-family residences, accessory dwelling units, bed and breakfast, inns, lodging houses or congregate residences for 10 or less persons or other similar uses an automatic fire sprinkler system shall be installed throughout.</text>
+      <text><strong>903.2 Where required.</strong> Approved automatic fire sprinkler systems shall be provided in new and existing buildings in the locations described in this section.</text>
+      <text>
+        <strong>903.2.1 New Construction.</strong>
+      </text>
+      <text>Regardless of any exception listed above or in the remainder of this code or the California Building Code, all buildings shall be equipped throughout with an approved fully automatic fire sprinkler system.</text>
+      <text>Fire Sprinklers shall not be required if one or more of the following exceptions are met:</text>
+      <para>
+        <num>1.</num>
+        <text>Must comply with the American Canyon General Building Standards for residential, multi-family residential, commercial and industrial occupancies.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>When approved by the Fire Code Official spaces or areas in telecommunications buildings used exclusively for telecommunications equipment, associated electrical power distribution equipment, batteries and standby engines, provided those spaces or areas are equipped throughout with an automatic fire alarm system and are separated from the remainder of the building by fire barriers consisting of no less than 1-hour fire-resistance-rated wall and 2-hour fire-resistance-rated floor/ ceiling assemblies.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Automatic fire sprinkler protection for fixed guideway transit systems shall be as per Section 903.2.17.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Detached Group U private garages and carports accessory to a Group R-3 occupancy and less than 1,000 square feet and with non-habitable space above.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Detached pool houses, workshops, barns and similar structures, built in conjunction with existing non-sprinklered single-family residences and provided the new structure is less than 1,000 square feet and is not intended for use as a dwelling unit.</text>
+      </para>
+      <para>
+        <num>6.</num>
+        <text>Detached non-combustible canopies less than 3,000 square feet in roof area used exclusively for vehicle washing facilities or vehicle fuel dispensing stations.</text>
+      </para>
+      <para>
+        <num>7.</num>
+        <text>Group B or M occupancies less than 600 square feet.</text>
+      </para>
+      <para>
+        <num>8.</num>
+        <text>Detached, unenclosed gazebos, solar trellises or shade structures less than 1,000 square feet.</text>
+      </para>
+      <para>
+        <num>9.</num>
+        <text>Detached restroom facilities associated with golf courses, parks and similar uses.</text>
+      </para>
+      <text><strong>903.2.2 Additions.</strong> An automatic sprinkler system shall be installed throughout any existing commercial or multi-family residential building when the floor area of an addition (including mezzanines) within any three-year period exceeds 50% of the existing floor area of the building or when an additional story is added.</text>
+      <text><strong>903.2.3 Change of occupancy.</strong> Any change of occupancy when the proposed new occupancy classification is more hazardous based on a fire and life safety evaluation by the Fire Code Official and Building Code Official, including conversion of buildings to single-family residences, accessory dwelling units, bed and breakfast, inns, lodging houses or congregate residences for 10 or less persons or other similar uses an automatic fire sprinkler system shall be installed throughout.</text>
+      <text><strong>903.2.4 Floor control valves.</strong> Approved supervised indicating control valves and flow switches shall be provided at the point of connection to the riser on each floor in buildings two or more stories in height.</text>
+      <text><strong>903.2.8 Group R.</strong> An automatic sprinkler system installed in accordance with Section 903.3 shall be provided throughout all buildings with a Group R fire area.</text>
+      <text>An automatic sprinkler system designed in accordance with Section 903.3.1.3 shall not be utilized in Group R-2.1 or Group R-4 Occupancies.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.140</num>
+      <heading>Amend Section 905.3.1 Height.</heading>
+      <text>Item 2 of Section 905.3.1 is deleted based upon Express Findings 1 and 3 in <cite path="|16.02.040">Section 16.02.040</cite>, and replaced with the following section:</text>
+      <text>
+        <strong>905.3.1 Height.</strong>
+      </text>
+      <para>
+        <num>2.</num>
+        <text>Class I standpipes shall be installed in buildings three or more stories in height with approved outlets provided at each level including the roof when required by the Fire Code Official.</text>
+        <text/>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.150</num>
+      <heading>Amend California Building Code Table 1505.1 Minimum Roof Covering Classification.</heading>
+      <text>Table 1505.1 is to be deleted and based upon Express Findings 1 and 3 in <cite path="|16.02.040">Section 16.02.040</cite>, and replaced with the following:</text>
+      <text>
+        <strong>Table 1505.1</strong>
+      </text>
+      <text>
+        <strong>MINIMUM ROOF COVERING</strong>
+      </text>
+      <text>
+        <strong>CLASSIFICATION</strong>
+      </text>
+      <text>
+        <strong>FOR TYPES OF CONSTRUCTION</strong>
+      </text>
+      <text>
+        <table>
+          <tbody>
+            <tr>
+              <td>IA</td>
+              <td>IB</td>
+              <td>IIA</td>
+              <td>IIB</td>
+              <td>IIIA</td>
+              <td>IIIB</td>
+              <td>IV</td>
+              <td>VA</td>
+              <td>VB</td>
+            </tr>
+            <tr>
+              <td>A</td>
+              <td>A</td>
+              <td>A</td>
+              <td>A</td>
+              <td>A</td>
+              <td>A</td>
+              <td>A</td>
+              <td>A</td>
+              <td>A</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.160</num>
+      <heading>Amend Section 1512 Reroofing.</heading>
+      <text>Section 1512 is amended and based upon Express Findings 1 and 3 in <cite path="|16.02.040">Section 16.02.040</cite>, to add the following section:</text>
+      <text><strong>1512.6 Spark arrestor. </strong>Whenever a permit has been issued for reroofing a spark arrestor conforming to Section 2802 shall be installed (or the existing replaced if not in conformance with Section 2802) on all fireplace chimneys before final inspection and approval.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.180</num>
+      <heading>Amend Section 1705.3 Concrete construction.</heading>
+      <text>Delete Chapter <cite path="|16.02.180">16.02.180</cite>. Should read "RESERVED."</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.02.190</num>
+      <heading>Amend Section 1809.8 Plain concrete footings.</heading>
+      <text>Delete Section 1809.8 and replace as follows:</text>
+      <text><strong>1809.8 Plain concrete footings.</strong> The edge thickness of plain concrete footings supporting walls of other than light-frame construction shall not be less than 8 inches (203 mm) where placed on soil and in all cases, as a minimum, one ½″ (51 mm) continuous rebar shall be placed at the top and at the bottom of all grade beams and spread footings.</text>
+      <text><strong>Exception:</strong> For plain concrete footings supporting Groups R-3 and one-story Group U occupancies the edge thickness is permitted to be 6 inches (152 mm), provided the footing does not extend beyond a distance greater than the thickness of the footing on either side of the supported wall. In all cases, as a minimum, one ½″ (51 mm) continuous rebar shall be placed at the top and at the bottom of all grade beams and spread footings.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.210</num>
+      <heading>Amend Section 1905.1.7 ACI 318-19, Section 14.1.4.</heading>
+      <text>Section 1905.1.7 is deleted and based upon Express Findings 1 and 3 in <cite path="|16.02.040">Section 16.02.040</cite> is amended to read as follows:</text>
+      <text>1905.1.7 ACI 318, Section 22.10. Delete ACI 318, Section 22.10, and replace with the following:</text>
+      <para>
+        <num>22.10</num>
+        <text>- Plain concrete in structures assigned to seismic design category C, D, E or F.</text>
+      </para>
+      <para>
+        <num>22.10.1</num>
+        <text>- Structures assigned to Seismic Design Category C, D, E or F shall not have elements of structural plain concrete, except as follows:</text>
+        <para>
+          <num>(a)</num>
+          <text>Isolated footings of plain concrete supporting pedestals or columns are permitted, provided the projection of the footing beyond the face of the supported member does not exceed the footing thickness.</text>
+          <text><strong>Exception:</strong> In detached one- and two-family dwelling three stories or less in height, the projection of the footing beyond the face of the supported member does not exceed the footing thickness.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>Plain concrete footing supporting walls are permitted, provided the footings have at least two continuous longitudinal reinforcing bars. Bars shall not be smaller than No. 4 and shall have a total area of not less than 0.002 times the gross cross-sectional area of the footing. A minimum of one bar shall be provided at the top and bottom of the footing. Continuity of reinforcement shall be provided at corners and intersections.</text>
+          <text><strong>Exception:</strong> In detached one- and two-family dwellings three stories or less in height and constructed with stud bearing walls, plain concrete footings with at least two continuous longitudinal reinforcing bars not smaller than No. 4 are permitted to have a total area of less than 0.002 times the gross cross-sectional area of the footing.</text>
+        </para>
+      </para>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.220</num>
+      <heading>Amend Section 1907.1 General.</heading>
+      <text>Section 1907.1 General is deleted and based upon Express Findings 1 and 3 in <cite path="|16.02.040">Section 16.02.040</cite> is amended to read as follows:</text>
+      <text><strong>1907.1 General.</strong> The thickness of concrete floor slabs supported directly on the ground shall not be less than 3 1/2 inches (89 mm). A 6-mil (0.006 inch; 0.15 mm) polyethylene retarder with joints lapped not less than 6 inches (152 mm) shall be placed between the base course or subgrade and the concrete floor slab, or other approved equivalent methods or materials shall be used to retard vapor transmission through the floor slab. As a minimum and in all cases where a slab is to be placed inside of a building, the slab shall be reinforced with not less than six inches by six inches ten-gauge welded wire mesh or an approved alternate installed at mid height of the slab.</text>
+      <text><strong>Exception:</strong> A vapor retarder is not required:</text>
+      <para>
+        <num>1.</num>
+        <text>For detached structures accessory to occupancies in Group R-3, such as garages, utility buildings or other unheated facilities.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For unheated storage rooms having an area of less than 70 square feet (6.5 m<sup>2</sup>) and carports attached to occupancies in Group R-3.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>For buildings of other occupancies where migration of moisture through the slab from below will not be detrimental to the intended occupancy of the building.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>For driveways, walks, patios and other flatwork which will not be enclosed at a later date.</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>Where approved based on local site conditions.</text>
+      </para>
+      <text>In all slabs under habitable spaces, a 4-inch (10 mm) crushed rock capillary water barrier shall be provided under the minimum 6 mil vapor retarder.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.02.260</num>
+      <heading>Amend Appendix H Section H101.2 Signs exempt from permits.</heading>
+      <text>Appendix Chapter H Section H101.2 is deleted and replaced as follows:</text>
+      <text><strong>H101.2 Signs exempt from building and/or electrical permits.</strong> The following signs are exempt from the requirements to obtain a building and/or electrical permit before erection:</text>
+      <para>
+        <num>1.</num>
+        <text>Painted non-illuminated signs not exceeding 9 square feet (2.74 m<sup>2</sup>).</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Temporary signs announcing the sale or rent of property not exceeding 9 square feet (2.74 m<sup>2</sup>).</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Signs erected by transportation authorities.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Projecting signs not exceeding 2.5 square feet (0.23 m<sup>2</sup>).</text>
+      </para>
+      <para>
+        <num>5.</num>
+        <text>The changing of moveable parts of an approved sign that is designed for such changes, or the repainting or repositioning of display matter shall not be deemed an alteration.</text>
+      </para>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.03</num>
+    <heading>CALIFORNIA RESIDENTIAL CODE</heading>
+    <section>
+      <num>16.03.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the California Residential Code of the city and any reference in the city municipal code or any chapter thereof to the California Residential Code applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.03.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon adopts all those certain documents marked and designated, as "California Residential Code, 2022 Edition," together with Appendix H and V published and copyrighted by the International Code Council. The documents identified in this section are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.03.030">16.03.030</cite> through <cite path="|16.03.090">16.03.090</cite> of this chapter. A copy of the adopted California Residential Code shall be kept on file in the office of the building official for use and examination by members of the public (Ord. 2022-05 § 1, 2022)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.03.030</num>
+      <heading>Appendices.</heading>
+      <text>The Residential Code as adopted by <cite path="|16.03.020">Section 16.03.020</cite> is amended and adopted with the following appendices:</text>
+      <text>Appendix Chapter AH, Patio Covers</text>
+      <text>Appendix Chapter AX, Swimming Pool Safety Act</text>
+      <text>Section 115922 is hereby deleted and amended to read as follows:</text>
+      <text>Except as provided in Section 115925, when a building permit is issued for construction of a new swimming pool or spa or the remodeling of an existing swimming pool or spa at a private single-family home, the respective swimming pool or spa shall be equipped with all three of the following drowning prevention safety features:</text>
+      <para>
+        <num>1.</num>
+        <text>An enclosure that meets the requirements of Section 1215923 and isolates the swimming pool or spa from the private single-family home.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A self-closing, self-latching device with a release mechanism placed no lower than 54 inches above the floor on the private single-family home's doors providing direct access to the swimming pool or spa.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Exit alarms on the private single-family home's doors that provide direct access to the swimming pool or spa shall be equipped with audible alarm of sufficient volume that can be heard throughout the dwelling. The exit alarm may cause either an alarm noise or a verbal warning, such as a repeating notification that "the door to the pool is open." The alarm device shall be approved by the Building Official; or</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A safety pool cover complying with the ASTM, in compliance with standard F1346-91 or approved by the Building Official may be used in lieu of alarm devices required for doors and sliding doors.</text>
+        <text/>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.03.040</num>
+      <heading>Section R105.2.1 Work exempt from permits.</heading>
+      <text>Item 1 of Section R105.2 exemptions is hereby deleted and amended to read as follows:</text>
+      <para>
+        <num>1.</num>
+        <text>One-story detached accessory structure, used as tool sheds and storage sheds, playhouses and similar uses provided the floor area does not exceed 120 square feet, (11.15 m2). The height of the one story detached accessory structure shall not exceed 15 feet (4.75 m) at any point or as specified by local zoning ordinance. It is permissible these structures shall be regulated by Section 710 and R337 despite exemption from permit.</text>
+      </para>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.03.045</num>
+      <heading>Amend Section R105.5 Expiration.</heading>
+      <text>Section R105.5 is hereby deleted and amended to read as follows:</text>
+      <text>Every permit issued by the Building Official under the provisions of this code shall expire by limitation and become null and void if the building, structure, equipment or work authorized by such permit is not commenced within 12 months from the date of such permit, or if the building, structure, equipment or work authorized by such permit is suspended or abandoned at any time after the work is commenced for a period of 180 days. Before such work can be recommenced, a new permit shall be first obtained to do so, and the fee shall be one half the amount required for a new permit (i.e. building, electrical, plumbing and mechanical fees only) for such work, provided no changes have been made or will be made in the original plans and specifications for such work, and provided further that such suspension or abandonment has not exceeded one year. To renew action on a permit after expiration, the permittee shall pay new full permit fee.</text>
+      <text>Any permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time frame required by this section for good and satisfactory reasons. The Building Official may extend the time for action by the permittee for a period not exceeding 180 days on written request by the permittee showing circumstances beyond the control of the permittee that have prevented action from being taken.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.03.050</num>
+      <heading>Section R108.7 Re-inspection fee.</heading>
+      <text>Section R108.7 is hereby added to read as follows:</text>
+      <text><strong>R108.7 Re-inspection Fee.</strong> A re-inspection fee may be assessed for each inspection or re-inspection when such portion of work for which inspection is called is not complete or when corrections called for are not made.</text>
+      <text>This section is not to be interpreted as requiring re-inspection fees the first time a job is rejected for failure to comply with the requirements of this code, but as controlling the practice of calling for inspections before the job is ready for such inspection or re-inspection.</text>
+      <text>Re-inspection fees may be assessed when the inspection record card is not posted or otherwise available on the work site, the approved plans are not readily available to the inspector. For failure to provide access on the date for which inspection is requested, or for deviating from plans requiring the approval of the Building Official.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.03.060</num>
+      <heading>Section R108.8 Violation penalties.</heading>
+      <text>Section R108.8 is hereby added to read as follows:</text>
+      <text><strong>108.8 Violation penalties.</strong> Any person who violates a provision of this code or fails to comply with any of the requirements thereof or who erects, constructs, alters or repairs a building or structure in violation of the approved construction documents or directive of the Building Official, or of a permit or certificate issued under the provisions of this code, shall be subject to penalties as prescribed by law. An investigation fee, in addition to the permit fee, shall be collected whether or not a permit is then or subsequently issued. The investigation fee shall not exceed five times the permit fee required by this code. The minimum investigation fee set forth in the fee schedule adopted by this jurisdiction or a lesser fee than the fee resolution may be permitted on the merits of each individual case by the Building Official. The payment of such investigation fee shall not exempt any person from compliance with all other provisions of this code nor from any penalty prescribed by law.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.03.065</num>
+      <heading>Section R313.2 One- and two-family dwellings automatic fire systems, Exception.</heading>
+      <text>Section R313.2, Exception number 1 is hereby deleted and replaced by the following sentence:</text>
+      <text>An automatic sprinkler system shall be installed throughout any existing one- or two-family dwelling when the floor area of the addition (including mezzanines) exceeds 50% of the existing floor area of the building or when an additional story is added.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.03.070</num>
+      <heading>Amend Section R506.2.4 Reinforcement support.</heading>
+      <text>Section R506.2.4 is deleted and based upon Express Findings 1 and 3 in <cite path="|16.03.030">Section 16.03.030</cite> is amended to read as follows:</text>
+      <text><strong>R506.2.4 Reinforcement support.</strong> Where provided in slabs on ground, reinforcement shall be supported to remain in place from the center to upper one third of the slab for the duration of the concrete placement. As a minimum, and in all cases where a slab is to be placed inside of a building, the slab shall be reinforced with not less than six inches by six inches ten-gauge welded wire mesh, or an approved alternate.</text>
+      <text>In all slabs under habitable spaces, a minimum of 4 inches (102 mm) of crushed rock capillary water barrier shall be provided under a minimum 10 mil vapor retarder. The vapor barrier shall be protected by a minimum of 2 inches (51 mm) of sand or equivalent protection.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.03.080</num>
+      <heading>Amend Section R907 Rooftop Mounted Photovoltaic Panel Systems.</heading>
+      <text>Section R907.1.1 and 907.1.2 are hereby added based upon Express Findings 1 and 3 in <cite path="|16.03.030">Section 16.03.030</cite> to read as follows:</text>
+      <text><strong>R907.1.1 Solar photovoltaic panels/modules.</strong> Solar photovoltaic panels/modules installed upon a roof or as an integral part of a roof assembly shall comply with the requirements of this code and the California Fire Code as amended by the City of American Canyon.</text>
+      <text><strong>R907.1.2 Structural fire-resistance.</strong> The structural frame and roof construction supporting the load imposed upon the roof by the photovoltaic panels/modules shall comply with the requirements of the California Building Code Sections 1510 and 1511.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.03.090</num>
+      <heading>Amend Section R202 General definitions.</heading>
+      <text>Section R202 of Chapter 2 of the California Residential Code is hereby amended to add the following definitions to read:</text>
+      <text><strong>City of American Canyon Electric Vehicle Charging Station Expedited/Streamlined Permitting Process:</strong> A ministerial permitting process for electric vehicle charging station installations that utilizes an application checklist to expedite review of an electric vehicle charging station permit. For such installations, the process, including permit issuance, may be conducted entirely online utilizing digital forms or may be conducted at the City's Building Permit Counter utilizing printed forms.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.04</num>
+    <heading>CALIFORNIA ELECTRICAL CODE</heading>
+    <section>
+      <num>16.04.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "California Electrical Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Electrical Code, CEC, or Electrical Code, refers and applies to this</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.04.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Electrical Code, 2022 Edition," published by BNI Publications, Inc., and copyrighted by the National Fire Protection Association and the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Electrical Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.05</num>
+    <heading>CALIFORNIA MECHANICAL CODE</heading>
+    <section>
+      <num>16.05.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "California Mechanical Code" of the city and any reference in the city municipal code or any chapter thereof to the California Mechanical Code, CMC or Mechanical Code refers and applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.05.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Mechanical Code, 2022 Edition," published by International Association of Plumbing and Mechanical Officials and copyrighted by International Association of Plumbing and Mechanical Officials and the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Mechanical Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.06</num>
+    <heading>CALIFORNIA PLUMBING CODE</heading>
+    <section>
+      <num>16.06.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "California Plumbing Code" of the city and any reference in the city municipal code or any chapter thereof to the Uniform Plumbing Code, CPC or Plumbing Code refers and applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.06.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Plumbing Code, 2022 Edition," published by International Association of Plumbing and Mechanical Officials and copyrighted by International Association of Plumbing and Mechanical Officials and the California Building Standards Commission. The documents identified in this section are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.06.030">16.06.030</cite> and <cite path="|16.06.040">16.06.040</cite> of this chapter. A copy of the adopted California Plumbing Code shall be kept on file in the office of the building official for use and examination by members of the public. (Ord. 2022-05 § 1, 2022)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.06.030</num>
+      <heading>Appendices.</heading>
+      <text>The Plumbing Code as adopted by <cite path="|16.06.020">Section 16.06.020</cite> is amended and adopted with the following appendices sections:</text>
+      <text>Appendix C Alternate Plumbing Systems</text>
+      <text>Appendix D Sizing Storm Water Drainage Systems</text>
+      <text>Appendix I Installation Standards</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.06.040</num>
+      <heading>Adopt Chapter 16A, Part II Non-potable water reuse systems.</heading>
+      <text>Chapter 16A, Part II is adopted in its entirety.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.07</num>
+    <heading>CALIFORNIA ENERGY CODE</heading>
+    <section>
+      <num>16.07.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "California Energy Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Energy Code, or Energy Code, refers and applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.07.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Energy Code, 2022 Edition," by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Energy Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.08</num>
+    <heading>CALIFORNIA HISTORICAL BUILDING CODE</heading>
+    <section>
+      <num>16.08.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "California Historical Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Historical Building Code, or Historical Building Code, refers and applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.08.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Historical Building Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Historical Building Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.09</num>
+    <heading>CALIFORNIA EXISTING BUILDING CODE</heading>
+    <section>
+      <num>16.09.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "California Existing Building Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Existing Building Code, refers and applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.09.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Existing Building Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Existing Building Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.10</num>
+    <heading>UNIFORM CODE FOR THE ABATEMENT OF DANGEROUS BUILDINGS</heading>
+    <section>
+      <num>16.10.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "Uniform Code for the Abatement of Dangerous Buildings" of the city and any reference in the city municipal code or any chapter thereof to the Uniform Code for the Abatement of Dangerous Buildings or Dangerous Building Code refers and applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.10.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "Uniform Code for the Abatement of Dangerous Buildings, 1997 Edition," published and copyrighted by the International Council of Building Officials. The documents identified in this section are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.10.030">16.10.030</cite> through <cite path="|16.10.040">16.10.040</cite> of this chapter. A copy of the adopted Uniform Code for the Abatement of Dangerous Buildings shall be kept on file in the office of the building official for use and examination by members of the public. (Ord. 2013-06 § 3, 2013)</text>
+      <annotations/>
+    </section>
+    <section>
+      <num>16.10.030</num>
+      <heading>Amend Section 203 Violations.</heading>
+      <text>Section 203 is amended by adding the following:</text>
+      <text>It shall be unlawful and a public nuisance for any person, firm or corporation, whether as owner, lessee, sublease or occupy, to erect, construct, enlarge, alter, repair, move, improve, remove, convert or demolish, equip, use, occupy, or maintain any building or structure in the incorporated territory of the City of American Canyon, or cause or permit the same to be done, contrary to or in violation of any of this code.</text>
+      <text>Any person, firm or corporation violating any of the provisions of this Article is guilty of a separate offense for each day or portion thereof during which any violation of any of the provisions of this Article is committed, continued, or permitted, and upon conviction of any such violation such person shall be punished by a fine of not more than one thousand dollars ($1,000.00) or by imprisonment for not more than six (6) months, or by both such fine and imprisonment. California Health and Safety Code 17995.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.10.040</num>
+      <heading>Amend Section 205 Board of appeals.</heading>
+      <text>Section 205 is deleted and replaced as follows:</text>
+      <text><strong>205.1 General.</strong> In order to hear and decide appeals of orders, decisions or determinations made by the building official relative to the application and interpretation of this code, there shall be and is hereby created a board of appeals. The board of appeals shall be appointed by the City Council and shall hold office at its pleasure. The board shall adopt rules of procedure for conducting its business.</text>
+      <text>Alternatively, the City may use five (5) Building Official members of the Napa-Solano Chapter of the International Code Council (NSICC), chosen on a case-by-case basis, to serve as the Board of Appeals for the City of American Canyon. The NSICC, an organization of Building Officials, Building Inspectors, and Construction Industry personnel, was formed in 1978 to help maintain consistent and uniform code enforcement and code interpretation within the jurisdictions of Napa and Solano counties. Building Officials from jurisdictions within Napa and Solano counties and neighboring counties are members of the NSICC.</text>
+      <text>Building Official members of the NSICC are well versed in the technical and administrative provisions of construction codes.</text>
+      <text><strong>205.2 Limitations of Authority.</strong> The board shall have no authority relative to interpretation of the administrative provisions of this code nor shall the board be empowered to waive requirements of this code. An application for appeal shall be based on a claim that the true intent of this code or the rules legally adopted thereunder have been incorrectly interpreted, the provisions of this code do not fully apply or an equally good or better form of construction is proposed. Appeals from any findings by the Board of Appeals may be made by the applicant, a member of the City Council or the Building Official upon request in writing to the City Council within ten (10) days from the date of the Board's action.</text>
+      <text><strong>205.3 Qualifications.</strong> The board of appeals shall consist of members who are qualified by experience and training to pass on matters pertaining to building construction and are not employees of the jurisdiction.</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.11</num>
+    <heading>CALIFORNIA GREEN BUILDING STANDARDS CODE</heading>
+    <section>
+      <num>16.11.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "California Green Building Standards Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Green Building Standards Code, or CALGreen, refers and applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.11.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Green Building Standards Code, 2022 Edition," published by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Green Building Standards Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.12</num>
+    <heading>SAFETY ASSESSMENT PLACARDS</heading>
+    <section>
+      <num>16.12.010</num>
+      <heading>Intent.</heading>
+      <text>This chapter establishes standard placards to be used to indicate the condition of a structure for continued occupancy. The chapter further authorizes the building official and his or her authorized representatives to post the appropriate placard at each entry point to a building or structure upon completion of a safety assessment.</text>
+      <annotations>
+        <annotation type="History">Ord. 2008-12, 2008</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.12.020</num>
+      <heading>Application of provisions.</heading>
+      <text>The provisions of this chapter are applicable to all buildings and structures of all occupancies regulated by the city of American Canyon. The council may extend the provisions as necessary.</text>
+      <annotations>
+        <annotation type="History">Ord. 2008-12, 2008</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.12.030</num>
+      <heading>Definitions.</heading>
+      <text>"Safety assessment" means a visual, nondestructive examination of a building or structure for the purpose of determining the condition for continued occupancy.</text>
+      <annotations>
+        <annotation type="History">Ord. 2008-12, 2008</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.12.040</num>
+      <heading>Placards.</heading>
+      <para>
+        <num>A.</num>
+        <text>The following are verbal descriptions of the official jurisdiction placards to be used to designate the condition for continued occupancy of buildings or structures. Copies of actual placards are attached to the ordinance codified in this chapter.</text>
+        <para>
+          <num>1.</num>
+          <text>"INSPECTED – Lawful Occupancy Permitted" is to be posted on any building or structure wherein no apparent structural hazard has been found. This placard is not intended to mean that there is no damage to the building or structure.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>"RESTRICTED USE" is to be posted on each building or structure that has been damaged wherein the damage has resulted in some form of restriction to the continued occupancy. The individual who posts this placard will note in general terms the type of damage encountered and will clearly and concisely note the restrictions on continued occupancy.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>"UNSAFE – Do Not Enter or Occupy" is to be posted on each building or structure that has been damaged such that continued occupancy poses a threat to life safety. Buildings or structures posted with this placard shall not be entered under any circumstances except as authorized in writing by the building official, or his or her authorized representative. Safety assessment teams shall be authorized to enter these buildings at any time. This placard is not to be used or considered as a demolition order. The individual who posts this placard will not in general terms the type of damage encountered.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The ordinance number of the ordinance codified in this chapter, the name of the jurisdiction, its address, and phone number shall be permanently affixed to each placard.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>nce it has been attached to a building or structure, a placard is not to be removed, altered or covered until done so by an authorized representative of the building official. It is unlawful for any person, firm or corporation to alter, remove, cover or deface a placard unless authorized pursuant to this section.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2008-12, 2008</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.13</num>
+    <heading>REPAIR AND RECONSTRUCTION</heading>
+    <section>
+      <num>16.13.010</num>
+      <heading>Adoption and intent.</heading>
+      <text>This chapter establishes regulations as amendments to the building code for the expeditious repair of damaged structures. In the event an amendment to the California Building Standards Code results in differences between these building standards and the California Building Standards Code, the text of these building standards shall govern. In accordance with California Health and Safety Code Section 17958.7, express findings that modifications to the California Building Standards Code are reasonably necessary because of local climatic, geological or topographical conditions are either already on file with the California Building Standards Commission prior to the effective date of the ordinance codified in this chapter. In accordance with California Government Code Section 50022.6, at least one true copy of the California Building Code has been on file with the building official since fifteen days prior to enactment of the ordinance codified in this chapter. While this chapter is in force, a true copy of this chapter shall be kept for public inspection in the office of the building official.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.13.020</num>
+      <heading>Definitions.</heading>
+      <text>For the purposes of this chapter, the following definition applies and is hereby added to Section 3402.1 Definitions of the 2022 California Building Code (CBC):</text>
+      <text>Substantial Structural Damage. A condition where:</text>
+      <para>
+        <num>1.</num>
+        <text>In any story, the vertical elements of the lateral-force-resisting system, have suffered damage such that the lateral load-carrying capacity of the structure in any direction has been reduced by more than 20 percent from its pre-damaged condition, or</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The capacity of any vertical gravity load-carrying component, or any group of such components, that supports more than 30 percent of the total area of the structure's floor(s) and roof(s) has been reduced more than 20 percent from its pre-damaged condition, and the remaining capacity of such affected elements with respect to all dead and live loads is less than 75 percent of that required by the building code for new buildings of similar structure, purpose, and location.</text>
+      </para>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.13.030</num>
+      <heading>Repairs.</heading>
+      <text>For the purposes of this chapter, the following repair requirements are hereby added as a new Subsection 3403.5 to Section 3403 Additions, Alterations or Repair in the 2022 California Building Code (CBC):</text>
+      <text><strong>3403.5.1 Repairs.</strong> Repairs of structural elements shall comply with this section.</text>
+      <text><strong>3403.5.1.1 Seismic Evaluation and Design.</strong> Seismic evaluation and design of an existing building and its components shall be based on the following criteria.</text>
+      <text><strong>3403.5.1.1.1 Evaluation and Design Procedures.</strong> The seismic evaluation and design shall be based on the procedures specified in the building code, ASCE 41 Seismic Evaluation of Existing Buildings (for evaluation only) or ASCE 41 Seismic Rehabilitation of Existing Buildings. The procedures contained in Appendix A of the International Existing Building Code shall be permitted to be used as specified in Section 3403.5.1.1.3.</text>
+      <text><strong>3403.5.1.1.2 CBC Level Seismic Forces.</strong> When seismic forces are required to meet the building code level, they shall be one of the following:</text>
+      <para>
+        <num>1.</num>
+        <text>100 percent of the values in the building code. The R factor used for analysis in accordance with Chapter 16 of the building code shall be the R factor specified for structural systems classified as "Ordinary" unless it can be demonstrated that the structural system satisfies the proportioning and detailing requirements for systems classified as "Intermediate" or "Special."</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Forces corresponding to BSE-1 and BSE-2 Earthquake Hazard Levels defined in ASCE 41. Where ASCE 41 is used, the corresponding performance levels shall be those shown in Table 3403.5.1.1.2.</text>
+      </para>
+      <text>
+        <strong>Table 3403.5.1.1.2</strong>
+      </text>
+      <text>
+        <strong>ASCE 41 Performance Levels</strong>
+      </text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th>Occupancy Category (Based on IBC Table 1604.5)</th>
+              <th>Performance Level for Use With ASCE 41 BSE-1 Earthquake Hazard Level</th>
+              <th>Performance Level for Use With ASCE 41 BSE-2 Earthquake Hazard Level</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>I</td>
+              <td>Life Safety (LS)</td>
+              <td>Collapse Prevention (CP)</td>
+            </tr>
+            <tr>
+              <td>II</td>
+              <td>Life Safety (LS)</td>
+              <td>Collapse Prevention (CP)</td>
+            </tr>
+            <tr>
+              <td>III</td>
+              <td>Note (a)</td>
+              <td>Note (a)</td>
+            </tr>
+            <tr>
+              <td>IV</td>
+              <td>Immediate Occupancy (IO)</td>
+              <td>Life Safety (LS)</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <para>
+        <num>a.</num>
+        <text>Performance Levels for Occupancy Category III shall be taken as halfway between the performance levels specified for Occupancy Category II and Occupancy Category IV.</text>
+      </para>
+      <text><strong>3403.6.1.1.3 Reduced CBC Level Seismic Forces.</strong> When seismic forces are permitted to meet reduced building code levels, they shall be one of the following:</text>
+      <para>
+        <num>1.</num>
+        <text>75 percent of the forces prescribed in the building code. The R factor used for analysis in accordance with Chapter 16 of the building code shall be the R factor as specified in Section 3403.6.1.1.2.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>In accordance with the applicable chapters in Appendix A of the International Existing Building Code as specified in Items 2.1 through 2.5 below. Structures or portions of structures that comply with the requirements of the applicable chapter in Appendix A shall be deemed to comply with the requirements for reduced building code force levels.</text>
+      </para>
+      <para>
+        <num>2.1.</num>
+        <text>The seismic evaluation and design of unreinforced masonry bearing wall buildings in Occupancy Category I or II are permitted to be based on the procedures specified in Appendix Chapter A1.</text>
+      </para>
+      <para>
+        <num>2.2.</num>
+        <text>Seismic evaluation and design of the wall anchorage system in reinforced concrete and reinforced masonry wall buildings with flexible diaphragms in Occupancy Category I or II are permitted to be based on the procedures specified in Appendix Chapter A2.</text>
+      </para>
+      <para>
+        <num>2.3.</num>
+        <text>Seismic evaluation and design of cripple walls and sill plate anchorage in residential buildings of light-frame wood construction in Occupancy Category I or II are permitted to be based on the procedures specified in Appendix Chapter A3.</text>
+      </para>
+      <para>
+        <num>2.4.</num>
+        <text>Seismic evaluation and design of soft, weak, or open-front wall conditions in multiunit residential buildings of wood construction in Occupancy Category I or II are permitted to be based on the procedures specified in Appendix Chapter A4.</text>
+      </para>
+      <para>
+        <num>2.5.</num>
+        <text>Seismic evaluation and design of concrete buildings and concrete with masonry infill buildings in all Occupancy Categories are permitted to be based on the procedures specified in Appendix Chapter A5.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Those associated with the BSE-1 Earthquake Hazard Level defined in ASCE 41 and the performance level as shown in Table 3403.6.1.1.2. Where ASCE 41 is used, the design spectral response acceleration parameters Sxs and Sx1 shall not be taken less than 75 percent of the respective design seismic coefficients 2.5Ca and Cv as defined in Tables 16-Q and 16-R of the International Building Code.</text>
+      </para>
+      <text><strong>3403.6.1.2 Wind Design.</strong> Wind design of existing buildings shall be based on the procedures specified in the building code.</text>
+      <text><strong>3403.6.2 Repairs to Damaged Buildings.</strong> Repairs to damaged buildings shall comply with this section.</text>
+      <text><strong>3403.6.2.1 Unsafe Conditions.</strong> Regardless of the extent of structural damage, unsafe conditions shall be eliminated.</text>
+      <text><strong>3403.6.2.2 Substantial Structural Damage to Vertical Elements of the Lateral–Force-Resisting System.</strong> A building that has sustained substantial structural damage to the vertical elements of its lateral-force-resisting system shall be evaluated and repaired in accordance with the applicable provisions of Section 3403.6.2.2.1 through 3403.6.2.2.3.</text>
+      <text><strong>3403.6.2.2.1 Evaluation.</strong> The building shall be evaluated by a registered design professional, and the evaluation findings shall be submitted to the code official. The evaluation shall establish whether the damaged building, if repaired to its pre-damage state, would comply with the provisions of the building code. Wind forces for this evaluation shall be those prescribed in the building code. Seismic forces for this evaluation are permitted to be the reduced level seismic forces specified in Code Section 3403.6.1.1.3.</text>
+      <text><strong>3403.6.2.2.2 Extent of Repair for Compliant Buildings.</strong> If the evaluation establishes compliance of the pre-damage building in accordance with Section 3403.6.2.2.1, then repairs shall be permitted that restore the building to its pre-damage state, using materials and strengths that existed prior to the damage.</text>
+      <text><strong>3403.6.2.2.3 Extent of Repair for Non-Compliant Buildings. </strong>If the evaluation does not establish compliance of the pre-damage building in accordance with Section 3403.6.2.2.1, then the building shall be rehabilitated to comply with applicable provisions of the building code for load combinations including wind or seismic forces. The wind design level for the repair shall be as required by the building code in effect at the time of original construction unless the damage was caused by wind, in which case the design level shall be as required by the code in effect at the time of original construction or as required by the building code, whichever is greater. Seismic forces for this rehabilitation design shall be those required for the design of the predamaged building, but not less than the reduced level seismic forces specified in Section 3403.6.1.1.3. New structural members and connections required by this rehabilitation design shall comply with the detailing provisions of the building code for new buildings of similar structure, purpose, and location.</text>
+      <text><strong>3403.6.2.3 Substantial Structural Damage to Vertical Load-Carrying Components.</strong> Vertical load-carrying components that have sustained substantial structural damage shall be rehabilitated to comply with the applicable provisions for dead and live loads in the building code. Undamaged vertical load-carrying components that receive dead or live loads from rehabilitated components shall also be rehabilitated to carry the design loads of the rehabilitation design. New structural members and connections required by this rehabilitation design shall comply with the detailing provisions of the building code for new buildings of similar structure, purpose, and location.</text>
+      <text><strong>3403.6.2.3.1 Lateral Force-Resisting Elements.</strong> Regardless of the level of damage to vertical elements of the lateral force-resisting system, if substantial structural damage to vertical load-carrying components was caused primarily by wind or seismic effects, then the building shall be evaluated in accordance with Section 3403.6.2.2.1 and, if non-compliant, rehabilitated in accordance with Section 3403.6.2.2.3.</text>
+      <text><strong>3403.6.2.4 Less than Substantial Structural Damage.</strong> For damage less than substantial structural damage, repairs shall be allowed that restore the building to its pre-damage state, using materials and strengths that existed prior to the damage. New structural members and connections used for this repair shall comply with the detailing provisions of the building code for new buildings of similar structure, purpose, and location.</text>
+      <text>3403.6.3 Referenced Standards.</text>
+      <text>Standard Referenced</text>
+      <text>Reference In Code</text>
+      <text>
+        <u>Number Title Section Number</u>
+      </text>
+      <text>ASCE 41-03 Seismic Evaluation of Existing Buildings 3403.6.1.1.1</text>
+      <text>TABLE 3403.6.1.1.2, 3403.6.1.1.3</text>
+      <text>ASCE 41-06 Seismic Rehabilitation of Existing Buildings 3403.6.1.1.1, 3403.6.1.1.2</text>
+      <text>TABLE 3403.6.1.1.2, 3403.6.1.1.3</text>
+      <text/>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.14</num>
+    <heading>WATER-EFFICIENT LANDSCAPING</heading>
+    <section>
+      <num>16.14.010</num>
+      <heading>Purpose.</heading>
+      <text>This chapter defines the requirements for completing water-efficient final landscape plans, in compliance with Chapter 19.22 of the municipal code. The documentation described is intended to implement the landscape efficiency standards set by the Water Conservation in Landscaping Act of 2006 (AB 1881).</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.020</num>
+      <heading>Applicability.</heading>
+      <para>
+        <num>A.</num>
+        <text>Applicability. Final landscape plans shall be required for the following landscape projects:</text>
+        <para>
+          <num>1.</num>
+          <text>New construction and rehabilitated landscapes for public agency projects, private development projects and developer-installed single-family and multifamily projects, requiring a building permit, plan check or design permit;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Cemeteries. Recognizing the special landscape management needs of cemeteries, new and rehabilitated cemeteries are limited to Sections <cite path="|16.14.070">16.14.070</cite>, <cite path="|16.14.140">16.14.140</cite> and <cite path="|16.14.160">16.14.160</cite>; and existing cemeteries are limited to Sections <cite path="|16.14.160">16.14.160</cite> and <cite path="|16.14.170">16.14.170</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>This chapter does not apply to:</text>
+        <para>
+          <num>1.</num>
+          <text>Registered local, state or federal historical sites;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Ecological restoration projects that do not require a permanent irrigation system;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Plant collections, as part of botanical gardens and arboretums open to the public.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.030</num>
+      <heading>Review and approval.</heading>
+      <text>Final landscape plans shall be subject to review and approval by the community development director.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.040</num>
+      <heading>Definitions.</heading>
+      <text>The terms used in this chapter have the meaning set forth below:</text>
+      <text>"Applied water" means the portion of water supplied by the irrigation system to the landscape.</text>
+      <text>"Automatic irrigation controller" means an automatic timing device used to remotely control valves that operate an irrigation system. Automatic irrigation controllers schedule irrigation events using either evapotranspiration (weather-based) or soil moisture data.</text>
+      <text>"Backflow prevention device" means a safety device used to prevent pollution or contamination of the water supply due to the reverse flow of water from the irrigation system.</text>
+      <text>"Bay-Friendly Landscape Guidelines" means the most recent version of the guidelines developed by StopWaste.Org for use in the professional design, construction and maintenance of landscapes.</text>
+      <text>"Bay-Friendly Landscaping Scorecard" means the most recent version of the Bay-Friendly Landscaping points system developed by StopWaste.Org.</text>
+      <text>"Certificate of completion" means the document required under <cite path="|16.14.180">Section 16.14.180</cite>.</text>
+      <text>"Certified irrigation designer" means a person certified to design irrigation systems by an accredited academic institution, a professional trade organization or other program such as the U.S. Environmental Protection Agency's WaterSense Irrigation Designer Certification Program and Irrigation Association's Certified Irrigation Designer Program.</text>
+      <text>"Certified landscape irrigation auditor'' means a person certified to perform landscape irrigation audits by an accredited academic institution, a professional trade organization or other program such as the U.S. Environmental Protection Agency's WaterSense Irrigation Auditor Certification Program and Irrigation Association's Certified Landscape Irrigation Auditor Program.</text>
+      <text>"Check valve" or "anti-drain valve" means a valve located under a sprinkler head, or other location in the irrigation system, to hold water in the system to prevent drainage from sprinkler heads when the sprinkler is off.</text>
+      <text>"City" means the city of American Canyon and its representatives.</text>
+      <text>"Common interest developments" means community apartment projects, condominium projects, planned developments, and stock cooperatives per Civil Code Section 1351.</text>
+      <text>"Compost" is the product of controlled biological decomposition of organic materials, often including urban plant debris and food waste. It is an organic matter resource that has the unique ability to improve the chemical, physical and biological characteristics of soils or growing media. It contains plant nutrients but is typically not characterized as a fertilizer. Excerpted from U.S. Compost Council, Field Guide to Compost Use.</text>
+      <text>"Conceptual landscape plan" means a preliminary landscape plan submitted to the city for review with a discretionary application.</text>
+      <text>"Conversion factor (0.62)" means the number that converts acre-inches per acre per year to gallons per square foot per year.</text>
+      <text>"Drip irrigation" means any non-spray low volume irrigation system utilizing emission devices with a flow rate measured in gallons per hour. Low volume irrigation systems are specifically designed to apply small volumes of water slowly at or near the root zone of plants.</text>
+      <text>"Drought resistant soil" means soil that has been managed, by amending with compost and covering with mulch, for example, to maximize rainfall infiltration, increase the soil's capacity to hold water, and allow for plant roots to penetrate and proliferate such that the landscape can survive with less than optimal water (i.e., less than MAWA).</text>
+      <text>"Ecological restoration project" means a project where the site is intentionally altered to establish a defined, indigenous, historic ecosystem.</text>
+      <text>"Effective precipitation (Eppt)" or "usable rainfall" means the portion of total precipitation which becomes available for plant growth.</text>
+      <text>"Emitter" means a drip irrigation emission device that delivers water slowly from the system to the soil.</text>
+      <text>"Established landscape" means the point at which plants in the landscape have developed significant root growth into the soil. Typically, most plants are established after one or two years of growth.</text>
+      <text>"Establishment period of the plants" means the first year after installing the plant in the landscape or the first two years if irrigation will be terminated after establishment. Typically, most plants are established after one or two years of growth.</text>
+      <text>"Estimated total water use (ETWU)" means the total water used for the landscape as described in Section 492.4.</text>
+      <text>"ET adjustment factor (ETAF)" means a factor of 0.7, that, when applied to reference evapotranspiration, adjusts for plant factors and irrigation efficiency, two major influences upon the amount of water that needs to be applied to the landscape.</text>
+      <text>"Evapotranspiration rate" means the quantity of water evaporated from adjacent soil and other surfaces and transpired by plants during a specified time.</text>
+      <text>"Final landscape plan" means a landscape plan submitted to the city for review and issuance of building permits and contains the same elements as the conceptual landscape plan.</text>
+      <text>"Flow rate" means the rate at which water flows through pipes, valves and emission devices, measured in gallons per minute, gallons per hour, or cubic feet per second.</text>
+      <text>"Hardscapes" means any durable material (pervious and non-pervious).</text>
+      <text>"High-flow sensors" or "flow meters" detect and report high flow conditions created by system damage or malfunction.</text>
+      <text>"Homeowner-provided landscaping" means any landscaping either installed by a private individual for a single-family residence or installed by a licensed contractor hired by a homeowner. A homeowner, for purposes of this chapter, is a person who occupies the dwelling he or she owns. This excludes speculative homes, which are not owner-occupied dwellings.</text>
+      <text>"Hydrozone" means a portion of the landscaped area having plants with similar water needs. A hydrozone may be irrigated or non-irrigated.</text>
+      <text>"Infiltration rate" means the rate of water entry into the soil expressed as a depth of water per unit of time (e.g., inches per hour).</text>
+      <text>"Invasive plant species" means species of plants not historically found in California that spread outside cultivated areas and can damage environmental or economic resources.</text>
+      <text>"Irrigation audit" means an in-depth evaluation of the performance of an irrigation system conducted by a certified landscape irrigation auditor.</text>
+      <text>"Irrigation efficiency (IE)" means the measurement of the amount of water beneficially used divided by the amount of water applied. Irrigation efficiency is derived from measurements and estimates of irrigation system characteristics and management practices.</text>
+      <text>"Irrigation survey" means an evaluation of an irrigation system that is less detailed than an irrigation audit. An irrigation survey includes, but is not limited to: inspection, system test, and written recommendations to improve performance of the irrigation system.</text>
+      <text>"Irrigation water use analysis" means an analysis of water use data based on meter readings and billing data.</text>
+      <text>"Landscape architect" means a person who holds a license to practice landscape architecture in the state of California Business and Professions Code Section 5615.</text>
+      <text>"Landscape area" means all the planting areas, turf areas, and water features in a landscape design plan subject to the maximum applied water allowance calculation. The landscape area does not include footprints of buildings or structures, sidewalks, driveways, parking lots, decks, patios, gravel or stone walks, other pervious or non-pervious hardscapes, and other non-irrigated areas designated for non­development (e.g., open spaces and existing native vegetation).</text>
+      <text>"Landscape contractor" means a person licensed by the state of California to construct, maintain, repair, install, or subcontract the development of landscape systems.</text>
+      <text>"Landscape documentation package" means the documents required under <cite path="|16.14.050">Section 16.14.050</cite>.</text>
+      <text>"Landscape project" means total area of landscape in a project as defined in "Landscape area" for the purposes of this chapter, meeting requirements under <cite path="|16.14.020">Section 16.14.020</cite>.</text>
+      <text>"Lateral line" means the water delivery pipeline that supplies water to the emitters or sprinklers from the valve.</text>
+      <text>"Lawn" means an area of short, mown grass in a yard, garden, or park.</text>
+      <text>"Low volume irrigation" means the application of irrigation water at low pressure through a system of tubing or lateral lines and low-volume emitters such as drip, drip lines, and bubblers. Low volume irrigation systems are specifically designed to apply small volumes of water slowly at or near the root zone of plants.</text>
+      <text>"Main line" means the pressurized pipeline that delivers water from the water source to the valve or outlet.</text>
+      <text>"Maximum applied water allowance (MAWA)" means the upper limit of annual applied water for the established landscaped area as specified in <cite path="|16.14.070">Section 16.14.070</cite>. It is based upon the area's reference evapotranspiration, the ET adjustment factor, and the size of the landscape area.</text>
+      <text>"Microclimate" means the climate of a small, specific area that may contrast with the climate of the overall landscape area due to factors such as wind, sun exposure, plant density, or proximity to reflective surfaces.</text>
+      <text>"Mined-land reclamation projects" means any surface mining operation with a reclamation plan approved in accordance with the Surface Mining and Reclamation Act of 1975.</text>
+      <text>"Mulch" means any organic material such as leaves, bark, arbor or wood chips, recycled wood waste, straw, compost, or inorganic mineral materials such as rocks, gravel, and decomposed granite left loose and applied to the soil surface for the beneficial purposes of reducing evaporation, suppressing weeds, moderating soil temperature, and preventing soil erosion.</text>
+      <text>"Native species" means plants from the local microclimate or Northern California species.</text>
+      <text>"New construction" means, for the purposes of this chapter, a new building with a landscape or other new landscape, such as a park, playground, or greenbelt without an associated building.</text>
+      <text>"Operating pressure" means the pressure at which the parts of an irrigation system are designed by the manufacturer to operate.</text>
+      <text>"Overhead sprinkler irrigation systems" means systems that deliver water through the air (e.g., spray heads and rotors).</text>
+      <text>"Overspray" means the irrigation water which is delivered beyond the target area.</text>
+      <text>"Permit" means an authorizing document issued by local agencies for new construction or rehabilitated landscapes.</text>
+      <text>"Pervious" means any surface or material that allows the passage of water through the material and into the underlying soil.</text>
+      <text>"Plant factor" or "plant water use factor" is a factor that, when multiplied by ETo, estimates the amount of water needed by plants.</text>
+      <text>"Precipitation rate" means the rate of application of water measured in inches per hour.</text>
+      <text>"Project applicant" means the individual or entity submitting a landscape documentation package required under <cite path="|16.14.050">Section 16.14.050</cite>, to request a permit, plan check, or design permit from the city. A project applicant may be the property owner or designee.</text>
+      <text>"Rain sensor" or "rain sensing shutoff device" means a component which automatically suspends an irrigation event when it rains.</text>
+      <text>"Record drawing" or "as-builts" means a set of reproducible drawings which show significant changes in the work made during construction and which are usually based on drawings marked up in the field and other data furnished by the contractor.</text>
+      <text>"Recreational area" means publicly owned or publicly accessible areas dedicated to active play such as parks, sports fields, and golf courses where turf provides a playing surface.</text>
+      <text>"Recycled water," "reclaimed water," or "treated sewage effluent water" means treated or recycled waste water of a quality suitable for non-potable uses such as landscape irrigation and water features. This water is not intended for human consumption.</text>
+      <text>"Reference evapotranspiration" or "ETo" means a standard measurement of environmental parameters which affect the water use of plants. ETo is expressed in inches per day, month, or year as represented in <cite path="|16.14.070">Section 16.14.070</cite>, and is an estimate of the evapotranspiration of a large field of four- to seven-inch tall, cool-season grass that is well watered. Reference evapotranspiration is used as the basis of determining the maximum applied water allowance so that regional differences in climate can be accommodated.</text>
+      <text>"Rehabilitated landscape" means any re-landscaping project that requires a permit, plan check, or design permit, meets the requirements of <cite path="|16.14.020">Section 16.14.020</cite>, and the modified landscape area is equal to or greater than two thousand five hundred square feet, is fifty percent of the total landscape area, and the modifications are completed within one year.</text>
+      <text>"Runoff' means water which is not absorbed by the soil or landscape to which it is applied and flows from the landscape area. For example, runoff may result from water that is applied at too great a rate (application rate exceeds infiltration rate) or when there is a slope.</text>
+      <text>"Soil moisture sensing device" or "soil moisture sensor" means a device that measures the amount of water in the soil. The device may also suspend or initiate an irrigation event.</text>
+      <text>"Soil texture" means the classification of soil based on its percentage of sand, silt, and clay.</text>
+      <text>"Special landscape area (SLA)" means an area of the landscape dedicated solely to edible plants, areas irrigated with recycled water, water features using recycled water and areas dedicated to active play such as parks, sports fields, golf courses, and where turf provides a playing surface.</text>
+      <text>"Sprinkler head" means a device which delivers water through a nozzle.</text>
+      <text>"Static water pressure" means the pipeline or municipal water supply pressure when water is not flowing.</text>
+      <text>"Station" means an area served by one valve or by a set of valves that operate simultaneously.</text>
+      <text>"Swing joint" means an irrigation component that provides a flexible, leak-free connection between the emission device and lateral pipeline to allow movement in any direction and to prevent equipment damage.</text>
+      <text>"Turf" means a species of grass that was developed to be used as a lawn together with the surface layer of earth held together by its roots.</text>
+      <text>"Valve" means a device used to control the flow of water in the irrigation system.</text>
+      <text>"Water conserving plant species" means a plant species identified as having a low plant factor. 	"Water feature" means a design element where open water performs an aesthetic or recreational function. Water features include ponds, lakes, waterfalls, fountains, artificial streams, spas, and swimming pools (where water is artificially supplied).</text>
+      <text>"Watering window" means the time of day irrigation is allowed.</text>
+      <text>"WUCOLS" means the Water Use Classification of Landscape Species published by the University of California Cooperative Extension, the Department of Water Resources and the Bureau of Reclamation, 2100.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.050</num>
+      <heading>Water-efficient landscape plans.</heading>
+      <para>
+        <num>A.</num>
+        <text>Prior to issuance of a building permit, the applicant shall submit a final landscape documentation package to the community development department. The final landscape documentation package, submitted as part of the final landscape plan, shall include the following:</text>
+        <para>
+          <num>1.</num>
+          <text>Project information:</text>
+          <para>
+            <num>a.</num>
+            <text>Date;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Applicant name, address, telephone, email;</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>Property owner name, address, telephone, email;</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>Project address (if available, parcel and/or lot number(s));</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>Total landscape area (square feet);</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>Project type (e.g., new, rehabilitated, public, private, cemetery, homeowner-installed);</text>
+          </para>
+          <para>
+            <num>g.</num>
+            <text>Water supply type (e.g., potable, recycled, well);</text>
+          </para>
+          <para>
+            <num>h.</num>
+            <text>Checklist of all documents in landscape documentation package;</text>
+          </para>
+          <para>
+            <num>i.</num>
+            <text>Applicant signature and date with statement, "I agree to comply with the requirements of the water efficient landscape ordinance and submit a complete landscape documentation package."</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Water-efficient landscape worksheet:</text>
+          <para>
+            <num>a.</num>
+            <text>Hydrozone information table;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Water budget calculations:</text>
+            <para>
+              <num>i.</num>
+              <text>Maximum applied water allowance (MAWA),</text>
+            </para>
+            <para>
+              <num>ii.</num>
+              <text>Estimated total water use (ETWU),</text>
+            </para>
+            <para>
+              <num>iii.</num>
+              <text>Soil management report,</text>
+            </para>
+            <para>
+              <num>iv.</num>
+              <text>Landscape design plan,</text>
+            </para>
+            <para>
+              <num>v.</num>
+              <text>Irrigation design plan, and</text>
+            </para>
+            <para>
+              <num>vi.</num>
+              <text>Grading design plan.</text>
+            </para>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.060</num>
+      <heading>General requirements and standards.</heading>
+      <para>
+        <num>A.</num>
+        <text>General Requirements and Standards.</text>
+        <para>
+          <num>1.</num>
+          <text>The setbacks from streets required by the schedule of zoning district regulations shall be fully landscaped except in single-family districts where parking may be permitted as specified in this title.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>All landscaped areas shall be protected by six-inch concrete curbing.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Parking and circulation areas shall be landscaped according to the requirements this title.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The use of turf is limited to rear yards of residential projects.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Landscaping should be used to separate parking and vehicle circulation areas from buildings, to provide a visual landscaped foreground for buildings, and to enhance the perimeter of a project.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Live plant materials generally should be used in all landscaped areas.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Landscape planters abutting parking areas shall be sufficiently large to allow for vehicle overhang without extending into the planting area.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Trees.</text>
+        <para>
+          <num>1.</num>
+          <text>Landscape plans for sites on major streets should include large-scale street trees, with deep root systems and broad canopies.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Tree planting shall consider passive solar heating and cooling opportunities related to building orientation.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Trees shall be provided in parking lot areas in a manner that provides shading of parked vehicles to the maximum extent feasible.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Trees shall be properly supported. Stakes and ties on trees shall be checked regularly for correct functions. Ties shall be adjusted to avoid creating abrasions or girdling on trunks or branches.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Hard Surfaces. Required planter or landscaped areas may be combined with pedestrian walks and similar hard surface areas, provided that such hard surface areas do not cover more than thirty percent of any required planter or landscaped areas. Ornamental or landscaping rock and gravel areas, artificial turf, or other areas covered with other artificial materials shall be considered hard surface areas for the purpose of this provision.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Slopes.</text>
+        <para>
+          <num>1.</num>
+          <text>All manufactured slopes over five feet in height created by grading shall be fully landscaped utilizing a combination of trees, shrubs and groundcover materials.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Stabilizing jute netting or equivalent netting shall be provided in conjunction with the landscape planting and shall fully cover lower slope areas.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Installation.</text>
+        <para>
+          <num>1.</num>
+          <text>All landscaping and planter areas shall be installed consistent with an approved water efficient landscape plan prior to final building permit sign-off or granting of an occupancy permit for a project.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Prior to the installation of landscaping in any public right-of-way, the developer shall provide for continued maintenance until such areas are accepted by the city or as defined in a subdivision improvement agreement.</text>
+        </para>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Maintenance. Required landscaped areas shall be continually maintained in good condition and kept clean and weeded. Good maintenance shall be interpreted to include: watering and maintaining water efficiency, weeding, pruning, insect and disease control, and replacement of plant materials and irrigation equipment as needed to preserve the health and appearance of plant materials.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.070</num>
+      <heading>Water-efficient landscape worksheet.</heading>
+      <para>
+        <num>A.</num>
+        <text>The applicant shall complete the water efficient landscape worksheet which contains two sections:</text>
+        <para>
+          <num>1.</num>
+          <text>A hydrozone information table for the landscape project; and</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A water budget calculation for the landscape project. For the calculation of the maximum applied water allowance and estimated total water use, a project applicant shall use the ETo values from the table below:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th>NAPA County</th>
+                  <th>Jan</th>
+                  <th>Feb</th>
+                  <th>Mar</th>
+                  <th>Apr</th>
+                  <th>May</th>
+                  <th>Jun</th>
+                  <th>Jul</th>
+                  <th>Aug</th>
+                  <th>Sep</th>
+                  <th>Oct</th>
+                  <th>Nov</th>
+                  <th>Dec</th>
+                  <th>Annual ETo</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Carneros</td>
+                  <td>0.8</td>
+                  <td>1.5</td>
+                  <td>3.1</td>
+                  <td>4.6</td>
+                  <td>5.5</td>
+                  <td>6.6</td>
+                  <td>6.9</td>
+                  <td>6.2</td>
+                  <td>4.7</td>
+                  <td>3.5</td>
+                  <td>1.4</td>
+                  <td>1.0</td>
+                  <td>45.8</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+      </para>
+      <text>*	The values in this table were derived from:</text>
+      <para>
+        <num>1.</num>
+        <text>California Irrigation Management Information System (CIMIS);</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Reference Evapotranspiration Zones Map, University of California, Davis - Dept. of Land, Air &amp; Water Resources and California Dept. of Water Resources 1999;</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Reference Evapotranspiration for California, University of California, Davis - Department of Agriculture and Natural Resources (1987) Bulletin 1922;</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>Determining Daily Reference Evapotranspiration, Cooperative Extension University of California, Davis - Division of Agriculture and Natural Resources (1987), Publication Leaflet 21426.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Water budget calculations shall adhere to the following requirements:</text>
+        <para>
+          <num>1.</num>
+          <text>The plant factor used shall be from WUCOLS. The plant factor ranges from 0 to 0.3 for low water use plants, from 0.4 to 0.6 for moderate water use plants, and from 0.7 to 1.0 for high water use plants.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>All water features shall be included in the high water use hydrozone and temporarily irrigated areas shall be included in the low water use hydrozone.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>All special landscape areas shall be identified and their water use calculated as described below.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>ETAF for special landscape areas shall not exceed 1.0.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Maximum Applied Water Allowance. The maximum applied water allowance shall be calculated using the equation:</text>
+        <text>MAWA = (ETo) (0.62)[(0.7 x LA) + (0.3 x SLA)]</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Estimated Total Water Use. The estimated total water use shall be calculated using the equation below. The sum of the estimated total water use calculated for all hydrozones shall not exceed MAWA.</text>
+        <text>Where:</text>
+        <text>ETWU = Estimated Total Water Use per year (gallons)</text>
+        <text>ETo = Reference Evapotranspiration (inches)</text>
+        <text>PF = Plant Factor from WUCOLS (see Section 491)</text>
+        <text>HA = Hydrozone Area [high, medium, and low water use areas] (square feet)</text>
+        <text>SLA = Special Landscape Area (square feet)</text>
+        <text>0.62 = Conversion Factor</text>
+        <text>IE = Irrigation Efficiency (minimum 0.71)</text>
+        <para>
+          <num>1.</num>
+          <text>Example ETWU calculation: landscape area is fifty thousand square feet; plant water use type, plant factor, and hydrozone area are shown in the table below. The ETo value is 51.1 inches per year. There are no special landscape areas (recreational area, area permanently and solely dedicated to edible plants, and area irrigated with recycled water) in this example.</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th>Hydrozone</th>
+                  <th>Plant Water Use Type(s)</th>
+                  <th>Plant Factor (PF)*</th>
+                  <th>Hydrozone Area (HA) (square feet)</th>
+                  <th>PF x HA (square feet)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>High</td>
+                  <td>0.8</td>
+                  <td>7,000</td>
+                  <td>5,600</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>High</td>
+                  <td>0.7</td>
+                  <td>10,000</td>
+                  <td>7,000</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>Medium</td>
+                  <td>0.5</td>
+                  <td>16,000</td>
+                  <td>8,000</td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>Low</td>
+                  <td>0.3</td>
+                  <td>7,000</td>
+                  <td>2,100</td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td>Low</td>
+                  <td>0.2</td>
+                  <td>10,000</td>
+                  <td>2,000</td>
+                </tr>
+                <tr>
+                  <td proof="needed"/>
+                  <td proof="needed"/>
+                  <td proof="needed"/>
+                  <td>Sum</td>
+                  <td>24,700</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+      </para>
+      <text>*	Plant Factor from WUCOLS</text>
+      <text>ETWU = (51.1)(0.62)(24,700/0.71 + 0)</text>
+      <text>= 1,102,116 gallons per year</text>
+      <text>Compare ETWU with MAWA: For this example MAWA = (51.1) (0.62) [(0.7 x 50,000) + (0.3 x 0)] = 1,108,870 gallons per year. The ETWU (1,102,116 gallons per year) is less than MAWA (1,108,870 gallons per year). In this example, the water budget complies with the MAWA.</text>
+      <para>
+        <num>2.</num>
+        <text>Example ETWU calculation: total landscape area is fifty thousand square feet, two thousand square feet of which is planted with edible plants. The edible plant area is considered a special landscape area (SLA). The reference evapotranspiration value is 51.1 inches per year. The plant type, plant factor, and hydrozone area are shown in the table below.</text>
+        <text>
+          <table>
+            <thead>
+              <tr>
+                <th>Hydrozone</th>
+                <th>Plant Water Use Type(s)</th>
+                <th>Plant Factor (PF)*</th>
+                <th>Hydrozone Area (HA) (square feet)</th>
+                <th>PF x HA (square feet)</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>High</td>
+                <td>0.8</td>
+                <td>7,000</td>
+                <td>5,600</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>High</td>
+                <td>0.7</td>
+                <td>9,000</td>
+                <td>6,300</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Medium</td>
+                <td>0.5</td>
+                <td>15,000</td>
+                <td>7,500</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Low</td>
+                <td>0.3</td>
+                <td>7,000</td>
+                <td>2,100</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Low</td>
+                <td>0.2</td>
+                <td>10,000</td>
+                <td>2,000</td>
+              </tr>
+              <tr>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td proof="needed"/>
+                <td>Sum</td>
+                <td>23,500</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>SLA</td>
+                <td>1.0</td>
+                <td>2,000</td>
+                <td>2,000</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <text>*	Plant Factor from WUCOLS</text>
+      <text>ETWU = (51.1)(0.62)(23,500/0.71 + 2,000)</text>
+      <text>= (31.68) (33,099 + 2,000)</text>
+      <text>= 1,111,936 gallons per year</text>
+      <text>Compare ETWU with MAWA. For this example:</text>
+      <text>MAWA = (51.1) (0.62) [(0.7 x 50,000) + (0.3 x 2,000)]</text>
+      <text>= 31.68 x [35,000 + 600]</text>
+      <text>= 31.68 x 35,600</text>
+      <text>=1,127,808 gallons per year</text>
+      <text>The ETWU (1,111,936 gallons per year) is less than MAWA (1,127,808 gallons per year). For this example, the water budget complies with the MAWA.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.080</num>
+      <heading>Irrigation efficiency.</heading>
+      <text>For the purpose of determining maximum applied water allowance, average irrigation efficiency is assumed to be 0.71. Irrigation systems shall be designed, maintained, and managed to meet or exceed an average landscape irrigation efficiency of 0.71.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.090</num>
+      <heading>Soil management report.</heading>
+      <para>
+        <num>A.</num>
+        <text>In order to create drought resistant soil, reduce runoff and encourage healthy plant growth, a soil management report addressing soil attributes of the project site shall be completed by the applicant, or designee.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The soil management report shall address the soil attributes of the project site and shall include:</text>
+        <para>
+          <num>1.</num>
+          <text>Identification of areas of quality topsoil to be protected during construction and/or critical soil limitations such as compaction; water logged soils or wetlands; thin, eroded or erosion prone soils.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>A laboratory soil analysis of the soil(s) into which plantings are to be made.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Soil sampling shall be conducted in accordance with laboratory protocol, including protocols regarding adequate sampling depth for the intended plants.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>At a minimum the soil analysis shall include:</text>
+        <para>
+          <num>1.</num>
+          <text>Soil texture;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Infiltration rate determined by laboratory test or soil texture infiltration rate table;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>pH;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Total soluble salts;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Sodium;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Essential nutrients;</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Percent organic matter; and</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>Recommendations for soil amendments or nutrient applications to ameliorate the soil limitations identified by the analysis and the amount of compost required to bring the soil organic matter content to a minimum of three and one-half percent by dry weight or a minimum application of at least one inch. The required practice of adding compost is waived if the plant palette primarily includes California native species that are adapted to soils with little or no organic matter as documented by a published plant reference.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Specifications for protecting topsoil, ameliorating soil limitations, such as ripping the soil to alleviate soil compaction, and incorporating compost and/or amendments as per recommendations in the soil analysis report.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>The applicant, or designee, shall comply with one of the following:</text>
+        <para>
+          <num>1.</num>
+          <text>If significant mass grading is not planned, the soil management report shall be submitted to the city as part of the landscape documentation package; or</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>If significant mass grading is planned, the soil management report shall be submitted to the city as part of the certificate of completion.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The soil management report shall be made available, in a timely manner, to the professionals preparing the landscape design plans and irrigation design plans to make any necessary adjustments to the design plans.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>The applicant, or designee, shall submit documentation verifying implementation of soil management report recommendations to the city with the certificate of completion.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.100</num>
+      <heading>Landscape design plan.</heading>
+      <text>For the efficient use of water, landscaping shall be carefully designed and planned for the intended function of the project. A landscape design plan meeting the following design criteria shall be submitted as part of the landscape documentation package.</text>
+      <para>
+        <num>A.</num>
+        <text>Plant Material.</text>
+        <para>
+          <num>1.</num>
+          <text>The estimated total water use of the plant material selected must not exceed the maximum applied water allowance.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Each hydrozone shall have plant materials with similar water use, with the exception of hydrozones with plants of mixed water use, as specified in <cite path="|16.14.110">Section 16.14.110</cite>(B)(4).</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>At least seventy-five percent of the total number of plants in non-turf areas shall require occasional, little or no summer water. All species should be adapted to the climate in which they will be planted, as documented by a published plant reference. If plants are given a range of water needs from "occasional to moderate" for example, the landscape designer must determine if the plant will require either occasional or moderate watering based on site, soil, and climate conditions and categorize the plant appropriately. Sources used to determine climate adaptation and watering requirements may include:</text>
+          <para>
+            <num>a.</num>
+            <text>Bornstein, Carol, David Fross and Bart O'Brien, California Native Plants for the Garden.</text>
+          </para>
+          <text>Qualifying irrigation designation: "occasional," "infrequent," or "drought tolerant."</text>
+          <para>
+            <num>b.</num>
+            <text>East Bay Municipal Utility District's publication Plants and Landscapes for Summer Dry Climates.</text>
+          </para>
+          <text>Qualifying irrigation designation: "occasional," "infrequent" or "no summer water"</text>
+          <para>
+            <num>c.</num>
+            <text>Sunset Publishing Corporation Sunset Western Garden Book.</text>
+          </para>
+          <text>Qualifying irrigation designation: "little or no water"</text>
+          <para>
+            <num>d.</num>
+            <text>University of California Cooperative Extension's Guide to Estimating Irrigation Water Needs of Landscape Plantings in CA.</text>
+          </para>
+          <text>Qualifying irrigation designation: "Low" or "Very Low"</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Turf is not allowed on slopes greater than twenty-five percent where the toe of the slope is adjacent to an impermeable hardscape and where twenty-five percent means one foot of vertical elevation change for every four feet of horizontal length (rise divided by run x 100 = slope percent).</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Total irrigated areas specified as turf shall be limited to a maximum of twenty-five percent with recreational areas exempted.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>A landscape design plan for projects in fire-prone areas shall address fire safety and prevention. A defensible space or zone around a building or structure is required per California Public Resources Code Section 4291(a) and (b). Avoid fire-prone plant materials and highly flammable mulches.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Those species identified by the California Invasive Plant Council (CAL-IPC) as invasive in the San Francisco Bay Area shall not be specified.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>The architectural guidelines of a common interest development, which include community apartment projects, condominiums, planned developments, and stock cooperatives, shall not prohibit or include conditions that have the effect of prohibiting the use of low-water use plants as a group.</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>Plant species shall be selected and spaced to allow them to grow to their natural size and shape. Pruning for structural integrity and health of plant is permitted. In addition, plants located in a row or adjacent to buildings, sidewalks, or roads will be spaced between their minimum and maximum mature plant spread according to a published reference plant book and still fit into their planting area without significant overhang. Trees must meet the spacing requirements only when adjacent to buildings, in a row or adjacent to other vertical obstructions. Vines are not subject to spacing requirements.</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>Plants shall be selected and planted appropriately based upon their adaptability to the climatic, geologic, and topographical conditions of the project site.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Water Features.</text>
+        <para>
+          <num>1.</num>
+          <text>Recirculating water systems shall be used for water features.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Where available, recycled water shall be used as a source for decorative water features.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Surface area of a water feature shall be included in the high water use hydrozone area of the water budget calculation.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Mulch and Amendments.</text>
+        <para>
+          <num>1.</num>
+          <text>A minimum three-inch layer of mulch shall be applied on all exposed soil surfaces of planting areas except in turf areas, or direct seeding applications where mulch should not be used because it may be harmful. The use of plastic sheeting as a weed barrier is prohibited.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Stabilizing mulching products shall be used on slopes.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>The mulching portion of the seed/mulch slurry in hydro-seeded applications shall meet the mulching requirement.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Compost and soil amendments shall be incorporated according to recommendations of the soil report and what is appropriate for the plants selected (see <cite path="|16.14.090">Section 16.14.090</cite>).</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Ongoing maintenance shall include regular reapplication of mulch to a minimum of three inches.</text>
+        </para>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The landscape design plan, at a minimum, shall:</text>
+        <para>
+          <num>1.</num>
+          <text>Delineate and label each hydrozone by number, letter, or other method;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Identify each hydrozone as low, moderate, high water, or mixed water use. Areas of the landscape temporarily irrigated to establish drought tolerant plants shall be included in the low water use hydrozone for the water budget calculation;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Identify recreational areas;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Identify areas permanently and solely dedicated to edible plants;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Identify areas irrigated with recycled water;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Identify type of mulch and application depth;</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Identify soil amendments, type, and quantity;</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>Identify type and surface area of water features;</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>Identify hardscapes (pervious and non-pervious);</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>Identify location and installation details of any applicable stormwater best management practices that encourage on-site retention and infiltration of stormwater;</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>Identify any applicable rain harvesting or catchment technologies (e.g., rain gardens, cisterns, etc.);</text>
+        </para>
+        <para>
+          <num>12.</num>
+          <text>Contain the following statement: "I have complied with the criteria of the ordinance and applied them for the efficient use of water in the landscape design plan"; and</text>
+        </para>
+        <para>
+          <num>13.</num>
+          <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape. (See Sections 5500.1, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, 7027.5 of the California Business and Professions Code, Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.110</num>
+      <heading>Irrigation design plan.</heading>
+      <text>For the efficient use of water, an irrigation system shall meet all the requirements listed in this section and the manufacturers' recommendations. The irrigation system and its related components shall be planned and designed to allow for proper installation, management, and maintenance. An irrigation design plan meeting the following design criteria shall be submitted as part of the landscape documentation package.</text>
+      <para>
+        <num>A.</num>
+        <text>System.</text>
+        <para>
+          <num>1.</num>
+          <text>The irrigation system shall be designed to ensure that the dynamic pressure at each emission device is within the manufacturer's recommended pressure range for optimal performance.</text>
+          <para>
+            <num>a.</num>
+            <text>If the static pressure is above or below the required dynamic pressure of the irrigation system, pressure-regulating devices such as inline pressure regulators, booster pumps, or other devices shall be installed to meet the required dynamic pressure of the irrigation system.</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Static water pressure, dynamic or operating pressure, and flow reading of the water supply shall be measured at the point of connection. These pressure and flow measurements shall be conducted at the design stage. If the measurements are not available at the design stage, the measurements shall be conducted at installation.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Manual shut-off valves (such as a gate valve, ball valve, or butterfly valve) shall be required, as close as possible to the point of connection of the water supply, to minimize water loss in case of an emergency (such as a main line break) or routine repair.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Sensors (rain, freeze, wind, etc.), either integral or auxiliary, that suspend or alter irrigation operation during unfavorable weather conditions are required for all irrigation systems, as appropriate for local climatic conditions. Irrigation should be avoided during windy or freezing weather or during rain.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Backflow prevention devices shall be required to protect the water supply from contamination by the irrigation system.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>The irrigation system shall be designed to prevent runoff, low head drainage, overspray, or other similar conditions where irrigation water flows onto non-targeted areas, such as adjacent property, non­irrigated areas, hardscapes, roadways, or structures.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Relevant information from the soil management plan, such as soil type and infiltration rate, shall be utilized when designing irrigation systems.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>The design of the irrigation system shall conform to the hydrozones of the landscape design plan.</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>The irrigation system must be designed and installed to meet, at a minimum, the irrigation efficiency criteria as described in <cite path="|16.14.080">Section 16.14.080</cite> regarding the maximum applied water allowance.</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>In mulched planting areas, the use of low volume irrigation is required to maximize water infiltration into the root zone.</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>Sprinkler heads and other emission devices shall have matched precipitation rates, unless otherwise directed by the manufacturer's recommendations.</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>Sprinkler spacing shall be designed to achieve the highest possible distribution uniformity using the manufacturer's recommendations.</text>
+        </para>
+        <para>
+          <num>12.</num>
+          <text>Swing joints or other riser-protection components are required on all risers subject to damage that are adjacent to high traffic areas.</text>
+        </para>
+        <para>
+          <num>13.</num>
+          <text>Check valves or anti-drain valves are required for all irrigation systems.</text>
+        </para>
+        <para>
+          <num>14.</num>
+          <text>Narrow or irregularly shaped areas, including turf, less than eight feet in width in any direction shall be irrigated with subsurface irrigation or a low volume irrigation system.</text>
+        </para>
+        <para>
+          <num>15.</num>
+          <text>Overhead irrigation shall not be permitted within twenty-four inches of any non-permeable surface. Allowable irrigation within the setback from non-permeable surfaces may include drip, drip line, or other low flow non-spray technology. The setback area may be planted or unplanted. The surfacing of the setback may be mulch, gravel, or other porous material. These restrictions may be modified if:</text>
+          <para>
+            <num>a.</num>
+            <text>The landscape area is adjacent to permeable surfacing and no runoff occurs; or</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The adjacent non-permeable surfaces are designed and constructed to drain entirely to landscaping; or</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>The irrigation designer specifies an alternative design or technology, as part of the landscape documentation package and clearly demonstrates strict adherence to irrigation system design criteria in subsection (A)(8) of this section. Prevention of overspray and runoff must be confirmed during the irrigation audit.</text>
+          </para>
+        </para>
+        <para>
+          <num>16.</num>
+          <text>Slopes greater than twenty-five percent shall not be irrigated with an irrigation system with a precipitation rate exceeding three-fourths inches per hour. This restriction may be modified if the landscape designer specifies an alternative design or technology, as part of the landscape documentation package, and clearly demonstrates no runoff or erosion will occur. Prevention of runoff and erosion must be confirmed during the irrigation audit.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Hydrozone.</text>
+        <para>
+          <num>1.</num>
+          <text>Each valve shall irrigate a hydrozone with similar site, slope, sun exposure, soil conditions, and plant materials with similar water use.</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Sprinkler heads and other emission devices shall be selected based on what is appropriate for the plant type within that hydrozone.</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Where feasible, trees shall be placed on separate valves from shrubs, groundcovers, and turf.</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Individual hydrozones that mix plants of moderate and low water use, or moderate and high water use, may be allowed if the plant factor of the higher water using plant is used for calculations.</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Individual hydrozones that mix high and low water use plants shall not be permitted.</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>On the landscape design plan and irrigation design plan, hydrozone areas shall be designated by number, letter, or other designation. On the irrigation design plan, designate the areas irrigated by each valve, and assign a number to each valve. Use this valve number in the Hydrozone Information Table (see City of American Canyon Template Water-Efficient Landscaping Worksheet). This table can also assist with the irrigation audit and programming the controller.</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>The irrigation design plan, at a minimum, shall contain:</text>
+          <para>
+            <num>a.</num>
+            <text>Location and size of separate water meters for landscape;</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>Location, type and size of all components of the irrigation system, including controllers, main and lateral lines, valves, sprinkler heads, moisture sensing devices, rain switches, quick couplers, pressure regulators, and backflow prevention devices;</text>
+          </para>
+          <para>
+            <num>c.</num>
+            <text>Static water pressure at the point of connection to the public water supply;</text>
+          </para>
+          <para>
+            <num>d.</num>
+            <text>Flow rate (gallons per minute), application rate (inches per hour), and design operating pressure (pressure per square inch) for each station;</text>
+          </para>
+          <para>
+            <num>e.</num>
+            <text>Recycled water irrigation systems as specified in <cite path="|19.22.070">Section 19.22.070</cite>;</text>
+          </para>
+          <para>
+            <num>f.</num>
+            <text>The following statement: "I have complied with the criteria of the ordinance and applied them accordingly for the efficient use of water in the irrigation design plan"; and</text>
+          </para>
+          <para>
+            <num>g.</num>
+            <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections 5500.l, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, 7027.5 of the Business and Professions Code, Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agricultural Code.)</text>
+          </para>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.120</num>
+      <heading>Grading design plan.</heading>
+      <text>For the efficient use of water, project site grading shall be designed to minimize soil erosion, runoff, and water waste. A grading plan shall be submitted as part of the landscape documentation package. A comprehensive grading plan prepared by a civil engineer for other city permits satisfies this requirement.</text>
+      <para>
+        <num>A.</num>
+        <text>The project applicant shall submit a landscape grading plan that indicates finished configurations and elevations of the landscape area including:</text>
+        <para>
+          <num>1.</num>
+          <text>Height of graded slopes;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Drainage patterns;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Pad elevations;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Finish grade; and</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Stormwater retention improvements, if applicable.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>The grading design plan shall contain the following statement: "I have complied with the criteria of the ordinance and applied them accordingly for the efficient use of water in the grading design plan" and shall bear the signature of a licensed professional as authorized by law.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.130</num>
+      <heading>Irrigation scheduling.</heading>
+      <text>For the efficient use of water, all irrigation schedules shall be developed, managed, and evaluated to utilize the minimum amount of water required to maintain plant health. Irrigation schedules shall meet the following criteria:</text>
+      <para>
+        <num>A.</num>
+        <text>Irrigation scheduling shall be regulated by automatic irrigation controllers.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Operation of he irrigation system outside the normal watering window is allowed for auditing and system maintenance.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>For implementation of the irrigation schedule, particular attention must be paid to irrigation run times, emission device, flow rate, and current reference evapotranspiration, so that applied water meets the estimated total water use. Total annual applied water shall be less than or equal to maximum applied water allowance (MAWA). Actual irrigation schedules shall be regulated by automatic irrigation controllers using current reference evapotranspiration data (e.g., CIMIS) or soil moisture sensor data.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Parameters used to set the automatic controller shall be developed and submitted for each of the following:</text>
+        <para>
+          <num>1.</num>
+          <text>The plant establishment period;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The established landscape; and</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Temporarily irrigated areas.</text>
+        </para>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Each irrigation schedule shall consider for each station all of the following that apply:</text>
+        <para>
+          <num>1.</num>
+          <text>Irrigation interval (days between irrigation);</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Irrigation run times (hours or minutes per irrigation event to avoid runoff);</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Number of cycle starts required for each irrigation event to avoid runoff;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Amount of applied water scheduled to be applied on a monthly basis;</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Application rate setting;</text>
+        </para>
+        <para>
+          <num>6.</num>
+          <text>Root depth setting;</text>
+        </para>
+        <para>
+          <num>7.</num>
+          <text>Plant type setting;</text>
+        </para>
+        <para>
+          <num>8.</num>
+          <text>Soil type and mulch depth;</text>
+        </para>
+        <para>
+          <num>9.</num>
+          <text>Slope factor setting;</text>
+        </para>
+        <para>
+          <num>10.</num>
+          <text>Shade factor setting; and</text>
+        </para>
+        <para>
+          <num>11.</num>
+          <text>Irrigation uniformity or efficiency setting.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.140</num>
+      <heading>Landscape and irrigation maintenance schedule.</heading>
+      <para>
+        <num>A.</num>
+        <text>Landscapes shall be maintained to ensure water use efficiency. A regular maintenance schedule shall be submitted with the certificate of completion.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>A regular maintenance schedule shall include, but not be limited to, routine inspection; adjustment and repair of the irrigation system and its components; aerating and dethatching turf areas; replenishing mulch; fertilizing; pruning; weeding in all landscape areas, and removing and obstruction to emission devices. Operation of the irrigation system outside the normal watering window is allowed for auditing and system maintenance.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Repair of all irrigation equipment shall be done with the originally installed components or their equivalents.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>At least one landscaping staff member or contractor shall be trained in the use of Integrated Pest Management (IPM) or is a "Bay-Friendly Qualified Landscape Professional."</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.150</num>
+      <heading>Stormwater management.</heading>
+      <text>All landscape plans shall conform to Chapter 14.28 Stormwater and Pollution Discharge Control Program.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.160</num>
+      <heading>Irrigation audit, irrigation survey, and irrigation water use analysis.</heading>
+      <para>
+        <num>A.</num>
+        <text>All landscape irrigation audits shall be conducted by a certified landscape irrigation auditor.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>For new construction and rehabilitated landscape projects installed after January 1, 2010, as described in <cite path="|16.14.020">Section 16.14.020</cite>:</text>
+        <para>
+          <num>1.</num>
+          <text>The project applicant shall submit an irrigation audit report with the certificate of completion to the city that may include, but is not limited to: inspection, system tune-up, system test with distribution uniformity, reporting overspray or run off that causes overland flow, and preparation of an irrigation schedule;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>The city shall administer programs that may include, but not be limited to, irrigation water use analysis, irrigation audits, and irrigation surveys for compliance with the maximum applied water allowance.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.170</num>
+      <heading>Effective precipitation.</heading>
+      <para>
+        <num>A.</num>
+        <text>The city may consider effective precipitation (twenty-five percent of annual precipitation) in tracking water use and may use the following equation to calculate maximum applied water allowance:</text>
+        <text>MAWA= (ETo - Eppt) (0.62) [(0.7 x LA) + (0.3 x SLA)].</text>
+        <text>Upon approval of the final landscape documentation package by the city, the project applicant shall:</text>
+        <para>
+          <num>1.</num>
+          <text>Receive a permit or approval of the plan check or design permit and record the date of the permit in the certificate of completion;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Submit a copy of the approved final landscape documentation package along with the record drawings, and any other information to the property owner or designee; and</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Submit a copy of the water-efficient landscape worksheet to the city.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.14.180</num>
+      <heading>Certificate of completion.</heading>
+      <text>The certificate of completion shall include the following:</text>
+      <para>
+        <num>A.</num>
+        <text>Project information sheet that contains:</text>
+        <para>
+          <num>1.</num>
+          <text>Date;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Project name;</text>
+        </para>
+        <para>
+          <num>3.</num>
+          <text>Project applicant name, telephone, and mailing address;</text>
+        </para>
+        <para>
+          <num>4.</num>
+          <text>Project address and location; and</text>
+        </para>
+        <para>
+          <num>5.</num>
+          <text>Property owner name, telephone, and mailing address.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Certification by either the signer of the landscape design plan, the signer of the irrigation design plan, or the licensed landscape contractor that the landscape project has been installed per the approved landscape Documentation Package:</text>
+        <para>
+          <num>1.</num>
+          <text>Where there have been significant changes made in the field during construction, these "as-built" or record drawings shall be included with the certification.</text>
+        </para>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Irrigation scheduling parameters used to set the controller (see <cite path="|16.14.130">Section 16.14.130</cite>).</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Landscape and irrigation maintenance schedule (see <cite path="|16.14.140">Section 16.14.140</cite>).</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>Irrigation audit report (see <cite path="|16.14.160">Section 16.14.160</cite>).</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>Soil management report, if not submitted with landscape documentation package, and documentation verifying implementation of soil report recommendations (see <cite path="|16.14.090">Section 16.14.090</cite>).</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>The project applicant shall:</text>
+        <para>
+          <num>1.</num>
+          <text>Submit the signed certificate of completion to the city for review;</text>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>Ensure that copies of the approved certificate of completion are submitted to the city and property owner or designee.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.15</num>
+    <heading>STREAMLINED RESIDENTIAL ROOFTOP SOLAR ENERGY PERMIT</heading>
+    <section>
+      <num>16.15.010</num>
+      <heading>Intent and purpose.</heading>
+      <text>The intent and purpose of this chapter is to adopt an expedited, streamlined solar permitting process that complies with the Solar Rights Act and AB 2188 (Chapter 521, Statutes 2014) to achieve timely and cost-effective installations of small residential rooftop solar energy systems. This chapter is designed to encourage the use of solar systems by removing unreasonable barriers, minimizing costs to property owners and the city, and expanding the ability of property owners to install solar energy systems. This chapter allows the city to achieve these goals while protecting the public health and safety.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2015-09 § 1, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.15.020</num>
+      <heading>Applicability.</heading>
+      <para>
+        <num>A.</num>
+        <text>This chapter applies to the permitting of all small residential rooftop solar energy systems in the city.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Small residential rooftop solar energy systems legally established or permitted prior to the effective date of the ordinance codified in this chapter are not subject to the requirements of this chapter unless physical modifications or alterations are undertaken that materially change the size, type, or components of a small rooftop solar energy system in such a way as to require new permitting. Routine operation and maintenance of like-kind replacements shall not require a permit.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2015-09 § 1, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.15.030</num>
+      <heading>Definitions.</heading>
+      <text>"Association" means a nonprofit corporation or unincorporated association created for the purpose of managing a common interest development.</text>
+      <text>"Building division" means the building and safety division for the city of American Canyon.</text>
+      <text>"Building official" means the chief building official for the city of American Canyon.</text>
+      <text>"City" means the city of American Canyon.</text>
+      <text>"Common interest development" means any of the following:</text>
+      <para>
+        <num>1.</num>
+        <text>A community apartment project.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A condominium project.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A planned development.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A stock cooperative.</text>
+      </para>
+      <text>"Electronic submittal" means the utilization of one or more of the following:</text>
+      <para>
+        <num>1.</num>
+        <text>Email;</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>The Internet; or</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>Facsimile.</text>
+      </para>
+      <text>"Expedited permitting," and "expedited review," means the process outlined in <cite path="|16.15.070">Section 16.15.070</cite> entitled "Expedited permit review and inspection requirements."</text>
+      <text>A "feasible method to satisfactorily mitigate or avoid the specific, adverse impact" includes, but is not limited to, any cost-effective method, condition or mitigation imposed by the city on another similarly situated application in a prior successful application for a similar permit.</text>
+      <text>"Reasonable restrictions" on a solar energy system are those restrictions that do not significantly increase the cost of the system or significantly decrease its efficiency or specified performance, or that allow for an alternative system of comparable cost, efficiency, and energy conservation benefits.</text>
+      <text>"Restrictions that do not significantly increase the cost of the system or decrease its efficiency or specified performance" means:</text>
+      <para>
+        <num>1.</num>
+        <text>For water heater systems or solar swimming pool heating systems: an amount exceeding ten percent of the cost of the system, but in no case more than one thousand dollars, or decreasing the efficiency of the solar energy system by an amount exceeding ten percent as originally specified and proposed.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>For photovoltaic systems: an amount not to exceed one thousand dollars over the cost of the system as originally specified and proposed, or a decrease in system efficiency of an amount exceeding ten percent as originally specified and proposed.</text>
+      </para>
+      <text>"Small residential rooftop solar energy system" means all of the following:</text>
+      <para>
+        <num>1.</num>
+        <text>A solar energy system that is not larger than ten kilowatts alternating current nameplate rating or thirty kilowatts thermal.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>A solar energy system that conforms to all applicable state fire, structural, electrical, and other building codes as adopted or amended by the city of American Canyon and all state of California health and safety standards.</text>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>A solar energy system that is installed on a single- or duplex-family dwelling.</text>
+      </para>
+      <para>
+        <num>4.</num>
+        <text>A solar panel or module array that does not exceed the maximum legal building height as defined by the city of American Canyon.</text>
+      </para>
+      <text>"Solar energy system" means either of the following:</text>
+      <para>
+        <num>1.</num>
+        <text>Any solar collector or other solar energy device whose primary purpose is to provide for the collection, storage, and distribution of solar energy for space heating, space cooling, electric generation, or water heating.</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text>Any structural design feature of a building whose primary purpose is to provide for the collection, storage, and distribution of solar energy for electricity generation, space heating, space cooling or water heating.</text>
+      </para>
+      <text>"Specific, adverse impact" means a significant, quantifiable, direct and unavoidable impact, based on objective, identified and written public health or safety standards, policies or conditions as they existed on the date the application was deemed complete.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2015-09 § 1, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.15.040</num>
+      <heading>Solar energy system requirements.</heading>
+      <para>
+        <num>A.</num>
+        <text>All solar energy systems shall meet applicable health and safety standards and requirements imposed by the city and the state of California.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Solar energy systems for heating water in single-family residences and for heating water in commercial or swimming pool applications shall be certified by an accredited listing agency as defined by the California Plumbing and Mechanical Code.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>Solar energy systems for producing electricity shall meet all applicable safety and performance standards established by the California Electrical Code, the Institute of Electrical and Electronics Engineers, and accredited testing laboratories such as Underwriters Laboratories and, where applicable, rules of the public utilities commission regarding safety and reliability.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2015-09 § 1, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.15.050</num>
+      <heading>Aesthetic installation.</heading>
+      <text>Electrical metallic tubing (EMT) and other forms of conduit is not permitted in exposed exterior locations visible from the public right-of-way. Exposed conduit placed toward the rear of the house out of view of the public right-of-way shall be painted to match the color of the house.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2015-09 § 1, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.15.060</num>
+      <heading>Duties of community development department and building official.</heading>
+      <para>
+        <num>A.</num>
+        <text>All documents required for the submission of an expedited small residential rooftop solar energy system application shall be made available on the city's publicly accessible website.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Electronic submittal of the required permit application and documents via email, the city's website, or facsimile shall be made available to all small residential rooftop solar energy system permit applicants.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>An applicant's electronic signature shall be accepted on all forms, applications, and other documents in lieu of a wet signature.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>The building division shall adopt a standard plan and checklist of all requirements with which small residential rooftop solar energy systems shall comply to be eligible for expedited review.</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The small residential rooftop solar system permit process, standard plans, and checklist shall substantially conform to the recommendations for expedited permitting, including the checklist and standard contained in the most current version of the <em>California Solar Permitting Guidebook</em> adopted by the Governor's Office of Planning and Research.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>All fees prescribed for the permitting of small residential rooftop solar energy systems must comply with Government Code Sections 65850.55 and 66015 and Health and Safety Code Section 17951.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2015-09 § 1, 2015</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.15.070</num>
+      <heading>Expedited permit review and inspection requirements.</heading>
+      <para>
+        <num>A.</num>
+        <text>The building division shall adopt an administrative, nondiscretionary review process to expedite the approval of small residential rooftop solar energy system applications within thirty days of adoption of this chapter. For an application for a small residential rooftop solar energy system that meets the requirements of the approved checklist and standard plan, the building division shall issue a building permit or other non-discretionary permit within three business days. The building official may require an applicant to apply for a use permit if the official finds, based on substantial evidence, that the solar energy system could have a specific, adverse impact upon the public health and safety.</text>
+      </para>
+      <para>
+        <num>B.</num>
+        <text>Review of the application shall be limited to the building official's review of whether the applicant meets local, state and federal health and safety requirements.</text>
+      </para>
+      <para>
+        <num>C.</num>
+        <text>If a use permit is required, the building official may deny an application for the use permit if the official makes written findings based upon substantive evidence in the record that the proposed installation would have a specific, adverse impact upon public health or safety and there is no feasible method to satisfactorily mitigate or avoid the specific, adverse impact. Such findings shall include the basis for the rejection of the potential feasible alternative for preventing the adverse impact.</text>
+      </para>
+      <para>
+        <num>D.</num>
+        <text>Any condition imposed on an application shall be designed to mitigate the specific, adverse impact upon health and safety at the lowest possible cost. The city shall use its best efforts to ensure that the selected method, condition, or mitigation meets the conditions of Civil Code Sections 714(d)(1)(A) and (B).</text>
+      </para>
+      <para>
+        <num>E.</num>
+        <text>The city shall not condition the approval of an application on the approval of an association as defined in Civil Code Section 4080.</text>
+      </para>
+      <para>
+        <num>F.</num>
+        <text>If an application for a small residential rooftop solar energy system is deemed incomplete, a written correction notice detailing all deficiencies in the application and any additional information or documentation required to be eligible for expedited permitting shall be sent to the applicant for resubmission.</text>
+      </para>
+      <para>
+        <num>G.</num>
+        <text>Only one inspection shall be required and performed by the building division for small residential rooftop solar energy systems eligible for expedited review.</text>
+      </para>
+      <para>
+        <num>H.</num>
+        <text>The inspection shall be done in a timely manner and should include consolidated inspections. An inspection will be scheduled within two business days of a request.</text>
+      </para>
+      <para>
+        <num>I.</num>
+        <text>If a small residential rooftop solar energy system fails inspection, a subsequent inspection is authorized but need not conform to the requirements of this chapter.</text>
+      </para>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
+        <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
+        <annotation type="History">Ord. 2015-09 § 1, 2015</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.16</num>
+    <heading>CALIFORNIA ADMINISTRATIVE CODE</heading>
+    <section>
+      <num>16.16.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "California Administrative Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Administrative Code, refers and applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.16.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Administrative Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Administrative Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.17</num>
+    <heading>CALIFORNIA REFERENCED STANDARDS CODE</heading>
+    <section>
+      <num>16.17.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "California Referenced Standards Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Referenced Standards Code, refers and applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.17.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Referenced Standards Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Referenced Standards Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>16.18</num>
+    <heading>INTERNATIONAL PROPERTY MAINTENANCE CODE</heading>
+    <section>
+      <num>16.18.010</num>
+      <heading>Title.</heading>
+      <text>This chapter shall be cited as the "International Property Maintenance Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the International Property Maintenance Code, refers and applies to this chapter.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>16.18.020</num>
+      <heading>Code adoption.</heading>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "International Property Maintenance Code, 2021 Edition," published by the International Code Council and copyrighted by the International Code Council. The documents identified in this section are adopted in their entirety. A copy of the adopted International Property Maintenance Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
+    </section>
+  </container>
+</container>

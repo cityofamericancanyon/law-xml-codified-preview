@@ -10,7 +10,7 @@
     <section>
       <num>2.02.010</num>
       <heading>The mayor.</heading>
-      <text>The mayor shall be elected from the city at large on the consolidated city general municipal election, held on even-numbered years, consistent with <cite path="|2.56.020">Section 2.56.020</cite> of Chapter 2.56 of the city municipal code. The mayor shall receive compensation as provided in <cite path="|2.04.060">Section 2.04.060</cite> of Chapter 2.04 of the city municipal code for council-members plus any additional compensation as provided by council ordinance or by a majority vote of the electors voting on the proposition at a municipal election pursuant to Government Code Section 36516.1. (Ord. 2006-12 § 1, 2006)</text>
+      <text>The mayor shall be elected from the city at large on the consolidated city general municipal election, held on even-numbered years, consistent with <cite path="|2.56.020">Section 2.56.020</cite> of <cite path="2.56">Chapter 2.56</cite> of the city municipal code. The mayor shall receive compensation as provided in <cite path="|2.04.060">Section 2.04.060</cite> of <cite path="2.04">Chapter 2.04</cite> of the city municipal code for council-members plus any additional compensation as provided by council ordinance or by a majority vote of the electors voting on the proposition at a municipal election pursuant to Government Code Section 36516.1. (Ord. 2006-12 § 1, 2006)</text>
       <annotations/>
     </section>
     <section>
@@ -348,7 +348,7 @@
       </para>
       <para>
         <num>N.</num>
-        <text>Perform such other responsibilities and exercise such other powers as may be delegated to him or her from time to time by ordinance or resolution or other official action of the council.</text>
+        <text>form such other responsibilities and exercise such other powers as may be delegated to him or her from time to time by ordinance or resolution or other official action of the council.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2007-03 § 1, 2007</annotation>
@@ -389,37 +389,37 @@
     <section>
       <num>2.08.100</num>
       <heading>Removal—Method—Notice.</heading>
-      <text>The removal of the city manager shall be effected only by a majority vote of the whole council as then constituted, convened in a regular council meeting, subject, however, to the provisions of Sections <cite path="|2.08.110">2.08.110</cite> through <cite path="|2.08.160">2.08.160</cite>. In case of his or her intended removal by the city council, the city manager shall be furnished with a written notice stating the council's intention to remove him or her and the reason therefor at least thirty days before the effective date of his or her removal. (prior code § 2.08.100)</text>
+      <text>The removal of the city manager shall be effected only by a majority vote of the whole council as then constituted, convened in a regular council meeting, subject, however, to the provisions of Sections <cite path="|2.08.110">2.08.110</cite> through <cite path="|2.08.160">2.08.160</cite>. In case of his or her intended removal by the city council, the city manager shall be furnished with a written notice stating the council's intention to remove him or her and the reason therefor at least thirty days before the effective date of his or her removal. (Prior code § 2.08.100)</text>
       <annotations/>
     </section>
     <section>
       <num>2.08.110</num>
       <heading>Removal—Hearing.</heading>
-      <text>Within seven days after the delivery to the city manager such notice required in <cite path="|2.08.100">Section 2.08.100</cite>, he or she may, by written notification to the city clerk, request a hearing before the council. Thereafter, the council shall fix a time for the hearing which shall be held at its usual meeting place, but before the expiration of the thirty-day period, at which the city manager shall appear and be heard, with or without counsel. (prior code § 2.08.110)</text>
+      <text>Within seven days after the delivery to the city manager such notice required in <cite path="|2.08.100">Section 2.08.100</cite>, he or she may, by written notification to the city clerk, request a hearing before the council. Thereafter, the council shall fix a time for the hearing which shall be held at its usual meeting place, but before the expiration of the thirty-day period, at which the city manager shall appear and be heard, with or without counsel. (Prior code § 2.08.110)</text>
       <annotations/>
     </section>
     <section>
       <num>2.08.120</num>
       <heading>Removal—Suspension pending hearing.</heading>
-      <text>After furnishing the city manager with written notice of intended removal, the council may suspend him or her from duty, but his or her compensation shall continue until his or her removal by resolution of the council passed subsequent to the hearing described in <cite path="|2.08.110">Section 2.08.110</cite>. (prior code § 2.08.120)</text>
+      <text>After furnishing the city manager with written notice of intended removal, the council may suspend him or her from duty, but his or her compensation shall continue until his or her removal by resolution of the council passed subsequent to the hearing described in <cite path="|2.08.110">Section 2.08.110</cite>. (Prior code § 2.08.120)</text>
       <annotations/>
     </section>
     <section>
       <num>2.08.130</num>
       <heading>Removal—Council discretion.</heading>
-      <text>In removing the city manager, except as provided in <cite path="|2.08.150">Section 2.08.150</cite>, the council shall use its uncontrolled discretion and its action shall be final and shall not depend upon any particular showing or degree of proof at the hearing, the purpose of which is to allow the city manager to present to the council his or her grounds of opposition to his or her removal prior to its action. (prior code § 2.08.130)</text>
+      <text>In removing the city manager, except as provided in <cite path="|2.08.150">Section 2.08.150</cite>, the council shall use its uncontrolled discretion and its action shall be final and shall not depend upon any particular showing or degree of proof at the hearing, the purpose of which is to allow the city manager to present to the council his or her grounds of opposition to his or her removal prior to its action. (Prior code § 2.08.130)</text>
       <annotations/>
     </section>
     <section>
       <num>2.08.140</num>
       <heading>Removal—Limitation.</heading>
-      <text>Notwithstanding the provisions of Sections <cite path="|2.08.100">2.08.100</cite> through <cite path="|2.08.130">2.08.130</cite>, the city manager shall not be removed from office, other than for misconduct in office, during or within a period of ninety days next succeeding any general municipal election held in the city at which election a member of the council is elected. The purpose of this provision is to allow any newly-elected member of the council or a reorganized council to observe the actions and ability of the city manager in the performance of the powers and duties of his or her office. After the expiration of such ninety-day period aforementioned, the provisions of Sections <cite path="|2.08.100">2.08.100</cite> through <cite path="|2.08.130">2.08.130</cite> as to the removal of the city manager shall apply and be effective. (prior code § 2.08.140)</text>
+      <text>Notwithstanding the provisions of Sections <cite path="|2.08.100">2.08.100</cite> through <cite path="|2.08.130">2.08.130</cite>, the city manager shall not be removed from office, other than for misconduct in office, during or within a period of ninety days next succeeding any general municipal election held in the city at which election a member of the council is elected. The purpose of this provision is to allow any newly-elected member of the council or a reorganized council to observe the actions and ability of the city manager in the performance of the powers and duties of his or her office. After the expiration of such ninety-day period aforementioned, the provisions of Sections <cite path="|2.08.100">2.08.100</cite> through <cite path="|2.08.130">2.08.130</cite> as to the removal of the city manager shall apply and be effective. (Prior code § 2.08.140)</text>
       <annotations/>
     </section>
     <section>
       <num>2.08.150</num>
       <heading>Wilful misconduct—Determination.</heading>
-      <text>In the event the intended removal of the city manager is for wilful misconduct in office, written notice to the city manager as provided in <cite path="|2.08.100">Section 2.08.100</cite> shall state that the reason for removal is wilful misconduct in office and shall state specific facts which constitute such wilful misconduct. The procedure for hearing and for suspension pending hearing shall be followed as stated in Sections <cite path="|2.08.100">2.08.100</cite> through <cite path="|2.08.140">2.08.140</cite>. A determination of wilful misconduct in office shall be evidenced by specific findings of facts constituting such wilful misconduct. The determination of what constitutes wilful misconduct shall be within the sole discretion of the council provided that it shall relate to the welfare of the city. (prior code § 2.08.150)</text>
+      <text>In the event the intended removal of the city manager is for wilful misconduct in office, written notice to the city manager as provided in <cite path="|2.08.100">Section 2.08.100</cite> shall state that the reason for removal is wilful misconduct in office and shall state specific facts which constitute such wilful misconduct. The procedure for hearing and for suspension pending hearing shall be followed as stated in Sections <cite path="|2.08.100">2.08.100</cite> through <cite path="|2.08.140">2.08.140</cite>. A determination of wilful misconduct in office shall be evidenced by specific findings of facts constituting such wilful misconduct. The determination of what constitutes wilful misconduct shall be within the sole discretion of the council provided that it shall relate to the welfare of the city. (Prior code § 2.08.150)</text>
       <annotations/>
     </section>
     <section>
@@ -512,11 +512,11 @@
         </para>
         <para>
           <num>11.</num>
-          <text>Process all claims filed against the city and its officers, agents, or employees, pursuant to the provisions of Chapter 1 of Part 3 of Division 3 of Title 1 of the Government Code of the state and Chapter 3.08 of Title 3 of this code; and</text>
+          <text>Process all claims filed against the city and its officers, agents, or employees, pursuant to the provisions of Chapter 1 of Part 3 of Division 3 of Title 1 of the Government Code of the state and <cite path="3.08">Chapter 3.08</cite> of Title 3 of this code; and</text>
         </para>
         <para>
           <num>12.</num>
-          <text>Perform such other duties consistent with this code as may be required of the city clerk, by the council.</text>
+          <text>form such other duties consistent with this code as may be required of the city clerk, by the council.</text>
         </para>
       </para>
       <annotations>
@@ -618,7 +618,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>Perform such other legal duties as may be required by the council or as may be necessary to complete the performance of the foregoing functions.</text>
+        <text>form such other legal duties as may be required by the council or as may be necessary to complete the performance of the foregoing functions.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as § 2.16.030</annotation>
@@ -801,11 +801,9 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Unless otherwise provided by law, or by ordinance or resolution, the city council shall consider any appeal of an action taken by any board or commission by an interested person or organization through the procedures set forth in Chapter 2.04 of this code. The decision of the city council, after considering or hearing the matter, shall be final.</text>
+        <text>Unless otherwise provided by law, or by ordinance or resolution, the city council shall consider any appeal of an action taken by any board or commission by an interested person or organization through the procedures set forth in <cite path="2.04">Chapter 2.04</cite> of this code. The decision of the city council, after considering or hearing the matter, shall be final. (Ord. 2001-04 § 1, 2001)</text>
       </para>
-      <annotations>
-        <annotation type="History">Ord. 2001-04 § 1, 2001</annotation>
-      </annotations>
+      <annotations/>
     </section>
   </container>
   <container>
@@ -911,15 +909,13 @@
       </para>
       <para>
         <num>D.</num>
-        <text>The city council may from time to time refer a matter to the commission for review, comment, recommendation, and action. All actions of the open space, active transportation, and sustainability commission are subject to appeal to the city council by any person or organization affected by such action through the procedures set forth in Chapter 2.04 of this code.</text>
+        <text>The city council may from time to time refer a matter to the commission for review, comment, recommendation, and action. All actions of the open space, active transportation, and sustainability commission are subject to appeal to the city council by any person or organization affected by such action through the procedures set forth in <cite path="2.04">Chapter 2.04</cite> of this code.</text>
       </para>
       <para>
         <num>E.</num>
-        <text>All actions taken by the commission shall be reported by city staff to the city clerk and shall be placed on the next regular agenda of the city council after receipt of the report by the city clerk. Actions taken by the commission shall not be considered final until the city council has heard and further considered the matter or has determined that further consideration of the matter is not required. When placed on the agenda of the city council, the city council may elect to consider the matter and may schedule the matter for a public hearing before the city council. The city council shall consider any appeal of an action taken by the open space, active transportation, and sustainability commission by an interested person or organization through the procedures set forth in Chapter 2.04 of this code. The decision of the city council, after considering or hearing the matter shall be final.</text>
+        <text>All actions taken by the commission shall be reported by city staff to the city clerk and shall be placed on the next regular agenda of the city council after receipt of the report by the city clerk. Actions taken by the commission shall not be considered final until the city council has heard and further considered the matter or has determined that further consideration of the matter is not required. When placed on the agenda of the city council, the city council may elect to consider the matter and may schedule the matter for a public hearing before the city council. The city council shall consider any appeal of an action taken by the open space, active transportation, and sustainability commission by an interested person or organization through the procedures set forth in <cite path="2.04">Chapter 2.04</cite> of this code. The decision of the city council, after considering or hearing the matter shall be final. (Ord. 2023-01 § 1, 2023)</text>
       </para>
-      <annotations>
-        <annotation type="History">Ord. 2023-01 § 1, 2023</annotation>
-      </annotations>
+      <annotations/>
     </section>
     <section>
       <num>2.30.030</num>
@@ -1054,7 +1050,7 @@
     <section>
       <num>2.36.010</num>
       <heading>Administrative decisions—Judicial review—Time limits.</heading>
-      <text>The provisions of Section 1094.6 of the Code of Civil Procedure of the state are adopted by the city council, and the provisions are made applicable in the city as further specified in <cite path="|2.36.020">Section 2.36.020</cite> of this chapter. (prior code § 2.50.010)</text>
+      <text>The provisions of Section 1094.6 of the Code of Civil Procedure of the state are adopted by the city council, and the provisions are made applicable in the city as further specified in <cite path="|2.36.020">Section 2.36.020</cite> of this chapter. (Prior code § 2.50.010)</text>
       <annotations/>
     </section>
     <section>
@@ -1386,7 +1382,7 @@
     <section>
       <num>2.44.020</num>
       <heading>Adherence to state standards.</heading>
-      <text>Pursuant to Section 13522 of the Chapter 1 referred to in <cite path="|2.44.010">Section 2.44.010</cite>, the city while receiving aid from the state pursuant to said Chapter 1, will adhere to the standards for recruitment and training established by the California Commission of Peace Officer Standards and Training. (prior code § 2.44.020)</text>
+      <text>Pursuant to Section 13522 of the Chapter 1 referred to in <cite path="|2.44.010">Section 2.44.010</cite>, the city while receiving aid from the state pursuant to said Chapter 1, will adhere to the standards for recruitment and training established by the California Commission of Peace Officer Standards and Training. (Prior code § 2.44.020)</text>
       <annotations/>
     </section>
   </container>
@@ -1747,7 +1743,7 @@
         </para>
         <para>
           <num>D.</num>
-          <text>Amendments. Amendments to the personnel policies in this chapter shall be adopted by resolution of the council. Personnel practices and procedures shall be adopted by the city manager or designee. In either case, reasonable advanced written notice, at least thirty days, shall be given to each recognized employee organization affected by any ordinance, rules, resolution, or regulation, or amendment thereof, proposed to be adopted by the council or the city manager. This subsection is optional if not within the scope of representation. Upon request, the city manager or designee shall provide the opportunity to meet with any employee organization regarding amendments affecting wages, hours and other terms and conditions of employment, as specified in Chapter 2.52, Employer-Employee Relations, and as specified as being a matter within the scope of representation.</text>
+          <text>Amendments. Amendments to the personnel policies in this chapter shall be adopted by resolution of the council. Personnel practices and procedures shall be adopted by the city manager or designee. In either case, reasonable advanced written notice, at least thirty days, shall be given to each recognized employee organization affected by any ordinance, rules, resolution, or regulation, or amendment thereof, proposed to be adopted by the council or the city manager. This subsection is optional if not within the scope of representation. Upon request, the city manager or designee shall provide the opportunity to meet with any employee organization regarding amendments affecting wages, hours and other terms and conditions of employment, as specified in <cite path="2.52">Chapter 2.52</cite>, Employer-Employee Relations, and as specified as being a matter within the scope of representation.</text>
         </para>
         <para>
           <num>E.</num>
@@ -1770,11 +1766,9 @@
         </para>
         <para>
           <num>C.</num>
-          <text>Employer-Employee Relations Agreements. Within the limitations of Chapter 2.52, if there is any conflict between this chapter and any memorandum of understanding or resolution authorizing pay, benefits, and other terms and conditions of employment between the city and a recognized employee organization, the provisions contained in such memorandum of understanding or resolution shall take precedence.</text>
+          <text>Employer-Employee Relations Agreements. Within the limitations of <cite path="2.52">Chapter 2.52</cite>, if there is any conflict between this chapter and any memorandum of understanding or resolution authorizing pay, benefits, and other terms and conditions of employment between the city and a recognized employee organization, the provisions contained in such memorandum of understanding or resolution shall take precedence. (Ord. 2004-14, 2004)</text>
         </para>
-        <annotations>
-          <annotation type="History">Ord. 2004-14, 2004</annotation>
-        </annotations>
+        <annotations/>
       </section>
       <section>
         <num>2.50.050</num>

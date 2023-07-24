@@ -1854,7 +1854,7 @@
         <text>Dwelling Unit, Low Income. "Low income dwelling unit" means a dwelling unit at a rental or at a sales price which is eligible for subsidy under any public program to assist the occupancy of housing by households of low income who meet the current eligibility standards for low rent public housing established for the city by the U.S. Department of Housing and Urban Development, ("HUD") from time to time and as certified by the city's community development director.</text>
         <text>Dwelling Unit, Moderate Income. "Moderate income dwelling unit" means a dwelling unit at a rental or at a sales price eligible for subsidy under any public program to assist the occupancy of housing by persons or households of lower income who meet the current eligibility standards for such households established for the city by HUD from time to time and as certified to the city's community development director.</text>
         <text>"Efficiency dwelling unit" means a room located within an apartment house or apartment hotel used or intended to be used for residential purposes which has a kitchen, living and sleeping quarters combined therein.</text>
-        <text>"Final Map" means a map prepared in accordance with the provisions of Chapter 18.26 of the city of American Canyon's municipal code (the "municipal code.") and with any applicable provisions of the Subdivision Map Act, designed to be recorded in the office of the county recorder of Napa County.</text>
+        <text>"Final Map" means a map prepared in accordance with the provisions of <cite path="18.26">Chapter 18.26</cite> of the city of American Canyon's municipal code (the "municipal code.") and with any applicable provisions of the Subdivision Map Act, designed to be recorded in the office of the county recorder of Napa County.</text>
         <text>Garage Private. "Private garage" means an accessory building or portion of a main building designed or used for parking or storage of motor vehicles of the occupants of a residential use.</text>
         <text>"General plan" means the general plan adopted by the city council, which is a comprehensive declaration of purposes, policies and programs for the development of the city and which includes, where applicable, diagrams, maps and text setting forth objections, principles, standards and other features.</text>
         <text>"Guest room" means any habitable room except a kitchen, designed or used for occupancy by one or more persons and not in a dwelling unit.</text>
@@ -2066,11 +2066,9 @@
         </para>
         <para>
           <num>E.</num>
-          <text>The design and improvement of parking facilities and areas shall substantially conform to the provisions of Chapter 10.32 of Title 10 of the city's municipal code.</text>
+          <text>The design and improvement of parking facilities and areas shall substantially conform to the provisions of <cite path="10.32">Chapter 10.32</cite> of Title 10 of the city's municipal code. (Ord. 2006-06 § 1, 2006)</text>
         </para>
-        <annotations>
-          <annotation type="History">Ord. 2006-06 § 1, 2006</annotation>
-        </annotations>
+        <annotations/>
       </section>
       <section>
         <num>18.32.080</num>
@@ -2103,10 +2101,8 @@
       <section>
         <num>18.32.090</num>
         <heading>Low and moderate income housing—Residential conversion projects.</heading>
-        <text>Each residential conversion project shall comply with any and all affordable income housing provisions in the municipal code, including but not limited to Chapter 19.28.</text>
-        <annotations>
-          <annotation type="History">Ord. 2006-06 § 1, 2006</annotation>
-        </annotations>
+        <text>Each residential conversion project shall comply with any and all affordable income housing provisions in the municipal code, including but not limited to <cite path="19.28">Chapter 19.28</cite>. (Ord. 2006-06 § 1, 2006)</text>
+        <annotations/>
       </section>
       <section>
         <num>18.32.100</num>
@@ -2146,7 +2142,7 @@
       <section>
         <num>18.34.020</num>
         <heading>Definitions.</heading>
-        <text>For purposes of this chapter, the definitions in Chapter 18.32 of the city's municipal code ("the municipal code") and the following definitions shall apply:</text>
+        <text>For purposes of this chapter, the definitions in <cite path="18.32">Chapter 18.32</cite> of the city's municipal code ("the municipal code") and the following definitions shall apply:</text>
         <text>"Landlord" means an owner, lessor or sublessor, (including any person, firm, corporation, partnership or other entity) who receives or is entitled to receive rent for the use of any rental unit, or the agent, representative or successor of any of the foregoing.</text>
         <text>"Notice of termination" means the notice of intention to terminate tenancy, whether given by a landlord or by a tenant, provided for by California Civil Code Section 1946.</text>
         <text>"Qualified tenant" means any tenant who satisfies any of the following criteria on the date said tenant gives or receives a notice of termination:</text>
@@ -2976,7 +2972,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>When a fee is to be paid in-lieu of land dedication, the amount of such fee shall be based upon the per-acre valuation set forth in Chapter 15.08, Parks and Civic Facilities Development Impact Fees, as adopted and as may be periodically amended as provided for in the ordinance for the amount of land that would be required for dedication pursuant to subsection A of this section. The amount of land shall be calculated by the following formula:</text>
+          <text>When a fee is to be paid in-lieu of land dedication, the amount of such fee shall be based upon the per-acre valuation set forth in <cite path="15.08">Chapter 15.08</cite>, Parks and Civic Facilities Development Impact Fees, as adopted and as may be periodically amended as provided for in the ordinance for the amount of land that would be required for dedication pursuant to subsection A of this section. The amount of land shall be calculated by the following formula:</text>
         </para>
         <text>
           <u>DUs x POP x 5 acres</u>

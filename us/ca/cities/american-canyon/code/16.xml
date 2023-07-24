@@ -995,10 +995,8 @@
     <section>
       <num>16.14.010</num>
       <heading>Purpose.</heading>
-      <text>This chapter defines the requirements for completing water-efficient final landscape plans, in compliance with Chapter 19.22 of the municipal code. The documentation described is intended to implement the landscape efficiency standards set by the Water Conservation in Landscaping Act of 2006 (AB 1881).</text>
-      <annotations>
-        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
-      </annotations>
+      <text>This chapter defines the requirements for completing water-efficient final landscape plans, in compliance with <cite path="19.22">Chapter 19.22</cite> of the municipal code. The documentation described is intended to implement the landscape efficiency standards set by the Water Conservation in Landscaping Act of 2006 (AB 1881). (Ord. 2015-05 § 2, 2015)</text>
+      <annotations/>
     </section>
     <section>
       <num>16.14.020</num>
@@ -2128,10 +2126,8 @@
     <section>
       <num>16.14.150</num>
       <heading>Stormwater management.</heading>
-      <text>All landscape plans shall conform to Chapter 14.28 Stormwater and Pollution Discharge Control Program.</text>
-      <annotations>
-        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
-      </annotations>
+      <text>All landscape plans shall conform to <cite path="14.28">Chapter 14.28</cite> Stormwater and Pollution Discharge Control Program. (Ord. 2015-05 § 2, 2015)</text>
+      <annotations/>
     </section>
     <section>
       <num>16.14.160</num>

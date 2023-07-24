@@ -201,10 +201,8 @@
     <section>
       <num>8.05.010</num>
       <heading>Use of Napa County's dangerous animal ordinance.</heading>
-      <text>Napa County Code Chapter 6.16, Dangerous Animals, as it may be amended from time to time, is adopted by reference as though fully set forth in this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2002-02 § 1, 2002</annotation>
-      </annotations>
+      <text>Napa County Code <cite path="6.16">Chapter 6.16</cite>, Dangerous Animals, as it may be amended from time to time, is adopted by reference as though fully set forth in this chapter. (Ord. 2002-02 § 1, 2002)</text>
+      <annotations/>
     </section>
     <section>
       <num>8.05.011</num>
@@ -861,7 +859,7 @@
       </para>
       <para>
         <num>J.</num>
-        <text>Appeals of an adverse decision of the noise control officer shall be made to the city council pursuant to Chapter 2.04 of this code.</text>
+        <text>Appeals of an adverse decision of the noise control officer shall be made to the city council pursuant to <cite path="2.04">Chapter 2.04</cite> of this code.</text>
       </para>
       <para>
         <num>K.</num>
@@ -876,15 +874,13 @@
       <heading>Enforcement.</heading>
       <para>
         <num>A.</num>
-        <text>Violation of <cite path="|8.12.040">Section 8.12.040</cite> or <cite path="|8.12.060">8.12.060</cite> of this chapter shall be a public nuisance which may be abated civilly or enforced criminally in accordance with Chapter 9.12 of this code.</text>
+        <text>Violation of <cite path="|8.12.040">Section 8.12.040</cite> or <cite path="|8.12.060">8.12.060</cite> of this chapter shall be a public nuisance which may be abated civilly or enforced criminally in accordance with <cite path="9.12">Chapter 9.12</cite> of this code.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Those employees of the community development department specified in Chapter 9.12 of this code shall have the authority under Penal Code Section 836.5 to issue citations for violations of this chapter, except that no such criminal citation shall be issued for any violation which has already been abated in a fashion satisfactory to the noise control officer or during the period for compliance specified in any abatement order issued for the same violation.</text>
+        <text>Those employees of the community development department specified in <cite path="9.12">Chapter 9.12</cite> of this code shall have the authority under Penal Code Section 836.5 to issue citations for violations of this chapter, except that no such criminal citation shall be issued for any violation which has already been abated in a fashion satisfactory to the noise control officer or during the period for compliance specified in any abatement order issued for the same violation. (Ord. 2014-01 § 2, 2014)</text>
       </para>
-      <annotations>
-        <annotation type="History">Ord. 2014-01 § 2, 2014</annotation>
-      </annotations>
+      <annotations/>
     </section>
   </container>
   <container>
@@ -2569,12 +2565,10 @@
         </para>
         <para>
           <num>3.</num>
-          <text>Comply with CALGreen requirements and applicable law related to management of C&amp;D, including compost material in C&amp;D diversion from disposal. Comply with city's C&amp;D ordinance, Chapter 15.32 of the city's municipal code, and all written and published city policies and/or administrative guidelines regarding collection, recycling, diversion, tracking, and/or reporting of C&amp;D.</text>
+          <text>Comply with CALGreen requirements and applicable law related to management of C&amp;D, including compost material in C&amp;D diversion from disposal. Comply with city's C&amp;D ordinance, <cite path="15.32">Chapter 15.32</cite> of the city's municipal code, and all written and published city policies and/or administrative guidelines regarding collection, recycling, diversion, tracking, and/or reporting of C&amp;D. (Ord. 2021-08 § 1, 2021)</text>
         </para>
       </para>
-      <annotations>
-        <annotation type="History">Ord. 2021-08 § 1, 2021</annotation>
-      </annotations>
+      <annotations/>
     </section>
     <section>
       <num>8.20.110</num>
@@ -2651,7 +2645,7 @@
       <heading>Enforcement.</heading>
       <para>
         <num>A.</num>
-        <text>Violation of any provision of this chapter shall constitute grounds for issuance of a notice of violation and assessment of a fine by a city compliance officer or designee. Enforcement actions under this chapter are administrative citation issuance and fine assessment. The city's procedures on administrative fines set forth in Chapter 9.12 are hereby incorporated in their entirety, as modified from time to time, and shall govern the imposition, enforcement, collection, and review of administrative citations issued to enforce this chapter and any rule or regulation adopted pursuant to this chapter, except as otherwise indicated in this chapter.</text>
+        <text>Violation of any provision of this chapter shall constitute grounds for issuance of a notice of violation and assessment of a fine by a city compliance officer or designee. Enforcement actions under this chapter are administrative citation issuance and fine assessment. The city's procedures on administrative fines set forth in <cite path="9.12">Chapter 9.12</cite> are hereby incorporated in their entirety, as modified from time to time, and shall govern the imposition, enforcement, collection, and review of administrative citations issued to enforce this chapter and any rule or regulation adopted pursuant to this chapter, except as otherwise indicated in this chapter.</text>
       </para>
       <para>
         <num>B.</num>
@@ -2700,7 +2694,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>Penalty Amounts for Types of Violations. The fine structure in Chapter 9.12, as amended, is hereby incorporated into this chapter.</text>
+        <text>Penalty Amounts for Types of Violations. The fine structure in <cite path="9.12">Chapter 9.12</cite>, as amended, is hereby incorporated into this chapter.</text>
       </para>
       <para>
         <num>F.</num>
@@ -2720,7 +2714,7 @@
       </para>
       <para>
         <num>G.</num>
-        <text>Appeals Process. The appeals process identified in Chapter 9.12 are hereby incorporated into this chapter.</text>
+        <text>Appeals Process. The appeals process identified in <cite path="9.12">Chapter 9.12</cite> are hereby incorporated into this chapter.</text>
       </para>
       <para>
         <num>H.</num>

@@ -664,11 +664,9 @@
       </para>
       <para>
         <num>C.</num>
-        <text>The city's provision of water services to projects located outside city limits shall be governed by Chapter 13.10 of this title and applicable state law.</text>
+        <text>The city's provision of water services to projects located outside city limits shall be governed by <cite path="13.10">Chapter 13.10</cite> of this title and applicable state law. (Ord. 2007-09 § 1, 2007)</text>
       </para>
-      <annotations>
-        <annotation type="History">Ord. 2007-09 § 1, 2007</annotation>
-      </annotations>
+      <annotations/>
     </section>
     <section>
       <num>13.06.130</num>
@@ -813,7 +811,7 @@
     <section>
       <num>13.10.030</num>
       <heading>Exemptions.</heading>
-      <text>Notwithstanding the provisions of <cite path="|13.10.020">Section 13.10.020</cite> of this chapter, city may provide water and sewer connections and services to developments outside of city limits, but within the urban limit line area or the water service area of city when it is established that there is a vested right to such connections or services under agreement or as otherwise provided by state law. Interested parties claiming a vested or other legal right to water or sewer connections or service which predated the adoption of the ordinance codified in this chapter may advance such a claim and appeal to the city council pursuant to Chapter 2.04 of this code. (Ord. 2000-04 § 1, 2000)</text>
+      <text>Notwithstanding the provisions of <cite path="|13.10.020">Section 13.10.020</cite> of this chapter, city may provide water and sewer connections and services to developments outside of city limits, but within the urban limit line area or the water service area of city when it is established that there is a vested right to such connections or services under agreement or as otherwise provided by state law. Interested parties claiming a vested or other legal right to water or sewer connections or service which predated the adoption of the ordinance codified in this chapter may advance such a claim and appeal to the city council pursuant to <cite path="2.04">Chapter 2.04</cite> of this code. (Ord. 2000-04 § 1, 2000)</text>
       <annotations/>
     </section>
     <section>
@@ -1011,7 +1009,7 @@
       </para>
       <para>
         <num>M.</num>
-        <text>The irrigation with water of landscapes outside of newly constructed homes and buildings in a manner inconsistent with Chapter 16.14.</text>
+        <text>The irrigation with water of landscapes outside of newly constructed homes and buildings in a manner inconsistent with <cite path="16.14">Chapter 16.14</cite>.</text>
       </para>
       <para>
         <num>N.</num>
@@ -1094,7 +1092,7 @@
         <text>Stage 3—Mandatory Compliance—Water Emergency. The intent of Stage 3 is to achieve an overall system-wide demand reduction of thirty percent. The city council may, by resolution, declare a "Drought Emergency Stage 3 (Mandatory Compliance—Water Emergency)" upon recommendation by the manager and based on water supply and delivery projections by the maintenance and utilities director, that an overall system-wide demand reduction of thirty percent is necessary. In addition to a mandatory reduction of thirty percent for each water customer, and in addition to the requirements in Stages 1 and 2, the following activities shall be prohibited:</text>
         <para>
           <num>1.</num>
-          <text>Planting any new landscaping, except for native, drought-tolerant species as defined by Chapter 16.22.</text>
+          <text>Planting any new landscaping, except for native, drought-tolerant species as defined by <cite path="16.22">Chapter 16.22</cite>.</text>
         </para>
       </para>
       <para>
@@ -1223,13 +1221,13 @@
     <section>
       <num>13.14.130</num>
       <heading>Violation—Penalties.</heading>
-      <text>In addition to all other remedies provided herein, any person who violates any provision of this chapter after having received a written notice to refrain as provided in <cite path="|13.14.120">Section 13.14.120</cite>, is guilty of an infraction. The violation of each provision of this chapter and each separate violation thereof shall be deemed a separate offense and shall be punishable pursuant to Chapter 1.24. (Ord. 2022-06 § 1, 2022)</text>
+      <text>In addition to all other remedies provided herein, any person who violates any provision of this chapter after having received a written notice to refrain as provided in <cite path="|13.14.120">Section 13.14.120</cite>, is guilty of an infraction. The violation of each provision of this chapter and each separate violation thereof shall be deemed a separate offense and shall be punishable pursuant to <cite path="1.24">Chapter 1.24</cite>. (Ord. 2022-06 § 1, 2022)</text>
       <annotations/>
     </section>
     <section>
       <num>13.14.140</num>
       <heading>Violation—Additional remedy.</heading>
-      <text>As an additional remedy, the violation of any provision of this chapter by any person who has received more than one written warning pursuant to <cite path="|13.14.120">Section 13.14.120</cite> to refrain from the same or any other violation under this chapter in one calendar year shall be deemed, and is declared to be, a public nuisance and may be subject to abatement in accordance with Chapter 8.04 of the city of American Canyon Municipal Code. (Ord. 2022-06 § 1, 2022)</text>
+      <text>As an additional remedy, the violation of any provision of this chapter by any person who has received more than one written warning pursuant to <cite path="|13.14.120">Section 13.14.120</cite> to refrain from the same or any other violation under this chapter in one calendar year shall be deemed, and is declared to be, a public nuisance and may be subject to abatement in accordance with <cite path="8.04">Chapter 8.04</cite> of the city of American Canyon Municipal Code. (Ord. 2022-06 § 1, 2022)</text>
       <annotations/>
     </section>
   </container>

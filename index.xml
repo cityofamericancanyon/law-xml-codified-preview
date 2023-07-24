@@ -19,7 +19,7 @@
         <repository name="cityofamericancanyon/law-xml" commit="a99a39f062e52f97e457855fc07023b1471b78b5"/>
       </repositories>
       <platform version="2.11.0" reproducible="false"/>
-      <build-date>2023-07-20</build-date>
+      <build-date>2023-07-24</build-date>
       <codified-date>2023-07-06</codified-date>
     </build>
   </meta>

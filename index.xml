@@ -9,7 +9,7 @@
     <canonical-urls>
       <xml-bulk>https://github.com/cityofamericancanyon/law-xml</xml-bulk>
       <html-bulk>https://github.com/cityofamericancanyon/law-html</html-bulk>
-      <static-assets>https://github.com/cityofamericancanyon/law-static-assets</static-assets>
+      <static-assets>https://github.com/openlawlibrary/law-static-assets</static-assets>
       <law-git>https://github.com/cityofamericancanyon/law.git</law-git>
       <html/>
     </canonical-urls>

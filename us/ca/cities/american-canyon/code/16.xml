@@ -31,7 +31,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Enable the building official to enforce the provisions of this title.</text>
+        <text>Enable the building official to enforce the provisions of <cite path="16">this title</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
@@ -42,7 +42,7 @@
     <section>
       <num>16.01.030</num>
       <heading>Administration of title.</heading>
-      <text>The provisions of this title shall be administered by the building official, who is the enforcement officer for all provisions, unless otherwise specified in a particular section, and authorized representatives. All other officers and employees of the city shall assist and cooperate in the administration of this chapter.</text>
+      <text>The provisions of <cite path="16">this title</cite> shall be administered by the building official, who is the enforcement officer for all provisions, unless otherwise specified in a particular section, and authorized representatives. All other officers and employees of the city shall assist and cooperate in the administration of <cite path="16.01">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
         <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
@@ -70,16 +70,16 @@
     <section>
       <num>16.02.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the California Building Code of the city and any reference in the city municipal code or any chapter thereof to the California Building Code applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.02">This chapter</cite> shall be cited as the California Building Code of the city and any reference in the city municipal code or any chapter thereof to the California Building Code applies to <cite path="16.02">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.02.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Building Code, 2022 Edition," published and copyrighted by the International Code Council. The documents identified in this section are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.02.030">16.02.030</cite> through <cite path="|16.02.260">16.02.260</cite> of this chapter. A copy of the adopted California Building Code shall be kept on file in the office of the building official for use and examination by members of the public. (Ord. 2022-05 § 1, 2022)</text>
-      <annotations/>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Building Code, 2022 Edition," published and copyrighted by the International Code Council. The documents identified in <cite path="|16.02.020">this section</cite> are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.02.030">16.02.030</cite> through <cite path="|16.02.260">16.02.260</cite> of <cite path="16.02">this chapter</cite>. A copy of the adopted California Building Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
     </section>
     <section>
       <num>16.02.030</num>
@@ -92,7 +92,6 @@
       <text>Appendix Chapter I, Patio Covers</text>
       <text>Appendix Chapter J, Grading</text>
       <text>Appendix Chapter O, Emergency Housing</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -100,7 +99,7 @@
     <section>
       <num>16.02.040</num>
       <heading>Findings and determination.</heading>
-      <text>As permitted in Health and Safety Code Section 17958.7, the city of American Canyon finds and determines the local amendments to the 2022 California Building Code are either administrative in nature or reasonably necessary to protect the health, safety and general welfare of the public due to local climatic, geological or topographical conditions. Those findings are as follows:</text>
+      <text>As permitted in <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">Health and Safety Code Section 17958.7</cite>, the city of American Canyon finds and determines the local amendments to the 2022 California Building Code are either administrative in nature or reasonably necessary to protect the health, safety and general welfare of the public due to local climatic, geological or topographical conditions. Those findings are as follows:</text>
       <text>Express Finding Number 1: Climatic. The city is located in a climatic zone with precipitation ranging from fifteen to twenty-six inches per year. Ninety-five percent of precipitation falls during the months of November through April, leaving a dry period of approximately six months each year. Relative humidity remains moderate most of the time. High temperatures in the summer average in the mid-eighty degrees Fahrenheit and in the winter in the mid-fifty degrees Fahrenheit. Prevailing winds in the area are common with gusts up to thirty-five miles per hour. These climatic conditions, along with our topography, necessitate a greater requirement for fire-sprinklers in residential construction, a minimum Class A roof covering and adequate spark arrestors.</text>
       <text>Express Finding Number 2: Geological. The city is located in Seismic Design Category D, which is indicative of high seismic vulnerability. The West Napa fault is documented to be present in our city. The area includes various soil conditions and areas with significant movement potential. Buildings and other structures in Seismic Design Category D can experience major seismic damage. These geological conditions necessitate the prohibition of gypsum as a lateral-resisting building element, and the restriction of Portland cement plaster as a lateral-resisting building element to one-story structures of R-3 and U-1 occupancies.</text>
       <text>Express Finding Number 3: Topographical. Areas of highly combustible dry grasses, weeds, brush and trees adjacent to structures are common throughout the city. Above-ground electrical power transmission lines are suspended through trees and above large areas of dry vegetation. The arrangement of man-made features around many buildings greatly limits any approach to all but one side of a building. The area immediately adjacent to the eastern border of the city has been classified as high and very high fire severity zones under the Fire and Resource Assessment Program of the California Department of Forestry and Fire Protection. These topographical conditions, along with our climate, necessitate a greater requirement for fire-sprinklers in residential construction, a minimum Class A roof covering and adequate spark arrestors.</text>
@@ -125,7 +124,6 @@
       <para>
         <num>1.</num>
         <text>One-story detached accessory structures used as tool and storage sheds, playhouses and similar uses, provided the floor area does not exceed 120 square feet. It is permissible for these structures to be regulated by Section 337 despite exemption from permit when they provide habitable living space.</text>
-        <text/>
       </para>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
@@ -137,8 +135,7 @@
       <text>Section 105.5 is hereby deleted and amended to read as follows:</text>
       <text>Every permit issued by the Building Official under the provisions of this code shall expire by limitation and become null and void if the building, structure, equipment or work authorized by such permit is not commenced within twelve (12) months from the date of such permit, or if the building, structure, equipment or work authorized by such permit is suspended or abandoned at any time after the work is commenced for a period of one hundred eighty (180) days.</text>
       <text>Before such work can recommence, a new permit shall be first obtained to do so, and the recommence fee shall be one half the amount required for a new permit (i.e. building, electrical, plumbing and mechanical fees only) for such work, provided no changes have been made or will be made in the original plans and specifications for such work, and provided further such suspension or abandonment has not exceeded one year. To renew a permit after expiration for over one year, the permittee shall pay new full permit fee. The maximum life of any permit is three (3) years.</text>
-      <text>Any permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time frame required by this section for good and satisfactory reasons. The Building Official may extend the time for action by the permittee for a period not exceeding one hundred eighty (180) days on written request by the permittee showing circumstances beyond the control of the permittee that prevented action from being taken.</text>
-      <text/>
+      <text>Any permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time frame required by <cite path="|16.02.080">this section</cite> for good and satisfactory reasons. The Building Official may extend the time for action by the permittee for a period not exceeding one hundred eighty (180) days on written request by the permittee showing circumstances beyond the control of the permittee that prevented action from being taken.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -148,7 +145,6 @@
       <heading>Amend Section 107.1.2 Electric vehicle charging stations.</heading>
       <text>Section 107.1.2 of Chapter 1 of Division II of the California Building Code is hereby added to read:</text>
       <text><strong>107.1.2 Electric vehicle charging stations.</strong> Applications for electric vehicle charging stations may be processed utilizing the City of American Canyon Electric Vehicle Charging Station Expedited/Streamlined ordinance.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -158,7 +154,6 @@
       <heading>Amend Section 202 General definitions.</heading>
       <text>Section 202 of Chapter 2 of the California Building Code is hereby amended to add or modify the following definitions to read:</text>
       <text><strong>City of American Canyon Electric Vehicle Charging Station Expedited/Streamlined Permitting Process.</strong> A ministerial permitting process for electric vehicle charging station installations that utilizes an application checklist to expedite review of an electric vehicle charging station permit. For such installations, the process, including permit issuance, may be conducted entirely online utilizing digital forms or may be conducted at the City's Building Permit Counter utilizing printed forms.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -168,8 +163,7 @@
       <heading>Amend Section 109.2 Schedule of permit fees.</heading>
       <text>Section 109.2 is deleted and replaced as follows:</text>
       <text><strong>109.2 Permit fees.</strong> Each building, structure, electrical, gas, mechanical, and plumbing system or alteration that requires a permit shall include a fee payment in accordance with a schedule established by City Council Resolution.</text>
-      <text>The Building Official shall collect fees for permits and services specified in this title. Where the Building Official Director or designee finds the fees prescribed in this title do not cover the cost of providing the service which is the subject of the fee, the Building Official may charge a supplemental fee for the unpaid cost of the services provided.</text>
-      <text/>
+      <text>The Building Official shall collect fees for permits and services specified in <cite path="16">this title</cite>. Where the Building Official Director or designee finds the fees prescribed in <cite path="16">this title</cite> do not cover the cost of providing the service which is the subject of the fee, the Building Official may charge a supplemental fee for the unpaid cost of the services provided.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -179,7 +173,6 @@
       <heading>Amend Section 109.4 Work commencing before permit issuance.</heading>
       <text>Section 109.4 is deleted and replaced as follows:</text>
       <text><strong>109.4 Work commencing before permit issuance.</strong> Any person who commences any work on a building, structure, electrical, gas, mechanical or plumbing system before obtaining the necessary permits shall be subject to a fee established by the Building Official that shall be in addition to the required permit fees. An investigation fee, in addition to the permit fee, shall be collected whether or not a permit is then or subsequently issued. The investigation fee shall not exceed five times the permit fee required by this code. The minimum investigation fee set forth in the fee schedule adopted by this jurisdiction or a lesser fee than the fee resolution may be permitted on the merits of each individual case by the Building Official. The payment of such investigation fee shall not exempt any person from compliance with all other provisions of this code nor from any penalty prescribed by law.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -189,7 +182,6 @@
       <heading>Amend Section 901.2 Fire protection systems.</heading>
       <text>Chapter 9, Section 901.2 is hereby amended by repealing the first two sentences of Section 901.2 (thus, the provisions of Section 902.2.1 remain in effect) and replacing it with the following:</text>
       <text><strong>901.2 Construction documents.</strong> The Fire Chief shall have the authority to require construction documents and calculations for all fire protection systems and to require permits be issued for the installation, rehabilitation or modification of any fire protection system. Construction documents for fire protection systems shall be submitted for review and approval prior to the issuance of a building permit.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -200,7 +192,7 @@
       <text>Section 903.2 of Chapter 9 is deleted in its entirety based upon Express Findings 1 and 3 in <cite path="|16.02.040">Section 16.02.040</cite>, and replaced with the following section:</text>
       <text><strong>903.2: Item 1,</strong> Approved automatic sprinkler systems shall be installed throughout all existing commercial or multi-family residential building when the floor area of an addition (including mezzanines) exceeds 50% of the existing floor area of the building or when an additional story is added.</text>
       <text><strong>903.2: Item 2,</strong> Any change of occupancy when the proposed new occupancy classification is more hazardous based on a fire and life safety evaluation by the Fire Code Official and Building Code Official, including conversion of buildings to single-family residences, accessory dwelling units, bed and breakfast, inns, lodging houses or congregate residences for 10 or less persons or other similar uses an automatic fire sprinkler system shall be installed throughout.</text>
-      <text><strong>903.2 Where required.</strong> Approved automatic fire sprinkler systems shall be provided in new and existing buildings in the locations described in this section.</text>
+      <text><strong>903.2 Where required.</strong> Approved automatic fire sprinkler systems shall be provided in new and existing buildings in the locations described in <cite path="|16.02.130">this section</cite>.</text>
       <text>
         <strong>903.2.1 New Construction.</strong>
       </text>
@@ -247,7 +239,6 @@
       <text><strong>903.2.4 Floor control valves.</strong> Approved supervised indicating control valves and flow switches shall be provided at the point of connection to the riser on each floor in buildings two or more stories in height.</text>
       <text><strong>903.2.8 Group R.</strong> An automatic sprinkler system installed in accordance with Section 903.3 shall be provided throughout all buildings with a Group R fire area.</text>
       <text>An automatic sprinkler system designed in accordance with Section 903.3.1.3 shall not be utilized in Group R-2.1 or Group R-4 Occupancies.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -262,7 +253,6 @@
       <para>
         <num>2.</num>
         <text>Class I standpipes shall be installed in buildings three or more stories in height with approved outlets provided at each level including the roof when required by the Fire Code Official.</text>
-        <text/>
       </para>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
@@ -312,7 +302,6 @@
           </tbody>
         </table>
       </text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -322,7 +311,6 @@
       <heading>Amend Section 1512 Reroofing.</heading>
       <text>Section 1512 is amended and based upon Express Findings 1 and 3 in <cite path="|16.02.040">Section 16.02.040</cite>, to add the following section:</text>
       <text><strong>1512.6 Spark arrestor. </strong>Whenever a permit has been issued for reroofing a spark arrestor conforming to Section 2802 shall be installed (or the existing replaced if not in conformance with Section 2802) on all fireplace chimneys before final inspection and approval.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -339,7 +327,6 @@
       <text>Delete Section 1809.8 and replace as follows:</text>
       <text><strong>1809.8 Plain concrete footings.</strong> The edge thickness of plain concrete footings supporting walls of other than light-frame construction shall not be less than 8 inches (203 mm) where placed on soil and in all cases, as a minimum, one ½″ (51 mm) continuous rebar shall be placed at the top and at the bottom of all grade beams and spread footings.</text>
       <text><strong>Exception:</strong> For plain concrete footings supporting Groups R-3 and one-story Group U occupancies the edge thickness is permitted to be 6 inches (152 mm), provided the footing does not extend beyond a distance greater than the thickness of the footing on either side of the supported wall. In all cases, as a minimum, one ½″ (51 mm) continuous rebar shall be placed at the top and at the bottom of all grade beams and spread footings.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -367,7 +354,6 @@
           <text><strong>Exception:</strong> In detached one- and two-family dwellings three stories or less in height and constructed with stud bearing walls, plain concrete footings with at least two continuous longitudinal reinforcing bars not smaller than No. 4 are permitted to have a total area of less than 0.002 times the gross cross-sectional area of the footing.</text>
         </para>
       </para>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -399,7 +385,6 @@
         <text>Where approved based on local site conditions.</text>
       </para>
       <text>In all slabs under habitable spaces, a 4-inch (10 mm) crushed rock capillary water barrier shall be provided under the minimum 6 mil vapor retarder.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -429,7 +414,6 @@
         <num>5.</num>
         <text>The changing of moveable parts of an approved sign that is designed for such changes, or the repainting or repositioning of display matter shall not be deemed an alteration.</text>
       </para>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -442,16 +426,16 @@
     <section>
       <num>16.03.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the California Residential Code of the city and any reference in the city municipal code or any chapter thereof to the California Residential Code applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.03">This chapter</cite> shall be cited as the California Residential Code of the city and any reference in the city municipal code or any chapter thereof to the California Residential Code applies to <cite path="16.03">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.03.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon adopts all those certain documents marked and designated, as "California Residential Code, 2022 Edition," together with Appendix H and V published and copyrighted by the International Code Council. The documents identified in this section are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.03.030">16.03.030</cite> through <cite path="|16.03.090">16.03.090</cite> of this chapter. A copy of the adopted California Residential Code shall be kept on file in the office of the building official for use and examination by members of the public (Ord. 2022-05 § 1, 2022)</text>
-      <annotations/>
+      <text>The city of American Canyon adopts all those certain documents marked and designated, as "California Residential Code, 2022 Edition," together with Appendix H and V published and copyrighted by the International Code Council. The documents identified in <cite path="|16.03.020">this section</cite> are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.03.030">16.03.030</cite> through <cite path="|16.03.090">16.03.090</cite> of <cite path="16.03">this chapter</cite>. A copy of the adopted California Residential Code shall be kept on file in the office of the building official for use and examination by members of the public</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
     </section>
     <section>
       <num>16.03.030</num>
@@ -476,7 +460,6 @@
       <para>
         <num>4.</num>
         <text>A safety pool cover complying with the ASTM, in compliance with standard F1346-91 or approved by the Building Official may be used in lieu of alarm devices required for doors and sliding doors.</text>
-        <text/>
       </para>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
@@ -490,7 +473,6 @@
         <num>1.</num>
         <text>One-story detached accessory structure, used as tool sheds and storage sheds, playhouses and similar uses provided the floor area does not exceed 120 square feet, (11.15 m2). The height of the one story detached accessory structure shall not exceed 15 feet (4.75 m) at any point or as specified by local zoning ordinance. It is permissible these structures shall be regulated by Section 710 and R337 despite exemption from permit.</text>
       </para>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -500,8 +482,7 @@
       <heading>Amend Section R105.5 Expiration.</heading>
       <text>Section R105.5 is hereby deleted and amended to read as follows:</text>
       <text>Every permit issued by the Building Official under the provisions of this code shall expire by limitation and become null and void if the building, structure, equipment or work authorized by such permit is not commenced within 12 months from the date of such permit, or if the building, structure, equipment or work authorized by such permit is suspended or abandoned at any time after the work is commenced for a period of 180 days. Before such work can be recommenced, a new permit shall be first obtained to do so, and the fee shall be one half the amount required for a new permit (i.e. building, electrical, plumbing and mechanical fees only) for such work, provided no changes have been made or will be made in the original plans and specifications for such work, and provided further that such suspension or abandonment has not exceeded one year. To renew action on a permit after expiration, the permittee shall pay new full permit fee.</text>
-      <text>Any permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time frame required by this section for good and satisfactory reasons. The Building Official may extend the time for action by the permittee for a period not exceeding 180 days on written request by the permittee showing circumstances beyond the control of the permittee that have prevented action from being taken.</text>
-      <text/>
+      <text>Any permittee holding an unexpired permit may apply for an extension of the time within which work may commence under that permit when the permittee is unable to commence work within the time frame required by <cite path="|16.03.045">this section</cite> for good and satisfactory reasons. The Building Official may extend the time for action by the permittee for a period not exceeding 180 days on written request by the permittee showing circumstances beyond the control of the permittee that have prevented action from being taken.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -511,9 +492,8 @@
       <heading>Section R108.7 Re-inspection fee.</heading>
       <text>Section R108.7 is hereby added to read as follows:</text>
       <text><strong>R108.7 Re-inspection Fee.</strong> A re-inspection fee may be assessed for each inspection or re-inspection when such portion of work for which inspection is called is not complete or when corrections called for are not made.</text>
-      <text>This section is not to be interpreted as requiring re-inspection fees the first time a job is rejected for failure to comply with the requirements of this code, but as controlling the practice of calling for inspections before the job is ready for such inspection or re-inspection.</text>
+      <text><cite path="|16.03.050">This section</cite> is not to be interpreted as requiring re-inspection fees the first time a job is rejected for failure to comply with the requirements of this code, but as controlling the practice of calling for inspections before the job is ready for such inspection or re-inspection.</text>
       <text>Re-inspection fees may be assessed when the inspection record card is not posted or otherwise available on the work site, the approved plans are not readily available to the inspector. For failure to provide access on the date for which inspection is requested, or for deviating from plans requiring the approval of the Building Official.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -523,7 +503,6 @@
       <heading>Section R108.8 Violation penalties.</heading>
       <text>Section R108.8 is hereby added to read as follows:</text>
       <text><strong>108.8 Violation penalties.</strong> Any person who violates a provision of this code or fails to comply with any of the requirements thereof or who erects, constructs, alters or repairs a building or structure in violation of the approved construction documents or directive of the Building Official, or of a permit or certificate issued under the provisions of this code, shall be subject to penalties as prescribed by law. An investigation fee, in addition to the permit fee, shall be collected whether or not a permit is then or subsequently issued. The investigation fee shall not exceed five times the permit fee required by this code. The minimum investigation fee set forth in the fee schedule adopted by this jurisdiction or a lesser fee than the fee resolution may be permitted on the merits of each individual case by the Building Official. The payment of such investigation fee shall not exempt any person from compliance with all other provisions of this code nor from any penalty prescribed by law.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -533,7 +512,6 @@
       <heading>Section R313.2 One- and two-family dwellings automatic fire systems, Exception.</heading>
       <text>Section R313.2, Exception number 1 is hereby deleted and replaced by the following sentence:</text>
       <text>An automatic sprinkler system shall be installed throughout any existing one- or two-family dwelling when the floor area of the addition (including mezzanines) exceeds 50% of the existing floor area of the building or when an additional story is added.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -544,7 +522,6 @@
       <text>Section R506.2.4 is deleted and based upon Express Findings 1 and 3 in <cite path="|16.03.030">Section 16.03.030</cite> is amended to read as follows:</text>
       <text><strong>R506.2.4 Reinforcement support.</strong> Where provided in slabs on ground, reinforcement shall be supported to remain in place from the center to upper one third of the slab for the duration of the concrete placement. As a minimum, and in all cases where a slab is to be placed inside of a building, the slab shall be reinforced with not less than six inches by six inches ten-gauge welded wire mesh, or an approved alternate.</text>
       <text>In all slabs under habitable spaces, a minimum of 4 inches (102 mm) of crushed rock capillary water barrier shall be provided under a minimum 10 mil vapor retarder. The vapor barrier shall be protected by a minimum of 2 inches (51 mm) of sand or equivalent protection.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -555,7 +532,6 @@
       <text>Section R907.1.1 and 907.1.2 are hereby added based upon Express Findings 1 and 3 in <cite path="|16.03.030">Section 16.03.030</cite> to read as follows:</text>
       <text><strong>R907.1.1 Solar photovoltaic panels/modules.</strong> Solar photovoltaic panels/modules installed upon a roof or as an integral part of a roof assembly shall comply with the requirements of this code and the California Fire Code as amended by the City of American Canyon.</text>
       <text><strong>R907.1.2 Structural fire-resistance.</strong> The structural frame and roof construction supporting the load imposed upon the roof by the photovoltaic panels/modules shall comply with the requirements of the California Building Code Sections 1510 and 1511.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -565,7 +541,6 @@
       <heading>Amend Section R202 General definitions.</heading>
       <text>Section R202 of Chapter 2 of the California Residential Code is hereby amended to add the following definitions to read:</text>
       <text><strong>City of American Canyon Electric Vehicle Charging Station Expedited/Streamlined Permitting Process:</strong> A ministerial permitting process for electric vehicle charging station installations that utilizes an application checklist to expedite review of an electric vehicle charging station permit. For such installations, the process, including permit issuance, may be conducted entirely online utilizing digital forms or may be conducted at the City's Building Permit Counter utilizing printed forms.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -578,15 +553,13 @@
     <section>
       <num>16.04.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "California Electrical Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Electrical Code, CEC, or Electrical Code, refers and applies to this</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.04">This chapter</cite> shall be cited as the "California Electrical Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Electrical Code, CEC, or Electrical Code, refers and applies to this</text>
+      <annotations/>
     </section>
     <section>
       <num>16.04.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Electrical Code, 2022 Edition," published by BNI Publications, Inc., and copyrighted by the National Fire Protection Association and the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Electrical Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Electrical Code, 2022 Edition," published by BNI Publications, Inc., and copyrighted by the National Fire Protection Association and the California Building Standards Commission. The documents identified in <cite path="|16.04.020">this section</cite> are adopted in their entirety. A copy of the adopted California Electrical Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -599,15 +572,13 @@
     <section>
       <num>16.05.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "California Mechanical Code" of the city and any reference in the city municipal code or any chapter thereof to the California Mechanical Code, CMC or Mechanical Code refers and applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.05">This chapter</cite> shall be cited as the "California Mechanical Code" of the city and any reference in the city municipal code or any chapter thereof to the California Mechanical Code, CMC or Mechanical Code refers and applies to <cite path="16.05">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.05.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Mechanical Code, 2022 Edition," published by International Association of Plumbing and Mechanical Officials and copyrighted by International Association of Plumbing and Mechanical Officials and the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Mechanical Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Mechanical Code, 2022 Edition," published by International Association of Plumbing and Mechanical Officials and copyrighted by International Association of Plumbing and Mechanical Officials and the California Building Standards Commission. The documents identified in <cite path="|16.05.020">this section</cite> are adopted in their entirety. A copy of the adopted California Mechanical Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -620,16 +591,16 @@
     <section>
       <num>16.06.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "California Plumbing Code" of the city and any reference in the city municipal code or any chapter thereof to the Uniform Plumbing Code, CPC or Plumbing Code refers and applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.06">This chapter</cite> shall be cited as the "California Plumbing Code" of the city and any reference in the city municipal code or any chapter thereof to the Uniform Plumbing Code, CPC or Plumbing Code refers and applies to <cite path="16.06">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.06.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Plumbing Code, 2022 Edition," published by International Association of Plumbing and Mechanical Officials and copyrighted by International Association of Plumbing and Mechanical Officials and the California Building Standards Commission. The documents identified in this section are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.06.030">16.06.030</cite> and <cite path="|16.06.040">16.06.040</cite> of this chapter. A copy of the adopted California Plumbing Code shall be kept on file in the office of the building official for use and examination by members of the public. (Ord. 2022-05 § 1, 2022)</text>
-      <annotations/>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Plumbing Code, 2022 Edition," published by International Association of Plumbing and Mechanical Officials and copyrighted by International Association of Plumbing and Mechanical Officials and the California Building Standards Commission. The documents identified in <cite path="|16.06.020">this section</cite> are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.06.030">16.06.030</cite> and <cite path="|16.06.040">16.06.040</cite> of <cite path="16.06">this chapter</cite>. A copy of the adopted California Plumbing Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
+      </annotations>
     </section>
     <section>
       <num>16.06.030</num>
@@ -638,7 +609,6 @@
       <text>Appendix C Alternate Plumbing Systems</text>
       <text>Appendix D Sizing Storm Water Drainage Systems</text>
       <text>Appendix I Installation Standards</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -659,15 +629,13 @@
     <section>
       <num>16.07.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "California Energy Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Energy Code, or Energy Code, refers and applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.07">This chapter</cite> shall be cited as the "California Energy Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Energy Code, or Energy Code, refers and applies to <cite path="16.07">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.07.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Energy Code, 2022 Edition," by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Energy Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Energy Code, 2022 Edition," by the California Building Standards Commission. The documents identified in <cite path="|16.07.020">this section</cite> are adopted in their entirety. A copy of the adopted California Energy Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -680,15 +648,13 @@
     <section>
       <num>16.08.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "California Historical Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Historical Building Code, or Historical Building Code, refers and applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.08">This chapter</cite> shall be cited as the "California Historical Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Historical Building Code, or Historical Building Code, refers and applies to <cite path="16.08">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.08.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Historical Building Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Historical Building Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Historical Building Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in <cite path="|16.08.020">this section</cite> are adopted in their entirety. A copy of the adopted California Historical Building Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -701,15 +667,13 @@
     <section>
       <num>16.09.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "California Existing Building Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Existing Building Code, refers and applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.09">This chapter</cite> shall be cited as the "California Existing Building Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Existing Building Code, refers and applies to <cite path="16.09">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.09.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Existing Building Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Existing Building Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Existing Building Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in <cite path="|16.09.020">this section</cite> are adopted in their entirety. A copy of the adopted California Existing Building Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -722,24 +686,23 @@
     <section>
       <num>16.10.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "Uniform Code for the Abatement of Dangerous Buildings" of the city and any reference in the city municipal code or any chapter thereof to the Uniform Code for the Abatement of Dangerous Buildings or Dangerous Building Code refers and applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
-      </annotations>
+      <text><cite path="16.10">This chapter</cite> shall be cited as the "Uniform Code for the Abatement of Dangerous Buildings" of the city and any reference in the city municipal code or any chapter thereof to the Uniform Code for the Abatement of Dangerous Buildings or Dangerous Building Code refers and applies to <cite path="16.10">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.10.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "Uniform Code for the Abatement of Dangerous Buildings, 1997 Edition," published and copyrighted by the International Council of Building Officials. The documents identified in this section are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.10.030">16.10.030</cite> through <cite path="|16.10.040">16.10.040</cite> of this chapter. A copy of the adopted Uniform Code for the Abatement of Dangerous Buildings shall be kept on file in the office of the building official for use and examination by members of the public. (Ord. 2013-06 § 3, 2013)</text>
-      <annotations/>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "Uniform Code for the Abatement of Dangerous Buildings, 1997 Edition," published and copyrighted by the International Council of Building Officials. The documents identified in <cite path="|16.10.020">this section</cite> are adopted in their entirety excepting additions, revisions and omissions listed in Sections <cite path="|16.10.030">16.10.030</cite> through <cite path="|16.10.040">16.10.040</cite> of <cite path="16.10">this chapter</cite>. A copy of the adopted Uniform Code for the Abatement of Dangerous Buildings shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <annotations>
+        <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>16.10.030</num>
       <heading>Amend Section 203 Violations.</heading>
       <text>Section 203 is amended by adding the following:</text>
       <text>It shall be unlawful and a public nuisance for any person, firm or corporation, whether as owner, lessee, sublease or occupy, to erect, construct, enlarge, alter, repair, move, improve, remove, convert or demolish, equip, use, occupy, or maintain any building or structure in the incorporated territory of the City of American Canyon, or cause or permit the same to be done, contrary to or in violation of any of this code.</text>
-      <text>Any person, firm or corporation violating any of the provisions of this Article is guilty of a separate offense for each day or portion thereof during which any violation of any of the provisions of this Article is committed, continued, or permitted, and upon conviction of any such violation such person shall be punished by a fine of not more than one thousand dollars ($1,000.00) or by imprisonment for not more than six (6) months, or by both such fine and imprisonment. California Health and Safety Code 17995.</text>
-      <text/>
+      <text>Any person, firm or corporation violating any of the provisions of this Article is guilty of a separate offense for each day or portion thereof during which any violation of any of the provisions of this Article is committed, continued, or permitted, and upon conviction of any such violation such person shall be punished by a fine of not more than one thousand dollars ($1,000.00) or by imprisonment for not more than six (6) months, or by both such fine and imprisonment. <cite doc="Cal. Health &amp; Safety Code" path="§17995">California Health and Safety Code 17995</cite>.</text>
       <annotations>
         <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
       </annotations>
@@ -753,7 +716,6 @@
       <text>Building Official members of the NSICC are well versed in the technical and administrative provisions of construction codes.</text>
       <text><strong>205.2 Limitations of Authority.</strong> The board shall have no authority relative to interpretation of the administrative provisions of this code nor shall the board be empowered to waive requirements of this code. An application for appeal shall be based on a claim that the true intent of this code or the rules legally adopted thereunder have been incorrectly interpreted, the provisions of this code do not fully apply or an equally good or better form of construction is proposed. Appeals from any findings by the Board of Appeals may be made by the applicant, a member of the City Council or the Building Official upon request in writing to the City Council within ten (10) days from the date of the Board's action.</text>
       <text><strong>205.3 Qualifications.</strong> The board of appeals shall consist of members who are qualified by experience and training to pass on matters pertaining to building construction and are not employees of the jurisdiction.</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2013-06 § 3, 2013</annotation>
       </annotations>
@@ -766,15 +728,13 @@
     <section>
       <num>16.11.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "California Green Building Standards Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Green Building Standards Code, or CALGreen, refers and applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.11">This chapter</cite> shall be cited as the "California Green Building Standards Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Green Building Standards Code, or CALGreen, refers and applies to <cite path="16.11">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.11.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Green Building Standards Code, 2022 Edition," published by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Green Building Standards Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Green Building Standards Code, 2022 Edition," published by the California Building Standards Commission. The documents identified in <cite path="|16.11.020">this section</cite> are adopted in their entirety. A copy of the adopted California Green Building Standards Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -787,15 +747,13 @@
     <section>
       <num>16.12.010</num>
       <heading>Intent.</heading>
-      <text>This chapter establishes standard placards to be used to indicate the condition of a structure for continued occupancy. The chapter further authorizes the building official and his or her authorized representatives to post the appropriate placard at each entry point to a building or structure upon completion of a safety assessment.</text>
-      <annotations>
-        <annotation type="History">Ord. 2008-12, 2008</annotation>
-      </annotations>
+      <text><cite path="16.12">This chapter</cite> establishes standard placards to be used to indicate the condition of a structure for continued occupancy. The chapter further authorizes the building official and his or her authorized representatives to post the appropriate placard at each entry point to a building or structure upon completion of a safety assessment.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.12.020</num>
       <heading>Application of provisions.</heading>
-      <text>The provisions of this chapter are applicable to all buildings and structures of all occupancies regulated by the city of American Canyon. The council may extend the provisions as necessary.</text>
+      <text>The provisions of <cite path="16.12">this chapter</cite> are applicable to all buildings and structures of all occupancies regulated by the city of American Canyon. The council may extend the provisions as necessary.</text>
       <annotations>
         <annotation type="History">Ord. 2008-12, 2008</annotation>
       </annotations>
@@ -813,7 +771,7 @@
       <heading>Placards.</heading>
       <para>
         <num>A.</num>
-        <text>The following are verbal descriptions of the official jurisdiction placards to be used to designate the condition for continued occupancy of buildings or structures. Copies of actual placards are attached to the ordinance codified in this chapter.</text>
+        <text>The following are verbal descriptions of the official jurisdiction placards to be used to designate the condition for continued occupancy of buildings or structures. Copies of actual placards are attached to the ordinance codified in <cite path="16.12">this chapter</cite>.</text>
         <para>
           <num>1.</num>
           <text>"INSPECTED – Lawful Occupancy Permitted" is to be posted on any building or structure wherein no apparent structural hazard has been found. This placard is not intended to mean that there is no damage to the building or structure.</text>
@@ -829,11 +787,11 @@
       </para>
       <para>
         <num>B.</num>
-        <text>The ordinance number of the ordinance codified in this chapter, the name of the jurisdiction, its address, and phone number shall be permanently affixed to each placard.</text>
+        <text>The ordinance number of the ordinance codified in <cite path="16.12">this chapter</cite>, the name of the jurisdiction, its address, and phone number shall be permanently affixed to each placard.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>nce it has been attached to a building or structure, a placard is not to be removed, altered or covered until done so by an authorized representative of the building official. It is unlawful for any person, firm or corporation to alter, remove, cover or deface a placard unless authorized pursuant to this section.</text>
+        <text>Once it has been attached to a building or structure, a placard is not to be removed, altered or covered until done so by an authorized representative of the building official. It is unlawful for any person, firm or corporation to alter, remove, cover or deface a placard unless authorized pursuant to <cite path="|16.12.040">this section</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2008-12, 2008</annotation>
@@ -847,15 +805,13 @@
     <section>
       <num>16.13.010</num>
       <heading>Adoption and intent.</heading>
-      <text>This chapter establishes regulations as amendments to the building code for the expeditious repair of damaged structures. In the event an amendment to the California Building Standards Code results in differences between these building standards and the California Building Standards Code, the text of these building standards shall govern. In accordance with California Health and Safety Code Section 17958.7, express findings that modifications to the California Building Standards Code are reasonably necessary because of local climatic, geological or topographical conditions are either already on file with the California Building Standards Commission prior to the effective date of the ordinance codified in this chapter. In accordance with California Government Code Section 50022.6, at least one true copy of the California Building Code has been on file with the building official since fifteen days prior to enactment of the ordinance codified in this chapter. While this chapter is in force, a true copy of this chapter shall be kept for public inspection in the office of the building official.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.13">This chapter</cite> establishes regulations as amendments to the building code for the expeditious repair of damaged structures. In the event an amendment to the California Building Standards Code results in differences between these building standards and the California Building Standards Code, the text of these building standards shall govern. In accordance with <cite doc="Cal. Health &amp; Safety Code" path="§17958.7">California Health and Safety Code Section 17958.7</cite>, express findings that modifications to the California Building Standards Code are reasonably necessary because of local climatic, geological or topographical conditions are either already on file with the California Building Standards Commission prior to the effective date of the ordinance codified in <cite path="16.13">this chapter</cite>. In accordance with <cite doc="Cal. Gov't Code" path="§50022.6">California Government Code Section 50022.6</cite>, at least one true copy of the California Building Code has been on file with the building official since fifteen days prior to enactment of the ordinance codified in <cite path="16.13">this chapter</cite>. While <cite path="16.13">this chapter</cite> is in force, a true copy of <cite path="16.13">this chapter</cite> shall be kept for public inspection in the office of the building official.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.13.020</num>
       <heading>Definitions.</heading>
-      <text>For the purposes of this chapter, the following definition applies and is hereby added to Section 3402.1 Definitions of the 2022 California Building Code (CBC):</text>
+      <text>For the purposes of <cite path="16.13">this chapter</cite>, the following definition applies and is hereby added to Section 3402.1 Definitions of the 2022 California Building Code (CBC):</text>
       <text>Substantial Structural Damage. A condition where:</text>
       <para>
         <num>1.</num>
@@ -865,7 +821,6 @@
         <num>2.</num>
         <text>The capacity of any vertical gravity load-carrying component, or any group of such components, that supports more than 30 percent of the total area of the structure's floor(s) and roof(s) has been reduced more than 20 percent from its pre-damaged condition, and the remaining capacity of such affected elements with respect to all dead and live loads is less than 75 percent of that required by the building code for new buildings of similar structure, purpose, and location.</text>
       </para>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -873,8 +828,8 @@
     <section>
       <num>16.13.030</num>
       <heading>Repairs.</heading>
-      <text>For the purposes of this chapter, the following repair requirements are hereby added as a new Subsection 3403.5 to Section 3403 Additions, Alterations or Repair in the 2022 California Building Code (CBC):</text>
-      <text><strong>3403.5.1 Repairs.</strong> Repairs of structural elements shall comply with this section.</text>
+      <text>For the purposes of <cite path="16.13">this chapter</cite>, the following repair requirements are hereby added as a new Subsection 3403.5 to Section 3403 Additions, Alterations or Repair in the 2022 California Building Code (CBC):</text>
+      <text><strong>3403.5.1 Repairs.</strong> Repairs of structural elements shall comply with <cite path="|16.13.030">this section</cite>.</text>
       <text><strong>3403.5.1.1 Seismic Evaluation and Design.</strong> Seismic evaluation and design of an existing building and its components shall be based on the following criteria.</text>
       <text><strong>3403.5.1.1.1 Evaluation and Design Procedures.</strong> The seismic evaluation and design shall be based on the procedures specified in the building code, ASCE 41 Seismic Evaluation of Existing Buildings (for evaluation only) or ASCE 41 Seismic Rehabilitation of Existing Buildings. The procedures contained in Appendix A of the International Existing Building Code shall be permitted to be used as specified in Section 3403.5.1.1.3.</text>
       <text><strong>3403.5.1.1.2 CBC Level Seismic Forces.</strong> When seismic forces are required to meet the building code level, they shall be one of the following:</text>
@@ -963,7 +918,7 @@
         <text>Those associated with the BSE-1 Earthquake Hazard Level defined in ASCE 41 and the performance level as shown in Table 3403.6.1.1.2. Where ASCE 41 is used, the design spectral response acceleration parameters Sxs and Sx1 shall not be taken less than 75 percent of the respective design seismic coefficients 2.5Ca and Cv as defined in Tables 16-Q and 16-R of the International Building Code.</text>
       </para>
       <text><strong>3403.6.1.2 Wind Design.</strong> Wind design of existing buildings shall be based on the procedures specified in the building code.</text>
-      <text><strong>3403.6.2 Repairs to Damaged Buildings.</strong> Repairs to damaged buildings shall comply with this section.</text>
+      <text><strong>3403.6.2 Repairs to Damaged Buildings.</strong> Repairs to damaged buildings shall comply with <cite path="|16.13.030">this section</cite>.</text>
       <text><strong>3403.6.2.1 Unsafe Conditions.</strong> Regardless of the extent of structural damage, unsafe conditions shall be eliminated.</text>
       <text><strong>3403.6.2.2 Substantial Structural Damage to Vertical Elements of the Lateral–Force-Resisting System.</strong> A building that has sustained substantial structural damage to the vertical elements of its lateral-force-resisting system shall be evaluated and repaired in accordance with the applicable provisions of Section 3403.6.2.2.1 through 3403.6.2.2.3.</text>
       <text><strong>3403.6.2.2.1 Evaluation.</strong> The building shall be evaluated by a registered design professional, and the evaluation findings shall be submitted to the code official. The evaluation shall establish whether the damaged building, if repaired to its pre-damage state, would comply with the provisions of the building code. Wind forces for this evaluation shall be those prescribed in the building code. Seismic forces for this evaluation are permitted to be the reduced level seismic forces specified in Code Section 3403.6.1.1.3.</text>
@@ -982,7 +937,6 @@
       <text>TABLE 3403.6.1.1.2, 3403.6.1.1.3</text>
       <text>ASCE 41-06 Seismic Rehabilitation of Existing Buildings 3403.6.1.1.1, 3403.6.1.1.2</text>
       <text>TABLE 3403.6.1.1.2, 3403.6.1.1.3</text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -995,7 +949,7 @@
     <section>
       <num>16.14.010</num>
       <heading>Purpose.</heading>
-      <text>This chapter defines the requirements for completing water-efficient final landscape plans, in compliance with <cite path="19.22">Chapter 19.22</cite> of the municipal code. The documentation described is intended to implement the landscape efficiency standards set by the Water Conservation in Landscaping Act of 2006 (AB 1881). (Ord. 2015-05 § 2, 2015)</text>
+      <text><cite path="16.14">This chapter</cite> defines the requirements for completing water-efficient final landscape plans, in compliance with <cite path="19.22">Chapter 19.22</cite> of the municipal code. The documentation described is intended to implement the landscape efficiency standards set by the Water Conservation in Landscaping Act of 2006 (AB 1881).</text>
       <annotations/>
     </section>
     <section>
@@ -1015,7 +969,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>This chapter does not apply to:</text>
+        <text><cite path="16.14">This chapter</cite> does not apply to:</text>
         <para>
           <num>1.</num>
           <text>Registered local, state or federal historical sites;</text>
@@ -1044,7 +998,7 @@
     <section>
       <num>16.14.040</num>
       <heading>Definitions.</heading>
-      <text>The terms used in this chapter have the meaning set forth below:</text>
+      <text>The terms used in <cite path="16.14">this chapter</cite> have the meaning set forth below:</text>
       <text>"Applied water" means the portion of water supplied by the irrigation system to the landscape.</text>
       <text>"Automatic irrigation controller" means an automatic timing device used to remotely control valves that operate an irrigation system. Automatic irrigation controllers schedule irrigation events using either evapotranspiration (weather-based) or soil moisture data.</text>
       <text>"Backflow prevention device" means a safety device used to prevent pollution or contamination of the water supply due to the reverse flow of water from the irrigation system.</text>
@@ -1055,7 +1009,7 @@
       <text>"Certified landscape irrigation auditor'' means a person certified to perform landscape irrigation audits by an accredited academic institution, a professional trade organization or other program such as the U.S. Environmental Protection Agency's WaterSense Irrigation Auditor Certification Program and Irrigation Association's Certified Landscape Irrigation Auditor Program.</text>
       <text>"Check valve" or "anti-drain valve" means a valve located under a sprinkler head, or other location in the irrigation system, to hold water in the system to prevent drainage from sprinkler heads when the sprinkler is off.</text>
       <text>"City" means the city of American Canyon and its representatives.</text>
-      <text>"Common interest developments" means community apartment projects, condominium projects, planned developments, and stock cooperatives per Civil Code Section 1351.</text>
+      <text>"Common interest developments" means community apartment projects, condominium projects, planned developments, and stock cooperatives per <cite doc="Cal. Civ. Code" path="§1351">Civil Code Section 1351</cite>.</text>
       <text>"Compost" is the product of controlled biological decomposition of organic materials, often including urban plant debris and food waste. It is an organic matter resource that has the unique ability to improve the chemical, physical and biological characteristics of soils or growing media. It contains plant nutrients but is typically not characterized as a fertilizer. Excerpted from U.S. Compost Council, Field Guide to Compost Use.</text>
       <text>"Conceptual landscape plan" means a preliminary landscape plan submitted to the city for review with a discretionary application.</text>
       <text>"Conversion factor (0.62)" means the number that converts acre-inches per acre per year to gallons per square foot per year.</text>
@@ -1073,7 +1027,7 @@
       <text>"Flow rate" means the rate at which water flows through pipes, valves and emission devices, measured in gallons per minute, gallons per hour, or cubic feet per second.</text>
       <text>"Hardscapes" means any durable material (pervious and non-pervious).</text>
       <text>"High-flow sensors" or "flow meters" detect and report high flow conditions created by system damage or malfunction.</text>
-      <text>"Homeowner-provided landscaping" means any landscaping either installed by a private individual for a single-family residence or installed by a licensed contractor hired by a homeowner. A homeowner, for purposes of this chapter, is a person who occupies the dwelling he or she owns. This excludes speculative homes, which are not owner-occupied dwellings.</text>
+      <text>"Homeowner-provided landscaping" means any landscaping either installed by a private individual for a single-family residence or installed by a licensed contractor hired by a homeowner. A homeowner, for purposes of <cite path="16.14">this chapter</cite>, is a person who occupies the dwelling he or she owns. This excludes speculative homes, which are not owner-occupied dwellings.</text>
       <text>"Hydrozone" means a portion of the landscaped area having plants with similar water needs. A hydrozone may be irrigated or non-irrigated.</text>
       <text>"Infiltration rate" means the rate of water entry into the soil expressed as a depth of water per unit of time (e.g., inches per hour).</text>
       <text>"Invasive plant species" means species of plants not historically found in California that spread outside cultivated areas and can damage environmental or economic resources.</text>
@@ -1081,11 +1035,11 @@
       <text>"Irrigation efficiency (IE)" means the measurement of the amount of water beneficially used divided by the amount of water applied. Irrigation efficiency is derived from measurements and estimates of irrigation system characteristics and management practices.</text>
       <text>"Irrigation survey" means an evaluation of an irrigation system that is less detailed than an irrigation audit. An irrigation survey includes, but is not limited to: inspection, system test, and written recommendations to improve performance of the irrigation system.</text>
       <text>"Irrigation water use analysis" means an analysis of water use data based on meter readings and billing data.</text>
-      <text>"Landscape architect" means a person who holds a license to practice landscape architecture in the state of California Business and Professions Code Section 5615.</text>
+      <text>"Landscape architect" means a person who holds a license to practice landscape architecture in the state of <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">California Business and Professions Code Section 5615</cite>.</text>
       <text>"Landscape area" means all the planting areas, turf areas, and water features in a landscape design plan subject to the maximum applied water allowance calculation. The landscape area does not include footprints of buildings or structures, sidewalks, driveways, parking lots, decks, patios, gravel or stone walks, other pervious or non-pervious hardscapes, and other non-irrigated areas designated for non­development (e.g., open spaces and existing native vegetation).</text>
       <text>"Landscape contractor" means a person licensed by the state of California to construct, maintain, repair, install, or subcontract the development of landscape systems.</text>
       <text>"Landscape documentation package" means the documents required under <cite path="|16.14.050">Section 16.14.050</cite>.</text>
-      <text>"Landscape project" means total area of landscape in a project as defined in "Landscape area" for the purposes of this chapter, meeting requirements under <cite path="|16.14.020">Section 16.14.020</cite>.</text>
+      <text>"Landscape project" means total area of landscape in a project as defined in "Landscape area" for the purposes of <cite path="16.14">this chapter</cite>, meeting requirements under <cite path="|16.14.020">Section 16.14.020</cite>.</text>
       <text>"Lateral line" means the water delivery pipeline that supplies water to the emitters or sprinklers from the valve.</text>
       <text>"Lawn" means an area of short, mown grass in a yard, garden, or park.</text>
       <text>"Low volume irrigation" means the application of irrigation water at low pressure through a system of tubing or lateral lines and low-volume emitters such as drip, drip lines, and bubblers. Low volume irrigation systems are specifically designed to apply small volumes of water slowly at or near the root zone of plants.</text>
@@ -1095,7 +1049,7 @@
       <text>"Mined-land reclamation projects" means any surface mining operation with a reclamation plan approved in accordance with the Surface Mining and Reclamation Act of 1975.</text>
       <text>"Mulch" means any organic material such as leaves, bark, arbor or wood chips, recycled wood waste, straw, compost, or inorganic mineral materials such as rocks, gravel, and decomposed granite left loose and applied to the soil surface for the beneficial purposes of reducing evaporation, suppressing weeds, moderating soil temperature, and preventing soil erosion.</text>
       <text>"Native species" means plants from the local microclimate or Northern California species.</text>
-      <text>"New construction" means, for the purposes of this chapter, a new building with a landscape or other new landscape, such as a park, playground, or greenbelt without an associated building.</text>
+      <text>"New construction" means, for the purposes of <cite path="16.14">this chapter</cite>, a new building with a landscape or other new landscape, such as a park, playground, or greenbelt without an associated building.</text>
       <text>"Operating pressure" means the pressure at which the parts of an irrigation system are designed by the manufacturer to operate.</text>
       <text>"Overhead sprinkler irrigation systems" means systems that deliver water through the air (e.g., spray heads and rotors).</text>
       <text>"Overspray" means the irrigation water which is delivered beyond the target area.</text>
@@ -1120,7 +1074,7 @@
       <text>"Swing joint" means an irrigation component that provides a flexible, leak-free connection between the emission device and lateral pipeline to allow movement in any direction and to prevent equipment damage.</text>
       <text>"Turf" means a species of grass that was developed to be used as a lawn together with the surface layer of earth held together by its roots.</text>
       <text>"Valve" means a device used to control the flow of water in the irrigation system.</text>
-      <text>"Water conserving plant species" means a plant species identified as having a low plant factor. 	"Water feature" means a design element where open water performs an aesthetic or recreational function. Water features include ponds, lakes, waterfalls, fountains, artificial streams, spas, and swimming pools (where water is artificially supplied).</text>
+      <text>"Water conserving plant species" means a plant species identified as having a low plant factor.   "Water feature" means a design element where open water performs an aesthetic or recreational function. Water features include ponds, lakes, waterfalls, fountains, artificial streams, spas, and swimming pools (where water is artificially supplied).</text>
       <text>"Watering window" means the time of day irrigation is allowed.</text>
       <text>"WUCOLS" means the Water Use Classification of Landscape Species published by the University of California Cooperative Extension, the Department of Water Resources and the Bureau of Reclamation, 2100.</text>
       <annotations>
@@ -1222,7 +1176,7 @@
         <text>General Requirements and Standards.</text>
         <para>
           <num>1.</num>
-          <text>The setbacks from streets required by the schedule of zoning district regulations shall be fully landscaped except in single-family districts where parking may be permitted as specified in this title.</text>
+          <text>The setbacks from streets required by the schedule of zoning district regulations shall be fully landscaped except in single-family districts where parking may be permitted as specified in <cite path="16">this title</cite>.</text>
         </para>
         <para>
           <num>2.</num>
@@ -1230,7 +1184,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>Parking and circulation areas shall be landscaped according to the requirements this title.</text>
+          <text>Parking and circulation areas shall be landscaped according to the requirements <cite path="16">this title</cite>.</text>
         </para>
         <para>
           <num>4.</num>
@@ -1360,7 +1314,7 @@
           </text>
         </para>
       </para>
-      <text>*	The values in this table were derived from:</text>
+      <text>* The values in this table were derived from:</text>
       <para>
         <num>1.</num>
         <text>California Irrigation Management Information System (CIMIS);</text>
@@ -1475,7 +1429,7 @@
           </text>
         </para>
       </para>
-      <text>*	Plant Factor from WUCOLS</text>
+      <text>* Plant Factor from WUCOLS</text>
       <text>ETWU = (51.1)(0.62)(24,700/0.71 + 0)</text>
       <text>= 1,102,116 gallons per year</text>
       <text>Compare ETWU with MAWA: For this example MAWA = (51.1) (0.62) [(0.7 x 50,000) + (0.3 x 0)] = 1,108,870 gallons per year. The ETWU (1,102,116 gallons per year) is less than MAWA (1,108,870 gallons per year). In this example, the water budget complies with the MAWA.</text>
@@ -1547,7 +1501,7 @@
           </table>
         </text>
       </para>
-      <text>*	Plant Factor from WUCOLS</text>
+      <text>* Plant Factor from WUCOLS</text>
       <text>ETWU = (51.1)(0.62)(23,500/0.71 + 2,000)</text>
       <text>= (31.68) (33,099 + 2,000)</text>
       <text>= 1,111,936 gallons per year</text>
@@ -1669,7 +1623,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Each hydrozone shall have plant materials with similar water use, with the exception of hydrozones with plants of mixed water use, as specified in <cite path="|16.14.110">Section 16.14.110</cite>(B)(4).</text>
+          <text>Each hydrozone shall have plant materials with similar water use, with the exception of hydrozones with plants of mixed water use, as specified in <cite path="|16.14.110|(B)|(4)">Section 16.14.110(B)(4)</cite>.</text>
         </para>
         <para>
           <num>3.</num>
@@ -1705,7 +1659,7 @@
         </para>
         <para>
           <num>6.</num>
-          <text>A landscape design plan for projects in fire-prone areas shall address fire safety and prevention. A defensible space or zone around a building or structure is required per California Public Resources Code Section 4291(a) and (b). Avoid fire-prone plant materials and highly flammable mulches.</text>
+          <text>A landscape design plan for projects in fire-prone areas shall address fire safety and prevention. A defensible space or zone around a building or structure is required per <cite doc="Cal. Pub. Res. Code" path="§4291|(a)">California Public Resources Code Section 4291(a)</cite> and (b). Avoid fire-prone plant materials and highly flammable mulches.</text>
         </para>
         <para>
           <num>7.</num>
@@ -1817,7 +1771,7 @@
         </para>
         <para>
           <num>13.</num>
-          <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape. (See Sections 5500.1, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, 7027.5 of the California Business and Professions Code, Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
+          <text>Bear the signature of a licensed landscape architect, licensed landscape contractor, or any other person authorized to design a landscape. (See Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§5500.1">5500.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5615">5615</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641">5641</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.1">5641.1</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.2">5641.2</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.3">5641.3</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.4">5641.4</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.5">5641.5</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§5641.6">5641.6</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§6701">6701</cite>, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5</cite> of the <cite doc="Cal. Bus. &amp; Prof. Code">California Business and Professions Code</cite>, Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agriculture Code.)</text>
         </para>
       </para>
       <annotations>
@@ -1827,7 +1781,7 @@
     <section>
       <num>16.14.110</num>
       <heading>Irrigation design plan.</heading>
-      <text>For the efficient use of water, an irrigation system shall meet all the requirements listed in this section and the manufacturers' recommendations. The irrigation system and its related components shall be planned and designed to allow for proper installation, management, and maintenance. An irrigation design plan meeting the following design criteria shall be submitted as part of the landscape documentation package.</text>
+      <text>For the efficient use of water, an irrigation system shall meet all the requirements listed in <cite path="|16.14.110">this section</cite> and the manufacturers' recommendations. The irrigation system and its related components shall be planned and designed to allow for proper installation, management, and maintenance. An irrigation design plan meeting the following design criteria shall be submitted as part of the landscape documentation package.</text>
       <para>
         <num>A.</num>
         <text>System.</text>
@@ -1908,7 +1862,7 @@
           </para>
           <para>
             <num>c.</num>
-            <text>The irrigation designer specifies an alternative design or technology, as part of the landscape documentation package and clearly demonstrates strict adherence to irrigation system design criteria in subsection (A)(8) of this section. Prevention of overspray and runoff must be confirmed during the irrigation audit.</text>
+            <text>The irrigation designer specifies an alternative design or technology, as part of the landscape documentation package and clearly demonstrates strict adherence to irrigation system design criteria in subsection (A)(8) of <cite path="|16.14.110">this section</cite>. Prevention of overspray and runoff must be confirmed during the irrigation audit.</text>
           </para>
         </para>
         <para>
@@ -1972,7 +1926,7 @@
           </para>
           <para>
             <num>g.</num>
-            <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections 5500.l, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, 7027.5 of the Business and Professions Code, Section 832.27 of Title 16 of the California Code of Regulations, and Section 6721 of the Food and Agricultural Code.)</text>
+            <text>The signature of a licensed landscape architect, certified irrigation designer, licensed landscape contractor, or any other person authorized to design an irrigation system. (See Sections 5500.l, 5615, 5641, 5641.1, 5641.2, 5641.3, 5641.4, 5641.5, 5641.6, 6701, <cite doc="Cal. Bus. &amp; Prof. Code" path="§7027.5">7027.5 of the Business and Professions Code</cite>, Section 832.27 of Title 16 of the California Code of Regulations, and <cite doc="Cal. Food &amp; Agric. Code" path="§6721">Section 6721 of the Food and Agricultural Code</cite>.)</text>
           </para>
         </para>
       </para>
@@ -2126,8 +2080,10 @@
     <section>
       <num>16.14.150</num>
       <heading>Stormwater management.</heading>
-      <text>All landscape plans shall conform to <cite path="14.28">Chapter 14.28</cite> Stormwater and Pollution Discharge Control Program. (Ord. 2015-05 § 2, 2015)</text>
-      <annotations/>
+      <text>All landscape plans shall conform to <cite path="14.28">Chapter 14.28</cite> Stormwater and Pollution Discharge Control Program.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+      </annotations>
     </section>
     <section>
       <num>16.14.160</num>
@@ -2253,7 +2209,7 @@
     <section>
       <num>16.15.010</num>
       <heading>Intent and purpose.</heading>
-      <text>The intent and purpose of this chapter is to adopt an expedited, streamlined solar permitting process that complies with the Solar Rights Act and AB 2188 (Chapter 521, Statutes 2014) to achieve timely and cost-effective installations of small residential rooftop solar energy systems. This chapter is designed to encourage the use of solar systems by removing unreasonable barriers, minimizing costs to property owners and the city, and expanding the ability of property owners to install solar energy systems. This chapter allows the city to achieve these goals while protecting the public health and safety.</text>
+      <text>The intent and purpose of <cite path="16.15">this chapter</cite> is to adopt an expedited, streamlined solar permitting process that complies with the Solar Rights Act and AB 2188 (Chapter 521, Statutes 2014) to achieve timely and cost-effective installations of small residential rooftop solar energy systems. <cite path="16.15">This chapter</cite> is designed to encourage the use of solar systems by removing unreasonable barriers, minimizing costs to property owners and the city, and expanding the ability of property owners to install solar energy systems. <cite path="16.15">This chapter</cite> allows the city to achieve these goals while protecting the public health and safety.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
         <annotation type="History">Ord. 2019-11 § 3, 2019</annotation>
@@ -2265,11 +2221,11 @@
       <heading>Applicability.</heading>
       <para>
         <num>A.</num>
-        <text>This chapter applies to the permitting of all small residential rooftop solar energy systems in the city.</text>
+        <text><cite path="16.15">This chapter</cite> applies to the permitting of all small residential rooftop solar energy systems in the city.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Small residential rooftop solar energy systems legally established or permitted prior to the effective date of the ordinance codified in this chapter are not subject to the requirements of this chapter unless physical modifications or alterations are undertaken that materially change the size, type, or components of a small rooftop solar energy system in such a way as to require new permitting. Routine operation and maintenance of like-kind replacements shall not require a permit.</text>
+        <text>Small residential rooftop solar energy systems legally established or permitted prior to the effective date of the ordinance codified in <cite path="16.15">this chapter</cite> are not subject to the requirements of <cite path="16.15">this chapter</cite> unless physical modifications or alterations are undertaken that materially change the size, type, or components of a small rooftop solar energy system in such a way as to require new permitting. Routine operation and maintenance of like-kind replacements shall not require a permit.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
@@ -2415,7 +2371,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>All fees prescribed for the permitting of small residential rooftop solar energy systems must comply with Government Code Sections 65850.55 and 66015 and Health and Safety Code Section 17951.</text>
+        <text>All fees prescribed for the permitting of small residential rooftop solar energy systems must comply with <cite doc="Cal. Gov't Code">Government Code</cite> Sections <cite doc="Cal. Gov't Code" path="§65850.55">65850.55</cite> and <cite doc="Cal. Gov't Code" path="§66015">66015</cite> and <cite doc="Cal. Health &amp; Safety Code" path="§17951">Health and Safety Code Section 17951</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
@@ -2428,7 +2384,7 @@
       <heading>Expedited permit review and inspection requirements.</heading>
       <para>
         <num>A.</num>
-        <text>The building division shall adopt an administrative, nondiscretionary review process to expedite the approval of small residential rooftop solar energy system applications within thirty days of adoption of this chapter. For an application for a small residential rooftop solar energy system that meets the requirements of the approved checklist and standard plan, the building division shall issue a building permit or other non-discretionary permit within three business days. The building official may require an applicant to apply for a use permit if the official finds, based on substantial evidence, that the solar energy system could have a specific, adverse impact upon the public health and safety.</text>
+        <text>The building division shall adopt an administrative, nondiscretionary review process to expedite the approval of small residential rooftop solar energy system applications within thirty days of adoption of <cite path="16.15">this chapter</cite>. For an application for a small residential rooftop solar energy system that meets the requirements of the approved checklist and standard plan, the building division shall issue a building permit or other non-discretionary permit within three business days. The building official may require an applicant to apply for a use permit if the official finds, based on substantial evidence, that the solar energy system could have a specific, adverse impact upon the public health and safety.</text>
       </para>
       <para>
         <num>B.</num>
@@ -2440,11 +2396,11 @@
       </para>
       <para>
         <num>D.</num>
-        <text>Any condition imposed on an application shall be designed to mitigate the specific, adverse impact upon health and safety at the lowest possible cost. The city shall use its best efforts to ensure that the selected method, condition, or mitigation meets the conditions of Civil Code Sections 714(d)(1)(A) and (B).</text>
+        <text>Any condition imposed on an application shall be designed to mitigate the specific, adverse impact upon health and safety at the lowest possible cost. The city shall use its best efforts to ensure that the selected method, condition, or mitigation meets the conditions of <cite doc="Cal. Civ. Code">Civil Code</cite> Sections 714(d)(1)(A) and (B).</text>
       </para>
       <para>
         <num>E.</num>
-        <text>The city shall not condition the approval of an application on the approval of an association as defined in Civil Code Section 4080.</text>
+        <text>The city shall not condition the approval of an application on the approval of an association as defined in <cite doc="Cal. Civ. Code" path="§4080">Civil Code Section 4080</cite>.</text>
       </para>
       <para>
         <num>F.</num>
@@ -2460,7 +2416,7 @@
       </para>
       <para>
         <num>I.</num>
-        <text>If a small residential rooftop solar energy system fails inspection, a subsequent inspection is authorized but need not conform to the requirements of this chapter.</text>
+        <text>If a small residential rooftop solar energy system fails inspection, a subsequent inspection is authorized but need not conform to the requirements of <cite path="16.15">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>
@@ -2476,15 +2432,13 @@
     <section>
       <num>16.16.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "California Administrative Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Administrative Code, refers and applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.16">This chapter</cite> shall be cited as the "California Administrative Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Administrative Code, refers and applies to <cite path="16.16">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.16.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Administrative Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Administrative Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Administrative Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in <cite path="|16.16.020">this section</cite> are adopted in their entirety. A copy of the adopted California Administrative Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -2497,15 +2451,13 @@
     <section>
       <num>16.17.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "California Referenced Standards Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Referenced Standards Code, refers and applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.17">This chapter</cite> shall be cited as the "California Referenced Standards Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the California Referenced Standards Code, refers and applies to <cite path="16.17">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.17.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Referenced Standards Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in this section are adopted in their entirety. A copy of the adopted California Referenced Standards Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "California Referenced Standards Code, 2022 Edition," published by the International Code Council and copyrighted by the California Building Standards Commission. The documents identified in <cite path="|16.17.020">this section</cite> are adopted in their entirety. A copy of the adopted California Referenced Standards Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>
@@ -2518,15 +2470,13 @@
     <section>
       <num>16.18.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be cited as the "International Property Maintenance Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the International Property Maintenance Code, refers and applies to this chapter.</text>
-      <annotations>
-        <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
-      </annotations>
+      <text><cite path="16.18">This chapter</cite> shall be cited as the "International Property Maintenance Code" of the city of American Canyon and any reference in the city municipal code or any chapter thereof to the International Property Maintenance Code, refers and applies to <cite path="16.18">this chapter</cite>.</text>
+      <annotations/>
     </section>
     <section>
       <num>16.18.020</num>
       <heading>Code adoption.</heading>
-      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "International Property Maintenance Code, 2021 Edition," published by the International Code Council and copyrighted by the International Code Council. The documents identified in this section are adopted in their entirety. A copy of the adopted International Property Maintenance Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
+      <text>The city of American Canyon does hereby adopt all those certain documents marked and designated, as "International Property Maintenance Code, 2021 Edition," published by the International Code Council and copyrighted by the International Code Council. The documents identified in <cite path="|16.18.020">this section</cite> are adopted in their entirety. A copy of the adopted International Property Maintenance Code shall be kept on file in the office of the building official for use and examination by members of the public.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 1, 2022</annotation>
       </annotations>

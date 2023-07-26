@@ -49,8 +49,10 @@
     <section>
       <num>6.04.020</num>
       <heading>When dogs to be leashed—Enforcement.</heading>
-      <text>Pursuant to American Canyon Municipal Code <cite path="|1.24.010">Section 1.24.010</cite> violation of when dogs to be leashed constitutes an infraction unless such violation is specifically designated. (Ord. 2014-05 § 2, 2014)</text>
-      <annotations/>
+      <text>Pursuant to American Canyon Municipal Code <cite path="|1.24.010">Section 1.24.010</cite> violation of when dogs to be leashed constitutes an infraction unless such violation is specifically designated.</text>
+      <annotations>
+        <annotation type="History">Ord. 2014-05 § 2, 2014</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -60,7 +62,7 @@
     <section>
       <num>6.12.010</num>
       <heading>Definitions.</heading>
-      <text>For the purpose of this chapter, the following words and phrases are defined and shall be construed as hereinafter set forth unless it shall be apparent from the context that a different meaning is indicated. Any word or phrase used in this chapter and not defined in this section shall be given the meaning established for such word or phrase by Chapter 1 of Division 13 of the California Agricultural Code.</text>
+      <text>For the purpose of <cite path="6.12">this chapter</cite>, the following words and phrases are defined and shall be construed as hereinafter set forth unless it shall be apparent from the context that a different meaning is indicated. Any word or phrase used in <cite path="6.12">this chapter</cite> and not defined in <cite path="|6.12.010">this section</cite> shall be given the meaning established for such word or phrase by Chapter 1 of Division 13 of the California Agricultural Code.</text>
       <text>"Apiary" means bees, comb, hives, appliances or colonies, wherever the same are kept, located or found.</text>
       <text>"Bees" means honey-producing insects of the genus Apis, including all life stages of such insects.</text>
       <text>"City" means the city of American Canyon.</text>
@@ -78,7 +80,7 @@
       <heading>Apiary best management practices.</heading>
       <para>
         <num>A.</num>
-        <text>Apiaries shall be permitted within the city consistent with all of the provisions of this section:</text>
+        <text>Apiaries shall be permitted within the city consistent with all of the provisions of <cite path="|6.12.020">this section</cite>:</text>
         <para>
           <num>1.</num>
           <text>Apiaries shall consist of moveable frame hives in sound and useable condition.</text>
@@ -94,14 +96,16 @@
       </para>
       <para>
         <num>B.</num>
-        <text>The provisions of this chapter, however, shall not authorize the keeping of bees in a manner constituting a public nuisance as defined in <cite path="|1.20.020">Section 1.20.020</cite>(B)(2) of the Napa County Code, although no resolution of the city council shall be required to establish the public nuisance. (Ord. 2013-01 § 1, 2013)</text>
+        <text>The provisions of <cite path="6.12">this chapter</cite>, however, shall not authorize the keeping of bees in a manner constituting a public nuisance as defined in <cite path="|1.20.020|(B)|(2)">Section 1.20.020(B)(2) </cite>of the Napa County Code, although no resolution of the city council shall be required to establish the public nuisance.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Ord. 2013-01 § 1, 2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.12.030</num>
       <heading>Right of entry for enforcement.</heading>
-      <text>The commissioner is empowered to enter upon any premises where bees are kept, or upon which there is reason to believe that bees are kept, in order to carry into effect the provisions of this chapter.</text>
+      <text>The commissioner is empowered to enter upon any premises where bees are kept, or upon which there is reason to believe that bees are kept, in order to carry into effect the provisions of <cite path="6.12">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Ord. 2013-01 § 1, 2013</annotation>
       </annotations>
@@ -111,7 +115,7 @@
       <heading>Violation—Notice requirements.</heading>
       <para>
         <num>A.</num>
-        <text>Any person owning, controlling or maintaining an apiary who violates any of the provisions of this chapter shall be given notice thereof and an order to abate, either by the commissioner or any code enforcement officer. The order shall specify the violations of this chapter and conditions to be abated.</text>
+        <text>Any person owning, controlling or maintaining an apiary who violates any of the provisions of <cite path="6.12">this chapter</cite> shall be given notice thereof and an order to abate, either by the commissioner or any code enforcement officer. The order shall specify the violations of <cite path="6.12">this chapter</cite> and conditions to be abated.</text>
       </para>
       <para>
         <num>B.</num>
@@ -133,13 +137,15 @@
     <section>
       <num>6.12.050</num>
       <heading>Violation—Remedies.</heading>
-      <text>In addition to remedies otherwise provided by law, a violation of this chapter shall be a public nuisance which may be civilly abated or criminally prosecuted and published in the manner set forth in <cite path="9.04">Chapter 9.04</cite> of this code. (Ord. 2013-01 § 1, 2013)</text>
-      <annotations/>
+      <text>In addition to remedies otherwise provided by law, a violation of <cite path="6.12">this chapter</cite> shall be a public nuisance which may be civilly abated or criminally prosecuted and published in the manner set forth in <cite path="9.04">Chapter 9.04</cite> of this code.</text>
+      <annotations>
+        <annotation type="History">Ord. 2013-01 § 1, 2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>6.12.060</num>
       <heading>Compliance with state law.</heading>
-      <text>Nothing in this chapter shall excuse compliance with state laws applicable to apiaries.</text>
+      <text>Nothing in <cite path="6.12">this chapter</cite> shall excuse compliance with state laws applicable to apiaries.</text>
       <annotations>
         <annotation type="History">Ord. 2013-01 § 1, 2013</annotation>
       </annotations>
@@ -152,7 +158,7 @@
     <section>
       <num>6.13.010</num>
       <heading>Purpose.</heading>
-      <text>The intent of this chapter is to limit the number of roosters that may be kept on a single legal parcel, to eliminate the potential for public nuisance, illegal cockfighting and the raising of birds to be used for cockfighting, and for the protection of the health and safety of the residents of American Canyon.</text>
+      <text>The intent of <cite path="6.13">this chapter</cite> is to limit the number of roosters that may be kept on a single legal parcel, to eliminate the potential for public nuisance, illegal cockfighting and the raising of birds to be used for cockfighting, and for the protection of the health and safety of the residents of American Canyon.</text>
       <annotations>
         <annotation type="History">Ord. 2014-02 § 2, 2014</annotation>
       </annotations>
@@ -160,7 +166,7 @@
     <section>
       <num>6.13.020</num>
       <heading>Definitions.</heading>
-      <text>Unless the context requires otherwise, the definitions in this section shall govern the interpretation of the provisions of this chapter.</text>
+      <text>Unless the context requires otherwise, the definitions in <cite path="|6.13.020">this section</cite> shall govern the interpretation of the provisions of <cite path="6.13">this chapter</cite>.</text>
       <text>"Agricultural commissioner" means the Napa County agricultural commissioner-sealer of weights and measures, or the agricultural commissioner's designees.</text>
       <text>"City" means the city of American Canyon</text>
       <text>"Cockfighting" is the practice of setting two male birds or roosters to fight each other.</text>
@@ -218,11 +224,11 @@
       </para>
       <para>
         <num>C.</num>
-        <text>This section shall not apply to commercial poultry ranches whose primary commodity is the production of eggs or meat for sale as permitted by the city, public or private schools as registered with the California Department of Education, Future Farmers of America (FFA) or 4-H sponsored projects, or to legitimate poultry hobbyists as approved in writing by the agricultural commissioner.</text>
+        <text><cite path="|6.13.030">This section</cite> shall not apply to commercial poultry ranches whose primary commodity is the production of eggs or meat for sale as permitted by the city, public or private schools as registered with the California Department of Education, Future Farmers of America (FFA) or 4-H sponsored projects, or to legitimate poultry hobbyists as approved in writing by the agricultural commissioner.</text>
       </para>
       <para>
         <num>D.</num>
-        <text>Each individual rooster beyond the rooster limitation in subsection A of this section constitutes a separate violation.</text>
+        <text>Each individual rooster beyond the rooster limitation in subsection A of <cite path="|6.13.030">this section</cite> constitutes a separate violation.</text>
       </para>
       <para>
         <num>E.</num>
@@ -250,7 +256,7 @@
       </para>
       <para>
         <num>H.</num>
-        <text>The agricultural commissioner shall establish written standards necessary to carry out the intent of this chapter and may condition any approval based on compliance with the written regulations and standards. Failure of any property owner and any person occupying or leasing the property to comply with any of the provisions of this chapter or applicable law, or the regulations and standards of the agricultural commissioner shall constitute good cause for the denial of any approval, either original or renewal, or for its revocation.</text>
+        <text>The agricultural commissioner shall establish written standards necessary to carry out the intent of <cite path="6.13">this chapter</cite> and may condition any approval based on compliance with the written regulations and standards. Failure of any property owner and any person occupying or leasing the property to comply with any of the provisions of <cite path="6.13">this chapter</cite> or applicable law, or the regulations and standards of the agricultural commissioner shall constitute good cause for the denial of any approval, either original or renewal, or for its revocation.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2014-02 § 2, 2014</annotation>
@@ -269,11 +275,11 @@
       <heading>Liability and enforcement.</heading>
       <para>
         <num>A.</num>
-        <text>Any person who violates any of the provisions of this chapter shall be guilty of either an infraction or a misdemeanor.</text>
+        <text>Any person who violates any of the provisions of <cite path="6.13">this chapter</cite> shall be guilty of either an infraction or a misdemeanor.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>In addition to the penalties set forth in subsection A of this section, violators of this chapter may be subject to a public nuisance abatement action brought under the provisions of <cite path="9.12">Chapter 9.12</cite> and the civil penalty provisions as provided in subsection D of <cite path="|9.12.030">Section 9.12.030</cite> and may also be subject to an unfair competition action brought pursuant to Business and Professions Code Section 17200 et seq. and up to two thousand five hundred dollars civil penalty per violation.</text>
+        <text>In addition to the penalties set forth in subsection A of <cite path="|6.13.050">this section</cite>, violators of <cite path="6.13">this chapter</cite> may be subject to a public nuisance abatement action brought under the provisions of <cite path="9.12">Chapter 9.12</cite> and the civil penalty provisions as provided in subsection D of <cite path="|9.12.030">Section 9.12.030</cite> and may also be subject to an unfair competition action brought pursuant to <cite doc="Cal. Bus. &amp; Prof. Code" path="§17200">Business and Professions Code Section 17200</cite> et seq. and up to two thousand five hundred dollars civil penalty per violation.</text>
       </para>
       <para>
         <num>C.</num>

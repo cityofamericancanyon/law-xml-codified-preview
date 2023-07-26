@@ -10,10 +10,8 @@
     <section>
       <num>10.04.010</num>
       <heading>Title.</heading>
-      <text>This chapter shall be known and may be officially cited as the "American Canyon Traffic Code."</text>
-      <annotations>
-        <annotation type="History">Ord. 92-19 § 1, 1992</annotation>
-      </annotations>
+      <text><cite path="10.04">This chapter</cite> shall be known and may be officially cited as the "American Canyon Traffic Code."</text>
+      <annotations/>
     </section>
     <section>
       <num>10.04.020</num>
@@ -28,11 +26,11 @@
       <heading>Definitions of words and phrases.</heading>
       <para>
         <num>A.</num>
-        <text>The following words and phrases when used in this code shall, for the purpose of this code, have the meanings respectively ascribed to them in this chapter.</text>
+        <text>The following words and phrases when used in this code shall, for the purpose of this code, have the meanings respectively ascribed to them in <cite path="10.04">this chapter</cite>.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Whenever any words or phrases used in this code are not defined herein, but are defined in the Vehicle Code of the state of California, such definitions are incorporated herein and shall be deemed to apply to such words and phrases used in this chapter as though set forth in this chapter in full.</text>
+        <text>Whenever any words or phrases used in this code are not defined herein, but are defined in the <cite doc="Cal. Veh. Code">Vehicle Code</cite> of the state of California, such definitions are incorporated herein and shall be deemed to apply to such words and phrases used in <cite path="10.04">this chapter</cite> as though set forth in <cite path="10.04">this chapter</cite> in full.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 15, 1992</annotation>
@@ -41,7 +39,7 @@
     <section>
       <num>10.04.040</num>
       <heading>Definitions.</heading>
-      <text>As used in this chapter:</text>
+      <text>As used in <cite path="10.04">this chapter</cite>:</text>
       <text>"Bicycle" means every device propelled by human power upon which any person may ride, having tandem wheels either of which is over twenty inches in diameter, and including any device generally recognized as a bicycle though equipped with two front or two rear wheels.</text>
       <text>"City" means the general law city of the city of</text>
       <text>American Canyon, incorporated January 1, 1992.</text>
@@ -49,8 +47,8 @@
       <text>"Holiday" means every Sunday, January first, February twelfth, third Monday in February, last Monday in May, July fourth, first Monday in September, September ninth, second Monday in October, November eleventh, the Thursday in November appointed as "Thanksgiving Day," the Friday following the Thursday in November appointed as "Thanksgiving Day," December twenty-fifth. If any of the foregoing days, except Sunday, falls on a Sunday, the Monday following is a holiday.</text>
       <text>"Limited access highway" means every highway, street or roadway in respect to which owners or occupants of abutting property or land and other persons have no legal right of access to or from the same, except at such points only and in such manner as may be determined by the public authority having jurisdiction over such highway, street or roadway.</text>
       <text>"Loading zone" means the space adjacent to a curb reserved for the exclusive use of vehicles during the loading or unloading of passengers or materials.</text>
-      <text>"Official time standard" means whenever certain hours are named in this chapter, they shall mean standard time or daylight savings time as may be in current use in this city.</text>
-      <text>"Official traffic control devices" means all signs, signals, markings and devices, except directional signs, not inconsistent with this code or the Vehicle Code of the state of California, placed or erected by authority of a public body or official having jurisdiction for the purpose of regulating, warning or guiding traffic.</text>
+      <text>"Official time standard" means whenever certain hours are named in <cite path="10.04">this chapter</cite>, they shall mean standard time or daylight savings time as may be in current use in this city.</text>
+      <text>"Official traffic control devices" means all signs, signals, markings and devices, except directional signs, not inconsistent with this code or the <cite doc="Cal. Veh. Code">Vehicle Code</cite> of the state of California, placed or erected by authority of a public body or official having jurisdiction for the purpose of regulating, warning or guiding traffic.</text>
       <text>"Official traffic signals" means any device, whether manually, electrically or mechanically operated, by which traffic is alternately directed to stop and proceed and which is erected by authority of a public body or official having jurisdiction.</text>
       <text>"Park" means to stand or leave standing any vehicle, whether occupied or not, otherwise than temporarily for the purpose of and while actually</text>
       <text>engaged in loading or unloading of passengers or materials.</text>
@@ -142,11 +140,11 @@
       </para>
       <para>
         <num>D.</num>
-        <text>Civilian employees of the city, when designated by the chief of police, shall enforce those provisions of the American Canyon traffic code and the State Vehicle Code relating to the standing or parking of vehicles that legally may be enforced by persons other than peace officers.</text>
+        <text>Civilian employees of the city, when designated by the chief of police, shall enforce those provisions of the American Canyon traffic code and the State <cite doc="Cal. Veh. Code">Vehicle Code</cite> relating to the standing or parking of vehicles that legally may be enforced by persons other than peace officers.</text>
       </para>
       <para>
         <num>E.</num>
-        <text>Inspectors and officers of the fire prevention bureau of the fire district may enforce Vehicle Code Sections 21708 and 22514.</text>
+        <text>Inspectors and officers of the fire prevention bureau of the fire district may enforce <cite doc="Cal. Veh. Code">Vehicle Code</cite> Sections <cite doc="Cal. Veh. Code" path="§21708">21708</cite> and <cite doc="Cal. Veh. Code" path="§22514">22514</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 50, 1992</annotation>
@@ -189,7 +187,7 @@
       <heading>Exemptions to certain vehicles.</heading>
       <para>
         <num>A.</num>
-        <text>The provisions of this code regulating the operation, parking and standing of vehicles shall not apply to any vehicle of the police or fire departments, any public ambulance or any public utility vehicle or any private ambulance, which public utility vehicle or private ambulance has qualified as an authorized emergency vehicle, when any vehicle mentioned in this section is operated in the manner specified in the Vehicle Code in response to an emergency.</text>
+        <text>The provisions of this code regulating the operation, parking and standing of vehicles shall not apply to any vehicle of the police or fire departments, any public ambulance or any public utility vehicle or any private ambulance, which public utility vehicle or private ambulance has qualified as an authorized emergency vehicle, when any vehicle mentioned in <cite path="|10.08.110">this section</cite> is operated in the manner specified in the <cite doc="Cal. Veh. Code">Vehicle Code</cite> in response to an emergency.</text>
       </para>
       <para>
         <num>B.</num>
@@ -216,7 +214,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>A driver involved in an accident shall not be subject to the requirements or penalties of this section if and during the time such driver is physically incapable of making a report, but in such event the driver shall make a report as required in subsection A of this section within twenty-four hours after regaining ability to make such report.</text>
+        <text>A driver involved in an accident shall not be subject to the requirements or penalties of <cite path="|10.08.120">this section</cite> if and during the time such driver is physically incapable of making a report, but in such event the driver shall make a report as required in subsection A of <cite path="|10.08.120">this section</cite> within twenty-four hours after regaining ability to make such report.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 56, 1992</annotation>
@@ -225,8 +223,10 @@
     <section>
       <num>10.08.130</num>
       <heading>Vehicles obstructing normal flow of traffic—Removal.</heading>
-      <text>Any vehicle parked or stopped in violation of Sections <cite path="|10.20.110">10.20.110</cite>, <cite path="|10.32.090">10.32.090</cite>, <cite path="|10.32.280">10.32.280</cite>, and <cite path="|10.32.290">10.32.290</cite> of this code shall be deemed to be left standing upon a street or highway in an unusual position and obstructing the normal movement of traffic thereon and may be removed as provided in Section 22651 of the California Vehicle Code. (Ord. 92-19 § 57, 1992)</text>
-      <annotations/>
+      <text>Any vehicle parked or stopped in violation of Sections <cite path="|10.20.110">10.20.110</cite>, <cite path="|10.32.090">10.32.090</cite>, <cite path="|10.32.280">10.32.280</cite>, and <cite path="|10.32.290">10.32.290</cite> of this code shall be deemed to be left standing upon a street or highway in an unusual position and obstructing the normal movement of traffic thereon and may be removed as provided in <cite doc="Cal. Veh. Code" path="§22651">Section 22651 of the California Vehicle Code</cite>.</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 57, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.08.140</num>
@@ -237,7 +237,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>The prohibition contained in this section shall apply from the time of the happening of any of the aforesaid occurrences until a reasonable time thereafter, and at all times while law enforcement officers, public health personnel, and other persons discharging duties imposed by law, are actively engaged in the performance of duty at the location of the occurrences.</text>
+        <text>The prohibition contained in <cite path="|10.08.140">this section</cite> shall apply from the time of the happening of any of the aforesaid occurrences until a reasonable time thereafter, and at all times while law enforcement officers, public health personnel, and other persons discharging duties imposed by law, are actively engaged in the performance of duty at the location of the occurrences.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 201, 1992</annotation>
@@ -254,7 +254,7 @@
     <section>
       <num>10.08.160</num>
       <heading>Applicability to both public and private streets.</heading>
-      <text>The duties and powers granted within this chapter shall apply to all streets, highways, avenues, boulevards, alleys, courts, places, squares and curbs, regardless of whether dedicated or open to public use.</text>
+      <text>The duties and powers granted within <cite path="10.08">this chapter</cite> shall apply to all streets, highways, avenues, boulevards, alleys, courts, places, squares and curbs, regardless of whether dedicated or open to public use.</text>
       <annotations>
         <annotation type="History">Ord. 2002-05 § 1, 2002</annotation>
       </annotations>
@@ -264,11 +264,11 @@
       <heading>Administrative fee—American Canyon police and department of parking and traffic.</heading>
       <para>
         <num>A.</num>
-        <text>A fee to reimburse the city of American Canyon for costs incurred in the administration of the procedures for removing vehicles shall be charged by the police department to the owner of a vehicle removed pursuant to Section 22651(h), 22651(p), 22655.5 or 22850.5 of the California Vehicle Code. Such charges collected for the removal or storage of vehicles shall not be subject to the reimbursement provisions of <cite path="|10.08.190">Section 10.08.190</cite> of this chapter.</text>
+        <text>A fee to reimburse the city of American Canyon for costs incurred in the administration of the procedures for removing vehicles shall be charged by the police department to the owner of a vehicle removed pursuant to Section 22651(h), 22651(p), 22655.5 or <cite doc="Cal. Veh. Code" path="§22850.5">22850.5 of the California Vehicle Code</cite>. Such charges collected for the removal or storage of vehicles shall not be subject to the reimbursement provisions of <cite path="|10.08.190">Section 10.08.190</cite> of this chapter.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>California Vehicle Code Section 14602.6 (a)(1) authorizes impoundment for up to thirty days.</text>
+        <text><cite doc="Cal. Veh. Code" path="§14602.6">California Vehicle Code Section 14602.6</cite> (a)(1) authorizes impoundment for up to thirty days.</text>
       </para>
       <para>
         <num>C.</num>
@@ -276,7 +276,7 @@
       </para>
       <para>
         <num>D.</num>
-        <text>The chief of police, with the approval of the city council, is authorized to adopt such rules, regulations and procedures as they determine are necessary for the department to impose, collect and administer the fee imposed by this section.</text>
+        <text>The chief of police, with the approval of the city council, is authorized to adopt such rules, regulations and procedures as they determine are necessary for the department to impose, collect and administer the fee imposed by <cite path="|10.08.170">this section</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2007-02 § 1, 2007</annotation>
@@ -313,7 +313,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Because the subject vehicle was towed and stored by the order of the police department and the towing or storage was not authorized by any of the provisions of the Vehicle Code of the state of California;</text>
+          <text>Because the subject vehicle was towed and stored by the order of the police department and the towing or storage was not authorized by any of the provisions of the <cite doc="Cal. Veh. Code">Vehicle Code</cite> of the state of California;</text>
         </para>
         <para>
           <num>3.</num>
@@ -325,7 +325,7 @@
         </para>
         <para>
           <num>5.</num>
-          <text>Because a vehicle was towed or stored by order of the American Canyon police department for removal of components of the vehicle, which components were placed on the vehicle in violation of Section 10751 of the Vehicle Code.</text>
+          <text>Because a vehicle was towed or stored by order of the American Canyon police department for removal of components of the vehicle, which components were placed on the vehicle in violation of <cite doc="Cal. Veh. Code" path="§10751">Section 10751 of the Vehicle Code</cite>.</text>
         </para>
       </para>
       <para>
@@ -334,9 +334,11 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Pursuant to the provisions of the American Canyon vehicles and traffic code, indigent owners of vehicles and victims of auto theft shall be exempt from paying fees, charges, or costs imposed for the towing and storage of the vehicle, except no person shall be exempt from tow and storage charges pursuant to Sections <cite path="|10.08.170">10.08.170</cite> and <cite path="|10.08.180">10.08.180</cite> of this chapter. (Ord. 2007-02 § 2, 2007)</text>
+        <text>Pursuant to the provisions of the American Canyon vehicles and traffic code, indigent owners of vehicles and victims of auto theft shall be exempt from paying fees, charges, or costs imposed for the towing and storage of the vehicle, except no person shall be exempt from tow and storage charges pursuant to Sections <cite path="|10.08.170">10.08.170</cite> and <cite path="|10.08.180">10.08.180</cite> of <cite path="10.08">this chapter</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Ord. 2007-02 § 2, 2007</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -352,7 +354,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Whenever the Vehicle Code of this state requires, for the effectiveness of any provision thereof, that traffic control devices be installed to give notice to the public of the application of such law, the traffic engineer is authorized to install the necessary devices subject to any limitations or restrictions set forth in the law applicable thereto.</text>
+        <text>Whenever the <cite doc="Cal. Veh. Code">Vehicle Code</cite> of this state requires, for the effectiveness of any provision thereof, that traffic control devices be installed to give notice to the public of the application of such law, the traffic engineer is authorized to install the necessary devices subject to any limitations or restrictions set forth in the law applicable thereto.</text>
       </para>
       <para>
         <num>C.</num>
@@ -365,7 +367,7 @@
     <section>
       <num>10.12.020</num>
       <heading>When traffic control devices required for enforcement purposes.</heading>
-      <text>No provisions of the Vehicle Code or of this code for which signs are required shall be enforced against an alleged violator unless appropriate signs are in place and sufficiently legible to be seen by an ordinarily observant person, giving notice of such provisions of the traffic laws.</text>
+      <text>No provisions of the <cite doc="Cal. Veh. Code">Vehicle Code</cite> or of this code for which signs are required shall be enforced against an alleged violator unless appropriate signs are in place and sufficiently legible to be seen by an ordinarily observant person, giving notice of such provisions of the traffic laws.</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 61, 1992</annotation>
       </annotations>
@@ -429,8 +431,7 @@
       <num>10.12.090</num>
       <heading>Traffic engineer to erect stop signs.</heading>
       <text>Whenever any resolution of this city designates and describes any street or portion thereof as a through street, or any intersection at which vehicles are required to stop at one or more entrances thereto, or any railroad grade crossing at which vehicles are required to stop, the traffic engineer shall erect and maintain stop signs as follows:</text>
-      <text>A stop sign shall be erected on each and every street intersecting such through street or portion thereof so designated and at those entrances of other intersections where a stop is required and at any railroad grade crossing so designated. Every such sign shall conform with and shall be placed as provided in Section 21355 of the Vehicle Code.</text>
-      <text/>
+      <text>A stop sign shall be erected on each and every street intersecting such through street or portion thereof so designated and at those entrances of other intersections where a stop is required and at any railroad grade crossing so designated. Every such sign shall conform with and shall be placed as provided in <cite doc="Cal. Veh. Code" path="§21355">Section 21355 of the Vehicle Code</cite>.</text>
       <annotations>
         <annotation type="History">Ord. 94-01 § 9, 1994</annotation>
         <annotation type="History">Ord. 92-19 § 90, 1992</annotation>
@@ -441,19 +442,19 @@
       <heading>Stop at through street or stop sign.</heading>
       <para>
         <num>A.</num>
-        <text>Those streets and parts of streets described in such resolution, and those streets and parts of streets heretofore designated and signed by this city as through streets until other designations are made, are declared to be through streets for purposes of this section.</text>
+        <text>Those streets and parts of streets described in such resolution, and those streets and parts of streets heretofore designated and signed by this city as through streets until other designations are made, are declared to be through streets for purposes of <cite path="|10.12.100">this section</cite>.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>The provisions of this section shall also apply at one or more entrances to the intersections as such entrances and intersections have been heretofore designated and signed by this city until other designations are made or as may be hereafter described in such resolution.</text>
+        <text>The provisions of <cite path="|10.12.100">this section</cite> shall also apply at one or more entrances to the intersections as such entrances and intersections have been heretofore designated and signed by this city until other designations are made or as may be hereafter described in such resolution.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>The provisions of this section shall also apply at those railroad grade crossings as such railroad grade crossings have been heretofore designated and signed by this city until other designations are made or as may be hereafter described in such resolution.</text>
+        <text>The provisions of <cite path="|10.12.100">this section</cite> shall also apply at those railroad grade crossings as such railroad grade crossings have been heretofore designated and signed by this city until other designations are made or as may be hereafter described in such resolution.</text>
       </para>
       <para>
         <num>D.</num>
-        <text>When stop signs are erected, as herein provided, at the entrance to any intersection or at any railroad grade crossing every driver of a vehicle shall stop, as required by the Vehicle Code.</text>
+        <text>When stop signs are erected, as herein provided, at the entrance to any intersection or at any railroad grade crossing every driver of a vehicle shall stop, as required by the <cite doc="Cal. Veh. Code">Vehicle Code</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 91, 1992</annotation>
@@ -631,11 +632,11 @@
       <para>
         <num>A.</num>
         <text>The traffic engineer shall establish, designate and maintain crosswalks at the intersections and other places by appropriate devices, marks or lines upon the surface of the roadway as follows:</text>
-        <text>Crosswalks shall be established and maintained where the traffic engineer determines that there is particular hazard to pedestrians crossing the roadway subject to the limitation contained in subsection B of this section.</text>
+        <text>Crosswalks shall be established and maintained where the traffic engineer determines that there is particular hazard to pedestrians crossing the roadway subject to the limitation contained in subsection B of <cite path="|10.24.010">this section</cite>.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>ther than crosswalks at intersections, no crosswalk shall be established in any block which is less than four hundred feet in length. Elsewhere not more than one additional crosswalk shall be located as nearly as practicable at mid-block.</text>
+        <text>Other than crosswalks at intersections, no crosswalk shall be established in any block which is less than four hundred feet in length. Elsewhere not more than one additional crosswalk shall be located as nearly as practicable at mid-block.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 140, 1992</annotation>
@@ -695,7 +696,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Those streets and parts of streets so marked are declared to be streets the use of which by any commercial vehicle is prohibited. The provisions of this section shall not apply to passenger buses under the jurisdiction of the public utilities commission.</text>
+        <text>Those streets and parts of streets so marked are declared to be streets the use of which by any commercial vehicle is prohibited. The provisions of <cite path="|10.28.010">this section</cite> shall not apply to passenger buses under the jurisdiction of the public utilities commission.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 188, 1992</annotation>
@@ -706,23 +707,25 @@
       <heading>Heavy loads on streets in restricted districts.</heading>
       <para>
         <num>A.</num>
-        <text>When the streets in question are appropriately sign-posted no vehicle of any kind or nature whatsoever (other than passenger buses) shall be operated or moved upon or over any of the streets hereinafter in <cite path="|10.28.030">Section 10.28.030</cite> designated without a permit as provided in this section, when the total weight of vehicle and load exceeds four and one-half tons.</text>
+        <text>When the streets in question are appropriately sign-posted no vehicle of any kind or nature whatsoever (other than passenger buses) shall be operated or moved upon or over any of the streets hereinafter in <cite path="|10.28.030">Section 10.28.030</cite> designated without a permit as provided in <cite path="|10.28.020">this section</cite>, when the total weight of vehicle and load exceeds four and one-half tons.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>This section shall not apply to, and shall not prohibit any commercial vehicle as defined by the California Vehicle Code having a loaded weight in excess of the limit prescribed in this chapter from using any such streets by direct route from a street the use of which is not restricted as to such vehicles for the purpose of delivering or loading for transportation goods, warns or merchandise without such permit.</text>
+        <text><cite path="|10.28.020">This section</cite> shall not apply to, and shall not prohibit any commercial vehicle as defined by the <cite doc="Cal. Veh. Code">California Vehicle Code</cite> having a loaded weight in excess of the limit prescribed in <cite path="10.28">this chapter</cite> from using any such streets by direct route from a street the use of which is not restricted as to such vehicles for the purpose of delivering or loading for transportation goods, warns or merchandise without such permit.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>The traffic engineer may, by written permit, authorize the operation of a vehicle or vehicles upon any of the streets hereinafter in <cite path="|10.28.030">Section 10.28.030</cite> set forth, when the total weight of such vehicle or vehicles exceeds the maximum weight prescribed in this section, if, in the judgment of the traffic engineer, streets upon which such vehicle is to be operated can safely withstand the additional weight for a limited operation. Such permit shall be granted upon such conditions and upon depositing such bond as the traffic engineer, may, in his discretion, require. (Ord. 92-19 § 189, 1992)</text>
+        <text>The traffic engineer may, by written permit, authorize the operation of a vehicle or vehicles upon any of the streets hereinafter in <cite path="|10.28.030">Section 10.28.030</cite> set forth, when the total weight of such vehicle or vehicles exceeds the maximum weight prescribed in <cite path="|10.28.020">this section</cite>, if, in the judgment of the traffic engineer, streets upon which such vehicle is to be operated can safely withstand the additional weight for a limited operation. Such permit shall be granted upon such conditions and upon depositing such bond as the traffic engineer, may, in his discretion, require.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 189, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.28.030</num>
       <heading>Restricted streets.</heading>
       <text>The streets referred to in <cite path="|10.28.020">Section 10.28.020</cite> are described as follows:</text>
-      <text>Not determined upon initial enactment of the traffic code.)</text>
+      <text>(Not determined upon initial enactment of the traffic code.)</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 190, 1992</annotation>
       </annotations>
@@ -731,8 +734,8 @@
       <num>10.28.040</num>
       <heading>Vehicles exceeding four and one-half tons prohibited use of certain streets.</heading>
       <text>When such streets are appropriately sign-posted, the use of the hereinafter described portions of the hereinafter named streets or highways by any motor vehicle (other than passenger buses) when the total weight of the vehicle and loads exceeds four and one-half tons, except for the purpose of loading and unloading thereon, is prohibited, between the hours of eleven p.m. and six a.m.</text>
-      <text>The streets and portions thereof referred to in subsection A of this section are:</text>
-      <text>Not determined upon initial enactment of the traffic code.)</text>
+      <text>The streets and portions thereof referred to in subsection A of <cite path="|10.28.040">this section</cite> are:</text>
+      <text>(Not determined upon initial enactment of the traffic code.)</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 191, 1992</annotation>
       </annotations>
@@ -751,7 +754,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>The provisions of this code imposing a time limit on standing or parking shall not relieve any person from the duty to observe other and more restrictive provisions of the State Vehicle Code, or the regulations of this city, prohibiting or limiting the standing or parking of vehicles in specified places or at specified times.</text>
+        <text>The provisions of this code imposing a time limit on standing or parking shall not relieve any person from the duty to observe other and more restrictive provisions of the State <cite doc="Cal. Veh. Code">Vehicle Code</cite>, or the regulations of this city, prohibiting or limiting the standing or parking of vehicles in specified places or at specified times.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 150, 1992</annotation>
@@ -774,7 +777,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>In the event a vehicle is parked or left standing upon a street in excess of a consecutive period of seventy-two hours, any officer of the police department or any regularly employed and salaried civilian employee of the city who is engaged in the direction of traffic or enforcement of parking regulations when designated by the chief of police, may remove said vehicle from the street in the manner and subject to the requirements of Sections 22850 through 22854 inclusive of the Vehicle Code of the state of California.</text>
+        <text>In the event a vehicle is parked or left standing upon a street in excess of a consecutive period of seventy-two hours, any officer of the police department or any regularly employed and salaried civilian employee of the city who is engaged in the direction of traffic or enforcement of parking regulations when designated by the chief of police, may remove said vehicle from the street in the manner and subject to the requirements of Sections 22850 through 22854 inclusive of the <cite doc="Cal. Veh. Code">Vehicle Code</cite> of the state of California.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 94-01 § 10, 1994</annotation>
@@ -878,7 +881,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>When signs authorized by the provisions of this section are in place giving notice thereof, no person shall operate, park or stand any vehicle contrary to the directions and provisions of such signs.</text>
+        <text>When signs authorized by the provisions of <cite path="|10.32.090">this section</cite> are in place giving notice thereof, no person shall operate, park or stand any vehicle contrary to the directions and provisions of such signs.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 160, 1992</annotation>
@@ -889,11 +892,11 @@
       <heading>Display of warning devices when commercial vehicle disabled.</heading>
       <para>
         <num>A.</num>
-        <text>Every motor truck having an unladen weight of six thousand pounds or more, and every truck tractor irrespective of weight, when operated upon any street or highway during the time specified in Section 280 of the Vehicle Code shall be equipped with and carry at least three red emergency reflectors which reflector shall be of a type approved by the Department of Highway Patrol.</text>
+        <text>Every motor truck having an unladen weight of six thousand pounds or more, and every truck tractor irrespective of weight, when operated upon any street or highway during the time specified in <cite doc="Cal. Veh. Code" path="§280">Section 280 of the Vehicle Code</cite> shall be equipped with and carry at least three red emergency reflectors which reflector shall be of a type approved by the Department of Highway Patrol.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>When any vehicle above mentioned, or any trailer or semi-trailer is disabled upon streets or highways outside of any business or residence district within the city, and upon which street or highway there is insufficient street lighting to reveal a vehicle at a distance of two hundred feet during any time mentioned in Section 280 of the Vehicle Code, the warning signals of the character indicated above shall be immediately placed in the manner set forth in California Vehicle Code Section 25300, subsections (b) through (d), inclusive, and shall be displayed continuously during the times mentioned in Vehicle Code Section 280 while such vehicle remains disabled upon such street or highway.</text>
+        <text>When any vehicle above mentioned, or any trailer or semi-trailer is disabled upon streets or highways outside of any business or residence district within the city, and upon which street or highway there is insufficient street lighting to reveal a vehicle at a distance of two hundred feet during any time mentioned in <cite doc="Cal. Veh. Code" path="§280">Section 280 of the Vehicle Code</cite>, the warning signals of the character indicated above shall be immediately placed in the manner set forth in <cite doc="Cal. Veh. Code" path="§25300">California Vehicle Code Section 25300</cite>, subsections (b) through (d), inclusive, and shall be displayed continuously during the times mentioned in <cite doc="Cal. Veh. Code" path="§280">Vehicle Code Section 280</cite> while such vehicle remains disabled upon such street or highway.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 94-01 § 11, 1994</annotation>
@@ -905,7 +908,7 @@
       <heading>Parking commercial vehicles in residential districts.</heading>
       <para>
         <num>A.</num>
-        <text>No person shall park any commercial vehicle, as defined in Section 22507.5 of the Vehicle Code more than five hours in any residence district, or in front of any apartment building, motel, hotel or any other single or multiple dwelling, except:</text>
+        <text>No person shall park any commercial vehicle, as defined in <cite doc="Cal. Veh. Code" path="§22507.5">Section 22507.5 of the Vehicle Code</cite> more than five hours in any residence district, or in front of any apartment building, motel, hotel or any other single or multiple dwelling, except:</text>
         <para>
           <num>1.</num>
           <text>While loading or unloading property and time in addition to such five-hour period is necessary to complete such work;</text>
@@ -983,10 +986,10 @@
       <heading>Curb markings to indicate no stopping and parking regulations.</heading>
       <para>
         <num>A.</num>
-        <text>The traffic engineer is authorized, subject to the provisions and limitations of this code, to place, and when required in this chapter shall place, the following curb markings to indicate parking or standing regulations, and said curb markings shall have the meanings as set forth in this chapter.</text>
+        <text>The traffic engineer is authorized, subject to the provisions and limitations of this code, to place, and when required in <cite path="10.32">this chapter</cite> shall place, the following curb markings to indicate parking or standing regulations, and said curb markings shall have the meanings as set forth in <cite path="10.32">this chapter</cite>.</text>
         <para>
           <num>1.</num>
-          <text>"Red" means no stopping, standing or parking at any time except as permitted by the Vehicle Code, as except that a bus may stop in a red zone marked or signed as a bus zone.</text>
+          <text>"Red" means no stopping, standing or parking at any time except as permitted by the <cite doc="Cal. Veh. Code">Vehicle Code</cite>, as except that a bus may stop in a red zone marked or signed as a bus zone.</text>
         </para>
         <para>
           <num>2.</num>
@@ -1003,12 +1006,12 @@
         </para>
         <para>
           <num>5.</num>
-          <text>"Blue" means no stopping, standing or parking except for physically handicapped persons whose vehicles display either one of the distinguishing license plates issued to disabled persons pursuant to California Vehicle Code, Section 22511.5 or to disabled veterans, as specified in California Vehicle Code Section 9105.</text>
+          <text>"Blue" means no stopping, standing or parking except for physically handicapped persons whose vehicles display either one of the distinguishing license plates issued to disabled persons pursuant to <cite doc="Cal. Veh. Code">California Vehicle Code</cite>, Section 22511.5 or to disabled veterans, as specified in <cite doc="Cal. Veh. Code" path="§9105">California Vehicle Code Section 9105</cite>.</text>
         </para>
       </para>
       <para>
         <num>B.</num>
-        <text>Where curb markings have been heretofore placed by authority of this city and when the traffic engineer as authorized under this code, has caused curb markings to be placed, no person shall stop, stand or park a vehicle adjacent to any such legible curb marking in violation of any of the provisions of this section.</text>
+        <text>Where curb markings have been heretofore placed by authority of this city and when the traffic engineer as authorized under this code, has caused curb markings to be placed, no person shall stop, stand or park a vehicle adjacent to any such legible curb marking in violation of any of the provisions of <cite path="|10.32.150">this section</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 171, 1992</annotation>
@@ -1031,9 +1034,11 @@
       </para>
       <para>
         <num>B.</num>
-        <text>When appropriate signs are in place, no person shall stop, stand or park a vehicle adjacent to a curb area posted as a loading zone except for the purpose of loading or unloading passengers or materials for such time as permitted in <cite path="|10.32.180">Section 10.32.180</cite> and except on Sundays and holidays. (Ord. 92-19 § 171.1, 1992)</text>
+        <text>When appropriate signs are in place, no person shall stop, stand or park a vehicle adjacent to a curb area posted as a loading zone except for the purpose of loading or unloading passengers or materials for such time as permitted in <cite path="|10.32.180">Section 10.32.180</cite> and except on Sundays and holidays.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 171.1, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.170</num>
@@ -1048,7 +1053,7 @@
       <heading>Effect of permission to load or unload.</heading>
       <para>
         <num>A.</num>
-        <text>Permission granted in this chapter to stop or stand a vehicle for purposes of loading or unloading of materials shall apply only to commercial vehicles and shall not extend beyond the time necessary therefor, and in no event, more than thirty minutes.</text>
+        <text>Permission granted in <cite path="10.32">this chapter</cite> to stop or stand a vehicle for purposes of loading or unloading of materials shall apply only to commercial vehicles and shall not extend beyond the time necessary therefor, and in no event, more than thirty minutes.</text>
       </para>
       <para>
         <num>B.</num>
@@ -1056,11 +1061,11 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Permission granted in this chapter to stop or park for purposes of loading or unloading passengers shall include the loading or unloading of personal baggage, but shall not extend beyond the time necessary therefor, and in no event for more than three minutes.</text>
+        <text>Permission granted in <cite path="10.32">this chapter</cite> to stop or park for purposes of loading or unloading passengers shall include the loading or unloading of personal baggage, but shall not extend beyond the time necessary therefor, and in no event for more than three minutes.</text>
       </para>
       <para>
         <num>D.</num>
-        <text>Within the total time limits specified in this section, the provisions of this section shall be enforced so as to accommodate necessary and reasonable loading and unloading, but without permitting abuse of the privileges granted.</text>
+        <text>Within the total time limits specified in <cite path="|10.32.180">this section</cite>, the provisions of <cite path="|10.32.180">this section</cite> shall be enforced so as to accommodate necessary and reasonable loading and unloading, but without permitting abuse of the privileges granted.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 172, 1992</annotation>
@@ -1069,14 +1074,18 @@
     <section>
       <num>10.32.190</num>
       <heading>Standing for loading or unloading only.</heading>
-      <text>No person shall stop, stand or park a vehicle in any yellow zone for any purpose other than loading or unloading passengers or materials for such time as is permitted in <cite path="|10.32.180">Section 10.32.180</cite>. (Ord. 92-19 § 173, 1992)</text>
-      <annotations/>
+      <text>No person shall stop, stand or park a vehicle in any yellow zone for any purpose other than loading or unloading passengers or materials for such time as is permitted in <cite path="|10.32.180">Section 10.32.180</cite>.</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 173, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.200</num>
       <heading>Standing in passenger loading zone.</heading>
-      <text>No person shall stop, stand or park a vehicle in any passenger loading zone for any purpose other than the loading or unloading of passengers for such time as is specified in <cite path="|17.32.180">Section 17.32.180</cite>. (Ord. 92-19 § 174, 1992)</text>
-      <annotations/>
+      <text>No person shall stop, stand or park a vehicle in any passenger loading zone for any purpose other than the loading or unloading of passengers for such time as is specified in <cite path="|17.32.180">Section 17.32.180</cite>.</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 174, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.210</num>
@@ -1091,11 +1100,11 @@
       <heading>Bus zones to be established.</heading>
       <para>
         <num>A.</num>
-        <text>The traffic engineer is authorized to establish bus zones opposite curb space for the loading and unloading of buses or common carriers of passengers and to determine the location thereof subject to the directives and limitations set forth in this section.</text>
+        <text>The traffic engineer is authorized to establish bus zones opposite curb space for the loading and unloading of buses or common carriers of passengers and to determine the location thereof subject to the directives and limitations set forth in <cite path="|10.32.220">this section</cite>.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>The word "bus" as used in this section shall mean any motor bus, motor coach, trackless trolley coach, or passenger stage used as a common carrier of passengers.</text>
+        <text>The word "bus" as used in <cite path="|10.32.220">this section</cite> shall mean any motor bus, motor coach, trackless trolley coach, or passenger stage used as a common carrier of passengers.</text>
       </para>
       <para>
         <num>C.</num>
@@ -1116,8 +1125,10 @@
     <section>
       <num>10.32.230</num>
       <heading>Parking adjacent to curb.</heading>
-      <text>When stopping to load or unload passengers it shall be unlawful for the operator of a bus, as defined in <cite path="|10.32.220">Section 10.32.220</cite>, to stop or park the bus at any place other than at a bus zone established pursuant to <cite path="|10.32.220">Section 10.32.220</cite>, and every such bus stopping or parking upon a street in such a bus zone where there are adjacent curbs shall be so stopped or parked with the right-hand wheels of such bus parallel with and within eighteen inches of the right-hand curb. (Ord. 92-19 § 176.1, 1992)</text>
-      <annotations/>
+      <text>When stopping to load or unload passengers it shall be unlawful for the operator of a bus, as defined in <cite path="|10.32.220">Section 10.32.220</cite>, to stop or park the bus at any place other than at a bus zone established pursuant to <cite path="|10.32.220">Section 10.32.220</cite>, and every such bus stopping or parking upon a street in such a bus zone where there are adjacent curbs shall be so stopped or parked with the right-hand wheels of such bus parallel with and within eighteen inches of the right-hand curb.</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 176.1, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.32.240</num>
@@ -1183,17 +1194,17 @@
     <section>
       <num>10.36.010</num>
       <heading>Findings and declarations.</heading>
-      <text>In addition to and in accordance with the determination made and the authority granted by the state of California under Section 22660 of the State Vehicle Code to remove abandoned, wrecked, dismantled or inoperative vehicles, or parts thereof, as public nuisances, the council makes the following findings and declarations:</text>
-      <text>The accumulation and storage of abandoned, wrecked, dismantled or inoperative vehicles or parts thereof on private or public property, is found to create a condition tending to reduce the value of private property, to promote blight and deterioration, to invite plundering, to create fire hazards, to constitute an attractive nuisance creating a hazard to the health and safety of minors, to create harborage for rodents and insects, and to be injurious to the health, safety and general welfare. Therefore the presence of an abandoned, wrecked, dismantled or inoperative vehicle or parts thereof, on private or public property, except as expressly hereinafter permitted, is declared to constitute a public nuisance which may be abated as such in accordance with the provisions of this chapter.</text>
-      <text>The council also finds and declares that constructive leisure pursuits by residents of the city of American Canyon is most important. This chapter is intended to encourage responsible participation in the hobby of collecting, preserving, restoring, and maintaining motor vehicles of historic and special interest, which contributes to the enjoyment of citizens and the preservation of California memorabilia.</text>
-      <text>This chapter is the specific standard to control and regulate abandoned, wrecked, dismantled or inoperative vehicles, notwithstanding the provisions of <cite path="9.04">Chapter 9.04</cite> of this title. (Ord. 99-11 § 1, 1999; Ord. 97-08 § 2, 1998)</text>
+      <text>In addition to and in accordance with the determination made and the authority granted by the state of California under Section 22660 of the State <cite doc="Cal. Veh. Code">Vehicle Code</cite> to remove abandoned, wrecked, dismantled or inoperative vehicles, or parts thereof, as public nuisances, the council makes the following findings and declarations:</text>
+      <text>The accumulation and storage of abandoned, wrecked, dismantled or inoperative vehicles or parts thereof on private or public property, is found to create a condition tending to reduce the value of private property, to promote blight and deterioration, to invite plundering, to create fire hazards, to constitute an attractive nuisance creating a hazard to the health and safety of minors, to create harborage for rodents and insects, and to be injurious to the health, safety and general welfare. Therefore the presence of an abandoned, wrecked, dismantled or inoperative vehicle or parts thereof, on private or public property, except as expressly hereinafter permitted, is declared to constitute a public nuisance which may be abated as such in accordance with the provisions of <cite path="10.36">this chapter</cite>.</text>
+      <text>The council also finds and declares that constructive leisure pursuits by residents of the city of American Canyon is most important. <cite path="10.36">This chapter</cite> is intended to encourage responsible participation in the hobby of collecting, preserving, restoring, and maintaining motor vehicles of historic and special interest, which contributes to the enjoyment of citizens and the preservation of California memorabilia.</text>
+      <text><cite path="10.36">This chapter</cite> is the specific standard to control and regulate abandoned, wrecked, dismantled or inoperative vehicles, notwithstanding the provisions of <cite path="9.04">Chapter 9.04</cite> of <cite path="10">this title</cite>.</text>
       <annotations/>
     </section>
     <section>
       <num>10.36.020</num>
       <heading>Definitions.</heading>
-      <text>As used in this chapter:</text>
-      <text>"Collector" means the owner of one or more historic vehicles or special interest vehicles, as defied in this section, who collects, purchases, acquires, or disposes of such vehicles, or parts thereof, for his or her own use, in order to preserve, restore, and maintain such vehicles for hobby or historic purposes.</text>
+      <text>As used in <cite path="10.36">this chapter</cite>:</text>
+      <text>"Collector" means the owner of one or more historic vehicles or special interest vehicles, as defied in <cite path="|10.36.020">this section</cite>, who collects, purchases, acquires, or disposes of such vehicles, or parts thereof, for his or her own use, in order to preserve, restore, and maintain such vehicles for hobby or historic purposes.</text>
       <text>"Dismantled vehicle" means a vehicle that has had, intentionally or unintentionally, one or more critical parts removed for forty-five days or more. A critical part is any part that is needed to safely operate the vehicle, including but not limited to a wheel or tire, windshield, door, side quarter panel, trunk, hood, roof, steering wheel, motor or transmission. A vehicle can be "dismantled" whether or not it is in an inoperative condition.</text>
       <text>"Highway" means a way or place of whatever nature, publicly maintained and open to the use of the public for purposes of vehicular travel. "Highway" includes streets.</text>
       <text>"Historic vehicle" means any vehicle which is collected, restored, maintained and operated by a collector or hobbyist primarily for historical exhibition or similar purposes and which is either:</text>
@@ -1220,11 +1231,11 @@
       </para>
       <para>
         <num>2.</num>
-        <text>Any vehicle that has not been, for more than six months, validly registered for operation or use on the highways in this state as required under the provisions of Division 3 (commencing at Section 4000 et seq.) of the state Vehicle Code, including any "nonoperated vehicle" as defined in this section.</text>
+        <text>Any vehicle that has not been, for more than six months, validly registered for operation or use on the highways in this state as required under the provisions of Division 3 (commencing at Section 4000 et seq.) of the state <cite doc="Cal. Veh. Code">Vehicle Code</cite>, including any "nonoperated vehicle" as defined in <cite path="|10.36.020">this section</cite>.</text>
       </para>
       <text>"Motor vehicle" means any vehicle which is self-propelled, but, does not include a self-propelled wheelchair, invalid tricycle, or motorized quadricycle when operated by a person, who, by reason of physical disability, is otherwise unable to move about as a pedestrian.</text>
       <text>"Non-operated vehicle" means any vehicle for the which the owner of the vehicle has (1) filed a certification under penalty of perjury that the vehicle will not be operated, moved or left standing on any highway during the subsequent registration year without the owner first making application for registration of the vehicle, including full payment of all fees, and (2) obtained a certificate of nonoperation from the state Department of Motor Vehicles.</text>
-      <text>For purposes of this subsection, "vehicle" means a device by which any person or property may be propelled, moved, or driven upon a highway having intact and assembled its major component parts including, but not limited to, the frame or chassis, cowl, and floor pan or, in the case of a trailer, the frame and wheels or, in the case of a motorcycle, the frame, front fork, and engine. For purposes of this section, "vehicle" does not include a device moved exclusively by human power, a device used exclusively upon stationary rails or tracks, or a motorized wheelchair.</text>
+      <text>For purposes of this subsection, "vehicle" means a device by which any person or property may be propelled, moved, or driven upon a highway having intact and assembled its major component parts including, but not limited to, the frame or chassis, cowl, and floor pan or, in the case of a trailer, the frame and wheels or, in the case of a motorcycle, the frame, front fork, and engine. For purposes of <cite path="|10.36.020">this section</cite>, "vehicle" does not include a device moved exclusively by human power, a device used exclusively upon stationary rails or tracks, or a motorized wheelchair.</text>
       <text>"Nonrepairable vehicle" means a vehicle of a type otherwise subject to registration that meets the criteria specified in subdivisions (1), (2) or (3). The vehicle shall be issued a nonrepairable vehicle certificate by the state Department of Motor Vehicles and shall not be titled or registered.</text>
       <para>
         <num>1.</num>
@@ -1241,7 +1252,7 @@
       <text>"Nonrepairable vehicle certificate" means a vehicle ownership document issued to the owner of a nonrepairable vehicle by the state Department of Motor Vehicles. Ownership of the vehicle may only be transferred two times on a nonrepairable vehicle certificate. A vehicle for which a nonrepairable vehicle certificate has been issued may not be titled or registered for use on the roads or highways of California. A nonrepairable vehicle certificate shall be conspicuously labeled with the word "nonrepairable" across the front.</text>
       <text>"Owner of the land" means the owner of the land on which the vehicle, or parts thereof, is located, as shown on the last equalized assessment roll.</text>
       <text>"Owner of the vehicle" means the last registered (and legal) owner of record.</text>
-      <text>"Parts car" means any motor vehicle which is owned by a collector to furnish parts for restoration or maintenance of a special interest vehicle, a historic vehicle, or street rod vehicle, thus enabling the collector to preserve, restore, and maintain a special interest vehicle, or a historic vehicle, or street rod vehicle, for which the state Department of Motor Vehicles has issued special plates pursuant to the state Vehicle Code.</text>
+      <text>"Parts car" means any motor vehicle which is owned by a collector to furnish parts for restoration or maintenance of a special interest vehicle, a historic vehicle, or street rod vehicle, thus enabling the collector to preserve, restore, and maintain a special interest vehicle, or a historic vehicle, or street rod vehicle, for which the state Department of Motor Vehicles has issued special plates pursuant to the state <cite doc="Cal. Veh. Code">Vehicle Code</cite>.</text>
       <text>"Special interest vehicle" means a vehicle of any age which is unaltered from the manufacturer's original specifications and, because of its significance, such as an out-of-production vehicle, or a model of less than two thousand (2,000) sold in the state in any model year, is being collected, preserved, restored, or maintained by a collector as a leisure pursuit.</text>
       <text>"Storage" means the placement of a vehicle or other objects in a location for preservation or future use.</text>
       <text>"Street rod vehicle" means any motor vehicle, other than a motorcycle, manufactured in or prior to 1948 which has been individually modified in its body style or design, including through the use of nonoriginal or reproduction components, and which may include additional modifications to other components, including, but not limited to, the engine, drive train, suspension, and brakes in a manner that does not adversely affect its safe performance as a motor vehicle or render it unlawful for highway use.</text>
@@ -1254,7 +1265,7 @@
     <section>
       <num>10.36.030</num>
       <heading>Exceptions.</heading>
-      <text>This chapter shall not apply to:</text>
+      <text><cite path="10.36">This chapter</cite> shall not apply to:</text>
       <para>
         <num>A.</num>
         <text>A vehicle, or part thereof, which is completely enclosed within a building or a carport or in a backyard which is completely fenced or in which the vehicle is reasonably screened from view by trees, shrubbery, or other appropriate means, so that the vehicle is not visible from the highway or other public or private property, and is not a health or safety hazard.</text>
@@ -1276,15 +1287,15 @@
         </para>
         <para>
           <num>3.</num>
-          <text>A "total loss salvage vehicle" must be registered with the state Department of Motor Vehicles, but even with registration and due to the nature of the vehicle's overall condition, the owner must make a financial commitment to its complete repair and restoration to operational status and repair work must be substantially in progress by the sixth month after the vehicle is first stored on private property, or the vehicle shall be subject to abatement by the city pursuant to this chapter.</text>
+          <text>A "total loss salvage vehicle" must be registered with the state Department of Motor Vehicles, but even with registration and due to the nature of the vehicle's overall condition, the owner must make a financial commitment to its complete repair and restoration to operational status and repair work must be substantially in progress by the sixth month after the vehicle is first stored on private property, or the vehicle shall be subject to abatement by the city pursuant to <cite path="10.36">this chapter</cite>.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>If all of the requirements of subsection (C) of this section are met, any vehicle that is registered as nonoperational may remain in the backyard on private property for an unlimited period of time, as long as it is stored on an all-weather surface as defined by the city.</text>
+          <text>If all of the requirements of subsection (C) of <cite path="|10.36.030">this section</cite> are met, any vehicle that is registered as nonoperational may remain in the backyard on private property for an unlimited period of time, as long as it is stored on an all-weather surface as defined by the city.</text>
         </para>
         <para>
           <num>5.</num>
-          <text>Any legally registered and fully operational vehicle may remain in either the front, side or backyard storage areas as long as they are on an all-weather surface, and all other requirements of this chapter and this code are met.</text>
+          <text>Any legally registered and fully operational vehicle may remain in either the front, side or backyard storage areas as long as they are on an all-weather surface, and all other requirements of <cite path="10.36">this chapter</cite> and this code are met.</text>
         </para>
         <para>
           <num>6.</num>
@@ -1292,34 +1303,37 @@
         </para>
         <para>
           <num>7.</num>
-          <text>Once an "inoperable vehicle" has been in the front yard area of a private property for more than thirty days without being fully repaired for legal use on state highways, it is subject to abatement proceedings pursuant to this chapter. The owner of the vehicle shall then have the following options:</text>
+          <text>Once an "inoperable vehicle" has been in the front yard area of a private property for more than thirty days without being fully repaired for legal use on state highways, it is subject to abatement proceedings pursuant to <cite path="10.36">this chapter</cite>. The owner of the vehicle shall then have the following options:</text>
           <para>
             <num>a.</num>
             <text>To immediately take the vehicle to a repair facility for the completion of final repairs;</text>
           </para>
           <para>
             <num>b.</num>
-            <text>To remove the vehicle to a proper storage area other than the front yard area, which meets the requirements of this chapter;</text>
+            <text>To remove the vehicle to a proper storage area other than the front yard area, which meets the requirements of <cite path="10.36">this chapter</cite>;</text>
           </para>
           <para>
             <num>c.</num>
-            <text>If an inoperative vehicle is in a condition which it can legally or actually be driven under its own power on the highways of this state, and is classified as "inoperative" pursuant to <cite path="|10.36.010">Section 10.36.010</cite> of this chapter solely because it is unregistered, to promptly register the vehicle for use on the highways of this state as required under the provisions of Division 3 (commencing at Section 4000 et seq.) of the state Vehicle Code;</text>
+            <text>If an inoperative vehicle is in a condition which it can legally or actually be driven under its own power on the highways of this state, and is classified as "inoperative" pursuant to <cite path="|10.36.010">Section 10.36.010</cite> of <cite path="10.36">this chapter</cite> solely because it is unregistered, to promptly register the vehicle for use on the highways of this state as required under the provisions of Division 3 (commencing at Section 4000 et seq.) of the state <cite doc="Cal. Veh. Code">Vehicle Code</cite>;</text>
           </para>
           <para>
             <num>d.</num>
-            <text>To permit the abatement process to proceed without objection, or to appeal the abatement process, pursuant to Sections <cite path="|10.36.080">10.36.080</cite> and <cite path="|10.36.090">10.36.090</cite> of this chapter. (Ord. 2000-07 § 1, 2000; Ord. 97-08 § 2, 1998)</text>
+            <text>To permit the abatement process to proceed without objection, or to appeal the abatement process, pursuant to Sections <cite path="|10.36.080">10.36.080</cite> and <cite path="|10.36.090">10.36.090</cite> of <cite path="10.36">this chapter</cite>.</text>
           </para>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Ord. 2000-07 § 1, 2000</annotation>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.040</num>
       <heading>Restrictions on storage of vehicles.</heading>
-      <text>This chapter is intended to allow private citizens to maintain, store, and ultimately restore or repair their private vehicles needed for normal personal use, whether for recreation, pleasure, collection, or business, with the following restrictions:</text>
+      <text><cite path="10.36">This chapter</cite> is intended to allow private citizens to maintain, store, and ultimately restore or repair their private vehicles needed for normal personal use, whether for recreation, pleasure, collection, or business, with the following restrictions:</text>
       <para>
         <num>A.</num>
-        <text>No person shall park, maintain, or store an abandoned, wrecked, dismantled, or inoperative vehicle, or parts thereof, on public or private property, including highways, except as otherwise authorized by this chapter or the state Vehicle Code.</text>
+        <text>No person shall park, maintain, or store an abandoned, wrecked, dismantled, or inoperative vehicle, or parts thereof, on public or private property, including highways, except as otherwise authorized by <cite path="10.36">this chapter</cite> or the state <cite doc="Cal. Veh. Code">Vehicle Code</cite>.</text>
       </para>
       <para>
         <num>B.</num>
@@ -1344,15 +1358,13 @@
     <section>
       <num>10.36.050</num>
       <heading>Supplemental legislation.</heading>
-      <text>This chapter is not the exclusive regulation of abandoned, wrecked, dismantled or inoperative vehicles within the city. It shall supplement and be in addition to other regulatory codes, statutes, and ordinances heretofore or hereafter enacted by the city, the state, or any other legal entity or agency having jurisdiction.</text>
-      <annotations>
-        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
-      </annotations>
+      <text><cite path="10.36">This chapter</cite> is not the exclusive regulation of abandoned, wrecked, dismantled or inoperative vehicles within the city. It shall supplement and be in addition to other regulatory codes, statutes, and ordinances heretofore or hereafter enacted by the city, the state, or any other legal entity or agency having jurisdiction.</text>
+      <annotations/>
     </section>
     <section>
       <num>10.36.060</num>
       <heading>Officer designated—Authority to enter private property.</heading>
-      <text>Except as otherwise provided in this chapter, the provisions of this chapter shall be administered and enforced by the vehicle abatement officer as designated by the city manager. In the enforcement of this chapter, such officer and his deputies may enter upon property with the written permission of the owner or resident of the property or upon obtaining an inspection warrant pursuant to Section 1822.50 et seq., of the state Code of Civil Procedure, or other necessary judicial authorization, to examine a vehicle, or parts thereof, obtain information as to the identity of a vehicle, and remove or cause the removal of a vehicle or part thereof declared to be a nuisance pursuant to this chapter.</text>
+      <text>Except as otherwise provided in <cite path="10.36">this chapter</cite>, the provisions of <cite path="10.36">this chapter</cite> shall be administered and enforced by the vehicle abatement officer as designated by the city manager. In the enforcement of <cite path="10.36">this chapter</cite>, such officer and his deputies may enter upon property with the written permission of the owner or resident of the property or upon obtaining an inspection warrant pursuant to Section 1822.50 et seq., of the state Code of Civil Procedure, or other necessary judicial authorization, to examine a vehicle, or parts thereof, obtain information as to the identity of a vehicle, and remove or cause the removal of a vehicle or part thereof declared to be a nuisance pursuant to <cite path="10.36">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
       </annotations>
@@ -1360,7 +1372,7 @@
     <section>
       <num>10.36.070</num>
       <heading>Authority of private contractor.</heading>
-      <text>When the council has contracted with or granted a franchise to any person or persons to remove vehicles pursuant to this chapter, such person or persons shall be authorized to enter upon private property or public property to remove or cause the removal of a vehicle or parts thereof declared to be a nuisance pursuant to this chapter. When legally required, the contractor shall obtain an inspection warrant pursuant to state Code of Civil Procedure Section 1822.050 et seq., or other appropriate judicial authorization before entering the property.</text>
+      <text>When the council has contracted with or granted a franchise to any person or persons to remove vehicles pursuant to <cite path="10.36">this chapter</cite>, such person or persons shall be authorized to enter upon private property or public property to remove or cause the removal of a vehicle or parts thereof declared to be a nuisance pursuant to <cite path="10.36">this chapter</cite>. When legally required, the contractor shall obtain an inspection warrant pursuant to state <cite doc="Cal. Civ. Proc. Code" path="§1822.050">Code of Civil Procedure Section 1822.050</cite> et seq., or other appropriate judicial authorization before entering the property.</text>
       <annotations>
         <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
       </annotations>
@@ -1368,8 +1380,10 @@
     <section>
       <num>10.36.080</num>
       <heading>Authority to abate and remove.</heading>
-      <text>Upon discovering the existence of an abandoned, wrecked, dismantled or inoperative vehicle, or parts thereof, which is not lawfully parked or stored pursuant to Sections <cite path="|10.36.030">10.36.030</cite> and <cite path="|10.36.040">10.36.040</cite> of this chapter, the vehicle abatement officer shall have the authority to cause the abatement and removal thereof in accordance with the procedures described herein. (Ord. 97-08 § 2, 1998)</text>
-      <annotations/>
+      <text>Upon discovering the existence of an abandoned, wrecked, dismantled or inoperative vehicle, or parts thereof, which is not lawfully parked or stored pursuant to Sections <cite path="|10.36.030">10.36.030</cite> and <cite path="|10.36.040">10.36.040</cite> of <cite path="10.36">this chapter</cite>, the vehicle abatement officer shall have the authority to cause the abatement and removal thereof in accordance with the procedures described herein.</text>
+      <annotations>
+        <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.36.090</num>
@@ -1393,7 +1407,7 @@
       <text>(Date)	(Locally designated officer)</text>
       <para>
         <num>B.</num>
-        <text>A copy of the notice referred to in subsection (A) of this section shall also be posted on the vehicle proposed to be abated and on the property where the vehicle is located.</text>
+        <text>A copy of the notice referred to in subsection (A) of <cite path="|10.36.090">this section</cite> shall also be posted on the vehicle proposed to be abated and on the property where the vehicle is located.</text>
       </para>
       <para>
         <num>C.</num>
@@ -1432,7 +1446,7 @@
         </para>
         <para>
           <num>3.</num>
-          <text>If the vehicle is valued at less than three hundred dollars by the city's police chief or designee, and all of the requirements set forth in subsection (C)(2) of this section are not met, the vehicle may be disposed of pursuant to the procedures set forth in Sections 22851.2 through 22851.10 of the Vehicle Code.</text>
+          <text>If the vehicle is valued at less than three hundred dollars by the city's police chief or designee, and all of the requirements set forth in subsection (C)(2) of <cite path="|10.36.090">this section</cite> are not met, the vehicle may be disposed of pursuant to the procedures set forth in Sections <cite doc="Cal. Veh. Code" path="§22851.2">22851.2</cite> through <cite doc="Cal. Veh. Code" path="§22851.10">22851.10</cite> of the <cite doc="Cal. Veh. Code">Vehicle Code</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -1444,11 +1458,11 @@
       <heading>Public hearing—Procedure—Action.</heading>
       <para>
         <num>A.</num>
-        <text>All hearings under this chapter shall be held before the city manager or his or her designee, who shall hear all facts and testimony deemed pertinent. Said facts and testimony may include testimony on the condition of the vehicle or parts thereof, and the circumstances concerning its location on the private or public property. The city shall not be limited by the technical rules of evidence. The owner of the land on which the vehicle is located and the owner of the vehicle may appear in person at the hearing or present sworn written statements in time for consideration at the hearing, and deny responsibility for the presence of the vehicle on the land, with reasons for such denial.</text>
+        <text>All hearings under <cite path="10.36">this chapter</cite> shall be held before the city manager or his or her designee, who shall hear all facts and testimony deemed pertinent. Said facts and testimony may include testimony on the condition of the vehicle or parts thereof, and the circumstances concerning its location on the private or public property. The city shall not be limited by the technical rules of evidence. The owner of the land on which the vehicle is located and the owner of the vehicle may appear in person at the hearing or present sworn written statements in time for consideration at the hearing, and deny responsibility for the presence of the vehicle on the land, with reasons for such denial.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>The city may impose such conditions and take such other actions as it deems appropriate under the circumstances to carry out the purposes of this chapter. It may delay the time for removal of the vehicle, or part thereof if in its opinion, the circumstances justify it. At the conclusion of the public hearing, the city manager or designated hearing officer may find that a vehicle or part thereof has been abandoned, wrecked, dismantled or is inoperative on private or public property, may order the same removed from the property and disposed of as a public nuisance, in the manner authorized by law and as provided in this chapter. The order requiring removal shall include a description of the vehicle, or part thereof, and a correct identification number and license of the vehicle, if available at the site. Written notice of the decision and a copy of the order shall be given to the property owner and the owner of the vehicle by certified mail within ten days of the city manager's decision.</text>
+        <text>The city may impose such conditions and take such other actions as it deems appropriate under the circumstances to carry out the purposes of <cite path="10.36">this chapter</cite>. It may delay the time for removal of the vehicle, or part thereof if in its opinion, the circumstances justify it. At the conclusion of the public hearing, the city manager or designated hearing officer may find that a vehicle or part thereof has been abandoned, wrecked, dismantled or is inoperative on private or public property, may order the same removed from the property and disposed of as a public nuisance, in the manner authorized by law and as provided in <cite path="10.36">this chapter</cite>. The order requiring removal shall include a description of the vehicle, or part thereof, and a correct identification number and license of the vehicle, if available at the site. Written notice of the decision and a copy of the order shall be given to the property owner and the owner of the vehicle by certified mail within ten days of the city manager's decision.</text>
       </para>
       <para>
         <num>C.</num>
@@ -1460,7 +1474,7 @@
       </para>
       <para>
         <num>E.</num>
-        <text>An interested party may appeal the order of the city manager or the designated hearing officer to the city council or the city planning commission or a panel comprised of three residents of the city as designated annually by the city council by filing a written request for appeal within the city clerk. A hearing before the appropriate appellate body shall be held within thirty days of the filing of the appeal request preceded by a ten-day notice of the appeal hearing which shall be posted in the same manner and form as regular meetings of the city council. Upon conclusion of the hearing by the designated appellate body, a decision consistent with the provisions of this section shall be prepared and mailed as provided in this section.</text>
+        <text>An interested party may appeal the order of the city manager or the designated hearing officer to the city council or the city planning commission or a panel comprised of three residents of the city as designated annually by the city council by filing a written request for appeal within the city clerk. A hearing before the appropriate appellate body shall be held within thirty days of the filing of the appeal request preceded by a ten-day notice of the appeal hearing which shall be posted in the same manner and form as regular meetings of the city council. Upon conclusion of the hearing by the designated appellate body, a decision consistent with the provisions of <cite path="|10.36.100">this section</cite> shall be prepared and mailed as provided in <cite path="|10.36.100">this section</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 99-11 § 2, 1999</annotation>
@@ -1470,7 +1484,7 @@
     <section>
       <num>10.36.110</num>
       <heading>Vehicle disposal.</heading>
-      <text>Notice of the final order declaring the vehicle or parts thereof to be a public nuisance shall be mailed to the owner of the real property upon which the vehicle is located and to the record owner of the vehicle by the city manager or the designated hearing officer or the designated appellate body after conclusion of the hearing. After fifteen days from the date of the mailing of the notice of the final order, the vehicle or parts thereof may be disposed of by removal in the manner authorized by law to a scrap yard or automobile dismantler yard. After a vehicle has been removed, it shall not thereafter be reconstructed or made operable unless it is a vehicle which qualifies for either horseless carriage license plate or a historical vehicle license pursuant to Section 5004 of the state Vehicle Code, in which case the vehicle may be reconstructed or made operable.</text>
+      <text>Notice of the final order declaring the vehicle or parts thereof to be a public nuisance shall be mailed to the owner of the real property upon which the vehicle is located and to the record owner of the vehicle by the city manager or the designated hearing officer or the designated appellate body after conclusion of the hearing. After fifteen days from the date of the mailing of the notice of the final order, the vehicle or parts thereof may be disposed of by removal in the manner authorized by law to a scrap yard or automobile dismantler yard. After a vehicle has been removed, it shall not thereafter be reconstructed or made operable unless it is a vehicle which qualifies for either horseless carriage license plate or a historical vehicle license pursuant to Section 5004 of the state <cite doc="Cal. Veh. Code">Vehicle Code</cite>, in which case the vehicle may be reconstructed or made operable.</text>
       <annotations>
         <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
       </annotations>
@@ -1478,7 +1492,7 @@
     <section>
       <num>10.36.120</num>
       <heading>Abatement of motor vehicles.</heading>
-      <text>Abatement of any motor vehicle registered or subject to registration with the state Department of Motor Vehicles shall be carried out and conform with the provisions of the state Vehicle Code and this chapter.</text>
+      <text>Abatement of any motor vehicle registered or subject to registration with the state Department of Motor Vehicles shall be carried out and conform with the provisions of the state <cite doc="Cal. Veh. Code">Vehicle Code</cite> and <cite path="10.36">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Ord. 97-08 § 2, 1998</annotation>
       </annotations>
@@ -1491,7 +1505,7 @@
         <text>Cost Recovery Procedures.</text>
         <para>
           <num>1.</num>
-          <text>The city may recover reasonable costs incurred in the abatement of motor vehicles, or parts of motor vehicles, pursuant to this chapter through the procedures set forth in this section, pursuant to state Vehicle Code Section 22660.</text>
+          <text>The city may recover reasonable costs incurred in the abatement of motor vehicles, or parts of motor vehicles, pursuant to <cite path="10.36">this chapter</cite> through the procedures set forth in <cite path="|10.36.130">this section</cite>, pursuant to state <cite doc="Cal. Veh. Code" path="§22660">Vehicle Code Section 22660</cite>.</text>
         </para>
         <para>
           <num>2.</num>
@@ -1500,7 +1514,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Report on Abatement Costs. The city manager or his or her designee shall keep a detailed itemized report of the expenses incurred by the city in the abatement of any vehicles pursuant to this chapter. Upon completion of the work, or as soon thereafter as may be practicable, the city manager shall file with the city clerk a report which specifies the address or location of the property from which the vehicle was removed, the license plate, or vehicle identification number for the vehicle, the year, make, model and color of the vehicle, the nature of the work performed in removing the vehicle, and the itemized and total cost of this work.</text>
+        <text>Report on Abatement Costs. The city manager or his or her designee shall keep a detailed itemized report of the expenses incurred by the city in the abatement of any vehicles pursuant to <cite path="10.36">this chapter</cite>. Upon completion of the work, or as soon thereafter as may be practicable, the city manager shall file with the city clerk a report which specifies the address or location of the property from which the vehicle was removed, the license plate, or vehicle identification number for the vehicle, the year, make, model and color of the vehicle, the nature of the work performed in removing the vehicle, and the itemized and total cost of this work.</text>
       </para>
       <para>
         <num>C.</num>
@@ -1532,7 +1546,7 @@
       </para>
       <para>
         <num>J.</num>
-        <text>Delinquent Assessments. All special assessments imposed for the removal of any vehicle subject to this chapter which remain unpaid after thirty days from the date for the recordation on the assessment roll shall become delinquent and shall bear interest at the rate of ten percent per year. The city may collect the debt through any legal means.</text>
+        <text>Delinquent Assessments. All special assessments imposed for the removal of any vehicle subject to <cite path="10.36">this chapter</cite> which remain unpaid after thirty days from the date for the recordation on the assessment roll shall become delinquent and shall bear interest at the rate of ten percent per year. The city may collect the debt through any legal means.</text>
       </para>
       <para>
         <num>K.</num>
@@ -1544,7 +1558,7 @@
       </para>
       <para>
         <num>M.</num>
-        <text>Definition of Abatement Costs. For the purposes of this section, abatement costs shall include, but not be limited to, the city's costs incurred in removing the vehicle from the property by its own personnel, or by contract with a third party, costs incurred in giving required notices to the property owner and the owner of the vehicle, enforcement costs, including but not limited to, inspections, communications with the property and vehicle owner, and legal costs incurred in any judicial, administrative or special proceeding to abate the vehicle, and costs for the obtaining of an inspection warrant or other judicial order which authorizes removal of the vehicle from the property. Attorneys' fees may be awarded to any prevailing party in the action, but shall not in any case, exceed the reasonable amount of attorneys' fees incurred by the city in the action or proceeding. The city may designate at the beginning of any judicial, administrative or special proceeding whether it will apply for an award of attorney's fees to the prevailing party.</text>
+        <text>Definition of Abatement Costs. For the purposes of <cite path="|10.36.130">this section</cite>, abatement costs shall include, but not be limited to, the city's costs incurred in removing the vehicle from the property by its own personnel, or by contract with a third party, costs incurred in giving required notices to the property owner and the owner of the vehicle, enforcement costs, including but not limited to, inspections, communications with the property and vehicle owner, and legal costs incurred in any judicial, administrative or special proceeding to abate the vehicle, and costs for the obtaining of an inspection warrant or other judicial order which authorizes removal of the vehicle from the property. Attorneys' fees may be awarded to any prevailing party in the action, but shall not in any case, exceed the reasonable amount of attorneys' fees incurred by the city in the action or proceeding. The city may designate at the beginning of any judicial, administrative or special proceeding whether it will apply for an award of attorney's fees to the prevailing party.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 99-11 § 3, 1999</annotation>
@@ -1574,7 +1588,7 @@
     <section>
       <num>10.40.030</num>
       <heading>Authority of traffic engineer.</heading>
-      <text>The traffic engineer of the city, upon ascertaining that a violation of the above provisions exists, shall give written notice of the violation to the owner of the property involved. Such notice shall be given in the same manner and with the same effect as provided in Section 1013 of the California Code of Civil Procedure.</text>
+      <text>The traffic engineer of the city, upon ascertaining that a violation of the above provisions exists, shall give written notice of the violation to the owner of the property involved. Such notice shall be given in the same manner and with the same effect as provided in <cite doc="Cal. Civ. Proc. Code" path="§1013">Section 1013 of the California Code of Civil Procedure</cite>.</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 222, 1992</annotation>
       </annotations>
@@ -1582,7 +1596,7 @@
     <section>
       <num>10.40.040</num>
       <heading>Responsibility of owner.</heading>
-      <text>The property owner to whom the notice is given shall, within twenty days after the giving of notice by the Traffic Engineer, as provided in the preceding section, do whatever is necessary on his or her property to eliminate the violation of the provisions of this chapter.</text>
+      <text>The property owner to whom the notice is given shall, within twenty days after the giving of notice by the Traffic Engineer, as provided in the preceding section, do whatever is necessary on his or her property to eliminate the violation of the provisions of <cite path="10.40">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 223, 1992</annotation>
       </annotations>
@@ -1590,7 +1604,7 @@
     <section>
       <num>10.40.050</num>
       <heading>Appeal procedure.</heading>
-      <text>The property owner to whom notice has been given, as hereinabove provided, may, within ten days after the giving of such notice, file with the traffic engineer a written notice of appeal. The city public safety committee shall have the power, in exceptional cases, where it is impractical or physically impossible to comply with the strict letter of this chapter, and in order to provide for reasonable interpretations thereof, to modify the requirements of this chapter, in such a manner that the public welfare is secured, and substantial justice done, nearly in accord with the intent and purpose of this chapter. The determination and decision of the committee shall be final and conclusive.</text>
+      <text>The property owner to whom notice has been given, as hereinabove provided, may, within ten days after the giving of such notice, file with the traffic engineer a written notice of appeal. The city public safety committee shall have the power, in exceptional cases, where it is impractical or physically impossible to comply with the strict letter of <cite path="10.40">this chapter</cite>, and in order to provide for reasonable interpretations thereof, to modify the requirements of <cite path="10.40">this chapter</cite>, in such a manner that the public welfare is secured, and substantial justice done, nearly in accord with the intent and purpose of <cite path="10.40">this chapter</cite>. The determination and decision of the committee shall be final and conclusive.</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 224, 1992</annotation>
       </annotations>
@@ -1598,7 +1612,7 @@
     <section>
       <num>10.40.060</num>
       <heading>Nuisance.</heading>
-      <text>A condition which is in violation of the provisions of this chapter is hereby declared to be a public nuisance. The city is authorized to abate such nuisance by entering onto the property and removing the condition.</text>
+      <text>A condition which is in violation of the provisions of <cite path="10.40">this chapter</cite> is hereby declared to be a public nuisance. The city is authorized to abate such nuisance by entering onto the property and removing the condition.</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 225, 1992</annotation>
       </annotations>
@@ -1608,7 +1622,7 @@
       <heading>Cost of abatement a charge against the city—Collection of costs, unpaid costs of lien.</heading>
       <para>
         <num>A.</num>
-        <text>Costs incurred by the city in the abatement of a condition which is in violation of the provisions of this chapter shall be a proper charge against the city treasury and paid therefrom. The traffic engineer shall give the owner of the property upon which the condition exists a written notice itemizing the expense of such abatement and requesting payment. If the amount of such costs is not paid to the traffic engineer within five days after giving such notice, he shall record in the office of the recorder of Napa County, California, a certificate substantially in the following form:</text>
+        <text>Costs incurred by the city in the abatement of a condition which is in violation of the provisions of <cite path="10.40">this chapter</cite> shall be a proper charge against the city treasury and paid therefrom. The traffic engineer shall give the owner of the property upon which the condition exists a written notice itemizing the expense of such abatement and requesting payment. If the amount of such costs is not paid to the traffic engineer within five days after giving such notice, he shall record in the office of the recorder of Napa County, California, a certificate substantially in the following form:</text>
       </para>
       <text>
         <strong>"Notice of Lien"</strong>
@@ -1666,7 +1680,7 @@
       <heading>Bicycle equipment.</heading>
       <para>
         <num>A.</num>
-        <text>All bicycles licensed pursuant to this chapter shall conform to all the equipment requirements specified by the Vehicle Code and this code.</text>
+        <text>All bicycles licensed pursuant to <cite path="10.44">this chapter</cite> shall conform to all the equipment requirements specified by the <cite doc="Cal. Veh. Code">Vehicle Code</cite> and this code.</text>
       </para>
       <para>
         <num>B.</num>
@@ -1689,7 +1703,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Notwithstanding subsections A and B of this section, no person shall park a bicycle at any location which has been posted with signs prohibiting such parking.</text>
+        <text>Notwithstanding subsections A and B of <cite path="|10.44.030">this section</cite>, no person shall park a bicycle at any location which has been posted with signs prohibiting such parking.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 123, 1992</annotation>
@@ -1700,20 +1714,18 @@
       <heading>Licensing of bicycles.</heading>
       <para>
         <num>A.</num>
-        <text>No city resident shall ride, move, haul, or leave standing or allow to be ridden, moved, hauled, or left standing, any bicycle on any road, street, highway, or other public property unless such bicycle is licensed in accordance with this chapter.</text>
+        <text>No city resident shall ride, move, haul, or leave standing or allow to be ridden, moved, hauled, or left standing, any bicycle on any road, street, highway, or other public property unless such bicycle is licensed in accordance with <cite path="10.44">this chapter</cite>.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>This section shall not apply to bicycle manufacturers or bicycle dealers transporting bicycles in the normal course of business.</text>
+        <text><cite path="|10.44.040">This section</cite> shall not apply to bicycle manufacturers or bicycle dealers transporting bicycles in the normal course of business.</text>
       </para>
-      <annotations>
-        <annotation type="History">Ord. 92-19 § 124, 1992</annotation>
-      </annotations>
+      <annotations/>
     </section>
     <section>
       <num>10.44.050</num>
       <heading>Licensing agency.</heading>
-      <text>The American Canyon fire protection district, a subsidiary district of the city, shall be responsible for carrying out the provisions of this chapter and is authorized and directed to register and license bicycles upon a written application for a license and the payment of the required fee.</text>
+      <text>The American Canyon fire protection district, a subsidiary district of the city, shall be responsible for carrying out the provisions of <cite path="10.44">this chapter</cite> and is authorized and directed to register and license bicycles upon a written application for a license and the payment of the required fee.</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 125, 1992</annotation>
       </annotations>
@@ -1788,7 +1800,7 @@
     <section>
       <num>10.44.080</num>
       <heading>Licensing and registration fees.</heading>
-      <text>Upon an application for registration and licensing, the fee required pursuant to the provisions of this chapter shall be five dollars for a five-year license.</text>
+      <text>Upon an application for registration and licensing, the fee required pursuant to the provisions of <cite path="10.44">this chapter</cite> shall be five dollars for a five-year license.</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 128, 1992</annotation>
       </annotations>
@@ -1821,7 +1833,7 @@
       <heading>Transfers of ownership.</heading>
       <para>
         <num>A.</num>
-        <text>Whenever the owner of the bicycle licensed pursuant to this chapter sells or otherwise disposes of a bicycle, he shall, within ten days, notify the licensing agency of such disposition.</text>
+        <text>Whenever the owner of the bicycle licensed pursuant to <cite path="10.44">this chapter</cite> sells or otherwise disposes of a bicycle, he shall, within ten days, notify the licensing agency of such disposition.</text>
       </para>
       <para>
         <num>B.</num>
@@ -1834,7 +1846,7 @@
     <section>
       <num>10.44.120</num>
       <heading>Notification of change of address.</heading>
-      <text>Whenever the owner of a registered bicycle licensed pursuant to this chapter changes his address, he shall, within ten days, notify the licensing agency of the old and new address.</text>
+      <text>Whenever the owner of a registered bicycle licensed pursuant to <cite path="10.44">this chapter</cite> changes his address, he shall, within ten days, notify the licensing agency of the old and new address.</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 132, 1992</annotation>
       </annotations>
@@ -1844,15 +1856,15 @@
       <heading>Tampering with registration certificates, bicycle licenses and serial numbers.</heading>
       <para>
         <num>A.</num>
-        <text>It shall be unlawful for any person to tamper with, destroy, mutilate, or alter any registration certificate issued pursuant to the provisions of this chapter.</text>
+        <text>It shall be unlawful for any person to tamper with, destroy, mutilate, or alter any registration certificate issued pursuant to the provisions of <cite path="10.44">this chapter</cite>.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>It shall be unlawful for any person to remove, destroy, mutilate, or in any way alter or tamper with any bicycle license issued pursuant to the provisions of this chapter.</text>
+        <text>It shall be unlawful for any person to remove, destroy, mutilate, or in any way alter or tamper with any bicycle license issued pursuant to the provisions of <cite path="10.44">this chapter</cite>.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>It shall be unlawful for any person to remove, alter, or mutilate the serial number of any bicycle frame licensed pursuant to the provisions of this chapter.</text>
+        <text>It shall be unlawful for any person to remove, alter, or mutilate the serial number of any bicycle frame licensed pursuant to the provisions of <cite path="10.44">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 92-19 § 133, 1992</annotation>
@@ -1869,7 +1881,7 @@
     <section>
       <num>10.44.150</num>
       <heading>Rental agencies.</heading>
-      <text>A rental agency operating within the city shall not rent or offer any bicycle for rent unless such bicycle is licensed as provided in this chapter.</text>
+      <text>A rental agency operating within the city shall not rent or offer any bicycle for rent unless such bicycle is licensed as provided in <cite path="10.44">this chapter</cite>.</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 135, 1992</annotation>
       </annotations>
@@ -1877,7 +1889,7 @@
     <section>
       <num>10.44.160</num>
       <heading>Violations.</heading>
-      <text>Any violation of the provisions of this chapter shall be an infraction.</text>
+      <text>Any violation of the provisions of <cite path="10.44">this chapter</cite> shall be an infraction.</text>
       <annotations>
         <annotation type="History">Ord. 92-19 § 136, 1992</annotation>
       </annotations>
@@ -1887,7 +1899,7 @@
       <heading>Fines.</heading>
       <para>
         <num>A.</num>
-        <text>For each impounding fee for bicycles found to be in violation of the provisions of this chapter, there shall be paid a sum of five dollars.</text>
+        <text>For each impounding fee for bicycles found to be in violation of the provisions of <cite path="10.44">this chapter</cite>, there shall be paid a sum of five dollars.</text>
       </para>
       <para>
         <num>B.</num>
@@ -1918,19 +1930,21 @@
     <section>
       <num>10.48.020</num>
       <heading>Penalties for violations of specific sections of this title.</heading>
-      <text>Every person convicted of a misdemeanor for violation of any of the provisions of Sections <cite path="|10.24.010">10.24.010</cite> through <cite path="|10.24.050">10.24.050</cite>, <cite path="|10.32.010">10.32.010</cite> through <cite path="|10.32.300">10.32.300</cite>, <cite path="|10.40.010">10.40.010</cite> through <cite path="|10.40.080">10.40.080</cite>, and <cite path="|10.44.010">10.44.010</cite> through <cite path="|10.44.170">10.44.170</cite>, except where a different penalty is expressly provided in said articles, shall be punished upon a first conviction by a fine not exceeding fifty dollars or more or by imprisonment in the county jail for not exceeding five days, and for a second conviction within a period of one year by a fine not exceeding one hundred dollars, or by imprisonment in the county jail for not exceeding ten days, or by both such fines and imprisonment, and for a third or any subsequent conviction within said period of one year by a fine of not exceeding five hundred dollars, or by imprisonment in the county jail for not exceeding six months, or by both such fine and imprisonment. (Ord. 92-19 § 11, 1992)</text>
-      <annotations/>
+      <text>Every person convicted of a misdemeanor for violation of any of the provisions of Sections <cite path="|10.24.010">10.24.010</cite> through <cite path="|10.24.050">10.24.050</cite>, <cite path="|10.32.010">10.32.010</cite> through <cite path="|10.32.300">10.32.300</cite>, <cite path="|10.40.010">10.40.010</cite> through <cite path="|10.40.080">10.40.080</cite>, and <cite path="|10.44.010">10.44.010</cite> through <cite path="|10.44.170">10.44.170</cite>, except where a different penalty is expressly provided in said articles, shall be punished upon a first conviction by a fine not exceeding fifty dollars or more or by imprisonment in the county jail for not exceeding five days, and for a second conviction within a period of one year by a fine not exceeding one hundred dollars, or by imprisonment in the county jail for not exceeding ten days, or by both such fines and imprisonment, and for a third or any subsequent conviction within said period of one year by a fine of not exceeding five hundred dollars, or by imprisonment in the county jail for not exceeding six months, or by both such fine and imprisonment.</text>
+      <annotations>
+        <annotation type="History">Ord. 92-19 § 11, 1992</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.48.030</num>
       <heading>Civil penalties for violations of vehicle parking and standing regulations.</heading>
       <para>
         <num>A.</num>
-        <text>Violations of any provision in this traffic code governing the standing or parking of a vehicle which is not otherwise considered a misdemeanor under the city municipal code, State Vehicle Code or any federal statute or regulation shall be subject to civil penalty as established from time to time by resolution of the council.</text>
+        <text>Violations of any provision in this traffic code governing the standing or parking of a vehicle which is not otherwise considered a misdemeanor under the city municipal code, State <cite doc="Cal. Veh. Code">Vehicle Code</cite> or any federal statute or regulation shall be subject to civil penalty as established from time to time by resolution of the council.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Imposition of any civil penalty for a vehicle parking or standing violation may be contested in accordance with the procedures set forth in Division 17, Chapter 1, Article 3 of the Vehicle Code entitled Procedure on Parking Violations (commencing with Vehicle Code Section 40200).</text>
+        <text>Imposition of any civil penalty for a vehicle parking or standing violation may be contested in accordance with the procedures set forth in Division 17, Chapter 1, Article <cite doc="Cal. Veh. Code" path="§3">3 of the Vehicle Code</cite> entitled Procedure on Parking Violations (commencing with <cite doc="Cal. Veh. Code" path="§40200">Vehicle Code Section 40200</cite>).</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 93-12 § 1, 1993</annotation>
@@ -1944,7 +1958,7 @@
     <section>
       <num>10.52.010</num>
       <heading>Purpose.</heading>
-      <text>The purpose of this chapter is to:</text>
+      <text>The purpose of <cite path="10.52">this chapter</cite> is to:</text>
       <para>
         <num>A.</num>
         <text>Reduce peak period traffic and congestion by decreasing the number of single occupant vehicle trips associated with commuting;</text>
@@ -1971,11 +1985,11 @@
       <heading>Authority.</heading>
       <para>
         <num>A.</num>
-        <text>Section 65081 of the Government Code encourages metropolitan planning organizations and local air quality management districts or air pollution control districts to work with local employers to adopt policies that encourage commuting by means other than driving alone.</text>
+        <text><cite doc="Cal. Gov't Code" path="§65081">Section 65081 of the Government Code</cite> encourages metropolitan planning organizations and local air quality management districts or air pollution control districts to work with local employers to adopt policies that encourage commuting by means other than driving alone.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Notwithstanding Section 40717.9 of the Health and Safety Code, the Bay Area Air Quality Management District ("BAAQMD") and the metropolitan transportation commission ("MTC") with respect to their respective jurisdictions jointly adopted a "Commute Benefit Ordinance" that applies to employers with fifty or more employees operating within BAAQMD.</text>
+        <text>Notwithstanding <cite doc="Cal. Health &amp; Safety Code" path="§40717.9">Section 40717.9 of the Health and Safety Code</cite>, the Bay Area Air Quality Management District ("BAAQMD") and the metropolitan transportation commission ("MTC") with respect to their respective jurisdictions jointly adopted a "Commute Benefit Ordinance" that applies to employers with fifty or more employees operating within BAAQMD.</text>
       </para>
       <para>
         <num>C.</num>
@@ -2010,37 +2024,40 @@
     <section>
       <num>10.52.040</num>
       <heading>Definitions.</heading>
-      <text>"Air pollution control officer" (APCO) means the executive officer of the Bay Area Air Quality Management District, or a designee of the APCO.	"Average vehicle ridership (AVR)" means the number of employees who start work at a work site during the peak period divided by the number of vehicles those employees use to arrive at the work site, averaged over the survey week as calculated pursuant to <cite path="|10.52.050">Section 10.52.050</cite>(K). (BAAQMD Section 13-1-202)</text>
+      <text>"Air pollution control officer" (APCO) means the executive officer of the Bay Area Air Quality Management District, or a designee of the APCO.	"Average vehicle ridership (AVR)" means the number of employees who start work at a work site during the peak period divided by the number of vehicles those employees use to arrive at the work site, averaged over the survey week as calculated pursuant to <cite path="|10.52.050|(K)">Section 10.52.050(K)</cite>. (BAAQMD Section 13-1-202)</text>
       <text>"Bus pool" means a privately operated or chartered bus which provides commute transportation on a subscription basis. This term is also known as a club bus.</text>
       <text>"Car pool" means a vehicle occupied by two to six people traveling together between their residence and their work site or destination for the majority of the total trip distance. Employees who work for different employers, as well as nonemployed people, are included within this definition as long as they are in the vehicle for the majority of the total trip distance.</text>
       <text>"Commission" means the metropolitan transportation commission.</text>
-      <text>"Commute Benefit Ordinance" is a partnership of the metropolitan transportation commission, managing employer outreach for the program, and the Bay Area Air Quality Management District, developer of Regulation 14 as authorized by California Government Code Section 65081.</text>
+      <text>"Commute Benefit Ordinance" is a partnership of the metropolitan transportation commission, managing employer outreach for the program, and the Bay Area Air Quality Management District, developer of Regulation 14 as authorized by <cite doc="Cal. Gov't Code" path="§65081">California Government Code Section 65081</cite>.</text>
       <text>"Commute trip" means the trip made by an employee from home to the work site. The commute trip may include stops between home and the work site.</text>
       <text>"Compressed work week" means a regular fulltime work schedule which eliminates at least one round-trip commute trip (both home-to-work and work-to-home) at least once every two weeks. Examples include, but are not limited to, working three twelve-hour days (3/36) or four ten-hour days (4/40) within a one-week period; or eight one-hour days and one eight-hour day (9/80) within a two-week period.</text>
-      <text>"Covered employee" means an employee who performed at least an average of twenty hours of work per week within the previous calendar month within the area where the ordinance adopted pursuant to this section operates.</text>
-      <text>"Covered employer" means any employer for which an average of fifty or more employees per week perform work for compensation within the area where the ordinance adopted pursuant to this section operates. In determining the number of employees performing work for an employer during a given week, only employees performing work on a full-time basis shall be counted.</text>
+      <text>"Covered employee" means an employee who performed at least an average of twenty hours of work per week within the previous calendar month within the area where the ordinance adopted pursuant to <cite path="|10.52.040">this section</cite> operates.</text>
+      <text>"Covered employer" means any employer for which an average of fifty or more employees per week perform work for compensation within the area where the ordinance adopted pursuant to <cite path="|10.52.040">this section</cite> operates. In determining the number of employees performing work for an employer during a given week, only employees performing work on a full-time basis shall be counted.</text>
       <text>"Disabled employee" means for purposes of the performance objective calculation pursuant to Section 14-1-601, an employee with a physical impairment which prevents the employee from traveling to the work site by means other than a vehicle and the employee has been issued a disabled person placard or plate from the Department of Motor Vehicles.</text>
       <text>"District" means the Bay Area Air Quality Management District.</text>
       <text>"Employee transportation coordinator (ETC)" means an employee, other individual, or entity appointed by an employer to develop, market, administer, and monitor the employer trip reduction program or employer trip reduction plan on full- or part-time basis.</text>
-      <text>"Employer program manager" means an employee with policy and budget authority who is responsible for the implementation of the employer trip reduction program or employer trip reduction plan and for fulfilling the requirements of this chapter.</text>
-      <text>"Employer trip reduction plan" means a document describing in detail the employer trip reduction program, including an implementation schedule, budget, and all the elements listed in <cite path="|10.52.050">Section 10.52.050</cite>(H)(1) which is submitted to the city for review and approval pursuant to <cite path="|10.52.050">Section 10.52.050</cite>(H).</text>
-      <text>"Employer trip reduction program" means a group of measures developed and implemented by an employer that are designed to provide transportation information, assistance, and incentives to employees. The purpose of such measures is to reduce the number of motor vehicles driven to the work site by increasing AVR or decreasing VER, and to achieve and maintain the performance objectives listed in <cite path="|10.52.050">Section 10.52.050</cite>(D).</text>
+      <text>"Employer program manager" means an employee with policy and budget authority who is responsible for the implementation of the employer trip reduction program or employer trip reduction plan and for fulfilling the requirements of <cite path="10.52">this chapter</cite>.</text>
+      <text>"Employer trip reduction plan" means a document describing in detail the employer trip reduction program, including an implementation schedule, budget, and all the elements listed in <cite path="|10.52.050|(H)|(1)">Section 10.52.050(H)(1) </cite>which is submitted to the city for review and approval pursuant to <cite path="|10.52.050|(H)">Section 10.52.050(H)</cite>.</text>
+      <text>"Employer trip reduction program" means a group of measures developed and implemented by an employer that are designed to provide transportation information, assistance, and incentives to employees. The purpose of such measures is to reduce the number of motor vehicles driven to the work site by increasing AVR or decreasing VER, and to achieve and maintain the performance objectives listed in <cite path="|10.52.050|(D)">Section 10.52.050(D)</cite>.</text>
       <text>"Field construction worker" means an employee who reports for work to a temporary field construction site.</text>
       <text>"Field personnel" means employees who spend twenty percent or less of their work time at the work site and who do not report to the work site during the peak period for pick-up and dispatch of an employer provided vehicle.</text>
       <text>"Independent contractor" means an individual who enters into a direct written contract or agreement with an employer to perform certain services. The period of the contract or agreement is at least ninety continuous days or is open ended.</text>
       <text>"Peak period" means the time from six a.m. through ten a.m. Monday through Friday inclusive. (BAAQMD Section 13-1-221)</text>
       <text>"Seasonal/temporary employee" means an employee who works for the employer for less than ninety continuous days (three months) within a calendar year.</text>
       <text>"Single occupant vehicle" means a vehicle occupied by one employee.</text>
-      <text>"Survey week" means a regular five-day, Monday through Friday (inclusive), work week. The survey week for work sites within Saturday and Sunday work schedules will include only those work days Monday through Friday. The survey week cannot contain a federal, state or local holiday, regardless of whether the holiday is observed by the employer. A survey week that meets the above criteria is to be selected by the employer during January through May, or September through November for the employee transportation surveys required by <cite path="|10.52.050">Section 10.52.050</cite>(G). The survey week cannot be Rideshare Week or contain any other rideshare or transit promotional event, e.g. "Beat the Back-Up." (BAAQMD Section 13-1-224)</text>
+      <text>"Survey week" means a regular five-day, Monday through Friday (inclusive), work week. The survey week for work sites within Saturday and Sunday work schedules will include only those work days Monday through Friday. The survey week cannot contain a federal, state or local holiday, regardless of whether the holiday is observed by the employer. A survey week that meets the above criteria is to be selected by the employer during January through May, or September through November for the employee transportation surveys required by <cite path="|10.52.050|(G)">Section 10.52.050(G)</cite>. The survey week cannot be Rideshare Week or contain any other rideshare or transit promotional event, e.g. "Beat the Back-Up." (BAAQMD Section 13-1-224)</text>
       <text>"Telecommuting" means a system of working at home or at an off-site, nonhome telecommute facility for the full work day on a regular basis of at least one day per week.</text>
       <text>"Van pool" means a vehicle occupied by seven to fifteen employees including the driver who commutes together to work for the majority or their individual commute trip distance. Employees who work for different employers are included within this definition as long as they are in the vehicle for the majority of their individual trip distance.</text>
       <text>"Vehicle" means a device by which any person or property may be propelled, moved, or drawn upon a highway, except: (1) a device moved exclusively by human power; (2) a device used exclusively upon stationary rails or tracks; (3) buses used for public or private transit. Examples of vehicles include, but are not limited to, passenger cars, motorcycles, vans and pickup trucks.</text>
-      <text>"Vehicle employee ratio (VER)" means the number of vehicles used by employees who start work at a work site during the peak period, divided by number of those employees averaged over the survey week as calculated to <cite path="|10.52.050">Section 10.52.050</cite>(k). VER is the reciprocal of AVR. (BAAQMD Section 13-1-222)</text>
+      <text>"Vehicle employee ratio (VER)" means the number of vehicles used by employees who start work at a work site during the peak period, divided by number of those employees averaged over the survey week as calculated to <cite path="|10.52.050|(k)">Section 10.52.050(k)</cite>. VER is the reciprocal of AVR. (BAAQMD Section 13-1-222)</text>
       <text>"Volunteer" means an individual who does not receive any wages, salary, or other form of financial reimbursement from the employer for services provided.</text>
       <text>"Work activity" means any activity for which an employee receives remuneration from an employer. Telecommuting is a work activity.</text>
       <text>"Work site" means any property, real or personal, which is being operated, utilized, maintained, or owned by an employer as part of an identifiable enterprise. All property on contiguous, adjacent, or proximate sites separated only by a private or public roadway or other private or public right-of-way, served by a common circulation or access system, and not separated by an impassable barrier to bicycle or pedestrian travel such as a freeway or flood control channel is included as part of the work site. If two or more employers each have one hundred or more employees at a single work site, then that work site is considered a separate work site for each employer. (BAAQMD Section 12-1-232)</text>
-      <text>"Zone" means a geographical area within the district where the performance objectives contained in <cite path="|10.52.050">Section 10.52.050</cite>(D) apply to employers with work sites located within that zone. Zone 4—Napa County. (BAAQMD Section 13-1-233) (Ord. 2020-05 § 5, 2020; Ord. 93-14 § 3, 1993)</text>
-      <annotations/>
+      <text>"Zone" means a geographical area within the district where the performance objectives contained in <cite path="|10.52.050|(D)">Section 10.52.050(D) </cite>apply to employers with work sites located within that zone. Zone 4—Napa County. (BAAQMD Section 13-1-233)</text>
+      <annotations>
+        <annotation type="History">Ord. 2020-05 § 5, 2020</annotation>
+        <annotation type="History">Ord. 93-14 § 3, 1993</annotation>
+      </annotations>
     </section>
     <section>
       <num>10.52.045</num>
@@ -2056,10 +2073,10 @@
       <heading>Requirements.</heading>
       <para>
         <num>A.</num>
-        <text>Applicability. This chapter requires covered employers to do the following:</text>
+        <text>Applicability. <cite path="10.52">This chapter</cite> requires covered employers to do the following:</text>
         <para>
           <num>1.</num>
-          <text>Designate a commuter benefits coordinator (as defined in Sections 14-1-204 and 14-1-403 of Regulation 14 Mobile Source Emissions Reduction) to implement the employer's commuter benefits program and comply with the requirements of this chapter.</text>
+          <text>Designate a commuter benefits coordinator (as defined in Sections 14-1-204 and 14-1-403 of Regulation 14 Mobile Source Emissions Reduction) to implement the employer's commuter benefits program and comply with the requirements of <cite path="10.52">this chapter</cite>.</text>
         </para>
         <para>
           <num>2.</num>
@@ -2088,11 +2105,11 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Exemptions. Pursuant to SB 1339, if an employer participates in a transportation management association (TMA) that provides commuter benefits that comply with this chapter, the TMA may represent the employer for purposes of fulfilling the requirements defined in the rule.</text>
+        <text>Exemptions. Pursuant to SB 1339, if an employer participates in a transportation management association (TMA) that provides commuter benefits that comply with <cite path="10.52">this chapter</cite>, the TMA may represent the employer for purposes of fulfilling the requirements defined in the rule.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>Effective Dates. Employers become subject to this chapter three to six months after final adoption. But be aware of the air district deadlines: Begin enforcing rule in area with no TRO — July 1, 1993; Employer registration deadline — September 30, 1993; over four hundred employees survey due November 30, 1993; etc. Note that the required survey dates are contained in subsection (G)(7) of this section along with an assumption of when employers become subject to the rule. Note that (G)(7) is a required section. The dates therein are not alterable if one wishes to maintain conformance with the board.</text>
+        <text>Effective Dates. Employers become subject to <cite path="10.52">this chapter</cite> three to six months after final adoption. But be aware of the air district deadlines: Begin enforcing rule in area with no TRO — July 1, 1993; Employer registration deadline — September 30, 1993; over four hundred employees survey due November 30, 1993; etc. Note that the required survey dates are contained in subsection (G)(7) of <cite path="|10.52.050">this section</cite> along with an assumption of when employers become subject to the rule. Note that (G)(7) is a required section. The dates therein are not alterable if one wishes to maintain conformance with the board.</text>
       </para>
       <para>
         <num>D.</num>
@@ -2176,18 +2193,18 @@
       </para>
       <para>
         <num>E.</num>
-        <text>Employee Transportation Coordinator (ETC). Employers must have an ETC(s) as specified within this section. (BAAQMD Section 13-1-403)</text>
+        <text>Employee Transportation Coordinator (ETC). Employers must have an ETC(s) as specified within <cite path="|10.52.050">this section</cite>. (BAAQMD Section 13-1-403)</text>
         <para>
           <num>1.</num>
           <text>Employers shall appoint an ETC for each affected work site. Employers with multiple affected work sites within the city may appoint one ETC for more than one work site, even when these work sites are located in different zones.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>ETCs must complete a training curriculum certified by the Bay Area Pollution Control District Air Pollution Control Officer within nine months of the effective dates of this chapter as specified in subsection C of this section, or within six months of appointment when appointed after the initial nine-month time frame.</text>
+          <text>ETCs must complete a training curriculum certified by the Bay Area Pollution Control District Air Pollution Control Officer within nine months of the effective dates of <cite path="10.52">this chapter</cite> as specified in subsection C of <cite path="|10.52.050">this section</cite>, or within six months of appointment when appointed after the initial nine-month time frame.</text>
         </para>
         <para>
           <num>3.</num>
-          <text>The employer may apply to the city for a waiver from the training requirement of subsection (E)(2) of this section when an ETC has one or more years of experience in trip reduction of equivalent skills.</text>
+          <text>The employer may apply to the city for a waiver from the training requirement of subsection (E)(2) of <cite path="|10.52.050">this section</cite> when an ETC has one or more years of experience in trip reduction of equivalent skills.</text>
         </para>
         <para>
           <num>4.</num>
@@ -2196,7 +2213,7 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Employer Program Manager. Employers must have an employer program manager as specified in this section.</text>
+        <text>Employer Program Manager. Employers must have an employer program manager as specified in <cite path="|10.52.050">this section</cite>.</text>
         <para>
           <num>1.</num>
           <text>Employers shall appoint an employer program manager. Employers with multiple affected work-sites within the city may appoint an employer program manager for more than one work site, even when these work sites are located in different zones.</text>
@@ -2204,18 +2221,18 @@
       </para>
       <para>
         <num>G.</num>
-        <text>Employee Transportation Surveys. Employers must conduct employee transportation surveys as specified in this section to establish whether the performance objectives listed in subsection D of this section have been achieved. (BAAQMD Section 131-406)</text>
+        <text>Employee Transportation Surveys. Employers must conduct employee transportation surveys as specified in <cite path="|10.52.050">this section</cite> to establish whether the performance objectives listed in subsection D of <cite path="|10.52.050">this section</cite> have been achieved. (BAAQMD Section 131-406)</text>
         <para>
           <num>1.</num>
-          <text>An employer shall conduct an employee transportation survey consistent with the procedure contained in subsection K of this section and submit the survey responses to the city in accordance with the schedule contained in subsection (G)(7) of this section;</text>
+          <text>An employer shall conduct an employee transportation survey consistent with the procedure contained in subsection K of <cite path="|10.52.050">this section</cite> and submit the survey responses to the city in accordance with the schedule contained in subsection (G)(7) of <cite path="|10.52.050">this section</cite>;</text>
         </para>
         <para>
           <num>2.</num>
-          <text>An employer has the option of processing the employee transportation surveys on-site or having the surveys processed by an outside entity. Survey processing must be consistent with the procedures contained in subsection K of this section, verifiable records must be maintained, and the survey results are to be submitted to the city in accordance with the schedule contained in subsection (G)(7) of this section;</text>
+          <text>An employer has the option of processing the employee transportation surveys on-site or having the surveys processed by an outside entity. Survey processing must be consistent with the procedures contained in subsection K of <cite path="|10.52.050">this section</cite>, verifiable records must be maintained, and the survey results are to be submitted to the city in accordance with the schedule contained in subsection (G)(7) of <cite path="|10.52.050">this section</cite>;</text>
         </para>
         <para>
           <num>3.</num>
-          <text>An employer may use a random sample employee survey method consistent with subsection L of this section for work sites where four hundred or more employees start work during the peak period;</text>
+          <text>An employer may use a random sample employee survey method consistent with subsection L of <cite path="|10.52.050">this section</cite> for work sites where four hundred or more employees start work during the peak period;</text>
         </para>
         <para>
           <num>4.</num>
@@ -2234,24 +2251,24 @@
           <text>Employee transportation surveys are to be conducted as follows:</text>
           <para>
             <num>a.</num>
-            <text>Employers subject to this chapter July 1,</text>
+            <text>Employers subject to <cite path="10.52">this chapter</cite> July 1,</text>
           </para>
           <text>1993, with work sites of five hundred or more employees must conduct an employee transportation</text>
           <text>survey at those work sites by November 30, 1993.</text>
-          <text>Note that the entire section is required (including the dates) if one wishes to maintain conformance with the BAAQMD. Also, it ties back to nonrequired subsection C of this section.</text>
+          <text>Note that the entire section is required (including the dates) if one wishes to maintain conformance with the BAAQMD. Also, it ties back to nonrequired subsection C of <cite path="|10.52.050">this section</cite>.</text>
           <para>
             <num>b.</num>
-            <text>Employers subject to this chapter July 1,</text>
+            <text>Employers subject to <cite path="10.52">this chapter</cite> July 1,</text>
           </para>
           <text>1993, with work sites of one hundred to four hundred ninety-nine employees must conduct an employee transportation survey at those work sites by May 31, 1994.</text>
           <para>
             <num>c.</num>
-            <text>Employers subject to this chapter July 1,</text>
+            <text>Employers subject to <cite path="10.52">this chapter</cite> July 1,</text>
           </para>
           <text>1994, with work sites of five hundred or more employees must conduct an employee transportation survey at those work sites by November 30, 1994.</text>
           <para>
             <num>d.</num>
-            <text>Employers subject to this chapter July 1,</text>
+            <text>Employers subject to <cite path="10.52">this chapter</cite> July 1,</text>
           </para>
           <text>1994, with work sites of one hundred to four hundred ninety-nine employees must conduct an employee transportation survey of those work sites by May 31, 1995.</text>
           <para>
@@ -2260,17 +2277,17 @@
           </para>
           <para>
             <num>f.</num>
-            <text>Subject to city approval, an employee transportation survey conducted prior to the effective dates of this chapter may be submitted to fulfill the requirements of this subsection provided that (1) the survey was conducted within six months of this submittal date. and (2) it provides sufficient data to calculate the performance objective pursuant to subsection K of this section.</text>
+            <text>Subject to city approval, an employee transportation survey conducted prior to the effective dates of <cite path="10.52">this chapter</cite> may be submitted to fulfill the requirements of this subsection provided that (1) the survey was conducted within six months of this submittal date. and (2) it provides sufficient data to calculate the performance objective pursuant to subsection K of <cite path="|10.52.050">this section</cite>.</text>
           </para>
         </para>
         <para>
           <num>8.</num>
-          <text>Employers who become subject to this chapter subsequent to the schedule above, due to an increase in employees or the establishment of a new or expanded work site shall conduct an employee transportation survey within six months after meeting the requirements of subsection A of this section. The dates in subsection (G)(7)(e) of this section apply regarding submittal to the city.</text>
+          <text>Employers who become subject to <cite path="10.52">this chapter</cite> subsequent to the schedule above, due to an increase in employees or the establishment of a new or expanded work site shall conduct an employee transportation survey within six months after meeting the requirements of subsection A of <cite path="|10.52.050">this section</cite>. The dates in subsection (G)(7)(e) of <cite path="|10.52.050">this section</cite> apply regarding submittal to the city.</text>
         </para>
       </para>
       <para>
         <num>H.</num>
-        <text>Requirement to Submit Employer Trip Reduction Plan. Employers that do not achieve the performance objectives established in subsection D of this section for the applicable year at any work site subject to this chapter shall prepare and submit an employer trip reduction plan for that work site to the city within one hundred twenty days of a determination that the performance objective was not achieved. An employer may submit a consolidated plan that covers multiple work sites. The city will issue a determination that the performance objective has not been achieved based upon information received pursuant to subsection G of this section.</text>
+        <text>Requirement to Submit Employer Trip Reduction Plan. Employers that do not achieve the performance objectives established in subsection D of <cite path="|10.52.050">this section</cite> for the applicable year at any work site subject to <cite path="10.52">this chapter</cite> shall prepare and submit an employer trip reduction plan for that work site to the city within one hundred twenty days of a determination that the performance objective was not achieved. An employer may submit a consolidated plan that covers multiple work sites. The city will issue a determination that the performance objective has not been achieved based upon information received pursuant to subsection G of <cite path="|10.52.050">this section</cite>.</text>
         <para>
           <num>1.</num>
           <text>The employer trip reduction plan shall contain the following:</text>
@@ -2301,11 +2318,11 @@
         </para>
         <para>
           <num>3.</num>
-          <text>At the option of an employer, the employer trip reduction plan may include an alternative emission reduction program that demonstrates that the measures included in such program will achieve emission reductions equal to or greater than those that would have been realized if the performance objectives were achieved, and that these alternative measures are not required by any other federal, state or local control measure or regulatory requirement. Such an alternative emission reduction program shall include an update or progress monitoring report to be submitted at least every two years to fulfill the requirements of subsection (H)(7) of this section.</text>
+          <text>At the option of an employer, the employer trip reduction plan may include an alternative emission reduction program that demonstrates that the measures included in such program will achieve emission reductions equal to or greater than those that would have been realized if the performance objectives were achieved, and that these alternative measures are not required by any other federal, state or local control measure or regulatory requirement. Such an alternative emission reduction program shall include an update or progress monitoring report to be submitted at least every two years to fulfill the requirements of subsection (H)(7) of <cite path="|10.52.050">this section</cite>.</text>
         </para>
         <para>
           <num>4.</num>
-          <text>The city shall approve and the employer shall implement an employer trip reduction plan that includes all reasonable, feasible and cost effective trip reduction measures that can be expected to bring about significant progress toward achievement of the performance objectives given the constraints of the work site, the nature of the work activity and the geographical distribution of employees relative to the work site; or the city shall approve an alternative demonstration pursuant to subsection (H)(3) of this section. The city shall disapprove any plan that does not meet the above specified approval criteria.</text>
+          <text>The city shall approve and the employer shall implement an employer trip reduction plan that includes all reasonable, feasible and cost effective trip reduction measures that can be expected to bring about significant progress toward achievement of the performance objectives given the constraints of the work site, the nature of the work activity and the geographical distribution of employees relative to the work site; or the city shall approve an alternative demonstration pursuant to subsection (H)(3) of <cite path="|10.52.050">this section</cite>. The city shall disapprove any plan that does not meet the above specified approval criteria.</text>
         </para>
         <para>
           <num>5.</num>
@@ -2313,15 +2330,15 @@
         </para>
         <para>
           <num>6.</num>
-          <text>An employer may appeal any city disapproval of its employer trip reduction plan pursuant to subsection I of this section.</text>
+          <text>An employer may appeal any city disapproval of its employer trip reduction plan pursuant to subsection I of <cite path="|10.52.050">this section</cite>.</text>
         </para>
         <para>
           <num>7.</num>
-          <text>An employer subject to this section shall update its employer trip reduction plan once every two years after plan approval until such time as the performance objective is achieved. Such plan updates are to be submitted every two years to the city on or before the anniversary date of plan approval.</text>
+          <text>An employer subject to <cite path="|10.52.050">this section</cite> shall update its employer trip reduction plan once every two years after plan approval until such time as the performance objective is achieved. Such plan updates are to be submitted every two years to the city on or before the anniversary date of plan approval.</text>
         </para>
         <para>
           <num>8.</num>
-          <text>An employer subject to this section shall continue to meet the requirements of subsection G of this section.</text>
+          <text>An employer subject to <cite path="|10.52.050">this section</cite> shall continue to meet the requirements of subsection G of <cite path="|10.52.050">this section</cite>.</text>
         </para>
         <para>
           <num>9.</num>
@@ -2330,7 +2347,7 @@
       </para>
       <para>
         <num>I.</num>
-        <text>Appeal of Plan Disapproval. An employer may appeal a plan disapproval made pursuant to subsection H of this section to the city through the procedure listed below:</text>
+        <text>Appeal of Plan Disapproval. An employer may appeal a plan disapproval made pursuant to subsection H of <cite path="|10.52.050">this section</cite> to the city through the procedure listed below:</text>
         <para>
           <num>1.</num>
           <text>The employer submits a written notice of appeal to the city within thirty days of plan disapproval.</text>
@@ -2345,19 +2362,19 @@
         </para>
         <para>
           <num>4.</num>
-          <text>The due date for revised employer trip reduction plans pursuant to subsection (H)(5) of this section will be suspended during the appeal process authorized by this section.</text>
+          <text>The due date for revised employer trip reduction plans pursuant to subsection (H)(5) of <cite path="|10.52.050">this section</cite> will be suspended during the appeal process authorized by <cite path="|10.52.050">this section</cite>.</text>
         </para>
       </para>
       <para>
         <num>J.</num>
-        <text>Confidentiality. The city will treat the information and data specified in this section as confidential.</text>
+        <text>Confidentiality. The city will treat the information and data specified in <cite path="|10.52.050">this section</cite> as confidential.</text>
         <para>
           <num>1.</num>
-          <text>The city shall treat individual employee transportation survey responses, records and results submitted pursuant to subsection G of this section in a confidential manner and shall not release any information about individual employees to the public. Both aggregate and work site performance objective results for an employer shall be within the public domain.</text>
+          <text>The city shall treat individual employee transportation survey responses, records and results submitted pursuant to subsection G of <cite path="|10.52.050">this section</cite> in a confidential manner and shall not release any information about individual employees to the public. Both aggregate and work site performance objective results for an employer shall be within the public domain.</text>
         </para>
         <para>
           <num>2.</num>
-          <text>The city shall treat employer budget information submitted pursuant to subsection (H)(1)(e) of this section in a confidential manner and shall not release any budget information about individual employers to the public. Aggregate and generic budget information for trip reduction programs and measures shall be within the public domain.</text>
+          <text>The city shall treat employer budget information submitted pursuant to subsection (H)(1)(e) of <cite path="|10.52.050">this section</cite> in a confidential manner and shall not release any budget information about individual employers to the public. Aggregate and generic budget information for trip reduction programs and measures shall be within the public domain.</text>
         </para>
       </para>
       <para>
@@ -2483,7 +2500,7 @@
             </para>
             <para>
               <num>vii.</num>
-              <text>Employers with multiple work sites within the city have the option to average individual work site AVR or VER to demonstrate that the performance objectives are achieved on an aggregate basis for those work sites when the city is implementing the chapter. If the employer demonstrates that the performance objectives (subsection D of this section) are achieved using the averaging methodology, then those work sites included in the averaging are not subject to the requirements of subsection H of this section.</text>
+              <text>Employers with multiple work sites within the city have the option to average individual work site AVR or VER to demonstrate that the performance objectives are achieved on an aggregate basis for those work sites when the city is implementing the chapter. If the employer demonstrates that the performance objectives (subsection D of <cite path="|10.52.050">this section</cite>) are achieved using the averaging methodology, then those work sites included in the averaging are not subject to the requirements of subsection H of <cite path="|10.52.050">this section</cite>.</text>
               <para>
                 <num>(A)</num>
                 <text>The weighted AVR average for the multiple work sites is calculated by (1) adding together the "employee-days" for each work site (2) adding together the "vehicle trip-days" for each work site, then (3) dividing the aggregate "employee-days" by the aggregate "vehicle trip-days" to obtain the weighted AVR average.</text>
@@ -2502,21 +2519,21 @@
       </para>
       <para>
         <num>L.</num>
-        <text>Random Sample Method. The method described in this section must be followed when an employer chooses to use a random sample to meet the requirements of subsection K of this section.</text>
+        <text>Random Sample Method. The method described in <cite path="|10.52.050">this section</cite> must be followed when an employer chooses to use a random sample to meet the requirements of subsection K of <cite path="|10.52.050">this section</cite>.</text>
         <para>
           <num>1.</num>
           <text>Summary.</text>
           <para>
             <num>a.</num>
-            <text>Subsection (G)(3) of this section provides for an option for larger work sites to calculate AVR or VER based upon a random sample of the employee population. The random sample option is available only for work sites where four hundred or more employees start work during the peak period (six a.m. through ten a.m.).</text>
+            <text>Subsection (G)(3) of <cite path="|10.52.050">this section</cite> provides for an option for larger work sites to calculate AVR or VER based upon a random sample of the employee population. The random sample option is available only for work sites where four hundred or more employees start work during the peak period (six a.m. through ten a.m.).</text>
           </para>
           <para>
             <num>b.</num>
-            <text>The size of the random sample depends upon the number of employees who start work during the peak period at the work site. The means to determine the minimum size of the random sample is described in subsection (L)(2)(b) of this section.</text>
+            <text>The size of the random sample depends upon the number of employees who start work during the peak period at the work site. The means to determine the minimum size of the random sample is described in subsection (L)(2)(b) of <cite path="|10.52.050">this section</cite>.</text>
           </para>
           <para>
             <num>c.</num>
-            <text>The sample must be selected as described in subsection (L)(2)(d) of this section. Once the sample group has been selected, the employer is not permitted to send additional survey forms to employees beyond the original sample group. This will invalidate the results of the survey and void the employer's option to utilize the random sample method.</text>
+            <text>The sample must be selected as described in subsection (L)(2)(d) of <cite path="|10.52.050">this section</cite>. Once the sample group has been selected, the employer is not permitted to send additional survey forms to employees beyond the original sample group. This will invalidate the results of the survey and void the employer's option to utilize the random sample method.</text>
           </para>
           <para>
             <num>d.</num>
@@ -2655,7 +2672,7 @@
           </para>
           <para>
             <num>e.</num>
-            <text>The methodology described in subsection (L)(2)(d) of this section will eliminate potential bias that could result from choosing survey participants on the basis of department, rank, income level, home code, or other demographic factors, or from excluding certain segments of the employee population.</text>
+            <text>The methodology described in subsection (L)(2)(d) of <cite path="|10.52.050">this section</cite> will eliminate potential bias that could result from choosing survey participants on the basis of department, rank, income level, home code, or other demographic factors, or from excluding certain segments of the employee population.</text>
           </para>
         </para>
         <para>
@@ -2663,11 +2680,11 @@
           <text>Selection Process for Subsequent Surveys.</text>
           <para>
             <num>a.</num>
-            <text>In subsequent surveys, the employer may select the random sample using the method described in subsection (L)(2) of this section or the employer may choose to survey the same employees that were included in the previous random sample. Employees in the previous random sample group who have left the orgrni7ation shall be replaced in the new sample by employees selected per subsection (L)(2) of this section. The latter approach may enable the employer to more accurately track changes in commute mode from one survey to next.</text>
+            <text>In subsequent surveys, the employer may select the random sample using the method described in subsection (L)(2) of <cite path="|10.52.050">this section</cite> or the employer may choose to survey the same employees that were included in the previous random sample. Employees in the previous random sample group who have left the orgrni7ation shall be replaced in the new sample by employees selected per subsection (L)(2) of <cite path="|10.52.050">this section</cite>. The latter approach may enable the employer to more accurately track changes in commute mode from one survey to next.</text>
           </para>
           <para>
             <num>b.</num>
-            <text>If the number of employees who start work between six a.m. and ten a.m. has increased or decreased by more than twenty percent since last survey, the employer shall select a completely new random sample group using the methodology describe in subsection (L)(2) of this section.</text>
+            <text>If the number of employees who start work between six a.m. and ten a.m. has increased or decreased by more than twenty percent since last survey, the employer shall select a completely new random sample group using the methodology describe in subsection (L)(2) of <cite path="|10.52.050">this section</cite>.</text>
           </para>
         </para>
         <para>
@@ -2675,11 +2692,11 @@
           <text>Performance Objective Calculation, Reporting and Recordkeeping.</text>
           <para>
             <num>a.</num>
-            <text>AVR or VER must be calculated according to the methodology describe in subsection K of this section. Notwithstanding, the provision of subsection (K)(4) of this section, any employee in the random sample group who fails to submit a completed survey form shall be included in the performance objective calculation as a drive long commuter (single occupant vehicle).</text>
+            <text>AVR or VER must be calculated according to the methodology describe in subsection K of <cite path="|10.52.050">this section</cite>. Notwithstanding, the provision of subsection (K)(4) of <cite path="|10.52.050">this section</cite>, any employee in the random sample group who fails to submit a completed survey form shall be included in the performance objective calculation as a drive long commuter (single occupant vehicle).</text>
           </para>
           <para>
             <num>b.</num>
-            <text>The employer shall submit to the city: (1) the completed survey forms for processing or the results of the survey, according to the subsection (G)(7) or (G)(8) of this section; (2) a description of the methodology used to select the random sample; and (3) a tally showing the number of surveys distributed, the number completed, and the number of nonrespondents.</text>
+            <text>The employer shall submit to the city: (1) the completed survey forms for processing or the results of the survey, according to the subsection (G)(7) or (G)(8) of <cite path="|10.52.050">this section</cite>; (2) a description of the methodology used to select the random sample; and (3) a tally showing the number of surveys distributed, the number completed, and the number of nonrespondents.</text>
           </para>
           <para>
             <num>c.</num>
@@ -2799,7 +2816,6 @@
           </tbody>
         </table>
       </text>
-      <text/>
       <annotations>
         <annotation type="History">Ord. 2017-02 § 1, 2017</annotation>
         <annotation type="History">Ord. 2016-10 § 1, 2016</annotation>
@@ -2813,7 +2829,7 @@
     <section>
       <num>10.60.010</num>
       <heading>Enforcement of California Vehicle Code on private property.</heading>
-      <text>Pursuant to California Vehicle Code Section 21107 et seq., all provisions of the California Vehicle Code shall apply to the privately owned streets listed below when the owner has caused to be posted in a conspicuous place at each entrance to that private street a notice not less than seventeen by twenty-two inches in size with lettering not less than one inch in height, to the effect that the private property is subject to public traffic regulations and control:</text>
+      <text>Pursuant to <cite doc="Cal. Veh. Code" path="§21107">California Vehicle Code Section 21107</cite> et seq., all provisions of the <cite doc="Cal. Veh. Code">California Vehicle Code</cite> shall apply to the privately owned streets listed below when the owner has caused to be posted in a conspicuous place at each entrance to that private street a notice not less than seventeen by twenty-two inches in size with lettering not less than one inch in height, to the effect that the private property is subject to public traffic regulations and control:</text>
       <para>
         <num>A.</num>
         <text>Corvina Way; and</text>

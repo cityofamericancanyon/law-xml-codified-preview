@@ -16,7 +16,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Purpose of City's Land Acquisition Program. The purpose of this chapter is to provide procedures for the city's acquisition of property when necessary for municipal projects that serve the public interest and necessity in accordance with the applicable law and in consideration of the rights of property owners.</text>
+        <text>Purpose of City's Land Acquisition Program. The purpose of <cite path="4.04">this chapter</cite> is to provide procedures for the city's acquisition of property when necessary for municipal projects that serve the public interest and necessity in accordance with the applicable law and in consideration of the rights of property owners.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 97-12 § 1, 1997</annotation>
@@ -63,7 +63,7 @@
       <heading>Acquisition of nonprofit, special use property by city.</heading>
       <para>
         <num>A.</num>
-        <text>Definition of Nonprofit Special Use Property. For the purposes of this section, "nonprofit, special use property" shall be defined to mean property which is operated for a special nonprofit, tax-exempt use, such as a school, church, cemetery, hospital or similar property, but not to include property owned by a public entity.</text>
+        <text>Definition of Nonprofit Special Use Property. For the purposes of <cite path="|4.04.050">this section</cite>, "nonprofit, special use property" shall be defined to mean property which is operated for a special nonprofit, tax-exempt use, such as a school, church, cemetery, hospital or similar property, but not to include property owned by a public entity.</text>
       </para>
       <para>
         <num>B.</num>
@@ -71,7 +71,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>Permissible Uses of Nonprofit, Special Use Property by City. The requirements of subsection B of this section shall not apply to property acquired by the city for the following purposes:</text>
+        <text>Permissible Uses of Nonprofit, Special Use Property by City. The requirements of subsection B of <cite path="|4.04.050">this section</cite> shall not apply to property acquired by the city for the following purposes:</text>
         <para>
           <num>1.</num>
           <text>Transportation projects, including but not limited to, the construction, expansion or improvement of streets, highways, or railways; or</text>
@@ -201,9 +201,11 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Assessment of Property for Existence of Environmental Contamination. Before making a decision to acquire the property, the city may conduct a preliminary assessment of the property to determine whether environmental contamination exists, and the nature and extent of any contamination. If contamination is found to exist and the city is still considering acquisition of the property, a further assessment of the contamination may be performed. The city shall obtain permission from the owner or, if necessary, a court order, to enter the property for this purpose pursuant to <cite path="|4.04.070">Section 4.04.070</cite>. (Ord. 97-12 § 1, 1997)</text>
+        <text>Assessment of Property for Existence of Environmental Contamination. Before making a decision to acquire the property, the city may conduct a preliminary assessment of the property to determine whether environmental contamination exists, and the nature and extent of any contamination. If contamination is found to exist and the city is still considering acquisition of the property, a further assessment of the contamination may be performed. The city shall obtain permission from the owner or, if necessary, a court order, to enter the property for this purpose pursuant to <cite path="|4.04.070">Section 4.04.070</cite>.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Ord. 97-12 § 1, 1997</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.090</num>
@@ -254,7 +256,7 @@
       <heading>City's written offer to pause property from owner.</heading>
       <para>
         <num>A.</num>
-        <text>City's Written Offer to Purchase Property for Just Compensation., The city shall serve on the property owner a written offer to purchase the property for the amount determined to be just compensation, unless the circumstances set forth in subsections B and D of this section apply, and a statement of the basis for determination of just compensation. The statement must include the following:</text>
+        <text>City's Written Offer to Purchase Property for Just Compensation., The city shall serve on the property owner a written offer to purchase the property for the amount determined to be just compensation, unless the circumstances set forth in subsections B and D of <cite path="|4.04.110">this section</cite> apply, and a statement of the basis for determination of just compensation. The statement must include the following:</text>
         <para>
           <num>1.</num>
           <text>A general statement of the municipal project for which the property is to be acquired;</text>
@@ -285,7 +287,7 @@
           <text>improvement for which the property is to be acquired, other than due to physical deterioration within the reasonable control of the owner or occupant, and</text>
           <para>
             <num>d.</num>
-            <text>Does not reflect any consideration of or allowance for any relocation assistance or other payments or benefits which the owner is entitled to received under an agreement with the city, except for an amount to compensate the owner for the loss of goodwill as provided in <cite path="|4.04.100">Section 4.04.100</cite>(A)(4),</text>
+            <text>Does not reflect any consideration of or allowance for any relocation assistance or other payments or benefits which the owner is entitled to received under an agreement with the city, except for an amount to compensate the owner for the loss of goodwill as provided in <cite path="|4.04.100|(A)|(4)">Section 4.04.100(A)(4)</cite>,</text>
           </para>
           <para>
             <num>e.</num>
@@ -331,9 +333,11 @@
       </para>
       <para>
         <num>D.</num>
-        <text>Exception to Requirement that City Make Written Offer to Owner. In unusual circumstances, in which the city council has made a finding that the f project for which the property to be acquired is needed is an emergency project, which is necessary to preserve or protect the public health, safety, or welfare, the city may adopt a resolution of intention pursuant to <cite path="|4.04.150">Section 4.04.150</cite> without first making a written offer to purchase the property from the owner(s). However, in such cases, the written offer must be made by the city to the owner within a reasonable time but in any event, no later than ninety days after the adoption of a resolution of necessity. (Ord. 97-12 § 1, 1997)</text>
+        <text>Exception to Requirement that City Make Written Offer to Owner. In unusual circumstances, in which the city council has made a finding that the f project for which the property to be acquired is needed is an emergency project, which is necessary to preserve or protect the public health, safety, or welfare, the city may adopt a resolution of intention pursuant to <cite path="|4.04.150">Section 4.04.150</cite> without first making a written offer to purchase the property from the owner(s). However, in such cases, the written offer must be made by the city to the owner within a reasonable time but in any event, no later than ninety days after the adoption of a resolution of necessity.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Ord. 97-12 § 1, 1997</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.120</num>
@@ -364,7 +368,7 @@
       </para>
       <para>
         <num>C.</num>
-        <text>City's Duty to Provide Additional Information Inapplicable After Initiation of Eminent Domain Action. The requirements of subsection B of this section shall not apply after an eminent domain action has been filed in court.</text>
+        <text>City's Duty to Provide Additional Information Inapplicable After Initiation of Eminent Domain Action. The requirements of subsection B of <cite path="|4.04.120">this section</cite> shall not apply after an eminent domain action has been filed in court.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 97-12 § 1, 1997</annotation>
@@ -399,7 +403,7 @@
       <heading>Acquisition of uneconomic remnant of property by city.</heading>
       <para>
         <num>A.</num>
-        <text>Definition of Uneconomic Remnant. For the purposes of this chapter, "uneconomic remnant" means a parcel of real property in which the property owner retains a legal interest after the city has acquired another part of the property and which has little value or utility to the owner(s), or any other applicable definition under state law.</text>
+        <text>Definition of Uneconomic Remnant. For the purposes of <cite path="4.04">this chapter</cite>, "uneconomic remnant" means a parcel of real property in which the property owner retains a legal interest after the city has acquired another part of the property and which has little value or utility to the owner(s), or any other applicable definition under state law.</text>
       </para>
       <para>
         <num>B.</num>
@@ -414,7 +418,7 @@
       <heading>City's adoption of resolution of necessity before initiating eminent domain proceedings to acquire property.</heading>
       <para>
         <num>A.</num>
-        <text>Requirement for Resolution of Necessity. If after a reasonable time, the city is unable to successfully negotiate the purchase of the property with the owner and wishes to acquire the property by eminent domain, the city council shall adopt a resolution of necessity by a two-thirds vote pursuant to Code of Civil Procedure Section 1245.230 before initiating eminent domain proceedings in court, and after giving notice and conducting a hearing as required by Sections <cite path="|4.04.160">4.04.160</cite> and <cite path="|4.04.170">4.04.170</cite>.</text>
+        <text>Requirement for Resolution of Necessity. If after a reasonable time, the city is unable to successfully negotiate the purchase of the property with the owner and wishes to acquire the property by eminent domain, the city council shall adopt a resolution of necessity by a two-thirds vote pursuant to <cite doc="Cal. Civ. Proc. Code" path="§1245.230">Code of Civil Procedure Section 1245.230</cite> before initiating eminent domain proceedings in court, and after giving notice and conducting a hearing as required by Sections <cite path="|4.04.160">4.04.160</cite> and <cite path="|4.04.170">4.04.170</cite>.</text>
       </para>
       <para>
         <num>B.</num>
@@ -444,11 +448,13 @@
           </para>
           <para>
             <num>d.</num>
-            <text>That the city has either made the written offer to purchase the property to the property owner(s), or that the offer has not been made because the owner(s) cannot be located with reasonable diligence, or because the project for which the property is to be acquired is an emergency project necessary to protect or preserve the public health, safety, and welfare. However, in cases involving the adoption of a resolution of necessity for an emergency project for which the city has not given the owner a written offer to purchase, the city shall give the owner a written offer to purchase the property pursuant to <cite path="|4.04.110">Section 4.04.110</cite>(D) within a reasonable time and in no event later than ninety days after the adoption of the resolution of necessity. (Ord. 97-12 § 1, 1997)</text>
+            <text>That the city has either made the written offer to purchase the property to the property owner(s), or that the offer has not been made because the owner(s) cannot be located with reasonable diligence, or because the project for which the property is to be acquired is an emergency project necessary to protect or preserve the public health, safety, and welfare. However, in cases involving the adoption of a resolution of necessity for an emergency project for which the city has not given the owner a written offer to purchase, the city shall give the owner a written offer to purchase the property pursuant to <cite path="|4.04.110|(D)">Section 4.04.110(D) </cite>within a reasonable time and in no event later than ninety days after the adoption of the resolution of necessity.</text>
           </para>
         </para>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Ord. 97-12 § 1, 1997</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.160</num>
@@ -460,7 +466,7 @@
       <para>
         <num>B.</num>
         <text>Contents of Notice. The city shall send a</text>
-        <text>written notice by first-class mail to each person described in subsection A of this section at least</text>
+        <text>written notice by first-class mail to each person described in subsection A of <cite path="|4.04.160">this section</cite> at least</text>
         <text>sixteen days before the hearing on the adoption of the resolution of necessity, which states all of the following:</text>
         <para>
           <num>1.</num>
@@ -508,14 +514,16 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Adoption of Resolution of Necessity by Two-Thirds Vote of City Council. If, at the conclusion of the hearing and consideration of testimony given, the council makes the findings required by <cite path="|4.04.140">Section 4.04.140</cite> above, the resolution of necessity may be adopted by a two-thirds vote of the city council. (Ord. 97-12 § 1, 1997)</text>
+        <text>Adoption of Resolution of Necessity by Two-Thirds Vote of City Council. If, at the conclusion of the hearing and consideration of testimony given, the council makes the findings required by <cite path="|4.04.140">Section 4.04.140</cite> above, the resolution of necessity may be adopted by a two-thirds vote of the city council.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Ord. 97-12 § 1, 1997</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.04.180</num>
       <heading>Initiation of eminent domain action by city.</heading>
-      <text>After the adoption of the resolution of necessity, the city may file an eminent domain action in court to acquire the property pursuant to the Eminent Domain Law (California Code of Civil Procedure Section 1230.010 et seq.).</text>
+      <text>After the adoption of the resolution of necessity, the city may file an eminent domain action in court to acquire the property pursuant to the Eminent Domain Law (<cite doc="Cal. Civ. Proc. Code" path="§1230.010">California Code of Civil Procedure Section 1230.010</cite> et seq.).</text>
       <annotations>
         <annotation type="History">Ord. 97-12 § 1, 1997</annotation>
       </annotations>
@@ -572,7 +580,7 @@
     <section>
       <num>4.04.220</num>
       <heading>Applicability of federal and state law.</heading>
-      <text>If any other provisions of state or federal law would give the owner(s) or occupant(s) of property to be acquired by the city greater protection than this chapter, the city shall also comply with such other provisions of law. If any section of this chapter is found to conflict with applicable state or federal law, the applicable portions of state or federal law shall take precedence.</text>
+      <text>If any other provisions of state or federal law would give the owner(s) or occupant(s) of property to be acquired by the city greater protection than <cite path="4.04">this chapter</cite>, the city shall also comply with such other provisions of law. If any section of <cite path="4.04">this chapter</cite> is found to conflict with applicable state or federal law, the applicable portions of state or federal law shall take precedence.</text>
       <annotations>
         <annotation type="History">Ord. 97-12 § 1, 1997</annotation>
       </annotations>
@@ -580,7 +588,7 @@
     <section>
       <num>4.04.230</num>
       <heading>Service of required notices and other documents by city.</heading>
-      <text>The city shall serve any notices or documents required to be served on the property owner or other persons pursuant to this chapter by first-class mail or in-person service.</text>
+      <text>The city shall serve any notices or documents required to be served on the property owner or other persons pursuant to <cite path="4.04">this chapter</cite> by first-class mail or in-person service.</text>
       <annotations>
         <annotation type="History">Ord. 97-12 § 1, 1997</annotation>
       </annotations>
@@ -588,7 +596,7 @@
     <section>
       <num>4.04.240</num>
       <heading>Annual review.</heading>
-      <text>The city shall review this chapter annually to ensure that its provisions are consistent with current state and federal law.</text>
+      <text>The city shall review <cite path="4.04">this chapter</cite> annually to ensure that its provisions are consistent with current state and federal law.</text>
       <annotations>
         <annotation type="History">Ord. 97-12 § 1, 1997</annotation>
       </annotations>
@@ -609,10 +617,10 @@
     <section>
       <num>4.06.020</num>
       <heading>Definitions.</heading>
-      <text>For the purpose of this chapter, unless otherwise apparent from the context, words and phrases set forth in this section shall have the following meanings:</text>
+      <text>For the purpose of <cite path="4.06">this chapter</cite>, unless otherwise apparent from the context, words and phrases set forth in <cite path="|4.06.020">this section</cite> shall have the following meanings:</text>
       <para>
         <num>A.</num>
-        <text>"Building" or "structure" shall be defined a set forth in <cite path="19.04">Chapter 19.04</cite> of this Code, and shall also include stairways, required off street parking facilities, any well, whether for water, oil, or other hydrocarbon products, and any underground storage facilities in excess of one thousand (1,000) gallon capacity. "Building" or "structure" shall not include any building or structure existing on the effective date of the ordinance codified in this chapter, any public utility installed under authority of franchise, or any fence.</text>
+        <text>"Building" or "structure" shall be defined a set forth in <cite path="19.04">Chapter 19.04</cite> of this Code, and shall also include stairways, required off street parking facilities, any well, whether for water, oil, or other hydrocarbon products, and any underground storage facilities in excess of one thousand (1,000) gallon capacity. "Building" or "structure" shall not include any building or structure existing on the effective date of the ordinance codified in <cite path="4.06">this chapter</cite>, any public utility installed under authority of franchise, or any fence.</text>
       </para>
       <para>
         <num>B.</num>
@@ -649,8 +657,10 @@
     <section>
       <num>4.06.040</num>
       <heading>Planning commission report and recommendation.</heading>
-      <text>Before any action shall be taken by the city council as provided in <cite path="|4.06.100">Section 4.06.100</cite> hereof, the proposal shall be referred to the planning commission and the city engineer for report and recommendation. (Ord. 2003-05 § 4, 2003)</text>
-      <annotations/>
+      <text>Before any action shall be taken by the city council as provided in <cite path="|4.06.100">Section 4.06.100</cite> hereof, the proposal shall be referred to the planning commission and the city engineer for report and recommendation.</text>
+      <annotations>
+        <annotation type="History">Ord. 2003-05 § 4, 2003</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.06.050</num>
@@ -671,14 +681,18 @@
     <section>
       <num>4.06.070</num>
       <heading>Publication and posting of resolution.</heading>
-      <text>Such resolution described in <cite path="|4.06.060">Section 4.06.060</cite> shall be published or posted at those places where the council agendas are posted once at least ten days before the date of the hearing of objections to the proposal. Posting shall be accomplished at least ten days before the date of the hearing of objections to the proposal. (Ord. 2003-05 § 7, 2003)</text>
-      <annotations/>
+      <text>Such resolution described in <cite path="|4.06.060">Section 4.06.060</cite> shall be published or posted at those places where the council agendas are posted once at least ten days before the date of the hearing of objections to the proposal. Posting shall be accomplished at least ten days before the date of the hearing of objections to the proposal.</text>
+      <annotations>
+        <annotation type="History">Ord. 2003-05 § 7, 2003</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.06.080</num>
       <heading>Hearing—Time limit.</heading>
-      <text>The time for hearing objections to such proposal shall be not less than fourteen nor more than thirty-five days from the date of the adoption of the resolution of intention described in <cite path="|4.06.060">Section 4.06.060</cite>. (Ord. 2003-05 § 8, 2003)</text>
-      <annotations/>
+      <text>The time for hearing objections to such proposal shall be not less than fourteen nor more than thirty-five days from the date of the adoption of the resolution of intention described in <cite path="|4.06.060">Section 4.06.060</cite>.</text>
+      <annotations>
+        <annotation type="History">Ord. 2003-05 § 8, 2003</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.06.090</num>
@@ -691,8 +705,10 @@
     <section>
       <num>4.06.100</num>
       <heading>Action by city council.</heading>
-      <text>At the time set for hearing, or at any time to which the hearing may be continued, the city council shall proceed to hear and pass upon all protests or objections filed pursuant to <cite path="|4.06.090">Section 4.06.090</cite>, or to any objections verbally presented at the public hearing. The city council may sustain any objections and abandon such proceeding, deny any and all objections, and by ordinance establish said right-of-way lines described in the resolution, or it may deny any and all objections and by ordinance establish such right-of-way lines with such changes and modifications as it shall determine to be proper. The ordinance establishing right-of-way lines shall be recorded by the city clerk with the county recorder. (Ord. 2003-05 § 10, 2003)</text>
-      <annotations/>
+      <text>At the time set for hearing, or at any time to which the hearing may be continued, the city council shall proceed to hear and pass upon all protests or objections filed pursuant to <cite path="|4.06.090">Section 4.06.090</cite>, or to any objections verbally presented at the public hearing. The city council may sustain any objections and abandon such proceeding, deny any and all objections, and by ordinance establish said right-of-way lines described in the resolution, or it may deny any and all objections and by ordinance establish such right-of-way lines with such changes and modifications as it shall determine to be proper. The ordinance establishing right-of-way lines shall be recorded by the city clerk with the county recorder.</text>
+      <annotations>
+        <annotation type="History">Ord. 2003-05 § 10, 2003</annotation>
+      </annotations>
     </section>
     <section>
       <num>4.06.110</num>
@@ -715,11 +731,11 @@
       <heading>Variance procedure.</heading>
       <para>
         <num>A.</num>
-        <text>Variance may be granted from the provisions of this chapter where unnecessary or unusual hardship is shown and where such variance will not defeat the purposes of the right-of-way lines established by this chapter; provided that the applicant waives all claims for compensation and damages caused by the taking of any property affected by such a variance pursuant to the exercise of the right of eminent domain or any other right of this city or any other action.</text>
+        <text>Variance may be granted from the provisions of <cite path="4.06">this chapter</cite> where unnecessary or unusual hardship is shown and where such variance will not defeat the purposes of the right-of-way lines established by <cite path="4.06">this chapter</cite>; provided that the applicant waives all claims for compensation and damages caused by the taking of any property affected by such a variance pursuant to the exercise of the right of eminent domain or any other right of this city or any other action.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>The provisions governing the procedure for variances and appeals from the zoning ordinance of the city shall apply to the procedures for variances and appeals from the provisions of this chapter.</text>
+        <text>The provisions governing the procedure for variances and appeals from the zoning ordinance of the city shall apply to the procedures for variances and appeals from the provisions of <cite path="4.06">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2003-05 § 13, 2003</annotation>

@@ -14,10 +14,10 @@
       <section>
         <num>14.04.005</num>
         <heading>Definitions.</heading>
-        <text>For purposes of this chapter, the definitions in Sections <cite path="|13.06.010">13.06.010</cite> of the Municipal Code shall be construed as applicable to this chapter except as set forth in this section:</text>
-        <text>"High strength, nonresidential customer" includes all customers whose discharge exceeds the levels of biochemical oxygen demand (BOD) or total suspended solids (TSS) set forth in the "normal strength, nonresidential customer" definition in this section.</text>
+        <text>For purposes of <cite path="14.04">this chapter</cite>, the definitions in Sections <cite path="|13.06.010">13.06.010</cite> of the Municipal Code shall be construed as applicable to <cite path="14.04">this chapter</cite> except as set forth in <cite path="|14.04.005">this section</cite>:</text>
+        <text>"High strength, nonresidential customer" includes all customers whose discharge exceeds the levels of biochemical oxygen demand (BOD) or total suspended solids (TSS) set forth in the "normal strength, nonresidential customer" definition in <cite path="|14.04.005">this section</cite>.</text>
         <text>"Meter factor" means the ratio applied to meter readings to determine the billable flow for nonresidential users. For domestic water meters, the factor shall equal 1.00; for sewer meters the flow shall equal 1.11.</text>
-        <text>"Multifamily residential" includes any premises that is residential in nature and consists of more than one dwelling unit served by a single metered water connection. Such master-metered customers shall be charged as set forth in this chapter. Temporary residential premises (e.g., hotels) are treated as a commercial use.</text>
+        <text>"Multifamily residential" includes any premises that is residential in nature and consists of more than one dwelling unit served by a single metered water connection. Such master-metered customers shall be charged as set forth in <cite path="14.04">this chapter</cite>. Temporary residential premises (e.g., hotels) are treated as a commercial use.</text>
         <text>"Normal strength, nonresidential customer" includes all customers whose discharge conforms to "normal strength, nonresidential wastewater" but not included as residential customers in Sections <cite path="|14.04.010">14.04.010</cite> and <cite path="|14.04.020">14.04.020</cite>. In lieu of separate analysis or adopted tables per <cite path="|14.04.040">Section 14.04.040</cite>, these customers shall generally include churches, public schools, private schools, commercial facilities, industrial facilities, government uses, and office buildings. The city reserves the right to assign any customer to high strength, nonresidential status, based on that customer's actual BOD or TSS.</text>
         <text>"Normal strength, nonresidential wastewater" means all wastewater discharged to the city wastewater collection system with a BOD of no more than two hundred thirty six milligrams per liter or a TSS of no more than two hundred thirty-six milligrams per liter.</text>
         <annotations>
@@ -41,9 +41,11 @@
         </para>
         <para>
           <num>D.</num>
-          <text>The city may exercise its discretion consistent with <em>Hansen v. City of San Buenaventura,</em> 42 Cal.3d 1172 (1986) to enact a rate for property owners outside the city which is forty percent greater than the rate for property owners within the city. (Ord. 2007-14 § 3, 2007)</text>
+          <text>The city may exercise its discretion consistent with <em>Hansen v. City of San Buenaventura,</em> 42 Cal.3d 1172 (1986) to enact a rate for property owners outside the city which is forty percent greater than the rate for property owners within the city.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History">Ord. 2007-14 § 3, 2007</annotation>
+        </annotations>
       </section>
       <section>
         <num>14.04.020</num>
@@ -326,7 +328,7 @@
       <section>
         <num>14.04.070</num>
         <heading>Wastewater service charges—adopted by resolution.</heading>
-        <text>The city council declares its intent to make any future changes in the wastewater rates established in this chapter by setting forth the changes in a resolution duly adopted, and the adoption of such a resolution shall have the same force and effect as though the changes had been made by the adoption of an ordinance.</text>
+        <text>The city council declares its intent to make any future changes in the wastewater rates established in <cite path="14.04">this chapter</cite> by setting forth the changes in a resolution duly adopted, and the adoption of such a resolution shall have the same force and effect as though the changes had been made by the adoption of an ordinance.</text>
         <annotations>
           <annotation type="History">Ord. 2007-14 § 3, 2007</annotation>
         </annotations>
@@ -356,7 +358,7 @@
         <text>The city council may adopt by resolution, temporary wastewater connection fees based on a fording by the city council that a particular use is temporary and does not conform to the typical use categories of residential, commercial or industrial. In such cases the temporary wastewater connection fee shall be charged for each unit of seven hundred forty-eight gallons of wastewater flow based on the following formula:</text>
         <text>Temporary Connection Fee =</text>
         <text>$4.20/unit of wastewater x (0.85 + (.09 x BOD (in mg/l) ÷ 236) + (0.6 x TSS (in mg/l) ÷ 238))</text>
-        <text>The city manager or city manager's designee may be delegated responsibility for billing and monitoring temporary connection fees in accordance with this section.</text>
+        <text>The city manager or city manager's designee may be delegated responsibility for billing and monitoring temporary connection fees in accordance with <cite path="|14.04.090">this section</cite>.</text>
         <annotations>
           <annotation type="History">Ord. 2004-06 § 4, 2004</annotation>
           <annotation type="History">Ord. 2001-03 § 6, 2001</annotation>
@@ -367,11 +369,11 @@
         <heading>Adjustments to wastewater connection fees.</heading>
         <para>
           <num>A.</num>
-          <text>The city at its sole discretion may adopt revised wastewater connection fees based on the pro-commit participation by the general fund of the city proportionate effects of inflation or changes to the cost of living. For purposes of calculation, the Engineering News Record 20-City Construction Cost Index shall be used for adjusting said fees. Said adjustments in accordance with this section may be approved by a resolution of the city council.</text>
+          <text>The city at its sole discretion may adopt revised wastewater connection fees based on the pro-commit participation by the general fund of the city proportionate effects of inflation or changes to the cost of living. For purposes of calculation, the Engineering News Record 20-City Construction Cost Index shall be used for adjusting said fees. Said adjustments in accordance with <cite path="|14.04.100">this section</cite> may be approved by a resolution of the city council.</text>
         </para>
         <para>
           <num>B.</num>
-          <text>At the sole discretion of the city council applicants may be charged either the industrial wastewater service connection fee in accordance with <cite path="|14.04.080">Section 14.04.080</cite>(A) and (B), or <cite path="|14.04.070">Section 14.04.070</cite>, connection fees, commercial wastewater service connection fee.</text>
+          <text>At the sole discretion of the city council applicants may be charged either the industrial wastewater service connection fee in accordance with <cite path="|14.04.080|(A)">Section 14.04.080(A) </cite>and (B), or <cite path="|14.04.070">Section 14.04.070</cite>, connection fees, commercial wastewater service connection fee.</text>
         </para>
         <para>
           <num>C.</num>
@@ -456,7 +458,6 @@
             </table>
           </text>
         </para>
-        <text/>
         <annotations>
           <annotation type="History">Ord. 2007-12 § 1, 2007</annotation>
         </annotations>
@@ -466,7 +467,7 @@
         <heading>Wastewater capacity fee—High strength or industrial.</heading>
         <para>
           <num>A.</num>
-          <text>For all high strength connections to the wastewater system, the wastewater capacity fee shall be calculated based on the numbers of EDUs of the new connection, with each EDU paying the same rate as one EDU as outlined in <cite path="|14.06.020">Section 14.06.020</cite>(D).</text>
+          <text>For all high strength connections to the wastewater system, the wastewater capacity fee shall be calculated based on the numbers of EDUs of the new connection, with each EDU paying the same rate as one EDU as outlined in <cite path="|14.06.020|(D)">Section 14.06.020(D)</cite>.</text>
           <text>
             <table>
               <tbody>
@@ -491,15 +492,19 @@
               </tbody>
             </table>
           </text>
-          <text>"BOD" means bio-chemical oxygen demand and "TSS" means total suspended solids. BOD and TSS are expressed in milligrams per liter (mg/l). Values of BOD and TSS for a particular project shall be subject to approval by the city engineer. The charges shall be subject to adjustment in accordance with <cite path="|14.04.050">Section 14.04.050</cite>(B). (Ord. 2007-12 § 1, 2007)</text>
+          <text>"BOD" means bio-chemical oxygen demand and "TSS" means total suspended solids. BOD and TSS are expressed in milligrams per liter (mg/l). Values of BOD and TSS for a particular project shall be subject to approval by the city engineer. The charges shall be subject to adjustment in accordance with <cite path="|14.04.050|(B)">Section 14.04.050(B)</cite>.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History">Ord. 2007-12 § 1, 2007</annotation>
+        </annotations>
       </section>
       <section>
         <num>14.06.040</num>
         <heading>Wastewater use substantially altered—Additional wastewater capacity fee.</heading>
-        <text>If, in the judgment of the city manager or public works director, and after the final wastewater capacity fee is established, any customer increases the discharge to the wastewater system in a substantial and permanent way, due to changes in the size or nature of the building or premises previously permitted, the city shall charge and collect additional wastewater capacity charges based upon the increased use of wastewater capacity. The additional wastewater capacity fee shall be established by computing the new number of EDUs in service at the connection, and then subtracting from that figure the number of EDUs originally purchased in accordance with <cite path="|14.08.020">Section 14.08.020</cite> or <cite path="|14.08.030">14.08.030</cite>. (Ord. 2007-12 § 1, 2007)</text>
-        <annotations/>
+        <text>If, in the judgment of the city manager or public works director, and after the final wastewater capacity fee is established, any customer increases the discharge to the wastewater system in a substantial and permanent way, due to changes in the size or nature of the building or premises previously permitted, the city shall charge and collect additional wastewater capacity charges based upon the increased use of wastewater capacity. The additional wastewater capacity fee shall be established by computing the new number of EDUs in service at the connection, and then subtracting from that figure the number of EDUs originally purchased in accordance with <cite path="|14.08.020">Section 14.08.020</cite> or <cite path="|14.08.030">14.08.030</cite>.</text>
+        <annotations>
+          <annotation type="History">Ord. 2007-12 § 1, 2007</annotation>
+        </annotations>
       </section>
       <section>
         <num>14.06.050</num>
@@ -512,7 +517,7 @@
         <text>$3.29/unit of wastewater x (0.448 + (.276 x BOD (in mg/l) ÷ 236) + (0.276 TSS (in mg/l) ÷ 238))</text>
         <para>
           <num>B.</num>
-          <text>The city manager or his or her designee may be delegated responsibility for billing and monitoring temporary connection fees in accordance with this section.</text>
+          <text>The city manager or his or her designee may be delegated responsibility for billing and monitoring temporary connection fees in accordance with <cite path="|14.06.050">this section</cite>.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2007-12 § 1, 2007</annotation>
@@ -523,7 +528,7 @@
         <heading>Adjustments to wastewater connection fees.</heading>
         <para>
           <num>A.</num>
-          <text>The city at its sole discretion may adopt revised wastewater connection fees based on the proportionate effects of inflation or changes to the cost of living. The Engineering News Record Construction Cost Index for the San Francisco Area shall be used for adjusting wastewater connection fees. The adjustments in accordance with this section shall be made annually through 2011, thereafter adjustments to the connection/capacity fees shall be approved by a resolution of the city council.</text>
+          <text>The city at its sole discretion may adopt revised wastewater connection fees based on the proportionate effects of inflation or changes to the cost of living. The Engineering News Record Construction Cost Index for the San Francisco Area shall be used for adjusting wastewater connection fees. The adjustments in accordance with <cite path="|14.06.060">this section</cite> shall be made annually through 2011, thereafter adjustments to the connection/capacity fees shall be approved by a resolution of the city council.</text>
         </para>
         <para>
           <num>B.</num>
@@ -569,7 +574,7 @@
       <section>
         <num>14.08.010</num>
         <heading>Definitions.</heading>
-        <text>The following terms, as used in this chapter, shall have the meaning designated in this section unless the context specifically indicates otherwise:</text>
+        <text>The following terms, as used in <cite path="14.08">this chapter</cite>, shall have the meaning designated in <cite path="|14.08.010">this section</cite> unless the context specifically indicates otherwise:</text>
         <text>"Act" means the Federal Water Pollution Control Act, also known as the Clean Water Act (CWA), as amended. (33 U.S.C. 1251 et seq., ref. 40 CFR 403.3(b).)</text>
         <text>"Administrator" means the administrator of the United States Environmental Protection Agency.</text>
         <text>"Applicable pretreatment standard" means the federal, state or local discharge limit, whichever is most stringent.</text>
@@ -594,7 +599,7 @@
         <text>"Clean Water Act (CWA)" (otherwise known as the Federal Water Pollution Control Act) enacted by Public Law 92-500, October 18, 1972, 33 USC 1251 et seq.; as amended by PL 95-217, December 28, 1997; PL 97-117, December 29, 1981; PL 97-440, January 8, 1983; and PL 100-04, February 4, 1987, and future amendments.</text>
         <text>"Code of Federal Regulations (CFR)" means a codification of the general and permanent roles published in the Federal Register by the executive departments and agencies of the federal government.</text>
         <text>"Combined sewer" means a sewer designated to receive both surface run-off and sewage.</text>
-        <text>"Combined wastestream formula (CWF)" means the procedure for calculating alternative discharge limits at industrial facilities where a regulated wastestream from a categorical industrial user is combined with other wastestreams prior to treatment. (Ref. 40 CFR 403.6</text>
+        <text>"Combined wastestream formula (CWF)" means the procedure for calculating alternative discharge limits at industrial facilities where a regulated wastestream from a categorical industrial user is combined with other wastestreams prior to treatment. (Ref. 40 CFR 403.6(e).)</text>
         <text>"Commercial unit" means a single business in a structure or structures on a parcel. A structure may contain several commercial units because each separate business shall be counted as a commercial unit.</text>
         <text>"Compatible pollutant" means biochemical oxygen demand, suspended solids, pH and fecal coliform bacteria, plus additional pollutants identified in Napa Sanitation District's National Pollutant Discharge Elimination System (NPDES) permit if the city's treatment works was designed to treat such pollutants, and in fact does remove such pollutants to a substantial degree.</text>
         <text>"Concentration limit" means a limit based on the mass of pollutant per unit volume, usually expressed in milligrams per liter.</text>
@@ -624,7 +629,7 @@
         <text>"Grab sample" means a sample which is taken from a wastestream on a one-time basis with no regard to the flow of the wastestream and without consideration of time.</text>
         <text>"Holding tank waste" means any waste from holding tanks such as vessels, chemical toilets, campers, trailers, septic tanks and vacuum pump trucks.</text>
         <text>"Hotel or motel unit" means sleeping quarters where no cooking facilities are available, including combinations with office or offices, restaurants, bar or bars, shop or shops. If the hotel or motel contains units with cooking facilities available, each such unit shall be charged the fee applicable to a multiple-family dwelling unit.</text>
-        <text>"Incompatible pollutant" means any pollutant which is not a "compatible pollutant" as defined in this section.</text>
+        <text>"Incompatible pollutant" means any pollutant which is not a "compatible pollutant" as defined in <cite path="|14.08.010">this section</cite>.</text>
         <text>"Indirect discharge or discharge" means the introduction of pollutants into a POTW from any nondomestic source regulated under Section 307(b), (e), or (d) of the Act. (Ref. 40 CFR 403.3(g).)</text>
         <text>"Industrial discharger" means a source of discharge to the public sanitary sewer system from any nondomestic source as regulated under Section 307(b), (c), or (d) of the Clean Water Act.</text>
         <text>"Industrial user (IU)" or "user" means a source of indirect discharge.</text>
@@ -666,7 +671,7 @@
         </para>
         <para>
           <num>2.</num>
-          <text>Construction on a site at which an existing source is located results in a modification rather than a new source if the construction does not create a new building, structure, facility or installation meeting the criteria of subsection (1)(b), or subsection (1)(c) of this section but otherwise alters, replaces, or adds to existing process or production equipment.</text>
+          <text>Construction on a site at which an existing source is located results in a modification rather than a new source if the construction does not create a new building, structure, facility or installation meeting the criteria of subsection (1)(b), or subsection (1)(c) of <cite path="|14.08.010">this section</cite> but otherwise alters, replaces, or adds to existing process or production equipment.</text>
         </para>
         <para>
           <num>3.</num>
@@ -708,9 +713,9 @@
         <text>"POTW pretreatment program" or "approved POTW pretreatment program" means a program administered by a POTW that meets the criteria established in 40 CFR 403.8 and 403.9 and which has been approved by a Regional Administrator or State Director in accordance with 40 CFR 403.11 (Ref. 40 CeR 403.3(d).)</text>
         <text>"POTW treatment plant" means that portion of the POTW which is designed to provide treatment (including recycling and reclamation) of municipal sewage and industrial waste. (Ref. 40 CFR 403.3(p).)</text>
         <text>"Premises" means any lot, parcel of land, building or establishment, either residential, commercial or industrial, both public and private, including schools, churches and institutes without limitation.</text>
-        <text>"Pretreatment" means the application of physical, chemical and/or biological processes to reduce the amount of pollutants, eliminate pollutants, or alter the nature of the pollutant properties in wastewater prior to discharging such wastewater to the public sanitary sewer system. (Ref. 40 CFR 403.3</text>
+        <text>"Pretreatment" means the application of physical, chemical and/or biological processes to reduce the amount of pollutants, eliminate pollutants, or alter the nature of the pollutant properties in wastewater prior to discharging such wastewater to the public sanitary sewer system. (Ref. 40 CFR 403.3(q).)</text>
         <text>"Pretreatment standards and requirements" means all applicable federal rules and regulations found in 40 CFR subchapter N; as well as any nonconflicting or more stringent state or local standards and any substantive procedural requirement related to pretreatment imposed on an industrial user. (Ref. 40 CFR 403.3(r).)</text>
-        <text>"Pretreatment standards for existing sources (PSES)" means categorical standards and requirements applicable to industrial sources that began construction prior to the publication of the proposed pretreatment standards for that industrial category.</text>
+        <text>"Pretreatment standards for existing sources (PSES)" means categorical standards and requirements applicable to industrial sources that began construction prior to the publication of the proposed pretreatment standards for that industrial category. (See individual categorical standards in 40 CeR Parts 405-471 for specific dates.)</text>
         <text>"Priority pollutant" means the EPA list of one hundred twenty-six substances which are an environmental hazard and may be present in water. Because of the known or suspected hazards of these pollutants, industrial users of the substances are subject to regulation.</text>
         <text>"Private sewer" means a sewer which is owned, operated and maintained by private persons or businesses, and which accommodates one or more buildings or industries.</text>
         <text>"Process wastewater" means any water which, during manufacturing or processing, comes into direct contact with, or results from the production of, or use of any raw material, intermediate product, finished product, by-product or waste product.</text>
@@ -801,14 +806,11 @@
         <text>"Waste" means sewage and any and all other waste substance, liquid, solid, gaseous, or radioactive, associated with human habitation, or of human or animal origin, or from any producing, manufacturing, or processing operation of whatever nature, including such waste placed within containers of whatever nature prior to, and for purposes of, disposal.</text>
         <text>"Waste minimization" means the reduction or elimination, to the extent feasible, of any waste that is generated or subsequently treated, stored or disposed of. It is the elimination or reduction in the use of hazardous materials and the generation of hazardous wastes. It seeks to prevent pollutant releases to all environmental media: water, land or air.</text>
         <text>"Wastewater constituents and characteristics" means the individual chemical, physical, bacteriological and radiological parameters, including volume and flow rate and such other parameters, including volume and flow rate and such other parameters that serve to define, classify, or measure the contents, quality, quantity and strength of wastewater.</text>
-        <text>"Wastewater discharge permit" means a permit for the discharge of nondomestic waste as set forth in this chapter.</text>
+        <text>"Wastewater discharge permit" means a permit for the discharge of nondomestic waste as set forth in <cite path="14.08">this chapter</cite>.</text>
         <text>"Wastewater treatment system" means any device, facility, structure or equipment owned or operated by the city for the purpose of transmission, storage treatment, recycling, or reclamation of nondomestic or domestic wastes, including intercepting sewers, outfall sewers, sewer collection systems, pumps, powerplants and other equipment, and their appurtenances; extensions, improvements, remodeling, additions, and alterations thereof, any works, including site acquisition of the land that will be an integral part of the treatment process or is used for ultimate disposal of residues resulting from such treatment.</text>
         <text>"Water management division director" means one of the directors of the Water Management Divisions within the regional offices of the Environmental Protection Agency or delegated representative. (Ref. 40 CNR 403.3(f).)</text>
         <text>"Waters of the state" means any water, surface or underground, including saline waters within the boundaries of the state.</text>
         <annotations>
-          <annotation type="Prior Codifications">E).</annotation>
-          <annotation type="Prior Codifications">Q).</annotation>
-          <annotation type="Prior Codifications">SEE INDIVIDUAL CATEGORICAL STANDARDS IN 40 CER PARTS 405-471 FOR SPECIFIC DATES.</annotation>
           <annotation type="History">Ord. 2001-12 § 2, 2001</annotation>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 Art. 1, 1993</annotation>
@@ -822,7 +824,7 @@
       <section>
         <num>14.12.010</num>
         <heading>Rules and regulations.</heading>
-        <text>The following rules and regulations respecting disposal of sewage and drainage of buildings and connections to the sewage works of the city are adopted, and all work in respect thereto shall be performed as required in this chapter and not otherwise.</text>
+        <text>The following rules and regulations respecting disposal of sewage and drainage of buildings and connections to the sewage works of the city are adopted, and all work in respect thereto shall be performed as required in <cite path="14.12">this chapter</cite> and not otherwise.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 201.00, 1993</annotation>
@@ -831,25 +833,19 @@
       <section>
         <num>14.12.020</num>
         <heading>Purpose.</heading>
-        <text>This chapter is intended to provide rules and regulations for the use of sanitary sewer facilities hereafter installed, altered or repaired within the city's jurisdiction. This chapter shall not apply retroactively, and in the event of an alteration or repair hereafter made, it shall apply only to the new materials and methods used in this chapter.</text>
-        <annotations>
-          <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
-          <annotation type="History">Ord. 93-01 § 202.00, 1993</annotation>
-        </annotations>
+        <text><cite path="14.12">This chapter</cite> is intended to provide rules and regulations for the use of sanitary sewer facilities hereafter installed, altered or repaired within the city's jurisdiction. <cite path="14.12">This chapter</cite> shall not apply retroactively, and in the event of an alteration or repair hereafter made, it shall apply only to the new materials and methods used in <cite path="14.12">this chapter</cite>.</text>
+        <annotations/>
       </section>
       <section>
         <num>14.12.030</num>
         <heading>Short title.</heading>
-        <text>This chapter shall be known as the city sanitary sewer ordinance.</text>
-        <annotations>
-          <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
-          <annotation type="History">Ord. 93-01 § 203.00, 1993</annotation>
-        </annotations>
+        <text><cite path="14.12">This chapter</cite> shall be known as the city sanitary sewer ordinance.</text>
+        <annotations/>
       </section>
       <section>
         <num>14.12.040</num>
         <heading>Publication.</heading>
-        <text>Upon adoption, this chapter shall be entered in the minutes of the council and an excerpt needs to be published in the county, and the Napa Register, newspapers of general circulation printed and published in the city, within fifteen days following its passage and adoption, and shall take effect and be in force and effect immediately upon the expiration of thirty days after its passage.</text>
+        <text>Upon adoption, <cite path="14.12">this chapter</cite> shall be entered in the minutes of the council and an excerpt needs to be published in the county, and the Napa Register, newspapers of general circulation printed and published in the city, within fifteen days following its passage and adoption, and shall take effect and be in force and effect immediately upon the expiration of thirty days after its passage.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 204.00, 1993</annotation>
@@ -858,7 +854,7 @@
       <section>
         <num>14.12.050</num>
         <heading>Violation unlawful.</heading>
-        <text>Following the effective date of this chapter, it shall be unlawful for any person to connect to, construct, install or provide, maintain and use any other means of sewage disposal from any building in the city except by connecting to a public sewer in the manner specified in the ordinance codified in this chapter and in other applicable ordinances of the city.</text>
+        <text>Following the effective date of <cite path="14.12">this chapter</cite>, it shall be unlawful for any person to connect to, construct, install or provide, maintain and use any other means of sewage disposal from any building in the city except by connecting to a public sewer in the manner specified in the ordinance codified in <cite path="14.12">this chapter</cite> and in other applicable ordinances of the city.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 205.00, 1993</annotation>
@@ -869,13 +865,13 @@
         <heading>Relief on application.</heading>
         <para>
           <num>A.</num>
-          <text>When any person, by reason of special circumstances, is of the opinion that any provision of this title is unjust or inequitable as applied to his or her premises, he or she may make written application to the city manager or designee, stating the special circumstances, citing the provision complained of, and requesting suspension or modification of that provision as applied to his or her premises.</text>
+          <text>When any person, by reason of special circumstances, is of the opinion that any provision of <cite path="14">this title</cite> is unjust or inequitable as applied to his or her premises, he or she may make written application to the city manager or designee, stating the special circumstances, citing the provision complained of, and requesting suspension or modification of that provision as applied to his or her premises.</text>
         </para>
         <para>
           <num>B.</num>
           <text>If such application be approved, the city manager or designee may, but only to the extent compatible with state and federal laws, rules and</text>
         </para>
-        <text>egulations pertaining to wastewater facilities constructed, in part, with grant funds, by resolution, suspend or modify the provision complained of, as applied to such premises, to be effective as of the date of application and continuing during the period of the special circumstances.</text>
+        <text>regulations pertaining to wastewater facilities constructed, in part, with grant funds, by resolution, suspend or modify the provision complained of, as applied to such premises, to be effective as of the date of application and continuing during the period of the special circumstances.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 206.00, 1993</annotation>
@@ -911,7 +907,7 @@
       <section>
         <num>14.12.100</num>
         <heading>User permit.</heading>
-        <text>No contributory industry shall be allowed to discharge wastewater until a user permit has been obtained from the city and all fees paid in accordance with the ordinances, rules and regulations of the city. Existing contributory industries shall obtain a user permit within one hundred twenty days after adoption of this title.</text>
+        <text>No contributory industry shall be allowed to discharge wastewater until a user permit has been obtained from the city and all fees paid in accordance with the ordinances, rules and regulations of the city. Existing contributory industries shall obtain a user permit within one hundred twenty days after adoption of <cite path="14">this title</cite>.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 210.00, 1993</annotation>
@@ -938,7 +934,7 @@
       <section>
         <num>14.12.130</num>
         <heading>Treatment of wastes required.</heading>
-        <text>It is unlawful to discharge to any stream or watercourse any sewage, industrial wastes, or other polluted waters, except where suitable treatment has been provided in accordance with provisions of this chapter.</text>
+        <text>It is unlawful to discharge to any stream or watercourse any sewage, industrial wastes, or other polluted waters, except where suitable treatment has been provided in accordance with provisions of <cite path="14.12">this chapter</cite>.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 302.00, 1993</annotation>
@@ -947,7 +943,7 @@
       <section>
         <num>14.12.140</num>
         <heading>Unlawful disposal.</heading>
-        <text>Except as provided in this chapter, it shall be unlawful to construct or maintain any privy, privy vault, septic tank, cesspool, seepage pit or other facility intended or used for the disposal of sewage.</text>
+        <text>Except as provided in <cite path="14.12">this chapter</cite>, it shall be unlawful to construct or maintain any privy, privy vault, septic tank, cesspool, seepage pit or other facility intended or used for the disposal of sewage.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 303.00, 1993</annotation>
@@ -965,7 +961,7 @@
       <section>
         <num>14.12.160</num>
         <heading>Sewer required.</heading>
-        <text>The owner of any building situated within the jurisdiction of the city and abutting on any street in which there is now located or may in the future be located a public sewer of the jurisdiction of the city, is required at his or her expense to connect the building directly with the proper public sewer in accordance with the provisions of this chapter, within ninety days after date of official notice to do so, provided that the public sewer is within two hundred feet of the nearest point of the property; provided, however, that where territory is annexed to the city or jurisdiction of the city upon which existing improvements are located which are served by a satisfactorily operating and maintained septic tank, the owner may continue to dispose of waste to the septic tank so long as it remains in operating condition to the satisfaction of the county health officer or until any additional building or buildings or any division of the property is proposed at which time connection to the public sewer shall be required.</text>
+        <text>The owner of any building situated within the jurisdiction of the city and abutting on any street in which there is now located or may in the future be located a public sewer of the jurisdiction of the city, is required at his or her expense to connect the building directly with the proper public sewer in accordance with the provisions of <cite path="14.12">this chapter</cite>, within ninety days after date of official notice to do so, provided that the public sewer is within two hundred feet of the nearest point of the property; provided, however, that where territory is annexed to the city or jurisdiction of the city upon which existing improvements are located which are served by a satisfactorily operating and maintained septic tank, the owner may continue to dispose of waste to the septic tank so long as it remains in operating condition to the satisfaction of the county health officer or until any additional building or buildings or any division of the property is proposed at which time connection to the public sewer shall be required.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 305.00, 1993</annotation>
@@ -1015,7 +1011,7 @@
       <section>
         <num>14.12.180</num>
         <heading>Sewer use regulations—Authority.</heading>
-        <text>This regulation is adopted under authorization of the Government Code Section 38900 and the Health and Safety Code Section 5470 et seq.</text>
+        <text>This regulation is adopted under authorization of the <cite doc="Cal. Gov't Code" path="§38900">Government Code Section 38900</cite> and the <cite doc="Cal. Health &amp; Safety Code" path="§5470">Health and Safety Code Section 5470</cite> et seq.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 502.00, 1993</annotation>
@@ -1024,7 +1020,7 @@
       <section>
         <num>14.12.190</num>
         <heading>Sewer use regulations—Legal authority.</heading>
-        <text>Legal authority for the city industrial user permit program and permit issuance procedures. The city has authority over all industrial users contributing wastewater to the POTW. This title provides the authority to issue control mechanisms, conduct compliance monitor activities, and when warranted, take appropriate enforcement action in response to noncompliance by users located within the city jurisdiction.</text>
+        <text>Legal authority for the city industrial user permit program and permit issuance procedures. The city has authority over all industrial users contributing wastewater to the POTW. <cite path="14">This title</cite> provides the authority to issue control mechanisms, conduct compliance monitor activities, and when warranted, take appropriate enforcement action in response to noncompliance by users located within the city jurisdiction.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 503.00, 1993</annotation>
@@ -1048,7 +1044,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>All plumbers shall be held strictly responsible for any and all acts of agents or employees done under this title. Upon being notified by the city manager or designee of any defect arising therefrom in any sewer or of any violation of this title, the person or persons having charge of the work shall immediately correct the same.</text>
+          <text>All plumbers shall be held strictly responsible for any and all acts of agents or employees done under <cite path="14">this title</cite>. Upon being notified by the city manager or designee of any defect arising therefrom in any sewer or of any violation of <cite path="14">this title</cite>, the person or persons having charge of the work shall immediately correct the same.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
@@ -1131,7 +1127,7 @@
       <section>
         <num>14.16.040</num>
         <heading>Compliance schedule.</heading>
-        <text>The city may require from any industrial user a compliance schedule for the installation of technology required to meet applicable pretreatment standards and requirements and submit all notices and reports from industrial users including, but not limited to, the reports required in this chapter. (Ref. 40 CFR 403.8(f)(1)(iv).)</text>
+        <text>The city may require from any industrial user a compliance schedule for the installation of technology required to meet applicable pretreatment standards and requirements and submit all notices and reports from industrial users including, but not limited to, the reports required in <cite path="14.16">this chapter</cite>. (Ref. 40 CFR 403.8(f)(1)(iv).)</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 503.04, 1993</annotation>
@@ -1149,7 +1145,7 @@
       <section>
         <num>14.16.060</num>
         <heading>Remedies for noncompliance.</heading>
-        <text>The city may obtain remedies for noncompliance by any industrial user with any pretreatment standard and requirement including injunctive relief, civil and criminal penalties, judicial relief, termination of service, etc., as detailed in the enforcement provisions contained within this title. (Ref. 40 CFR 403.8(f)(1)(vi).)</text>
+        <text>The city may obtain remedies for noncompliance by any industrial user with any pretreatment standard and requirement including injunctive relief, civil and criminal penalties, judicial relief, termination of service, etc., as detailed in the enforcement provisions contained within <cite path="14">this title</cite>. (Ref. 40 CFR 403.8(f)(1)(vi).)</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 503.06, 1993</annotation>
@@ -1160,7 +1156,7 @@
         <heading>Discharge permits.</heading>
         <para>
           <num>A.</num>
-          <text>Permits to discharge into the sewage system of the city will only be granted after considering all elements of this title.</text>
+          <text>Permits to discharge into the sewage system of the city will only be granted after considering all elements of <cite path="14">this title</cite>.</text>
         </para>
         <para>
           <num>B.</num>
@@ -1168,7 +1164,7 @@
         </para>
         <para>
           <num>C.</num>
-          <text>Nonresidential users may be exempted from the permit requirements of this title at the discretion of the city manager if they are known to discharge only domestic sanitary sewage (as defined).</text>
+          <text>Nonresidential users may be exempted from the permit requirements of <cite path="14">this title</cite> at the discretion of the city manager if they are known to discharge only domestic sanitary sewage (as defined).</text>
         </para>
         <para>
           <num>D.</num>
@@ -1302,7 +1298,6 @@
             </tbody>
           </table>
         </text>
-        <text/>
         <annotations>
           <annotation type="History">Ord. 2004-09 § 1, 2004</annotation>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
@@ -1435,7 +1430,7 @@
       <section>
         <num>14.16.210</num>
         <heading>Local limits—Discharge limit development.</heading>
-        <text>As required in this section and pursuant to 40 CFR 403.8, the control authority, (the city) continually develops and enforces specific limits to implement the prohibitions listed in 403.5(a)(1) and 403.5(b) including the local limits.</text>
+        <text>As required in <cite path="|14.16.210">this section</cite> and pursuant to 40 CFR 403.8, the control authority, (the city) continually develops and enforces specific limits to implement the prohibitions listed in 403.5(a)(1) and 403.5(b) including the local limits.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 506.04.1, 1993</annotation>
@@ -1610,7 +1605,7 @@
             </tbody>
           </table>
         </text>
-        <text>*	(Na) 70 mg/I or if Sodium concentration exceeds this value then discharge must not have an SAR exceeding 6.</text>
+        <text>* (Na) 70 mg/I or if Sodium concentration exceeds this value then discharge must not have an SAR exceeding 6.</text>
         <para>
           <num>B.</num>
           <text>The maximum allowable concentration of toxic or potentially toxic material not listed above will be determined on an individual basis. No industrial waste shall be discharged which has a lethal toxicity as determined by a ninety-six-hour static bioassay using threespine stickleback of less than twenty-five percent concentration of wastewater.</text>
@@ -1712,7 +1707,6 @@
             </tbody>
           </table>
         </text>
-        <text/>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 506.05.9, 1993</annotation>
@@ -1779,7 +1773,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>Nothing in this section shall be construed to limit the authority of appropriate health agencies to define wastes as being infectious and to prohibit discharge to the sanitary sewer.</text>
+          <text>Nothing in <cite path="|14.16.320">this section</cite> shall be construed to limit the authority of appropriate health agencies to define wastes as being infectious and to prohibit discharge to the sanitary sewer.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
@@ -1880,7 +1874,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>Discharge of any waste covered by this section shall not be discharged into the sewerage systems until after specific approval of the quantity and procedure proposed has been granted by the city manager or his designee.</text>
+          <text>Discharge of any waste covered by <cite path="|14.16.390">this section</cite> shall not be discharged into the sewerage systems until after specific approval of the quantity and procedure proposed has been granted by the city manager or his designee.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
@@ -1940,7 +1934,7 @@
         </para>
         <para>
           <num>D.</num>
-          <text>Contents of Application. Each request must include a description of which subcategories might be applicable, evidence and reasons why a particular subcategory may or may not be applicable, and a signed statement of truthfulness as cited in 40 CFR 403.6(a)(2)(ii). (See sample "statement of truthfulness" at the end of this chapter.)</text>
+          <text>Contents of Application. Each request must include a description of which subcategories might be applicable, evidence and reasons why a particular subcategory may or may not be applicable, and a signed statement of truthfulness as cited in 40 CFR 403.6(a)(2)(ii). (See sample "statement of truthfulness" at the end of <cite path="14.16">this chapter</cite>.)</text>
         </para>
         <para>
           <num>E.</num>
@@ -2020,19 +2014,19 @@
           <text>Accidental Discharges.</text>
           <para>
             <num>1.</num>
-            <text>Each discharger shall provide protection from accidental discharge of prohibited materials and/or other wastes regulated by this title. Where necessary, or as directed by the city manager, retention basins, dikes, storage tanks or other facilities designed to eliminate, neutralize, offset or otherwise negate the effects of prohibited materials or wastes discharged in violation of this title shall be installed.</text>
+            <text>Each discharger shall provide protection from accidental discharge of prohibited materials and/or other wastes regulated by <cite path="14">this title</cite>. Where necessary, or as directed by the city manager, retention basins, dikes, storage tanks or other facilities designed to eliminate, neutralize, offset or otherwise negate the effects of prohibited materials or wastes discharged in violation of <cite path="14">this title</cite> shall be installed.</text>
           </para>
           <para>
             <num>2.</num>
-            <text>Dischargers shall notify the city immediately when accidental discharges, including slug loads of wastes in violation of this title occur so that counter measures may be taken by the city to minimize damage to the sewer system, treatment plant, treatment process and the receiving waters. Such notification of "interference" will not relieve dischargers of liability for any expense, loss or damage to the sewer system, judgments imposed on the city on account thereof under Section 13000 et seq., of the California Water Code or for violation of Section 5650 of the California Fish and Game Code.</text>
+            <text>Dischargers shall notify the city immediately when accidental discharges, including slug loads of wastes in violation of <cite path="14">this title</cite> occur so that counter measures may be taken by the city to minimize damage to the sewer system, treatment plant, treatment process and the receiving waters. Such notification of "interference" will not relieve dischargers of liability for any expense, loss or damage to the sewer system, judgments imposed on the city on account thereof under Section 13000 et seq., of the <cite doc="Cal. Water Code">California Water Code</cite> or for violation of <cite doc="Cal. Fish &amp; Game Code" path="§5650">Section 5650 of the California Fish and Game Code</cite>.</text>
           </para>
           <para>
             <num>3.</num>
-            <text>In the event of accident discharge in violation of this title, discharger shall furnish the city, within five days of the date of occurrence, a detailed written statement describing the causes of the accidental discharge and the measure being taken to prevent future occurrence.</text>
+            <text>In the event of accident discharge in violation of <cite path="14">this title</cite>, discharger shall furnish the city, within five days of the date of occurrence, a detailed written statement describing the causes of the accidental discharge and the measure being taken to prevent future occurrence.</text>
           </para>
           <para>
             <num>4.</num>
-            <text>Sewer connections within the discharger's plumbing or drainage system shall be appropriately labeled to warn operating personnel against discharge of any substance in violation of this title.</text>
+            <text>Sewer connections within the discharger's plumbing or drainage system shall be appropriately labeled to warn operating personnel against discharge of any substance in violation of <cite path="14">this title</cite>.</text>
           </para>
         </para>
         <para>
@@ -2073,7 +2067,7 @@
         </para>
         <para>
           <num>G.</num>
-          <text>Public Participation (Significant Noncompliance). The procedures in this section and 40 CFR Part 25 in the enforcement of national pretreatment standards include provision. An industrial user is in significant noncompliance if its violation meets one or more of the following criteria:</text>
+          <text>Public Participation (Significant Noncompliance). The procedures in <cite path="|14.16.460">this section</cite> and 40 CFR Part 25 in the enforcement of national pretreatment standards include provision. An industrial user is in significant noncompliance if its violation meets one or more of the following criteria:</text>
           <para>
             <num>1.</num>
             <text>Chronic violations (exceeding the daily maximum limit or the average limit sixty-six percent of the time during a six-month period) of the same pollutant parameter;</text>
@@ -2117,11 +2111,11 @@
         </para>
         <para>
           <num>B.</num>
-          <text>Notice of Violation. Whenever the city manager or his designee finds that discharge of any waste is, or threatens to become, a public nuisance or a violation of established requirements, including but not limited to this title, other ordinances and resolutions, he may issue an order specifying such nuisance, violations, or threatened violations, and ordering compliance within the time schedule specified therein. Noncompliance with such order shall constitute a violation of this title.</text>
+          <text>Notice of Violation. Whenever the city manager or his designee finds that discharge of any waste is, or threatens to become, a public nuisance or a violation of established requirements, including but not limited to <cite path="14">this title</cite>, other ordinances and resolutions, he may issue an order specifying such nuisance, violations, or threatened violations, and ordering compliance within the time schedule specified therein. Noncompliance with such order shall constitute a violation of <cite path="14">this title</cite>.</text>
         </para>
         <para>
           <num>C.</num>
-          <text>Serious and Immediate Hazards. Notwithstanding the provisions of any other section of this title, whenever in the judgment of the city manager or his designee, it appears that any waste discharge is causing any condition constituting a hazard to the life, health or safety of any person, or the sewage system, the city manager or his designee is empowered to terminate service immediately.</text>
+          <text>Serious and Immediate Hazards. Notwithstanding the provisions of any other section of <cite path="14">this title</cite>, whenever in the judgment of the city manager or his designee, it appears that any waste discharge is causing any condition constituting a hazard to the life, health or safety of any person, or the sewage system, the city manager or his designee is empowered to terminate service immediately.</text>
         </para>
         <para>
           <num>D.</num>
@@ -2141,18 +2135,18 @@
         </para>
         <para>
           <num>H.</num>
-          <text>Measurements and Tests. All measurements, tests and analysis of the characteristics of waters and wastes to which reference is made in this title shall be determined in accordance with the test procedures found in 40 (Lit Part 136 and amendments thereto whenever applicable. If the 40 CFR procedures must be approved by the EPA. Analysis shall be determined from samples collected at a predetermined manhole or other sampling location (i.e., control manhole, end of process, end of pipe, or other location) identified and approved by the city manager. In the event that no special sampling location or manhole has been required, the control manhole shall be considered to be the nearest downstream manhole in the public sewer to the point at which the side sewer is connected.</text>
+          <text>Measurements and Tests. All measurements, tests and analysis of the characteristics of waters and wastes to which reference is made in <cite path="14">this title</cite> shall be determined in accordance with the test procedures found in 40 (Lit Part 136 and amendments thereto whenever applicable. If the 40 CFR procedures must be approved by the EPA. Analysis shall be determined from samples collected at a predetermined manhole or other sampling location (i.e., control manhole, end of process, end of pipe, or other location) identified and approved by the city manager. In the event that no special sampling location or manhole has been required, the control manhole shall be considered to be the nearest downstream manhole in the public sewer to the point at which the side sewer is connected.</text>
         </para>
         <para>
           <num>I.</num>
-          <text>Special Agreements. No statement contained in this chapter shall be construed as preventing any special agreement or arrangement between the city and any industrial user concern whereby an industrial waste of unusual strength or character may be accepted by the city for treatment, subject to payment therefore by the industrial concern and subject to such terms and conditions as might be required by city. This agreement of waiver does not preclude any National Categorical Pretreatment Standard or requirement, or local limits.</text>
+          <text>Special Agreements. No statement contained in <cite path="14.16">this chapter</cite> shall be construed as preventing any special agreement or arrangement between the city and any industrial user concern whereby an industrial waste of unusual strength or character may be accepted by the city for treatment, subject to payment therefore by the industrial concern and subject to such terms and conditions as might be required by city. This agreement of waiver does not preclude any National Categorical Pretreatment Standard or requirement, or local limits.</text>
         </para>
         <para>
           <num>J.</num>
           <text>Changes in Pretreatment and Waste Discharge Requirements.</text>
           <para>
             <num>1.</num>
-            <text>The provisions contained in this chapter relating to pretreatment and to prohibited waste discharges and as to limitations and restrictions on waste discharges are subject to regulations by state and federal authorities and are subject to the terms and conditions of the National Pollution Discharge Elimination System Permit heretofore issued to the city and/or American Canyon Napa Wastewater Authority (NAC). Should the state and federal regulations be modified or should amended, the requirements of this title shall be suspended to the extent that such standards shall be immediately applicable upon the effective date of such state or federal regulations or of the amendment to the national pollution discharge elimination system permit.</text>
+            <text>The provisions contained in <cite path="14.16">this chapter</cite> relating to pretreatment and to prohibited waste discharges and as to limitations and restrictions on waste discharges are subject to regulations by state and federal authorities and are subject to the terms and conditions of the National Pollution Discharge Elimination System Permit heretofore issued to the city and/or American Canyon Napa Wastewater Authority (NAC). Should the state and federal regulations be modified or should amended, the requirements of <cite path="14">this title</cite> shall be suspended to the extent that such standards shall be immediately applicable upon the effective date of such state or federal regulations or of the amendment to the national pollution discharge elimination system permit.</text>
           </para>
           <para>
             <num>2.</num>
@@ -2176,7 +2170,7 @@
           <text>Baseline Monitoring Report.</text>
           <para>
             <num>1.</num>
-            <text>A baseline monitoring report must be submitted by existing and new industrial users subject to categorical standards and currently discharging or scheduled to discharge to the sewer system. Existing industrial users must submit the required information in this section within one hundred eighty days after the effective date of a categorical pretreatment standard or one hundred eighty days after the final administrative decision made upon a category, determination submission, whichever is later. New source industrial users must submit the required information at least ninety days prior to commencement of discharge.</text>
+            <text>A baseline monitoring report must be submitted by existing and new industrial users subject to categorical standards and currently discharging or scheduled to discharge to the sewer system. Existing industrial users must submit the required information in <cite path="|14.16.480">this section</cite> within one hundred eighty days after the effective date of a categorical pretreatment standard or one hundred eighty days after the final administrative decision made upon a category, determination submission, whichever is later. New source industrial users must submit the required information at least ninety days prior to commencement of discharge.</text>
           </para>
           <para>
             <num>2.</num>
@@ -2216,7 +2210,7 @@
           </para>
           <para>
             <num>4.</num>
-            <text>A minimum of one representative sample will be taken to comply with the requirements of this section.</text>
+            <text>A minimum of one representative sample will be taken to comply with the requirements of <cite path="|14.16.480">this section</cite>.</text>
           </para>
           <para>
             <num>5.</num>
@@ -2292,8 +2286,11 @@
       <section>
         <num>14.16.520</num>
         <heading>Reporting requirements—Notice of slug loading.</heading>
-        <text>The industrial user shall notify the city immediately of any slug loading, as defined in <cite path="|14.08.010">Section 14.08.010</cite> of this division, by the industrial user. (Ref. 40 CFR 403.12(f).) (Ord. 98-07 § 2, 1998; Ord. 93-01 § 514.05, 1993)</text>
-        <annotations/>
+        <text>The industrial user shall notify the city immediately of any slug loading, as defined in <cite path="|14.08.010">Section 14.08.010</cite> of this division, by the industrial user. (Ref. 40 CFR 403.12(f).)</text>
+        <annotations>
+          <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
+          <annotation type="History">Ord. 93-01 § 514.05, 1993</annotation>
+        </annotations>
       </section>
       <section>
         <num>14.16.530</num>
@@ -2352,7 +2349,7 @@
       <section>
         <num>14.16.570</num>
         <heading>Reporting requirements—Signatory requirements for industrial user reports.</heading>
-        <text>All required reports shall include the certification statement as set forth at the end of this chapter, and shall be signed by an authorized representative of the industrial user. An authorized representative may be:</text>
+        <text>All required reports shall include the certification statement as set forth at the end of <cite path="14.16">this chapter</cite>, and shall be signed by an authorized representative of the industrial user. An authorized representative may be:</text>
         <para>
           <num>A.</num>
           <text>A responsible corporate officer (president, vice-president, or secretary-treasurer) in charge of a principal business function, etc.</text>
@@ -2379,7 +2376,7 @@
         </para>
         <para>
           <num>D.</num>
-          <text>A reauthorized individual that satisfies the requirements in this section. (Ref. 40 CFR 403.12(1).)</text>
+          <text>A reauthorized individual that satisfies the requirements in <cite path="|14.16.570">this section</cite>. (Ref. 40 CFR 403.12(1).)</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
@@ -2390,7 +2387,6 @@
         <num>14.16.580</num>
         <heading>Reporting requirements—Provisions governing fraud and false statements..</heading>
         <text>The reports required in 40 CFR 403.12 are subject to the provisions of 18 U.S.C. 1001 relating to fraud and false statements and the provisions of Section 309(c)(2) of the Act governing false statements, representations or certifications in reports required under the Act. (Ref. 40 CFR 403.12(n).)</text>
-        <text/>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 514.11, 1993</annotation>
@@ -2401,7 +2397,7 @@
         <heading>Reporting requirements—Recordkeeping requirements.</heading>
         <para>
           <num>A.</num>
-          <text>Any industrial user, subject to reporting requirements established in 40 CFR 403.12, shall maintain records of all information resulting from any monitoring activities required in the Code of Federal Regulations, this title, and waste discharge permit. Such records shall include for all samples:</text>
+          <text>Any industrial user, subject to reporting requirements established in 40 CFR 403.12, shall maintain records of all information resulting from any monitoring activities required in the Code of Federal Regulations, <cite path="14">this title</cite>, and waste discharge permit. Such records shall include for all samples:</text>
           <para>
             <num>1.</num>
             <text>The date, exact place, method, and time of sampling and the name(s) if the person(s) taking the samples;</text>
@@ -2429,7 +2425,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>Any industrial user subject to the reporting requirements established in this section shall be required to retain for a minimum of three years any records of monitoring activities and results (whether or not such monitoring activities are required in the Code of Federal Regulations, this title, or waste discharge permit) and shall make such records available for inspection and copying by the city manager or his designee, regional administrator and POTW.</text>
+          <text>Any industrial user subject to the reporting requirements established in <cite path="|14.16.590">this section</cite> shall be required to retain for a minimum of three years any records of monitoring activities and results (whether or not such monitoring activities are required in the Code of Federal Regulations, <cite path="14">this title</cite>, or waste discharge permit) and shall make such records available for inspection and copying by the city manager or his designee, regional administrator and POTW.</text>
         </para>
         <para>
           <num>C.</num>
@@ -2503,7 +2499,7 @@
           </para>
           <para>
             <num>2.</num>
-            <text>Credit shall be granted only to the extent necessary to meet the applicable pretreatment standards, up to a maximum value equal to the influent value. Additional monitoring may be necessary to determine eligibility for credits and compliance with adjusted standard(s) under this section.</text>
+            <text>Credit shall be granted only to the extent necessary to meet the applicable pretreatment standards, up to a maximum value equal to the influent value. Additional monitoring may be necessary to determine eligibility for credits and compliance with adjusted standard(s) under <cite path="|14.16.630">this section</cite>.</text>
           </para>
           <para>
             <num>3.</num>
@@ -2528,12 +2524,11 @@
         </text>
         <text>I certify under the penalty of law that document and all attachments were prepared under my direction and supervision in accordance with a system designed to assure that qualified personnel properly gather and evaluate the information submitted. Based on my inquiry of person or persons who manage the system, or those persons directly responsible for gathering the information, the information submitted is to the best of my knowledge and belief true, accurate, and complete.</text>
         <text>I am aware that there are significant penalties for submitting false information, including the possibility of fine and imprisonment for knowing violations.</text>
-        <text>Company Name 	____________________</text>
-        <text>Address 		_____________________</text>
+        <text>Company Name  ____________________</text>
+        <text>Address     _____________________</text>
         <text>_____________________</text>
-        <text>Date:______ 	_____________________</text>
+        <text>Date:______   _____________________</text>
         <text>Authorized Representative</text>
-        <text/>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 518.00, 1993</annotation>
@@ -2547,8 +2542,11 @@
       <section>
         <num>14.20.010</num>
         <heading>Sewer not available.</heading>
-        <text>Where a public sewer is not available under the provisions of <cite path="|14.12.160">Section 14.12.160</cite> of this title, the building sewer shall be connected to a private sewage disposal system, consisting of a septic tank and leach field complying with the provisions of this chapter. (Ord. 98-07 § 2, 1998; Ord. 93-01 § 401.00, 1993)</text>
-        <annotations/>
+        <text>Where a public sewer is not available under the provisions of <cite path="|14.12.160">Section 14.12.160</cite> of <cite path="14">this title</cite>, the building sewer shall be connected to a private sewage disposal system, consisting of a septic tank and leach field complying with the provisions of <cite path="14.20">this chapter</cite>.</text>
+        <annotations>
+          <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
+          <annotation type="History">Ord. 93-01 § 401.00, 1993</annotation>
+        </annotations>
       </section>
       <section>
         <num>14.20.020</num>
@@ -2580,8 +2578,11 @@
       <section>
         <num>14.20.050</num>
         <heading>Abandonment of facilities.</heading>
-        <text>At such time as a public sewer becomes available to a property served by a private sewage disposal system, as provided in <cite path="|14.12.160">Section 14.12.160</cite> of this title, a direct connection shall be made to the public sewer in compliance with the ordinances, rules and regulations of city, and any septic tanks, cesspools and similar private sewage disposal facilities shall be abandoned and filled with suitable material as determined by county and/or city health departments. (Ord. 98-07 § 2, 1998; Ord. 93-01 § 405.00, 1993)</text>
-        <annotations/>
+        <text>At such time as a public sewer becomes available to a property served by a private sewage disposal system, as provided in <cite path="|14.12.160">Section 14.12.160</cite> of <cite path="14">this title</cite>, a direct connection shall be made to the public sewer in compliance with the ordinances, rules and regulations of city, and any septic tanks, cesspools and similar private sewage disposal facilities shall be abandoned and filled with suitable material as determined by county and/or city health departments.</text>
+        <annotations>
+          <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
+          <annotation type="History">Ord. 93-01 § 405.00, 1993</annotation>
+        </annotations>
       </section>
       <section>
         <num>14.20.060</num>
@@ -2595,7 +2596,7 @@
       <section>
         <num>14.20.070</num>
         <heading>Additional requirements.</heading>
-        <text>No statement contained in this chapter shall be construed to interfere with any additional requirements that may be imposed by any law, ordinance, rule or regulation or by the health department of the state or the city or county.</text>
+        <text>No statement contained in <cite path="14.20">this chapter</cite> shall be construed to interfere with any additional requirements that may be imposed by any law, ordinance, rule or regulation or by the health department of the state or the city or county.</text>
         <annotations>
           <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
           <annotation type="History">Ord. 93-01 § 407.00, 1993</annotation>
@@ -2613,7 +2614,7 @@
         <section>
           <num>14.24.010</num>
           <heading>Notification of violation.</heading>
-          <text>Whenever the city manager or his designee finds that any industrial user has violated or is violating this chapter, or a wastewater permit or order issued hereunder, the city manager or his designee may serve upon the user written notice of the violation. Within ten days of the receipt date of this notice, an explanation of the violation and a plan for the satisfactory correction and prevention thereof, to include specific required actions, shall be submitted to the city manager or his designee. Submission of this plan in no way relieves the user of liability for any violations occurring before or after receipt of the notice of violation.</text>
+          <text>Whenever the city manager or his designee finds that any industrial user has violated or is violating <cite path="14.24">this chapter</cite>, or a wastewater permit or order issued hereunder, the city manager or his designee may serve upon the user written notice of the violation. Within ten days of the receipt date of this notice, an explanation of the violation and a plan for the satisfactory correction and prevention thereof, to include specific required actions, shall be submitted to the city manager or his designee. Submission of this plan in no way relieves the user of liability for any violations occurring before or after receipt of the notice of violation.</text>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
             <annotation type="History">Ord. 93-01 § 513.01.1, 1993</annotation>
@@ -2622,13 +2623,16 @@
         <section>
           <num>14.24.020</num>
           <heading>Consent orders.</heading>
-          <text>The city manager or his designee is empowered to enter into consent orders, assurances of voluntary compliance, or other similar documents establishing an agreement with the industrial user responsible for the noncompliance. Such orders will include specific action to be taken by the industrial user to correct the noncompliance within a time period also specified by the order. Consent orders shall have the same force and effect as administrative orders issued pursuant to <cite path="|14.24.040">Section 14.24.040</cite> of this chapter. (Ord. 98-07 § 2, 1998; Ord. 93-01 § 513.01.2, 1993)</text>
-          <annotations/>
+          <text>The city manager or his designee is empowered to enter into consent orders, assurances of voluntary compliance, or other similar documents establishing an agreement with the industrial user responsible for the noncompliance. Such orders will include specific action to be taken by the industrial user to correct the noncompliance within a time period also specified by the order. Consent orders shall have the same force and effect as administrative orders issued pursuant to <cite path="|14.24.040">Section 14.24.040</cite> of <cite path="14.24">this chapter</cite>.</text>
+          <annotations>
+            <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
+            <annotation type="History">Ord. 93-01 § 513.01.2, 1993</annotation>
+          </annotations>
         </section>
         <section>
           <num>14.24.030</num>
           <heading>Show cause hearing.</heading>
-          <text>The city manager or his designee may order any industrial user which causes or contributes to violation of this chapter a wastewater permit or order issued hereunder, to show cause why a proposed enforcement action should not be taken. Notice shall be served on the user specifying the time and place for the meeting, the proposed enforcement action and the reasons for such action, and a request that the user show cause why this proposed enforcement action should not be taken. The notice of the meeting shall be served personally or by registered or certified mail (return receipt requested) at least ten days prior to the hearing. Such notice may be served on any principal executive, general partner or corporate office. Whether or not a duly notified industrial user appears as notified, immediate enforcement action may be pursued.</text>
+          <text>The city manager or his designee may order any industrial user which causes or contributes to violation of <cite path="14.24">this chapter</cite> a wastewater permit or order issued hereunder, to show cause why a proposed enforcement action should not be taken. Notice shall be served on the user specifying the time and place for the meeting, the proposed enforcement action and the reasons for such action, and a request that the user show cause why this proposed enforcement action should not be taken. The notice of the meeting shall be served personally or by registered or certified mail (return receipt requested) at least ten days prior to the hearing. Such notice may be served on any principal executive, general partner or corporate office. Whether or not a duly notified industrial user appears as notified, immediate enforcement action may be pursued.</text>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
             <annotation type="History">Ord. 93-01 § 513.01.3, 1993</annotation>
@@ -2637,7 +2641,7 @@
         <section>
           <num>14.24.040</num>
           <heading>Compliance order.</heading>
-          <text>When the city manager or his designee finds that an industrial user has violated or continues to violate this chapter or a permit or order issued thereunder, he may issue an order to the industrial user responsible for the discharge directing that, following a specified time period, sewer service shall be discontinued unless adequate treatment facilities, devices, or other related appurtenances have been installed and are properly operated. Orders may also contain such other requirements as might be reasonably necessary and appropriate to address the noncompliance, including the installation of pretreatment technology, additional self-monitoring, and management practices.</text>
+          <text>When the city manager or his designee finds that an industrial user has violated or continues to violate <cite path="14.24">this chapter</cite> or a permit or order issued thereunder, he may issue an order to the industrial user responsible for the discharge directing that, following a specified time period, sewer service shall be discontinued unless adequate treatment facilities, devices, or other related appurtenances have been installed and are properly operated. Orders may also contain such other requirements as might be reasonably necessary and appropriate to address the noncompliance, including the installation of pretreatment technology, additional self-monitoring, and management practices.</text>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
             <annotation type="History">Ord. 93-01 § 513.01.4, 1993</annotation>
@@ -2646,7 +2650,7 @@
         <section>
           <num>14.24.050</num>
           <heading>Cease and desist orders.</heading>
-          <text>When the city manager or his designee finds that an industrial user has violated or continues to violate this chapter or any permit or order issued hereunder, the city manager or his designee may issue an order to cease and desist all such violations and direct those persons in noncompliance to:</text>
+          <text>When the city manager or his designee finds that an industrial user has violated or continues to violate <cite path="14.24">this chapter</cite> or any permit or order issued hereunder, the city manager or his designee may issue an order to cease and desist all such violations and direct those persons in noncompliance to:</text>
           <para>
             <num>A.</num>
             <text>Comply forthwith;</text>
@@ -2663,7 +2667,7 @@
         <section>
           <num>14.24.060</num>
           <heading>Administrative fines.</heading>
-          <text>Notwithstanding any other section of this chapter, any user who is found to have violated any provisions of this chapter, or permits and orders issued hereunder, shall be fined an amount of at least one thousand dollars per day. Each day on which noncompliance shall occur or continue shall be deemed a separate and distinct violation. Such assessments may be added to the user's next scheduled sewer service charge and the city manager shall have such other collection remedies as he has to collect other service charges. Unpaid charges, fines and penalties shall constitute a lien against the individual user's property. Industrial users desiring to dispute such fines must file a request for the city manager to reconsider the fine within ten days of being notified of the fine. Where the city manager or his designee believes a request has merit, he shall convene a hearing on the matter within fifteen days of receiving the request from the industrial user.</text>
+          <text>Notwithstanding any other section of <cite path="14.24">this chapter</cite>, any user who is found to have violated any provisions of <cite path="14.24">this chapter</cite>, or permits and orders issued hereunder, shall be fined an amount of at least one thousand dollars per day. Each day on which noncompliance shall occur or continue shall be deemed a separate and distinct violation. Such assessments may be added to the user's next scheduled sewer service charge and the city manager shall have such other collection remedies as he has to collect other service charges. Unpaid charges, fines and penalties shall constitute a lien against the individual user's property. Industrial users desiring to dispute such fines must file a request for the city manager to reconsider the fine within ten days of being notified of the fine. Where the city manager or his designee believes a request has merit, he shall convene a hearing on the matter within fifteen days of receiving the request from the industrial user.</text>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
             <annotation type="History">Ord. 93-01 § 513.01.6, 1993</annotation>
@@ -2678,11 +2682,11 @@
           </para>
           <para>
             <num>B.</num>
-            <text>Any user notified of a suspension of the wastewater treatment service and/or the wastewater permit shall immediately stop or eliminate its contribution. In the event of a user's failure to immediately comply voluntarily with the suspension order, the city manager or his designee shall take such steps as deemed necessary, including immediate severance of the sewer connection, to prevent or minimize damage to the individuals. The city manager or his designee shall allow the user to recommence its discharge when the endangerment has passed, unless the termination proceedings, as set forth in <cite path="|14.24.090">Section 14.24.090</cite> of this chapter, are initiated against the user.</text>
+            <text>Any user notified of a suspension of the wastewater treatment service and/or the wastewater permit shall immediately stop or eliminate its contribution. In the event of a user's failure to immediately comply voluntarily with the suspension order, the city manager or his designee shall take such steps as deemed necessary, including immediate severance of the sewer connection, to prevent or minimize damage to the individuals. The city manager or his designee shall allow the user to recommence its discharge when the endangerment has passed, unless the termination proceedings, as set forth in <cite path="|14.24.090">Section 14.24.090</cite> of <cite path="14.24">this chapter</cite>, are initiated against the user.</text>
           </para>
           <para>
             <num>C.</num>
-            <text>An industrial user which is responsible, in whole or in part, for imminent endangerment shall submit a detailed written statement describing the causes of the harmful contribution and the measures taken to prevent any future occurrence to the city manager or his designee prior to the date of the hearing described in subsection (B) of this section.</text>
+            <text>An industrial user which is responsible, in whole or in part, for imminent endangerment shall submit a detailed written statement describing the causes of the harmful contribution and the measures taken to prevent any future occurrence to the city manager or his designee prior to the date of the hearing described in subsection (B) of <cite path="|14.24.070">this section</cite>.</text>
           </para>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
@@ -2703,7 +2707,7 @@
           <heading>Termination of permit.</heading>
           <para>
             <num>A.</num>
-            <text>Significant industrial users proposing to discharge into the POTW, must first obtain a wastewater discharge permit from the city. Any user who violates the following conditions of this chapter or a wastewater discharge permit or order, or any applicable state and federal law, is subject to permit termination:</text>
+            <text>Significant industrial users proposing to discharge into the POTW, must first obtain a wastewater discharge permit from the city. Any user who violates the following conditions of <cite path="14.24">this chapter</cite> or a wastewater discharge permit or order, or any applicable state and federal law, is subject to permit termination:</text>
             <para>
               <num>1.</num>
               <text>Violation of permit conditions;</text>
@@ -2723,9 +2727,12 @@
           </para>
           <para>
             <num>B.</num>
-            <text>Noncompliant industrial users will be notified of the proposed termination of their wastewater permit and be offered an opportunity to show cause (as set forth in <cite path="|14.24.030">Section 14.24.030</cite> of this chapter) why the proposed action should not be taken. (Ord. 98-07 § 2, 1998; Ord. 93-01 § 513.01.9, 1993)</text>
+            <text>Noncompliant industrial users will be notified of the proposed termination of their wastewater permit and be offered an opportunity to show cause (as set forth in <cite path="|14.24.030">Section 14.24.030</cite> of <cite path="14.24">this chapter</cite>) why the proposed action should not be taken.</text>
           </para>
-          <annotations/>
+          <annotations>
+            <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
+            <annotation type="History">Ord. 93-01 § 513.01.9, 1993</annotation>
+          </annotations>
         </section>
         <section>
           <num>14.24.100</num>
@@ -2739,7 +2746,7 @@
         <section>
           <num>14.24.110</num>
           <heading>Judicial remedies.</heading>
-          <text>If any person discharges sewage, industrial wastes, or other wastes into the wastewater disposal system contrary to the provisions of this chapter or any order or permit issued hereunder, the city manager or his designee, through the city attorney, may commence an action for appropriate legal and/or equitable relief in the courts of Napa County.</text>
+          <text>If any person discharges sewage, industrial wastes, or other wastes into the wastewater disposal system contrary to the provisions of <cite path="14.24">this chapter</cite> or any order or permit issued hereunder, the city manager or his designee, through the city attorney, may commence an action for appropriate legal and/or equitable relief in the courts of Napa County.</text>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
             <annotation type="History">Ord. 93-01 § 513.02, 1993</annotation>
@@ -2748,7 +2755,7 @@
         <section>
           <num>14.24.120</num>
           <heading>Injunctive relief.</heading>
-          <text>Whenever an industrial user has violated or continues to violate the provisions of this chapter or permit or order issued hereunder, the city manager or his designee, through counsel, may petition the court for the issuance of a preliminary or permanent injunction or both (as may be appropriate) which restrains or compels the activities on the part of the industrial user. The city manager or his designee shall have such remedies to collect these fees as it has to collect other sewer service charges.</text>
+          <text>Whenever an industrial user has violated or continues to violate the provisions of <cite path="14.24">this chapter</cite> or permit or order issued hereunder, the city manager or his designee, through counsel, may petition the court for the issuance of a preliminary or permanent injunction or both (as may be appropriate) which restrains or compels the activities on the part of the industrial user. The city manager or his designee shall have such remedies to collect these fees as it has to collect other sewer service charges.</text>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
             <annotation type="History">Ord. 93-01 § 513.02.1, 1993</annotation>
@@ -2759,7 +2766,7 @@
           <heading>Civil penalties.</heading>
           <para>
             <num>A.</num>
-            <text>Any industrial user who has violated or continues to violate this chapter or any order or permit issued hereunder, shall be liable to the city manager or his designee for a civil penalty of not more than twenty-five thousand dollars, but not less than one thousand dollars, plus actual damages incurred by the POTW per violation per day for as long as the violation continues. In addition to the above described penalty and damages, the city manager or his designee may recover reasonable attorney's fees, court costs, and other expenses associated with the enforcement activities, including sampling and monitoring expenses.</text>
+            <text>Any industrial user who has violated or continues to violate <cite path="14.24">this chapter</cite> or any order or permit issued hereunder, shall be liable to the city manager or his designee for a civil penalty of not more than twenty-five thousand dollars, but not less than one thousand dollars, plus actual damages incurred by the POTW per violation per day for as long as the violation continues. In addition to the above described penalty and damages, the city manager or his designee may recover reasonable attorney's fees, court costs, and other expenses associated with the enforcement activities, including sampling and monitoring expenses.</text>
           </para>
           <para>
             <num>B.</num>
@@ -2775,7 +2782,7 @@
           <heading>Violations—Generally.</heading>
           <para>
             <num>A.</num>
-            <text>Any industrial user who willfully or negligently violates any provision of this chapter or any orders or permits issued hereunder shall, upon conviction, be guilty of a misdemeanor, punishable by a fine not to exceed one thousand dollars per violation per day or imprisonment for not more than one year or both.</text>
+            <text>Any industrial user who willfully or negligently violates any provision of <cite path="14.24">this chapter</cite> or any orders or permits issued hereunder shall, upon conviction, be guilty of a misdemeanor, punishable by a fine not to exceed one thousand dollars per violation per day or imprisonment for not more than one year or both.</text>
           </para>
           <para>
             <num>B.</num>
@@ -2791,7 +2798,7 @@
           <heading>Falsifying information.</heading>
           <para>
             <num>A.</num>
-            <text>Any industrial user who knowingly makes any false statements, representations, or certification in any application, record, report, plan or other document filed or required to be maintained pursuant to this chapter, or wastewater permit, who falsifies, tampers with, or knowingly renders inaccurate any monitoring device or method required under this chapter shall, upon conviction, be punished by a fine of not more than one thousand dollars per violation per day or imprisonment for not more than one year or both.</text>
+            <text>Any industrial user who knowingly makes any false statements, representations, or certification in any application, record, report, plan or other document filed or required to be maintained pursuant to <cite path="14.24">this chapter</cite>, or wastewater permit, who falsifies, tampers with, or knowingly renders inaccurate any monitoring device or method required under <cite path="14.24">this chapter</cite> shall, upon conviction, be punished by a fine of not more than one thousand dollars per violation per day or imprisonment for not more than one year or both.</text>
           </para>
           <para>
             <num>B.</num>
@@ -2810,7 +2817,7 @@
         <section>
           <num>14.24.160</num>
           <heading>Annual publication of significant violations.</heading>
-          <text>The city manager or his designee shall publish, at least annually in the largest daily newspaper circulated in the service area, a description of those industrial users which are found to be in significant noncompliance, as defined in this chapter, with any provisions of this chapter or any permit or order issued hereunder during the period since the previous publications.</text>
+          <text>The city manager or his designee shall publish, at least annually in the largest daily newspaper circulated in the service area, a description of those industrial users which are found to be in significant noncompliance, as defined in <cite path="14.24">this chapter</cite>, with any provisions of <cite path="14.24">this chapter</cite> or any permit or order issued hereunder during the period since the previous publications.</text>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
             <annotation type="History">Ord. 93-01 § 513.03.1, 1993</annotation>
@@ -2819,7 +2826,7 @@
         <section>
           <num>14.24.170</num>
           <heading>Performance bonds.</heading>
-          <text>The city manager or his designee may decline to reissue a permit to any industrial user which has failed to comply with the provisions of this chapter or any order or previous permit issued hereunder unless such user first files with it a satisfactory bond, payable to the POTW, in a sum not to exceed a value determined by the city manager or his designee to be necessary to achieve consistent compliance.</text>
+          <text>The city manager or his designee may decline to reissue a permit to any industrial user which has failed to comply with the provisions of <cite path="14.24">this chapter</cite> or any order or previous permit issued hereunder unless such user first files with it a satisfactory bond, payable to the POTW, in a sum not to exceed a value determined by the city manager or his designee to be necessary to achieve consistent compliance.</text>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
             <annotation type="History">Ord. 93-01 § 513.03.2, 1993</annotation>
@@ -2828,7 +2835,7 @@
         <section>
           <num>14.24.180</num>
           <heading>Liability insurance.</heading>
-          <text>The city manager or his designee may decline to reissue a permit to any industrial user which has failed to comply with the provisions of this chapter or any order or previous permit issued hereunder, unless the industrial user first submits proof that it has obtained financial assurances sufficient to restore or repair POTW damage caused by its discharge.</text>
+          <text>The city manager or his designee may decline to reissue a permit to any industrial user which has failed to comply with the provisions of <cite path="14.24">this chapter</cite> or any order or previous permit issued hereunder, unless the industrial user first submits proof that it has obtained financial assurances sufficient to restore or repair POTW damage caused by its discharge.</text>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
             <annotation type="History">Ord. 93-01 § 513.03.3, 1993</annotation>
@@ -2837,7 +2844,7 @@
         <section>
           <num>14.24.190</num>
           <heading>Water supply severances.</heading>
-          <text>Whenever an industrial user has violated or continues to violate the provisions of this chapter or an order or permit issued hereunder, water service to the industrial user may be severed by the water purveyor upon request by the city and service will only recommence, at the user's expense, after it has satisfactorily demonstrated its ability to comply.</text>
+          <text>Whenever an industrial user has violated or continues to violate the provisions of <cite path="14.24">this chapter</cite> or an order or permit issued hereunder, water service to the industrial user may be severed by the water purveyor upon request by the city and service will only recommence, at the user's expense, after it has satisfactorily demonstrated its ability to comply.</text>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
             <annotation type="History">Ord. 93-01 § 513.03.4, 1993</annotation>
@@ -2894,7 +2901,7 @@
           </para>
           <para>
             <num>B.</num>
-            <text>An industrial user which complies with the notification provisions of this section in a timely manner shall have an affirmative defense to any enforcement action brought by the city manager or his designee for any noncompliance with this chapter, or an order or permit issued hereunder by the user, which arises out of violations attributable to and alleged to have occurred during the period of the documented and verified upset.</text>
+            <text>An industrial user which complies with the notification provisions of <cite path="|14.24.220">this section</cite> in a timely manner shall have an affirmative defense to any enforcement action brought by the city manager or his designee for any noncompliance with <cite path="14.24">this chapter</cite>, or an order or permit issued hereunder by the user, which arises out of violations attributable to and alleged to have occurred during the period of the documented and verified upset.</text>
           </para>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
@@ -2917,7 +2924,7 @@
             </para>
             <para>
               <num>3.</num>
-              <text>The industrial user properly notified the city manager as described in subsection (B) of this section.</text>
+              <text>The industrial user properly notified the city manager as described in subsection (B) of <cite path="|14.24.230">this section</cite>.</text>
             </para>
           </para>
           <para>
@@ -2927,7 +2934,7 @@
           </para>
           <para>
             <num>C.</num>
-            <text>An industrial user may allow a bypass to occur which does not cause pretreatment standards or requirements to be violated, but only if it is for essential maintenance to ensure efficient operation of the treatment system. Industrial users anticipating a bypass must submit notice to the city manager or his designee at least ten days in advance. The city manager or his designee may only approve the anticipated bypass if the circumstances satisfy those set forth in subsection (A) of this section.</text>
+            <text>An industrial user may allow a bypass to occur which does not cause pretreatment standards or requirements to be violated, but only if it is for essential maintenance to ensure efficient operation of the treatment system. Industrial users anticipating a bypass must submit notice to the city manager or his designee at least ten days in advance. The city manager or his designee may only approve the anticipated bypass if the circumstances satisfy those set forth in subsection (A) of <cite path="|14.24.230">this section</cite>.</text>
           </para>
           <annotations>
             <annotation type="History">Ord. 98-07 § 2, 1998</annotation>
@@ -2970,15 +2977,13 @@
       <section>
         <num>14.28.010</num>
         <heading>Title.</heading>
-        <text>This chapter shall be known as the "city of American Canyon stormwater management and discharge control program" and may be so cited.</text>
-        <annotations>
-          <annotation type="History">Ord. 2003-08 § 1, 2003</annotation>
-        </annotations>
+        <text><cite path="14.28">This chapter</cite> shall be known as the "city of American Canyon stormwater management and discharge control program" and may be so cited.</text>
+        <annotations/>
       </section>
       <section>
         <num>14.28.020</num>
         <heading>Purpose and intent.</heading>
-        <text>The purpose of this chapter is to ensure the future health, safety, and general welfare of the city of American Canyon citizens: to secure benefits from the use of stormwater as a resource; and to protect and enhance watercourses, fish, and wildlife habitat by:</text>
+        <text>The purpose of <cite path="14.28">this chapter</cite> is to ensure the future health, safety, and general welfare of the city of American Canyon citizens: to secure benefits from the use of stormwater as a resource; and to protect and enhance watercourses, fish, and wildlife habitat by:</text>
         <para>
           <num>A.</num>
           <text>Minimizing discharges other than stormwater to storm drains or watercourses;</text>
@@ -2998,7 +3003,7 @@
         <para>
           <num>E.</num>
           <text>Requiring development projects to maintain or reduce the volume, velocity, peak flow rate, and duration of runoff as compared to pre-development runoff, and preventing stormwater pollution whenever possible, through stormwater management controls and ensuring that these management controls are properly maintained.</text>
-          <text>The intent of this chapter is to protect and enhance the water quality of the state's and the nation's watercourses, water bodies and wetlands in a manner pursuant to and consistent with the Clean Water Act (33 U.S.C. Section 1951 et seq.), the Porter-Cologne Water Quality Control Act (California Water Code Section 13000 et seq.), and the Phase II Small Municipal Separate Storm Sewer System (MS4) National Pollutant Discharge Elimination System (NPDES) Permit, Water Quality Order No. 2013-0001—DWQ, General Permit No. CAS000004 (Phase II Stormwater Permit), and subsequent revisions and amendments thereto.</text>
+          <text>The intent of <cite path="14.28">this chapter</cite> is to protect and enhance the water quality of the state's and the nation's watercourses, water bodies and wetlands in a manner pursuant to and consistent with the Clean Water Act (33 U.S.C. Section 1951 et seq.), the Porter-Cologne Water Quality Control Act (<cite doc="Cal. Water Code" path="§13000">California Water Code Section 13000</cite> et seq.), and the Phase II Small Municipal Separate Storm Sewer System (MS4) National Pollutant Discharge Elimination System (NPDES) Permit, Water Quality Order No. 2013-0001—DWQ, General Permit No. CAS000004 (Phase II Stormwater Permit), and subsequent revisions and amendments thereto.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2016-02 § 2, 2016</annotation>
@@ -3008,7 +3013,7 @@
       <section>
         <num>14.28.030</num>
         <heading>Definitions and acronyms.</heading>
-        <text>For the purposes of this chapter, unless otherwise apparent from the context, words and phrases set forth in this section shall have the following meanings:</text>
+        <text>For the purposes of <cite path="14.28">this chapter</cite>, unless otherwise apparent from the context, words and phrases set forth in <cite path="|14.28.030">this section</cite> shall have the following meanings:</text>
         <text>"Authorized enforcement official" means the public works director or designee.</text>
         <text>"BASMAA Post Construction Manual" means the most recent version of the Bay Area Stormwater Management Agencies (BASMAA) Post Construction Manual.</text>
         <text>"Best management practices (BMPs)" means schedules of activities, prohibitions of practices, general good housekeeping practices, pollution prevention practices, maintenance procedures and other management practices to prevent or reduce the discharge of pollutants directly or indirectly into the waters of the United States. BMPs also include treatment requirements, operating procedures and practices to control plant site runoff, spillage or leaks, sludge or waste recycling or disposal, or drainage from raw material storage.</text>
@@ -3018,7 +3023,7 @@
         <text>"Discharge of a pollutant" means: (a) the addition of any pollutant or combination of pollutants to receiving waters from any point source; or (b) addition of any pollutant or combination of pollutants to the waters of the contiguous zone or the ocean from any point source other than a vessel or other floating craft which is being used as a means of transportation. The term includes additions of pollutants to receiving waters from: surface runoff which is collected or channeled by man; discharges through pipes, sewers, or other conveyances owned by a state, municipality, or other person which do not lead to a treatment works; and discharges through pipes, sewers, or other conveyances, leading into privately owned treatment works.</text>
         <text>"Erosion and Sediment Control Plan" means a plan prepared to control erosion and sediment discharges from a construction site that meets those criteria identified in the most recent version of the Napa Countywide Erosion and Sediment Control Plan Model Template and any issued Technical Bulletins.</text>
         <text>"Illicit connection" means any device or method that conveys non-stormwater discharge to a storm drain or receiving water.</text>
-        <text>"Illicit discharge" means any discharge to storm drain or receiving water that is prohibited under local, state, or federal statutes, ordinances, codes, or regulations. The term illicit discharge does not include discharges that are regulated by an NPDES permit (other than the Phase II Stormwater Permit) and discharges that are identified under the exceptions to discharge prohibition section of this chapter.</text>
+        <text>"Illicit discharge" means any discharge to storm drain or receiving water that is prohibited under local, state, or federal statutes, ordinances, codes, or regulations. The term illicit discharge does not include discharges that are regulated by an NPDES permit (other than the Phase II Stormwater Permit) and discharges that are identified under the exceptions to discharge prohibition section of <cite path="14.28">this chapter</cite>.</text>
         <text>"Incidental irrigation runoff" means unintended amounts (volume) of runoff, such as unintended, minimal over-spray from sprinklers that escapes the landscaped area of intended use. Water leaving an intended use area is not considered incidental if it is part of the facility design, if it is due to excessive application, if it is due to intentional overflow or application, or if it is due to negligence.</text>
         <text>"Low impact development (LID)" means a sustainable practice that benefits water supply and contributes to water quality protection. LID uses site design and stormwater management to maintain the site's pre-development runoff rates and volumes. The goal of LID is to mimic a site's predevelopment hydrology by using design techniques that infiltrate, filter, store, evaporate, and detain runoff close to the source of rainfall.</text>
         <text>"National Pollutant Discharge Elimination System (NPDES) Permit" means a permit issued by the U.S. Environmental Protection Agency, State Water Resources Control Board, or the California Regional Water Quality Control Board pursuant to the Clean Water Act, 33 U.S.C. Section 1251 et seq., (CWA) that authorizes discharges to waters of the United States and requires the reduction of pollutants in the discharge.</text>
@@ -3028,7 +3033,7 @@
         <text>"Pollutant" means dredged soil, solid waste, incinerator residue, filter backwash, sewage, pet wastes, manure, garbage, sewage sludge, munitions, chemical wastes, biological materials, radioactive materials, wrecked or discarded equipment, sediment, rock, sand, cellar dirt, and industrial, municipal and agricultural waste discharged into a storm drain or receiving water.</text>
         <text>"Post-Construction Measures Requirements" means the provisions in Section E.12 of the Phase II Stormwater Permit that contain design standards or performance criteria to address the post-construction phase impacts of new projects and redeveloped projects on stormwater quality and quantity.</text>
         <text>"Premises" means any building, lot parcel, real estate, or land or portion of land whether improved or unimproved, including adjacent sidewalks and parking strips.</text>
-        <text>"Receiving waters" means all waters that are "waters of the United States" within the scope of the Federal Clean Water Act or "waters of the state" within the scope of the California Water Code, including, but not limited to, natural streams, creeks, rivers, reservoirs, lakes, ponds, water in vernal pools, lagoons, estuaries, bays, the Pacific Ocean, and groundwater.</text>
+        <text>"Receiving waters" means all waters that are "waters of the United States" within the scope of the Federal Clean Water Act or "waters of the state" within the scope of the <cite doc="Cal. Water Code">California Water Code</cite>, including, but not limited to, natural streams, creeks, rivers, reservoirs, lakes, ponds, water in vernal pools, lagoons, estuaries, bays, the Pacific Ocean, and groundwater.</text>
         <text>"Storm drains" includes, but is not limited to, those stormwater drainage conveyance facilities within the city, both public and private, by which stormwater may be conveyed to the receiving waters, including any roads with drainage systems, municipal streets, catch basins, curbs, gutters, ditches, manmade channels or storm drains, which are not part of a publicly owned treated works (POTW) as defined at 40 Code of Federal Regulations (C.F.R.) 122.2, or successor regulation.</text>
         <text>"Stormwater" means stormwater runoff, snow melt runoff, and surface runoff and drainage.</text>
         <text>"Stormwater Control Plan (SCP)" means a plan that meets those criteria contained in the most recent version of the BASMAA Post Construction Manual and any issued Technical Bulletins.</text>
@@ -3038,7 +3043,7 @@
         <text>"Technical Bulletin" means a document issued by and under the authority of the director of public works to revise, amend, augment guidance manuals, documents, and templates including but not limited to the BASMAA Post Construction Manual and the Napa Countywide Erosion and Sediment Control Plan Model Template.</text>
         <text>"Urban runoff" means stormwater from an urbanized area including streets and adjacent domestic and commercial properties that carries pollutants of various types into the storm drainage system and receiving waters.</text>
         <text>"Watercourse" means a stream of water usually flowing in a definite channel having a bed and sides, or banks, and discharging itself into some other stream or body of water. It is unnecessary for a watercourse be exclusively the work of nature.</text>
-        <text>All other terms used in this chapter shall have the same meaning as defined in the Federal Clean Water Act (33 U.S.C. Section 1251 et seq.), as amended, the regulations for the stormwater discharge program issued by the Environmental Protection Agency on November 16, 1991, as amended, and the Phase II Stormwater Permit.</text>
+        <text>All other terms used in <cite path="14.28">this chapter</cite> shall have the same meaning as defined in the Federal Clean Water Act (33 U.S.C. Section 1251 et seq.), as amended, the regulations for the stormwater discharge program issued by the Environmental Protection Agency on November 16, 1991, as amended, and the Phase II Stormwater Permit.</text>
         <annotations>
           <annotation type="History">Ord. 2016-02 § 3, 2016</annotation>
           <annotation type="History">Ord. 2005-06 § 1, 2005</annotation>
@@ -3054,7 +3059,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>Exception to Discharge of Pollutants. The following discharges are exempt from the prohibition set forth in subsection A of this section:</text>
+          <text>Exception to Discharge of Pollutants. The following discharges are exempt from the prohibition set forth in subsection A of <cite path="|14.28.040">this section</cite>:</text>
           <para>
             <num>1.</num>
             <text>Discharges regulated under an NPDES permit (other than the Phase II Permit) issued to the discharger and administered by the state of California under authority of the United States Environmental Protection Agency, provided that the discharger is in full compliance with all requirements of the permit and other applicable laws or regulations.</text>
@@ -3124,7 +3129,7 @@
             </para>
             <para>
               <num>o.</num>
-              <text>Incidental irrigation runoff from landscaped areas provided the conditions in subsection (B)(4) of this section are met.</text>
+              <text>Incidental irrigation runoff from landscaped areas provided the conditions in subsection (B)(4) of <cite path="|14.28.040">this section</cite> are met.</text>
             </para>
           </para>
           <para>
@@ -3171,9 +3176,12 @@
             <num>2.</num>
             <text>Any person responsible for an illicit connection shall promptly remove the connection as directed by the authorized enforcement official.</text>
           </para>
-          <text>The city may perform clean-up and abatement work and recover its costs from the responsible person as provided in <cite path="|14.28.170">Section 14.28.170</cite>. (Ord. 2016-02 § 5, 2016; Ord. 2003-08 § 5, 2003)</text>
+          <text>The city may perform clean-up and abatement work and recover its costs from the responsible person as provided in <cite path="|14.28.170">Section 14.28.170</cite>.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation type="History">Ord. 2016-02 § 5, 2016</annotation>
+          <annotation type="History">Ord. 2003-08 § 5, 2003</annotation>
+        </annotations>
       </section>
       <section>
         <num>14.28.060</num>
@@ -3233,7 +3241,7 @@
         </para>
         <para>
           <num>C.</num>
-          <text>When any work is being done contrary to the provisions of this chapter, the authorized enforcement official may order the work stopped by notice in writing served on any persons engaged in doing or causing the work to be done. Such work shall stop until the authorized enforcement official authorizes the work to proceed. This remedy is in addition to and do not supersede or limit any and all other remedies, both civil and criminal provided in the city municipal code.</text>
+          <text>When any work is being done contrary to the provisions of <cite path="14.28">this chapter</cite>, the authorized enforcement official may order the work stopped by notice in writing served on any persons engaged in doing or causing the work to be done. Such work shall stop until the authorized enforcement official authorizes the work to proceed. This remedy is in addition to and do not supersede or limit any and all other remedies, both civil and criminal provided in the city municipal code.</text>
         </para>
         <para>
           <num>D.</num>
@@ -3308,7 +3316,7 @@
           </para>
           <para>
             <num>8.</num>
-            <text>Implementation of an approved ESCP shall be a condition of the issuance of a building permit, a grading permit, or other permit issued by the city for a project subject to this section. The ESCP shall be implemented year round and must be updated to reflect changing conditions on the project site. Any modifications to the ESCP shall be submitted to the city for review and approval.</text>
+            <text>Implementation of an approved ESCP shall be a condition of the issuance of a building permit, a grading permit, or other permit issued by the city for a project subject to <cite path="|14.28.081">this section</cite>. The ESCP shall be implemented year round and must be updated to reflect changing conditions on the project site. Any modifications to the ESCP shall be submitted to the city for review and approval.</text>
           </para>
         </para>
         <annotations>
@@ -3347,11 +3355,11 @@
           </para>
           <para>
             <num>5.</num>
-            <text>Implementation of an approved SCP and submittal of an approved Stormwater Facilities Operation and Maintenance Plan by the applicant shall be a condition precedent to the issuance of a building permit for a project subject to this section.</text>
+            <text>Implementation of an approved SCP and submittal of an approved Stormwater Facilities Operation and Maintenance Plan by the applicant shall be a condition precedent to the issuance of a building permit for a project subject to <cite path="|14.28.082">this section</cite>.</text>
           </para>
           <para>
             <num>6.</num>
-            <text>When any work is being done contrary to the provisions of this chapter, the authorized enforcement official may order the work stopped by notice in writing served on any persons engaged in doing or causing the work to be done. Such work shall stop until the authorized enforcement official authorizes the work to proceed. This remedy is in addition to and do not supersede or limit any and all other remedies, both civil and criminal provided in the city municipal code.</text>
+            <text>When any work is being done contrary to the provisions of <cite path="14.28">this chapter</cite>, the authorized enforcement official may order the work stopped by notice in writing served on any persons engaged in doing or causing the work to be done. Such work shall stop until the authorized enforcement official authorizes the work to proceed. This remedy is in addition to and do not supersede or limit any and all other remedies, both civil and criminal provided in the city municipal code.</text>
           </para>
           <para>
             <num>7.</num>
@@ -3363,7 +3371,7 @@
           </para>
           <para>
             <num>9.</num>
-            <text>All stormwater management facilities shall be maintained according to the approved Stormwater Facilities Operation and Maintenance Plan. The person(s) or organization(s) responsible for maintenance shall be designated in the plan. Unless a different time period is provided for in the plan, those responsible for maintenance shall inspect the stormwater management facilities at least annually. The Stormwater Facilities Operation and Maintenance Plan shall describe how the maintenance costs will be funded. If the responsible person fails to maintain the stormwater management facilities in accordance with this chapter or the plan, the city may perform the maintenance and recover its costs from the responsible person as provided in <cite path="|14.28.170">Section 14.28.170</cite>.</text>
+            <text>All stormwater management facilities shall be maintained according to the approved Stormwater Facilities Operation and Maintenance Plan. The person(s) or organization(s) responsible for maintenance shall be designated in the plan. Unless a different time period is provided for in the plan, those responsible for maintenance shall inspect the stormwater management facilities at least annually. The Stormwater Facilities Operation and Maintenance Plan shall describe how the maintenance costs will be funded. If the responsible person fails to maintain the stormwater management facilities in accordance with <cite path="14.28">this chapter</cite> or the plan, the city may perform the maintenance and recover its costs from the responsible person as provided in <cite path="|14.28.170">Section 14.28.170</cite>.</text>
           </para>
           <para>
             <num>10.</num>
@@ -3469,10 +3477,10 @@
       <section>
         <num>14.28.120</num>
         <heading>Authority to inspect.</heading>
-        <text>The authorized enforcement official has the duty and the responsibility to inspect any and all locations for any violation of the provisions of this chapter. The authorized enforcement official may, within the limitations of applicable state and federal laws, enter any building or premises (including, but not limited to, facilities, equipment, practices, or operations) at reasonable times to inspect the same for any or all of the following situations, as determined by the authorized enforcement official:</text>
+        <text>The authorized enforcement official has the duty and the responsibility to inspect any and all locations for any violation of the provisions of <cite path="14.28">this chapter</cite>. The authorized enforcement official may, within the limitations of applicable state and federal laws, enter any building or premises (including, but not limited to, facilities, equipment, practices, or operations) at reasonable times to inspect the same for any or all of the following situations, as determined by the authorized enforcement official:</text>
         <para>
           <num>A.</num>
-          <text>Routine inspections to ensure implementation of BMPs and other requirements of this chapter;</text>
+          <text>Routine inspections to ensure implementation of BMPs and other requirements of <cite path="14.28">this chapter</cite>;</text>
         </para>
         <para>
           <num>B.</num>
@@ -3480,20 +3488,20 @@
         </para>
         <para>
           <num>C.</num>
-          <text>Whenever there is reasonable cause to believe that there exists any condition which constitutes a violation of the provisions of this chapter or the Phase II Stormwater Permit;</text>
+          <text>Whenever there is reasonable cause to believe that there exists any condition which constitutes a violation of the provisions of <cite path="14.28">this chapter</cite> or the Phase II Stormwater Permit;</text>
         </para>
         <para>
           <num>D.</num>
-          <text>Actual violations of this chapter or the Phase II Stormwater Permit;</text>
+          <text>Actual violations of <cite path="14.28">this chapter</cite> or the Phase II Stormwater Permit;</text>
         </para>
         <para>
           <num>E.</num>
-          <text>Whenever necessary to enforce any of the provisions of this chapter or the Phase II Stormwater Permit; or</text>
+          <text>Whenever necessary to enforce any of the provisions of <cite path="14.28">this chapter</cite> or the Phase II Stormwater Permit; or</text>
         </para>
         <para>
           <num>F.</num>
-          <text>To perform any duty imposed upon the official by this chapter.</text>
-          <text>The authorized enforcement official may demand the production of such records as is necessary to determine compliance with the provisions of this chapter and for the purpose of examination and copying.</text>
+          <text>To perform any duty imposed upon the official by <cite path="14.28">this chapter</cite>.</text>
+          <text>The authorized enforcement official may demand the production of such records as is necessary to determine compliance with the provisions of <cite path="14.28">this chapter</cite> and for the purpose of examination and copying.</text>
           <text>The authorized enforcement official must present proper credentials to, and obtain consent from the owner or occupant to enter. If such building or premises is unoccupied, the authorized enforcement official shall first make a reasonable effort to locate the owner or other persons having charge or control of the building or premises and request entry. In the event the owner and/or occupant refuses entry, the authorized enforcement official shall request assistance of the city attorney to obtain an administrative warrant for the premises, pursuant to state law.</text>
         </para>
         <annotations>
@@ -3526,7 +3534,7 @@
         </para>
         <para>
           <num>B.</num>
-          <text>Whenever an authorized enforcement official finds a condition that: (1) violates this chapter; (2) presents an immediate and present danger to the public health, safety and welfare; and (3) requires immediate remedial action to prevent injury to persons or property, the authorized enforcement official shall take whatever reasonable and appropriate action is necessary to neutralize the danger, including, but not limited to, entry upon private premises for inspection, sampling and monitoring and abatement.</text>
+          <text>Whenever an authorized enforcement official finds a condition that: (1) violates <cite path="14.28">this chapter</cite>; (2) presents an immediate and present danger to the public health, safety and welfare; and (3) requires immediate remedial action to prevent injury to persons or property, the authorized enforcement official shall take whatever reasonable and appropriate action is necessary to neutralize the danger, including, but not limited to, entry upon private premises for inspection, sampling and monitoring and abatement.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2003-08 § 16, 2003</annotation>
@@ -3537,19 +3545,19 @@
         <heading>Violations constituting misdemeanor.</heading>
         <para>
           <num>A.</num>
-          <text>The violation of any provision of this chapter or failure to comply with any of the mandatory requirements of this chapter shall constitute a misdemeanor, except that, notwithstanding any other provisions of this chapter, any such violation constituting a misdemeanor under this chapter may, in the discretion of the enforcing authority, be charged and prosecuted as an infraction.</text>
+          <text>The violation of any provision of <cite path="14.28">this chapter</cite> or failure to comply with any of the mandatory requirements of <cite path="14.28">this chapter</cite> shall constitute a misdemeanor, except that, notwithstanding any other provisions of <cite path="14.28">this chapter</cite>, any such violation constituting a misdemeanor under <cite path="14.28">this chapter</cite> may, in the discretion of the enforcing authority, be charged and prosecuted as an infraction.</text>
         </para>
         <para>
           <num>B.</num>
-          <text>Unless otherwise provided, a person, firm, corporation or organization shall be deemed guilty of a separate offense for each and every day during any portion of which a violation of this chapter is committed, continued or permitted by the person, firm, corporation or organization and shall be punishable accordingly, as provided in this chapter.</text>
+          <text>Unless otherwise provided, a person, firm, corporation or organization shall be deemed guilty of a separate offense for each and every day during any portion of which a violation of <cite path="14.28">this chapter</cite> is committed, continued or permitted by the person, firm, corporation or organization and shall be punishable accordingly, as provided in <cite path="14.28">this chapter</cite>.</text>
         </para>
         <para>
           <num>C.</num>
-          <text>Causing, permitting, aiding, abetting or concealing a violation of any provision of this chapter shall constitute a violation of such provision.</text>
+          <text>Causing, permitting, aiding, abetting or concealing a violation of any provision of <cite path="14.28">this chapter</cite> shall constitute a violation of such provision.</text>
         </para>
         <para>
           <num>D.</num>
-          <text>Any person who violates any provision of this chapter or any provision of any permit issued pursuant to this chapter, or who discharges waste or wastewater which causes pollution, or who violates any cease and desist order, prohibition, or effluent limitation may also be in violation of the Federal Clean Water Act and/or Porter Cologne Act and may be subject to the sanctions of those acts, including civil and criminal penalty. Any enforcement action authorized under this chapter shall also include notice to the violator of potential liability.</text>
+          <text>Any person who violates any provision of <cite path="14.28">this chapter</cite> or any provision of any permit issued pursuant to <cite path="14.28">this chapter</cite>, or who discharges waste or wastewater which causes pollution, or who violates any cease and desist order, prohibition, or effluent limitation may also be in violation of the Federal Clean Water Act and/or Porter Cologne Act and may be subject to the sanctions of those acts, including civil and criminal penalty. Any enforcement action authorized under <cite path="14.28">this chapter</cite> shall also include notice to the violator of potential liability.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2003-08 § 17, 2003</annotation>
@@ -3558,7 +3566,7 @@
       <section>
         <num>14.28.170</num>
         <heading>Civil enforcement action.</heading>
-        <text>The violation of any provision of this chapter, or the failure to comply with any requirements of this chapter, may be enforced by civil action brought by the city attorney in any court having appropriate jurisdiction. In any such action, the city may seek any or all of the following remedies:</text>
+        <text>The violation of any provision of <cite path="14.28">this chapter</cite>, or the failure to comply with any requirements of <cite path="14.28">this chapter</cite>, may be enforced by civil action brought by the city attorney in any court having appropriate jurisdiction. In any such action, the city may seek any or all of the following remedies:</text>
         <para>
           <num>A.</num>
           <text>A temporary or permanent injunction;</text>
@@ -3574,7 +3582,7 @@
         <para>
           <num>D.</num>
           <text>Compensatory damages including, but not limited to, loss and/or destruction of water quality, wildlife, fish, aquatic habitat, and other adverse environmental effects.</text>
-          <text>Damages recovered under this section shall be paid to the city and shall be exclusively for costs of sampling and monitoring, of establishing stormwater discharge pollution control systems, of implementing and/or enforcing the provisions of this chapter, and restoration of aquatic or riparian habitat.</text>
+          <text>Damages recovered under <cite path="|14.28.170">this section</cite> shall be paid to the city and shall be exclusively for costs of sampling and monitoring, of establishing stormwater discharge pollution control systems, of implementing and/or enforcing the provisions of <cite path="14.28">this chapter</cite>, and restoration of aquatic or riparian habitat.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2016-02 § 10, 2016</annotation>
@@ -3584,7 +3592,7 @@
       <section>
         <num>14.28.180</num>
         <heading>Administrative enforcement action.</heading>
-        <text>In addition to any other enforcement powers and/or remedies provided in this chapter, an authorized enforcement official may issue an order to a person to cease and desist from the discharge, practice, operation or other activity causing or likely to cause a violation of this chapter. Such order shall be directed to those persons in violation of the chapter stating clearly and concisely the nature of the violation, the requirements for compliance, a timetable for compliance and such other remedial and/or preventive action as may be necessary. Upon the violator's failure to comply with such an order, the city shall take further enforcement action as specified in this chapter, or in accordance with any other appropriate provision of local, state or federal law.</text>
+        <text>In addition to any other enforcement powers and/or remedies provided in <cite path="14.28">this chapter</cite>, an authorized enforcement official may issue an order to a person to cease and desist from the discharge, practice, operation or other activity causing or likely to cause a violation of <cite path="14.28">this chapter</cite>. Such order shall be directed to those persons in violation of the chapter stating clearly and concisely the nature of the violation, the requirements for compliance, a timetable for compliance and such other remedial and/or preventive action as may be necessary. Upon the violator's failure to comply with such an order, the city shall take further enforcement action as specified in <cite path="14.28">this chapter</cite>, or in accordance with any other appropriate provision of local, state or federal law.</text>
         <text>At the discretion of the authorized enforcement official and in accordance with the city's enforcement response plan, orders to cease and desist may take the following form:</text>
         <para>
           <num>A.</num>
@@ -3601,7 +3609,7 @@
         <para>
           <num>D.</num>
           <text>Notices of violation.</text>
-          <text>Formal violations and legal action as described in this chapter and as authorized by the city municipal code.</text>
+          <text>Formal violations and legal action as described in <cite path="14.28">this chapter</cite> and as authorized by the city municipal code.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2016-02 § 11, 2016</annotation>
@@ -3613,11 +3621,11 @@
         <heading>Authority to arrest and issue citations.</heading>
         <para>
           <num>A.</num>
-          <text>The authorized enforcement official shall have the authority to arrest or to cite any person who violates any provision of this chapter in the manner provided by the California Penal Code for the arrest or release on citation of misdemeanors or for citation of infractions and notice to appear, as prescribed by Chapters 5, 5c and 5d of Title 3, Part 2 of the California Penal Code, including Section 853.6 or as the same may be hereinafter amended.</text>
+          <text>The authorized enforcement official shall have the authority to arrest or to cite any person who violates any provision of <cite path="14.28">this chapter</cite> in the manner provided by the <cite doc="Cal. Penal Code">California Penal Code</cite> for the arrest or release on citation of misdemeanors or for citation of infractions and notice to appear, as prescribed by Chapters 5, 5c and 5d of Title 3, Part <cite doc="Cal. Penal Code" path="§2">2 of the California Penal Code</cite>, including Section 853.6 or as the same may be hereinafter amended.</text>
         </para>
         <para>
           <num>B.</num>
-          <text>It is the intent of the city council that the immunities provided in Penal Code Section 836.5 be applicable to public officers or employees acting within the course and scope of their employment pursuant to this chapter.</text>
+          <text>It is the intent of the city council that the immunities provided in <cite doc="Cal. Penal Code" path="§836.5">Penal Code Section 836.5</cite> be applicable to public officers or employees acting within the course and scope of their employment pursuant to <cite path="14.28">this chapter</cite>.</text>
         </para>
         <annotations>
           <annotation type="History">Ord. 2003-08 § 20, 2003</annotation>
@@ -3626,7 +3634,7 @@
       <section>
         <num>14.28.200</num>
         <heading>Coordination with hazardous materials inventory and response program.</heading>
-        <text>The first revision of the business plan for any facility subject to the city's hazardous materials inventory and response ordinance shall include a program for compliance with this chapter, including the prohibitions on nonstormwater discharges and illicit discharges and the requirement to reduce stormwater pollutants to the maximum extent practicable.</text>
+        <text>The first revision of the business plan for any facility subject to the city's hazardous materials inventory and response ordinance shall include a program for compliance with <cite path="14.28">this chapter</cite>, including the prohibitions on nonstormwater discharges and illicit discharges and the requirement to reduce stormwater pollutants to the maximum extent practicable.</text>
         <annotations>
           <annotation type="History">Ord. 2003-08 § 21, 2003</annotation>
         </annotations>

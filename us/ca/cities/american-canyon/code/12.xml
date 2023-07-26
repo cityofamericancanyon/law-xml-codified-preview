@@ -75,11 +75,11 @@
       </para>
       <para>
         <num>D.</num>
-        <text>For the purposes of this section, the term "skate park" means the designated fenced area containing ramps, rails and equipment located north of the American Canyon Community Center.</text>
+        <text>For the purposes of <cite path="|12.04.051">this section</cite>, the term "skate park" means the designated fenced area containing ramps, rails and equipment located north of the American Canyon Community Center.</text>
       </para>
       <para>
         <num>E.</num>
-        <text>This section does not apply to any duly authorized city employee.</text>
+        <text><cite path="|12.04.051">This section</cite> does not apply to any duly authorized city employee.</text>
       </para>
       <para>
         <num>F.</num>
@@ -95,7 +95,7 @@
       </para>
       <para>
         <num>I.</num>
-        <text>Any person who violates this section is guilty of an infraction and upon conviction thereof shall be punished as provided in law.</text>
+        <text>Any person who violates <cite path="|12.04.051">this section</cite> is guilty of an infraction and upon conviction thereof shall be punished as provided in law.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2003-07, 2003</annotation>
@@ -129,11 +129,9 @@
       </para>
       <para>
         <num>D.</num>
-        <text>This section shall not apply to persons who are blind, deaf or physically disabled, who shall have the right to be accompanied by a specifically trained assistance dog.</text>
+        <text><cite path="|12.04.070">This section</cite> shall not apply to persons who are blind, deaf or physically disabled, who shall have the right to be accompanied by a specifically trained assistance dog.</text>
       </para>
-      <annotations>
-        <annotation type="History">Ord. 96-03 § 7, 1996</annotation>
-      </annotations>
+      <annotations/>
     </section>
     <section>
       <num>12.04.080</num>
@@ -259,9 +257,11 @@
       </para>
       <para>
         <num>C.</num>
-        <text>The sound emanating from sound amplifying equipment shall be in accordance with the American Canyon Municipal Code, <cite path="8.12">Chapter 8.12</cite>, Community Noise, Section 5811. (Ord. 96-03 § 18, 1996)</text>
+        <text>The sound emanating from sound amplifying equipment shall be in accordance with the American Canyon Municipal Code, <cite path="8.12">Chapter 8.12</cite>, Community Noise, Section 5811.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation type="History">Ord. 96-03 § 18, 1996</annotation>
+      </annotations>
     </section>
     <section>
       <num>12.04.190</num>
@@ -274,7 +274,7 @@
     <section>
       <num>12.04.200</num>
       <heading>Disorderly conduct.</heading>
-      <text>No disorderly conduct, excessive noise, riot or breach of the peace shall be permitted in any city park, ground, swimming pool or park or recreational building or facility. This section shall not apply to activities or expression which are protected or authorized by the federal or state constitution.</text>
+      <text>No disorderly conduct, excessive noise, riot or breach of the peace shall be permitted in any city park, ground, swimming pool or park or recreational building or facility. <cite path="|12.04.200">This section</cite> shall not apply to activities or expression which are protected or authorized by the federal or state constitution.</text>
       <annotations>
         <annotation type="History">Ord. 99-09 § 4, 1999</annotation>
       </annotations>
@@ -380,7 +380,7 @@
         </para>
         <para>
           <num>5.</num>
-          <text>Bicyclists shall wear a helmet in accordance with California Vehicle Code Section 21200 et seq.</text>
+          <text>Bicyclists shall wear a helmet in accordance with <cite doc="Cal. Veh. Code" path="§21200">California Vehicle Code Section 21200</cite> et seq.</text>
         </para>
       </para>
       <annotations>
@@ -390,14 +390,16 @@
     <section>
       <num>12.04.221</num>
       <heading>Trail use—Enforcement.</heading>
-      <text>Pursuant to American Canyon Municipal Code <cite path="|1.24.010">Section 1.24.010</cite> violation of any trail use regulation shall constitute an infraction unless such violation is specifically designated. (Ord. 2013-08 § 2, 2013)</text>
-      <annotations/>
+      <text>Pursuant to American Canyon Municipal Code <cite path="|1.24.010">Section 1.24.010</cite> violation of any trail use regulation shall constitute an infraction unless such violation is specifically designated.</text>
+      <annotations>
+        <annotation type="History">Ord. 2013-08 § 2, 2013</annotation>
+      </annotations>
     </section>
     <section>
       <num>12.04.230</num>
       <heading>Tobacco use in city parks.</heading>
       <text>In city parks and recreation facilities, the use of tobacco products including but not limited to cigarette smoking, use of electronic cigarettes or similar nicotine delivery devices and use of smokeless tobacco is prohibited. Parks and recreation facilities is defined as parks, landscaped trail areas, landscape areas proximate to recreation facilities including the Philip West Aquatic Center, Senior Multiuse Center, Recreation Center, Community Gym and any other similar facilities.</text>
-      <text>In addition to common municipal code violation practices, violators of this chapter shall be referred to a local anti-smoking program.</text>
+      <text>In addition to common municipal code violation practices, violators of <cite path="12.04">this chapter</cite> shall be referred to a local anti-smoking program.</text>
       <text>The parks and recreation director may authorize the creation of designated smoking areas for events lasting longer than four hours.</text>
       <annotations>
         <annotation type="History">Ord. 2014-03 § 1, 2014</annotation>
@@ -406,8 +408,10 @@
     <section>
       <num>12.04.231</num>
       <heading>Tobacco use in city parks—Enforcement.</heading>
-      <text>Pursuant to American Canyon Municipal Code <cite path="|1.24.010">Section 1.24.010</cite>, violation of tobacco use in city parks constitutes an infraction unless such violation is specifically designated. (Ord. 2014-03 § 2, 2014)</text>
-      <annotations/>
+      <text>Pursuant to American Canyon Municipal Code <cite path="|1.24.010">Section 1.24.010</cite>, violation of tobacco use in city parks constitutes an infraction unless such violation is specifically designated.</text>
+      <annotations>
+        <annotation type="History">Ord. 2014-03 § 2, 2014</annotation>
+      </annotations>
     </section>
   </container>
   <container>
@@ -417,7 +421,7 @@
     <section>
       <num>12.06.010</num>
       <heading>Purpose.</heading>
-      <text>The streets and public areas within the city should be readily accessible and available to the residents and the public at large. The use of these areas for camping purposes or storage of personal property interferes with the rights of others to use the areas for which they were intended. Such activity can constitute a public health and safety hazard which adversely impacts neighborhoods and commercial areas. Camping on public property without proper sanitary measures adversely affects the public health, safety, and welfare of the city and interferes with the intended use and enjoyment of public property. The purpose of this chapter is to maintain streets, parks, and other public areas within the city in a clean, sanitary and accessible condition and to adequately protect the health, safety and public welfare of the community, while recognizing that, subject to reasonable conditions, camping and camp facilities associated with special events can be beneficial to the cultural and educational climate in the city. Nothing in this chapter is intended to interfere with otherwise lawful and ordinary use of public or private property.</text>
+      <text>The streets and public areas within the city should be readily accessible and available to the residents and the public at large. The use of these areas for camping purposes or storage of personal property interferes with the rights of others to use the areas for which they were intended. Such activity can constitute a public health and safety hazard which adversely impacts neighborhoods and commercial areas. Camping on public property without proper sanitary measures adversely affects the public health, safety, and welfare of the city and interferes with the intended use and enjoyment of public property. The purpose of <cite path="12.06">this chapter</cite> is to maintain streets, parks, and other public areas within the city in a clean, sanitary and accessible condition and to adequately protect the health, safety and public welfare of the community, while recognizing that, subject to reasonable conditions, camping and camp facilities associated with special events can be beneficial to the cultural and educational climate in the city. Nothing in <cite path="12.06">this chapter</cite> is intended to interfere with otherwise lawful and ordinary use of public or private property.</text>
       <annotations>
         <annotation type="History">Ord. 2015-10 § 1, 2015</annotation>
       </annotations>
@@ -425,7 +429,7 @@
     <section>
       <num>12.06.020</num>
       <heading>Definitions.</heading>
-      <text>For purposes of this chapter, the following words and phrases shall have the meaning set forth in this section, unless the context otherwise clearly requires.</text>
+      <text>For purposes of <cite path="12.06">this chapter</cite>, the following words and phrases shall have the meaning set forth in <cite path="|12.06.020">this section</cite>, unless the context otherwise clearly requires.</text>
       <text>"Camp" means to:</text>
       <para>
         <num>1.</num>
@@ -439,7 +443,7 @@
         <num>3.</num>
         <text>Use camp paraphernalia in a camp facility or outdoors.</text>
       </para>
-      <text>"Camp facilities" include, but are not limited to, tents, huts, temporary shelters, camper trailers, motor homes, or vehicles, as defined by California Vehicle Code Section 670.</text>
+      <text>"Camp facilities" include, but are not limited to, tents, huts, temporary shelters, camper trailers, motor homes, or vehicles, as defined by <cite doc="Cal. Veh. Code" path="§670">California Vehicle Code Section 670</cite>.</text>
       <text>"Camp paraphernalia" includes, but is not limited to, bedrolls, tarpaulins, cots, beds, sleeping bags, hammocks or other sleeping equipment or any cooking equipment.</text>
       <text>"City" means the city of American Canyon.</text>
       <text>"City manager" means the city manager of the city, the acting city manager, or the city manager's designee.</text>
@@ -463,11 +467,11 @@
       </para>
       <para>
         <num>B.</num>
-        <text>The city manager may, as provided in <cite path="|12.06.050">Section 12.06.050</cite> of this chapter, issue a temporary permit to allow camping on public property in connection with a special event.</text>
+        <text>The city manager may, as provided in <cite path="|12.06.050">Section 12.06.050</cite> of <cite path="12.06">this chapter</cite>, issue a temporary permit to allow camping on public property in connection with a special event.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>A violation of this section is a misdemeanor. In addition to the remedies set forth in Penal Code Section 370, the city attorney may institute civil actions to abate a public nuisance under this chapter.</text>
+        <text>A violation of <cite path="|12.06.030">this section</cite> is a misdemeanor. In addition to the remedies set forth in <cite doc="Cal. Penal Code" path="§370">Penal Code Section 370</cite>, the city attorney may institute civil actions to abate a public nuisance under <cite path="12.06">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2015-10 § 1, 2015</annotation>
@@ -482,11 +486,11 @@
       </para>
       <para>
         <num>B.</num>
-        <text>A violation of this section is a misdemeanor. In addition to the remedies set forth in Penal Code Section 370 the city attorney may institute civil actions to abate a public nuisance under this chapter.</text>
+        <text>A violation of <cite path="|12.06.040">this section</cite> is a misdemeanor. In addition to the remedies set forth in <cite doc="Cal. Penal Code" path="§370">Penal Code Section 370</cite> the city attorney may institute civil actions to abate a public nuisance under <cite path="12.06">this chapter</cite>.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>This section shall not apply to vehicles that are stored consistent with City Code <cite path="|10.32.030">Section 10.32.030</cite>, so long as such vehicles are not being occupied on an overnight or day-to-day basis for camping or sleeping purposes. (Ord. 2015-10 § 1, 2015)</text>
+        <text><cite path="|12.06.040">This section</cite> shall not apply to vehicles that are stored consistent with City Code <cite path="|10.32.030">Section 10.32.030</cite>, so long as such vehicles are not being occupied on an overnight or day-to-day basis for camping or sleeping purposes.</text>
       </para>
       <annotations/>
     </section>
@@ -499,7 +503,7 @@
       </para>
       <para>
         <num>B.</num>
-        <text>Any person who establishes, maintains or operates a camp or camp facility without a permit is guilty of a misdemeanor and constitutes a public nuisance. In addition to remedies provided in Penal Code Section 370 the city attorney may institute civil actions to abate a public nuisance under this chapter.</text>
+        <text>Any person who establishes, maintains or operates a camp or camp facility without a permit is guilty of a misdemeanor and constitutes a public nuisance. In addition to remedies provided in <cite doc="Cal. Penal Code" path="§370">Penal Code Section 370</cite> the city attorney may institute civil actions to abate a public nuisance under <cite path="12.06">this chapter</cite>.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2015-10 § 1, 2015</annotation>
@@ -508,19 +512,23 @@
     <section>
       <num>12.06.060</num>
       <heading>Posting copy of permit.</heading>
-      <text>It is unlawful for any person to establish, maintain, conduct or carry on any camp or camp facility unless there shall be at all times posted in a conspicuous place upon the area or tract of land upon which the camp or camp facility is located a permit obtained from the city manager in accordance with the provisions of <cite path="|12.06.050">Section 12.06.050</cite> of this chapter. (Ord. 2015-10 § 1, 2015)</text>
-      <annotations/>
+      <text>It is unlawful for any person to establish, maintain, conduct or carry on any camp or camp facility unless there shall be at all times posted in a conspicuous place upon the area or tract of land upon which the camp or camp facility is located a permit obtained from the city manager in accordance with the provisions of <cite path="|12.06.050">Section 12.06.050</cite> of <cite path="12.06">this chapter</cite>.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-10 § 1, 2015</annotation>
+      </annotations>
     </section>
     <section>
       <num>12.06.070</num>
       <heading>Power of the city manager to make rules and regulations.</heading>
-      <text>The city manager is further empowered to ascertain that the operation or maintenance of any camp or camp facilities to which a temporary permit shall apply will in no way jeopardize the public health, safety or welfare and for this purpose may make additional rules and regulations pertaining to their establishment, operation or conduct. The city manager may also impose conditions on the establishment, maintenance and operation of the camp or camp facility, including, but not limited to, security, sanitation facilities, the number of occupants, posting of bonds or deposits, insurance, quiet hours, duration of the permit, and permitted activities on the premises. When the city manager shall issue any permit under the terms of <cite path="|12.06.050">Section 12.06.050</cite> of this chapter, the same may be revoked at any time thereafter by the city manager if the city manager becomes satisfied that the maintenance or continuing operation of the camp or camp facilities is adverse to the public health, safety and welfare. (Ord. 2015-10 § 1, 2015)</text>
-      <annotations/>
+      <text>The city manager is further empowered to ascertain that the operation or maintenance of any camp or camp facilities to which a temporary permit shall apply will in no way jeopardize the public health, safety or welfare and for this purpose may make additional rules and regulations pertaining to their establishment, operation or conduct. The city manager may also impose conditions on the establishment, maintenance and operation of the camp or camp facility, including, but not limited to, security, sanitation facilities, the number of occupants, posting of bonds or deposits, insurance, quiet hours, duration of the permit, and permitted activities on the premises. When the city manager shall issue any permit under the terms of <cite path="|12.06.050">Section 12.06.050</cite> of <cite path="12.06">this chapter</cite>, the same may be revoked at any time thereafter by the city manager if the city manager becomes satisfied that the maintenance or continuing operation of the camp or camp facilities is adverse to the public health, safety and welfare.</text>
+      <annotations>
+        <annotation type="History">Ord. 2015-10 § 1, 2015</annotation>
+      </annotations>
     </section>
     <section>
       <num>12.06.080</num>
       <heading>Current ordinance provisions.</heading>
-      <text>Neither the adoption of the ordinance codified in this chapter nor the repeal hereby of any ordinance shall in any manner affect the prosecution for violation of ordinances, which violations were committed prior to the effective date hereof, nor be construed as affecting any of the provisions of such ordinance relating to the collection of any such license or penalty or the penal provision applicable to any violation thereof, nor to affect the validity of any bond or cash deposit in lieu thereof, required to be posted, filed or deposited pursuant to any ordinance, and all rights and obligations thereunder appertaining shall continue in full force and effect.</text>
+      <text>Neither the adoption of the ordinance codified in <cite path="12.06">this chapter</cite> nor the repeal hereby of any ordinance shall in any manner affect the prosecution for violation of ordinances, which violations were committed prior to the effective date hereof, nor be construed as affecting any of the provisions of such ordinance relating to the collection of any such license or penalty or the penal provision applicable to any violation thereof, nor to affect the validity of any bond or cash deposit in lieu thereof, required to be posted, filed or deposited pursuant to any ordinance, and all rights and obligations thereunder appertaining shall continue in full force and effect.</text>
       <annotations>
         <annotation type="History">Ord. 2015-10 § 1, 2015</annotation>
       </annotations>
@@ -533,9 +541,9 @@
     <section>
       <num>12.08.010</num>
       <heading>Definitions.</heading>
-      <text>For the purpose of this chapter certain words and phrases are defined as provided in the following subsections:</text>
+      <text>For the purpose of <cite path="12.08">this chapter</cite> certain words and phrases are defined as provided in the following subsections:</text>
       <text>"Commission" means the Public Utilities Commission of the state of California.</text>
-      <text>"District" or "underground utility district" means that area in the city within which poles, overhead wires, and associated overhead structures are prohibited as such area is described in <cite path="|12.08.020">Section 12.08.020</cite> of this chapter.</text>
+      <text>"District" or "underground utility district" means that area in the city within which poles, overhead wires, and associated overhead structures are prohibited as such area is described in <cite path="|12.08.020">Section 12.08.020</cite> of <cite path="12.08">this chapter</cite>.</text>
       <text>"Person" means and includes individuals, firms, corporations, partnerships, and their agents and employees.</text>
       <text>"Poles," "overhead wires" and associated overhead "structures" mean poles, towers, supports, wires, conductors, guys, stubs, platforms, crossarms, braces, transformers, insulators, cutouts, switches, communication circuits, appliances, attachments and appurtenances located aboveground within a district and used or useful in supplying electric, communication or similar or associated service.</text>
       <text>"Utility" means and includes all persons, agencies, and entities, public or private, supplying by means of electrical materials or devices, any electric, communication or similar or associated service, including any such service supplied only to departments or divisions of the supplier.</text>
@@ -568,11 +576,11 @@
       </para>
       <para>
         <num>F.</num>
-        <text>Notice of Establishment. Within ten days after the effective date of a resolution adopted pursuant to this section, the city clerk shall notify all affected utilities and all persons owning real property within the district created by said resolution of the adoption thereof. Said city clerk shall further notify such affected property owners of the necessity that, if they or any person occupying such property desire to continue to receive electric, communication, or similar or associated service, they or such occupant shall prior to the date specified in said resolution, provide all necessary facility changes on their premises so as to receive such service from the lines of the supplying utility or utilities at a new location, subject to the applicable rules, regulations and tariffs of the respective utility or utilities on file with the Commission.</text>
+        <text>Notice of Establishment. Within ten days after the effective date of a resolution adopted pursuant to <cite path="|12.08.020">this section</cite>, the city clerk shall notify all affected utilities and all persons owning real property within the district created by said resolution of the adoption thereof. Said city clerk shall further notify such affected property owners of the necessity that, if they or any person occupying such property desire to continue to receive electric, communication, or similar or associated service, they or such occupant shall prior to the date specified in said resolution, provide all necessary facility changes on their premises so as to receive such service from the lines of the supplying utility or utilities at a new location, subject to the applicable rules, regulations and tariffs of the respective utility or utilities on file with the Commission.</text>
       </para>
       <para>
         <num>G.</num>
-        <text>Notice of Establishment Method. Such notice by the city clerk shall be made by mailing a copy of the resolution adopted pursuant to this section, together with a copy of this chapter, to affected property owners as such are shown on the last equalized assessment roll and to the affected utilities.</text>
+        <text>Notice of Establishment Method. Such notice by the city clerk shall be made by mailing a copy of the resolution adopted pursuant to <cite path="|12.08.020">this section</cite>, together with a copy of <cite path="12.08">this chapter</cite>, to affected property owners as such are shown on the last equalized assessment roll and to the affected utilities.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2013-03 § 2, 2013</annotation>
@@ -583,15 +591,15 @@
       <heading>Prohibitions and exceptions.</heading>
       <para>
         <num>A.</num>
-        <text>Unlawful Acts. Whenever the council creates an underground utility district and orders the removal of poles, overhead wires and associated overhead structures therein as provided in <cite path="|12.08.020">Section 12.08.020</cite> of this chapter, it shall be unlawful for any person or utility to erect, construct, place, keep, maintain, continue, employ or operate poles, overhead wires and associated overhead structures in the district after the date when the overhead facilities are required to be removed by such resolution, except as the overhead facilities may be required to furnish service to an owner or occupant of property prior to the performance by such owner or occupant of the underground work necessary for such owner or occupant to continue to receive utility service as provided in <cite path="|12.08.040">Section 12.08.040</cite>(B) and for such reasonable time required to remove the facilities after the work has been performed and except as otherwise provided in this chapter.</text>
+        <text>Unlawful Acts. Whenever the council creates an underground utility district and orders the removal of poles, overhead wires and associated overhead structures therein as provided in <cite path="|12.08.020">Section 12.08.020</cite> of <cite path="12.08">this chapter</cite>, it shall be unlawful for any person or utility to erect, construct, place, keep, maintain, continue, employ or operate poles, overhead wires and associated overhead structures in the district after the date when the overhead facilities are required to be removed by such resolution, except as the overhead facilities may be required to furnish service to an owner or occupant of property prior to the performance by such owner or occupant of the underground work necessary for such owner or occupant to continue to receive utility service as provided in <cite path="|12.08.040|(B)">Section 12.08.040(B) </cite>and for such reasonable time required to remove the facilities after the work has been performed and except as otherwise provided in <cite path="12.08">this chapter</cite>.</text>
       </para>
       <para>
         <num>B.</num>
-        <text>Exceptions. Notwithstanding the provisions of this chapter, in order to provide emergency service temporary overhead facilities may be installed and maintained for a period not to exceed ninety days. Any person installing such temporary overhead facilities shall, as soon as practicable, notify the director of public works of any such temporary overhead facility to be relocated and so maintained as he may deem necessary to prevent unnecessary interference with vehicular traffic or undue hazard to the public safety.</text>
+        <text>Exceptions. Notwithstanding the provisions of <cite path="12.08">this chapter</cite>, in order to provide emergency service temporary overhead facilities may be installed and maintained for a period not to exceed ninety days. Any person installing such temporary overhead facilities shall, as soon as practicable, notify the director of public works of any such temporary overhead facility to be relocated and so maintained as he may deem necessary to prevent unnecessary interference with vehicular traffic or undue hazard to the public safety.</text>
       </para>
       <para>
         <num>C.</num>
-        <text>Other Exceptions. This chapter shall not apply to the following types of facilities:</text>
+        <text>Other Exceptions. <cite path="12.08">This chapter</cite> shall not apply to the following types of facilities:</text>
         <para>
           <num>1.</num>
           <text>Any municipal facilities or equipment installed under the supervision and to the satisfaction of the director of public works;</text>
@@ -681,7 +689,7 @@
       </para>
       <para>
         <num>H.</num>
-        <text>Time Extension. In the event that any act required by this chapter cannot be performed within the time provided on account of shortage of materials, war, restraint by public authorities, strikes, labor disturbances, civil disobedience, or any other circumstances beyond the control of the actor, then the time within which such act will be accomplished shall be extended for a period equivalent to the time of such limitation.</text>
+        <text>Time Extension. In the event that any act required by <cite path="12.08">this chapter</cite> cannot be performed within the time provided on account of shortage of materials, war, restraint by public authorities, strikes, labor disturbances, civil disobedience, or any other circumstances beyond the control of the actor, then the time within which such act will be accomplished shall be extended for a period equivalent to the time of such limitation.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2000-12 § 1, 2000</annotation>

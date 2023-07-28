@@ -2695,96 +2695,142 @@
         <table>
           <thead>
             <tr>
+              <th>ID</th>
               <th>Roadway</th>
-              <th>Limits</th>
-              <th>Declared Prima Facie Speed Limit</th>
+              <th>Segment</th>
+              <th>Current Speed Limit (mph)</th>
+              <th>Recommended Speed Limit (mph)</th>
             </tr>
           </thead>
           <tbody>
             <tr>
+              <td>1</td>
               <td>Green Island Road</td>
-              <td>between Mezzetta Ct and SR 29</td>
-              <td>40 mph</td>
+              <td>Mezzetta Court to SR 29</td>
+              <td>40</td>
+              <td>40</td>
             </tr>
             <tr>
-              <td>Benton Way</td>
-              <td>between Wetlands Edge Rd and Donaldson Way/Elliott Dr</td>
-              <td>25 mph</td>
-            </tr>
-            <tr>
-              <td>Donaldson Way</td>
-              <td>between Elliott Dr and SR 29</td>
-              <td>25 mph</td>
-            </tr>
-            <tr>
-              <td>Donaldson Way East</td>
-              <td>between SR 29 and Newell Dr</td>
-              <td>30 mph</td>
-            </tr>
-            <tr>
-              <td>Donaldson Way</td>
-              <td>between Eucalyptus Dr and Benton Way</td>
-              <td>25 mph</td>
-            </tr>
-            <tr>
-              <td>Hummingbird Way</td>
-              <td>between Benton Way and West American Canyon Rd</td>
-              <td>25 mph</td>
-            </tr>
-            <tr>
-              <td>James Road</td>
-              <td>between Wilson Way and West American Canyon Rd</td>
-              <td>25 mph</td>
-            </tr>
-            <tr>
-              <td>Danrose Drive</td>
-              <td>between West American Canyon Rd and Mini Dr</td>
-              <td>25 mph</td>
-            </tr>
-            <tr>
-              <td>Broadway Street</td>
-              <td>between East American Canyon Rd and Mini Dr</td>
-              <td>30 mph</td>
-            </tr>
-            <tr>
-              <td>Newell Drive</td>
-              <td>between American Canyon Rd and Donaldson Way East</td>
-              <td>35 mph</td>
-            </tr>
-            <tr>
-              <td>American Canyon Road West</td>
-              <td>between Wetlands Edge Rd to Danrose Dr-James Rd</td>
-              <td>40 mph</td>
-            </tr>
-            <tr>
+              <td>2</td>
               <td>Eucalyptus Drive</td>
-              <td>between Wetlands Edge Rd to Donaldson Way</td>
-              <td>35 mph</td>
+              <td proof="needed">
+                <p>Wetlands Edge Road to</p>
+                <p>Donaldson Way</p>
+              </td>
+              <td>35</td>
+              <td>30</td>
             </tr>
             <tr>
-              <td>American Canyon Road East</td>
-              <td>between Broadway and city limits</td>
-              <td>45 mph</td>
+              <td>3</td>
+              <td>Benton Way</td>
+              <td>Wetlands Edge Road to Donaldson Way</td>
+              <td>25</td>
+              <td>25</td>
             </tr>
             <tr>
-              <td>Flosden Road</td>
-              <td>City limits to American Canyon Rd</td>
-              <td>45 mph</td>
+              <td>4</td>
+              <td>Donaldson Way West</td>
+              <td>Donaldson Way to SR 29</td>
+              <td>25</td>
+              <td>25</td>
             </tr>
             <tr>
-              <td>Wetlands Edge Rd</td>
-              <td>Kensington Way to Eucalyptus Drive</td>
-              <td>25 mph</td>
+              <td>5</td>
+              <td>Donaldson Way East</td>
+              <td>SR 29 to Newell Drive</td>
+              <td>25</td>
+              <td>25</td>
             </tr>
             <tr>
-              <td>Broadway</td>
-              <td>City limits to American Canyon Road</td>
-              <td>30 mph</td>
+              <td>6</td>
+              <td>West American Canyon Road</td>
+              <td>Wetlands Edge Road to James Road</td>
+              <td>40</td>
+              <td>35</td>
             </tr>
             <tr>
+              <td>7</td>
+              <td>Kimberly Drive</td>
+              <td>Meadow Bay Drive to SR 29</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>8</td>
+              <td>Wetlands Edge Road</td>
+              <td>Eucalyptus Drive to Kensington Way</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>9</td>
+              <td>Hummingbird Way</td>
+              <td>Benton Way to West American Canyon Road</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>10</td>
+              <td>Donaldson Way</td>
+              <td>Eucalyptus Drive to Benton Way</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>11</td>
               <td>Elliott Drive</td>
-              <td>between Benton Way to American Canyon Road</td>
-              <td>30 mph</td>
+              <td>Benton Way to West American Road</td>
+              <td>30</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>12</td>
+              <td>Elliott Drive</td>
+              <td>West American Canyon Road and Marla Drive</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>13</td>
+              <td>James Road</td>
+              <td>Wilson Way to West American Canyon Road</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>14</td>
+              <td>Danrose Drive</td>
+              <td>West American Canyon Road to Mini Drive</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>15</td>
+              <td>Broadway Street</td>
+              <td>American Canyon Road to Mini Drive</td>
+              <td>30</td>
+              <td>30</td>
+            </tr>
+            <tr>
+              <td>16</td>
+              <td>Newell Drive</td>
+              <td>Northern Newell Open Space Extents to American Canyon Road</td>
+              <td>35</td>
+              <td>30</td>
+            </tr>
+            <tr>
+              <td>17</td>
+              <td>Flosden Road</td>
+              <td>American Canyon Road to Southern City Limits</td>
+              <td>45</td>
+              <td>40</td>
+            </tr>
+            <tr>
+              <td>18</td>
+              <td>American Canyon Road East</td>
+              <td>Broadway Street to Eastern City limits</td>
+              <td>45</td>
+              <td>40</td>
             </tr>
           </tbody>
         </table>
@@ -2792,6 +2838,7 @@
       <annotations>
         <annotation type="History">Ord. 2017-02 § 1, 2017</annotation>
         <annotation type="History">Ord. 2016-10 § 1, 2016</annotation>
+        <annotation app="2023-06-01" doc="City of American Canyon, Cal., Ord. No. 2023-04" eff="2023-06-01" path="" type="History"/>
       </annotations>
     </section>
   </container>

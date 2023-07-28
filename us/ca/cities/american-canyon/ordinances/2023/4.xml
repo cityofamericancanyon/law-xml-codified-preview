@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., 2023-04">
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2023-04" codify:doc="City of American Canyon, Cal., Code">
   <num>2023-04</num>
   <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON AMENDING CHAPTER 10.56 SPEED LIMITS, TITLE 10 – VEHICLES AND TRAFFIC OF THE AMERICAN CANYON MUNICIPAL CODE</heading>
   <meta>
@@ -41,7 +41,7 @@
   </recitals>
   <section>
     <num>1</num>
-    <text>Chapter 10.56 Speed Limits, Title 10 vehicles and Traffic of the American Canyon Municipal Code is superseded and replaced with:</text>
+    <text><cite doc="City of American Canyon, Cal., Code" path="10.56">Chapter 10.56</cite> Speed Limits, Title 10 vehicles and Traffic of the American Canyon Municipal Code is superseded and replaced with:</text>
     <text>
       <table>
         <thead>
@@ -253,4 +253,155 @@
       </table>
     </text>
   </procedural-data>
+  <codify:replace path="|10.56.010" codified:doc="City of American Canyon, Cal., Code" codified:path="|10.56.010">
+    <section>
+      <num>10.56.010</num>
+      <heading>Decrease of prima facie speed limit.</heading>
+      <text>It is hereby determined upon the basis of engineering and traffic surveys that the prima facie speed limits established by state law upon the following city streets are higher than is reasonable for the safe operation of vehicles thereon and it is hereby declared that lower prima facie speed limits shall be as hereinafter set forth on those streets or parts of streets herein designated when signs are erected giving notice thereof:</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Roadway</th>
+              <th>Segment</th>
+              <th>Current Speed Limit (mph)</th>
+              <th>Recommended Speed Limit (mph)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>Green Island Road</td>
+              <td>Mezzetta Court to SR 29</td>
+              <td>40</td>
+              <td>40</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Eucalyptus Drive</td>
+              <td proof="needed">
+                <p>Wetlands Edge Road to</p>
+                <p>Donaldson Way</p>
+              </td>
+              <td>35</td>
+              <td>30</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Benton Way</td>
+              <td>Wetlands Edge Road to Donaldson Way</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td>Donaldson Way West</td>
+              <td>Donaldson Way to SR 29</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td>Donaldson Way East</td>
+              <td>SR 29 to Newell Drive</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>6</td>
+              <td>West American Canyon Road</td>
+              <td>Wetlands Edge Road to James Road</td>
+              <td>40</td>
+              <td>35</td>
+            </tr>
+            <tr>
+              <td>7</td>
+              <td>Kimberly Drive</td>
+              <td>Meadow Bay Drive to SR 29</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>8</td>
+              <td>Wetlands Edge Road</td>
+              <td>Eucalyptus Drive to Kensington Way</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>9</td>
+              <td>Hummingbird Way</td>
+              <td>Benton Way to West American Canyon Road</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>10</td>
+              <td>Donaldson Way</td>
+              <td>Eucalyptus Drive to Benton Way</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>11</td>
+              <td>Elliott Drive</td>
+              <td>Benton Way to West American Road</td>
+              <td>30</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>12</td>
+              <td>Elliott Drive</td>
+              <td>West American Canyon Road and Marla Drive</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>13</td>
+              <td>James Road</td>
+              <td>Wilson Way to West American Canyon Road</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>14</td>
+              <td>Danrose Drive</td>
+              <td>West American Canyon Road to Mini Drive</td>
+              <td>25</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>15</td>
+              <td>Broadway Street</td>
+              <td>American Canyon Road to Mini Drive</td>
+              <td>30</td>
+              <td>30</td>
+            </tr>
+            <tr>
+              <td>16</td>
+              <td>Newell Drive</td>
+              <td>Northern Newell Open Space Extents to American Canyon Road</td>
+              <td>35</td>
+              <td>30</td>
+            </tr>
+            <tr>
+              <td>17</td>
+              <td>Flosden Road</td>
+              <td>American Canyon Road to Southern City Limits</td>
+              <td>45</td>
+              <td>40</td>
+            </tr>
+            <tr>
+              <td>18</td>
+              <td>American Canyon Road East</td>
+              <td>Broadway Street to Eastern City limits</td>
+              <td>45</td>
+              <td>40</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </section>
+  </codify:replace>
 </document>

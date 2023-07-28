@@ -10,9 +10,10 @@
     <section>
       <num>9.04.010</num>
       <heading>Findings and determination.</heading>
-      <text>The city council finds and determines that the restrictions in <cite path="9.04">this chapter</cite> are necessary to promote the health, safety and general welfare of the public; to protect the integrity and character of residential neighborhoods and districts; to protect the appearance of the Highway 29 corridor; to prevent the devaluation of property values; and, to enhance and protect the liveability, social and economic conditions of the city.</text>
+      <text>The city council finds and determines that the restrictions in this chapter are necessary to promote the health, safety and general welfare of the public; to protect the integrity and character of residential neighborhoods and districts; to protect the appearance of the Highway 29 corridor; to prevent the devaluation of property values; and, to enhance and protect the livability, social and economic conditions of the city.</text>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -20,14 +21,15 @@
       <heading>Declaration of public nuisances.</heading>
       <para>
         <num>(A)</num>
-        <text>Any property, building or other improvements found to be maintained in violation of any one or more of the provisions of <cite path="|9.04.040">Section 9.04.040</cite> of <cite path="9.04">this chapter</cite> is declared to constitute a public nuisance and shall be abated by rehabilitation, repair, removal or demolition pursuant to the procedures set forth in <cite path="9.04">this chapter</cite>.</text>
+        <text>Any property, building or other improvements found to be maintained in violation of any one or more of the provisions of Section 9.04.040 of this chapter is declared to constitute a public nuisance and shall be abated by rehabilitation, repair, removal or demolition pursuant to the procedures set forth in this chapter.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Any property, building, or other improvement found to be maintained in such condition as to constitute a public nuisance as defined anywhere in this code, the statutes of the state of California or in the common law is declared to constitute a public nuisance subject to abatement under the procedures in <cite path="9.04">this chapter</cite>.</text>
+        <text>Any property, building, or other improvement found to be maintained in such condition as to constitute a public nuisance as defined anywhere in this code, the statutes of the state of California or in the common law is declared to constitute a public nuisance subject to abatement under the procedures in this chapter.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -35,14 +37,15 @@
       <heading>Chapter not exclusive.</heading>
       <para>
         <num>(A)</num>
-        <text><cite path="9.04">This chapter</cite> does not exclusively regulate the conditions and use of property within the city. <cite path="9.04">This chapter</cite> shall supplement and be in addition to other provisions of this code and to other statutes, ordinances or regulations existing or subsequently enacted by the city, the state or any other legal entity or agency having jurisdiction.</text>
+        <text>This chapter does not exclusively regulate the conditions and use of property within the city. This chapter shall supplement and be in addition to other provisions of this code and to other statutes, ordinances or regulations existing or subsequently enacted by the city, the state or any other legal entity or agency having jurisdiction.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>The procedures for abatement set forth in <cite path="9.04">this chapter</cite> are not exclusive and are in addition to any other provisions provided in this code or by state law for the abatement of public nuisances.</text>
+        <text>The procedures for abatement set forth in this chapter are not exclusive and are in addition to any other provisions provided in this code or by state law for the abatement of public nuisances.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -126,7 +129,27 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>Parking of any motor vehicle, including a recreational vehicle, trailer, camper or boat on property adjacent to Highway 29 for the purpose of offering the same for sale to the general public where a "for sale" or similar sign is displayed on or in the vehicle, trailer, camper or boat which is visible to traffic on Highway 29 and constitutes or tends to constitute a traffic safety hazard or an unsightly appearance.</text>
+          <text>Parking of any motor vehicle, including a recreational vehicle, trailer, camper or boat on property adjacent to Highway 29 for the purpose of offering the same for sale to the general public where a "for sale" or similar sign is displayed on or in the vehicle, trailer, camper or boat which is visible to traffic on Highway 29 and constitutes or tends to constitute a traffic safety hazard or an unsightly appearance;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Smoking in any dwelling unit of a multi-unit residence and any common area of a multi-unit residence.</text>
+          <para>
+            <num>(i)</num>
+            <text>"Smoke" or "smoking" "Smoking" means inhaling, exhaling, burning, or carrying any lighted or heated cigar, cigarette, pipe, or any other lighted or heated product containing, made, or derived from nicotine, tobacco, marijuana, or other plant, whether natural or synthetic, that is intended for inhalation. Smoking includes carrying or using an activated electronic delivery device. Smoking does not include the use of traditional, sacred tobacco as part of an Indigenous practice or a lawfully recognized religious, spiritual, or cultural ceremony or practice.</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>"Common area of multi-unit residence" means any enclosed area or unenclosed area that may be used by more than the residents of a single unit or room, including but not limited to shared lobbies, courtyards, lounges, hallways, elevators, stairs, community rooms, playgrounds, gym facilities, swimming pools, parking garages, parking lots, living and dining areas, kitchens, bathrooms, laundry rooms, lobbies, waiting rooms, and television rooms.</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>"Dwelling Unit" means one or more rooms designed for residential use by a single household that contain cooking, living, sanitary, and sleeping facilities and that are physically separated from any other rooms or dwelling units that may be in the same structure. "Dwelling Unit" for purposes of smoking prohibition does not encompass hotels, motels, dormitories, campgrounds, rented single family housing, and manufactured housing parks.</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>"Multiunit Residence" means a building or portion thereof designed or used for residential occupancy by two or more households in separate dwelling units.</text>
+          </para>
         </para>
       </para>
       <para>
@@ -163,6 +186,7 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -170,7 +194,7 @@
       <heading>Inspection.</heading>
       <para>
         <num>(A)</num>
-        <text>Authorized Representatives. The city manager and the community development director or their designated representatives are authorized to make inspections and take such actions as may be required by <cite path="9.04">this chapter</cite> to abate public nuisances.</text>
+        <text>Authorized Representatives. The city manager and the community development director or their designated representatives are authorized to make inspections and take such actions as may be required by this chapter to abate public nuisances.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -178,14 +202,16 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
       <num>9.04.060</num>
       <heading>Summary abatement of immediate dangers.</heading>
-      <text>Whenever any condition on or use of property causes or constitutes or reasonably appears to cause or constitute an imminent or immediate danger to the health or safety of the public or a significant portion thereof, the city manager or his or her designee may order, without notice or judicial action, the immediate abatement of the public nuisance. The expense of such abatement shall be collectible as provided in <cite path="9.04">this chapter</cite>.</text>
+      <text>Whenever any condition on or use of property causes or constitutes or reasonably appears to cause or constitute an imminent or immediate danger to the health or safety of the public or a significant portion thereof, the city manager or designee may order, without notice or judicial action, the immediate abatement of the public nuisance. The expense of such abatement shall be collectible as provided in this chapter.</text>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -193,7 +219,7 @@
       <heading>Notice to abate public nuisance.</heading>
       <para>
         <num>(A)</num>
-        <text>Contents of Notice. Whenever the city manager or the community development director or his or her designee finds that a nuisance, as declared in <cite path="|9.04.030">Section 9.04.030</cite>, exists on any property located within the city, he or she shall give written notice to the owner and to any tenant or occupant or other person having charge or possession of the property. The notice shall:</text>
+        <text>Contents of Notice. Whenever the city manager or the community development director or designee finds that a nuisance, as declared in <cite path="|9.04.030">Section 9.04.030</cite>, exists on any property located within the city, the owner and any tenant or occupant or other person having charge or possession of the property shall receive a written notice. The notice shall:</text>
         <para>
           <num>(1)</num>
           <text>Describe the property sufficient to identify the location of the public nuisance;</text>
@@ -222,14 +248,15 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Service of Notice. A notice to abate shall be mailed, by registered or certified mail, to the owner and occupant of property, or shall be served upon the owner or occupant in person. The notification shall be sent to the owner at the address appearing on the latest tax assessment roll and if there is no such address, then in care of the property address. In addition to personal service or service by registered or certified mail, notice to abate shall be posted on two conspicuous places on the affected property attested to by affidavit of city official Service shall be deemed complete at the time the notice is personally served or deposited in the mail with the correct amount of postage affixed and is posted on the affected property as described. The failure of any owner or other person to receive such notice shall not affect in any manner the validity of any proceedings taken pursuant to <cite path="9.04">this chapter</cite>.</text>
+        <text>Service of Notice. A notice to abate shall be mailed, by registered or certified mail, to the owner and occupant of property, or shall be served upon the owner or occupant in person. The notification shall be sent to the owner at the address appearing on the latest tax assessment roll and if there is no such address, then in care of the property address. In addition to personal service or service by registered or certified mail, notice to abate shall be posted on two conspicuous places on the affected property attested to by affidavit of city official Service shall be deemed complete at the time the notice is personally served or deposited in the mail with the correct amount of postage affixed and is posted on the affected property as described. The failure of any owner or other person to receive such notice shall not affect in any manner the validity of any proceedings taken pursuant to this chapter.</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>Property Owner Definition. The term "property owner" or "owner" as used in <cite path="9.04">this chapter</cite>, shall mean the owner or owners of record of real property as shown on the last Napa County equalized assessment roll or supplemental roll, whichever is more current.</text>
+        <text>Property Owner Definition. The term "property owner" or "owner" as used in this chapter, shall mean the owner or owners of record of real property as shown on the last Napa County equalized assessment roll or supplemental roll, whichever is more current.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -238,6 +265,7 @@
       <text>The city council shall hold a public hearing to determine that a public nuisance exists upon the written request of the owner or occupant of the property for which a notice to abate has been issued. The request shall be made to the city clerk within ten days from the date of personal service or within fifteen days from the date of mailing of the notice to abate. The request for hearing shall state the grounds upon which the hearing is requested. The matter shall be scheduled for hearing and the city clerk shall notify the owner or occupant requesting the hearing of the same, not less than five days prior to such hearing, unless such notice is waived in writing by the person requesting the hearing.</text>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -246,6 +274,7 @@
       <text>At the time and place stated in the notice of public hearing, the city council shall hear and consider all relevant evidence, objections or protests, and shall receive testimony from owners, occupants, witnesses, city personnel and interested persons relative to the alleged public nuisance and to the proposed abatement measures. The hearing may be continued from time to time.</text>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -257,10 +286,12 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>A copy of the statement of findings and order shall be served on the property owner and any occupant in the manner provided in <cite path="|9.04.110">Section 9.04.110</cite>.</text>
+        <text>A copy of the statement of findings and order shall be served on the property owner and any occupant in the manner provided in <cite path="|9.04.110">Section 9.04.110</cite>.
+          </text>
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -269,14 +300,16 @@
       <text>Action to review the city council statement of findings and order shall be commenced within thirty days of the date of service of the statement of findings and order and the same shall contain the statement advising of this time limit on seeking court review. After the expiration of thirty days from the date of service of the statement of findings and order, all objections to the decision shall be deemed waived.</text>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
       <num>9.04.120</num>
       <heading>Abatement by property owner.</heading>
-      <text>The property owner, or person having charge or control of the property, may at his or her own expense abate the nuisance as prescribed by the notice to abate or the order of the city council, if any, prior to the expiration of the abatement period set forth in the notice or the order. If and when an owner or occupant undertakes to abate any such nuisance, the community development director or his or her designated representative may impose such conditions as are necessary to protect the public health, safety and welfare. Any necessary permits and/or approvals shall be obtained by the owner or occupant. After the property has been inspected by the community development director or his or her designated representative, and the nuisance has been fully abated in accordance with the notice to abate or order, the proceedings shall terminate. The city manager or the community development director or his or her designated representative may extend the abatement period specified in the notice to abate or any order to abate upon a showing of good cause.</text>
+      <text>The property owner, or person having charge or control of the property, may at their own expense abate the nuisance as prescribed by the notice to abate or the order of the city council, if any, prior to the expiration of the abatement period set forth in the notice or the order. If and when an owner or occupant undertakes to abate any such nuisance, the community development director or designated representative may impose such conditions as are necessary to protect the public health, safety and welfare. Any necessary permits and/or approvals shall be obtained by the owner or occupant. After the property has been inspected by the community development director or designated representative, and the nuisance has been fully abated in accordance with the notice to abate or order, the proceedings shall terminate. The city manager or the community development director or designated representative may extend the abatement period specified in the notice to abate or any order to abate upon a showing of good cause.</text>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -284,18 +317,19 @@
       <heading>Abatement by the city.</heading>
       <para>
         <num>(A)</num>
-        <text>Failure to Abate. If a declared nuisance is not completely abated by the owner or person having charge or control of the property within the time prescribed in the notice to abate or after a public hearing, in the city council order, if any, the city manager or his or her designee shall cause the same to be abated by city employees or private contract. The city manager or his or her designated representative is expressly authorized to enter upon the property for the purpose of abating the nuisance.</text>
+        <text>Failure to Abate. If a declared nuisance is not completely abated by the owner or person having charge or control of the property within the time prescribed in the notice to abate or after a public hearing, in the city council order, if any, the city manager or designee shall cause the same to be abated by city employees or private contract. The city manager or designated representative is expressly authorized to enter upon the property for the purpose of abating the nuisance.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Abatement of Motor Vehicles. Abatement of any motor vehicle registered or subject to registration with the Department of Motor Vehicles shall be carried out in conformance with the provisions of the <cite doc="Cal. Veh. Code">Vehicle Code</cite> and Ordinance No. 92-19 of the city establishing the American Canyon traffic code and any amendments thereto.</text>
+        <text>Abatement of Motor Vehicles. Abatement of any motor vehicle registered or subject to registration with the Department of Motor Vehicles shall be carried out in conformance with the provisions of the Vehicle Code and Ordinance No. 92-19 of the city establishing the American Canyon traffic code and any amendments thereto.</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>Cost of Abatement Constitute Civil Debt. Upon the abatement of the public nuisance, or any portion thereof, by the city, all the costs, including incidental expenses shall be a civil debt owing to the city jointly and severally by the persons who have been given notice as provided in <cite path="9.04">this chapter</cite>, except for any persons which the city council concludes pursuant to proof at the hearing to confirm the costs of abatement are not persons properly charged with responsibility of abatement. The costs shall be billed to the owner or occupant and shall be collectible in the same manner as any other civil debt owing the city.</text>
+        <text>Cost of Abatement Constitute Civil Debt. Upon the abatement of the public nuisance, or any portion thereof, by the city, all the costs, including incidental expenses shall be a civil debt owing to the city jointly and severally by the persons who have been given notice as provided in this chapter, except for any persons which the city council concludes pursuant to proof at the hearing to confirm the costs of abatement are not persons properly charged with responsibility of abatement. The costs shall be billed to the owner or occupant and shall be collectible in the same manner as any other civil debt owing the city.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -303,7 +337,7 @@
       <heading>Record of cost of abatement notice and hearing to confirm.</heading>
       <para>
         <num>(A)</num>
-        <text>The city manager or his or her designee shall keep an account of the costs, including incidental expenses, of abating such public nuisance on each separate lot or parcel of land where the work is done by the city and shall render an itemized report in writing to the city council showing the cost of abatement, including the rehabilitation, demolition or repair of said property, including any salvage value relating thereto; provided that before said report is submitted to the city council, a copy of the same together with a notice of the time when said report shall be heard by the city council for confirmation, shall be served upon the owner of the property in accordance with the provisions of <cite path="|9.04.070">Section 9.04.070</cite> of <cite path="9.04">this chapter</cite> at least ten days prior to submitting the same to the city council. Proof of said service shall be made by affidavit filed with the city clerk.</text>
+        <text>The city manager or designee shall keep an account of the costs, including incidental expenses, of abating such public nuisance on each separate lot or parcel of land where the work is done by the city and shall render an itemized report in writing to the city council showing the cost of abatement, including the rehabilitation, demolition or repair of said property, including any salvage value relating thereto; provided that before said report is submitted to the city council, a copy of the same together with a notice of the time when said report shall be heard by the city council for confirmation, shall be served upon the owner of the property in accordance with the provisions of Section 9.04.070 of this chapter at least ten days prior to submitting the same to the city council. Proof of said service shall be made by affidavit filed with the city clerk.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -315,6 +349,7 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -334,6 +369,7 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -342,12 +378,11 @@
       <text>As an alternative to the assessment lien procedure contained in <cite path="|9.04.150">Section 9.04.150</cite> the total cost for abating such nuisance, as confirmed by the city council, may be collected pursuant to the procedures set forth in <cite doc="Cal. Gov't Code" path="§38773.1">Government Code Section 38773.1</cite> as a nuisance abatement lien.</text>
       <para>
         <num>(A)</num>
-        <text>Prior to the recordation of any nuisance abatement lien, the city shall provide notice of the same to the owner of record of the parcel or lot on which the nuisance is maintained as shown on the</text>
+        <text>Prior to the recordation of any nuisance abatement lien, the city shall provide notice of the same to the owner of record of the parcel or lot on which the nuisance is maintained as shown on the last equalized assessment roll or the supplemental roll, whichever is more current.</text>
       </para>
-      <text>last equalized assessment roll or the supplemental roll, whichever is more current.</text>
       <para>
         <num>(B)</num>
-        <text>The notice shall be served in the same manner as a summons in a civil action in accordance with Article 3 (commencing with Section 415.10) of Chapter 4 of Title 5 of Part <cite doc="Cal. Civ. Proc. Code" path="§2">2 of the Code of Civil Procedure</cite>. If the owner of record, after diligent search cannot be found, the notice may be served by posting a copy thereof in a conspicuous place upon the property for a period of ten days and publication thereof in a newspaper of general circulation published in the county of Napa pursuant to <cite doc="Cal. Gov't Code" path="§6062">Government Code Section 6062</cite>.</text>
+        <text>The notice shall be served in the same manner as a summons in a civil action in accordance with <cite doc="Cal. Civ. Proc. Code" path="§415.10">Article 3 (commencing with Section 415.10) of Chapter 4 of Title 5 of Part 2 of the Code of Civil Procedure</cite>. If the owner of record, after diligent search cannot be found, the notice may be served by posting a copy thereof in a conspicuous place upon the property for a period of ten days and publication thereof in a newspaper of general circulation published in the county of Napa pursuant to Government Code Section 6062.</text>
       </para>
       <para>
         <num>(C)</num>
@@ -359,6 +394,7 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -366,14 +402,15 @@
       <heading>Alternative actions available.</heading>
       <para>
         <num>(A)</num>
-        <text>Nothing in <cite path="9.04">this chapter</cite> shall be deemed to prevent the city council or the city manager from ordering the city attorney to commence a civil or criminal proceeding to abate a public nuisance under applicable civil or <cite doc="Cal. Penal Code">penal code</cite> provisions as an alternative to the proceedings as set forth in <cite path="9.04">this chapter</cite>.</text>
+        <text>Nothing in this chapter shall be deemed to prevent the city council or the city manager from ordering the city attorney to commence a civil or criminal proceeding to abate a public nuisance under applicable civil or penal code provisions as an alternative to the proceedings as set forth in this chapter.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Pursuant to <cite doc="Cal. Gov't Code" path="§38773.7">Government Code Section 38773.7</cite>, upon the entry of a second or subsequent civil or criminal judgment within a two-year period finding that property owner is responsible for a public nuisance subject to abatement pursuant to <cite path="9.04">this chapter</cite>, the city shall be entitled to an order of the court requiring the owner to pay treble the costs of the abatement.</text>
+        <text>Pursuant to <cite doc="Cal. Gov't Code" path="§38773.7">Government Code Section 38773.7</cite>, upon the entry of a second or subsequent civil or criminal judgment within a two-year period finding that property owner is responsible for a public nuisance subject to abatement pursuant to this chapter, the city shall be entitled to an order of the court requiring the owner to pay treble the costs of the abatement.</text>
       </para>
       <annotations>
         <annotation type="History">Ord. 94-07 § 1, 1994</annotation>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -385,7 +422,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Any occupant or person in possession of any such building or structure who fails to vacate such building or structure in accordance with an order given pursuant to <cite path="9.04">this chapter</cite> is guilty of an infraction pursuant to <cite path="|1.24.010">Section 1.24.010</cite> of this code.</text>
+        <text>Any occupant or person in possession of any such building or structure who fails to vacate such building or structure in accordance with an order given pursuant to this chapter is guilty of an infraction pursuant to Section 1.24.010 of this code.</text>
       </para>
       <para>
         <num>(C)</num>
@@ -397,9 +434,11 @@
       </para>
       <para>
         <num>(E)</num>
-        <text><cite path="|9.12.030">Section 9.12.030</cite> provides the penalty for any violation of any provision of <cite path="9.04">this chapter</cite>.</text>
+        <text><cite path="|9.12.030">Section 9.12.030</cite> provides the penalty for any violation of any provision of this chapter.</text>
       </para>
-      <annotations/>
+      <annotations>
+        <annotation app="2023-06-15" doc="City of American Canyon, Cal., Ord. No. 2023-05" eff="2023-06-15" path="§3" type="History"/>
+      </annotations>
     </section>
   </container>
   <container>

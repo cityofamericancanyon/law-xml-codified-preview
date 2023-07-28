@@ -2,7 +2,10 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Code">
   <heading>City of American Canyon Municipal Code</heading>
   <meta>
-    <effective>0001-01-01</effective>
+    <effective>2023-05-31</effective>
+    <recency through="2023-07-06">
+      <doc id="City of American Canyon, Cal., Ord. No. 2023-06" type="ordinance"/>
+    </recency>
   </meta>
   <xi:include href="./1.xml"/>
   <xi:include href="./2.xml"/>

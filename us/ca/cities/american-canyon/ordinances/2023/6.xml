@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., 2023-06">
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2023-06" codify:doc="City of American Canyon, Cal., Code">
   <num>2023-06</num>
   <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON, STATE OF CALIFORNIA, AMENDING TITLE 9 OF CITY OF AMERICAN CANYON MUNICIPAL CODE TO ADD CHAPTER 8.19 SAFE FIREARM STORAGE</heading>
   <meta>
@@ -85,22 +85,58 @@
   </section>
   <section>
     <num>2</num>
-    <text>Adoption. City Municipal Code Title 8, Chapter 8.19 is hereby adopted as set forth below. Accordingly, the Table of Contents for the City of American Canyon Municipal Code Title 8 is hereby amended to add reference to Chapter 8.19 "Safe Firearm Storage."</text>
-    <text>Chapter 8.19, 8.19.010, 8.19.020 and 8.19.030 Safe Firearm Storage are hereby added to the American Canyon Municipal Code, to read as follows:</text>
+    <text>Adoption. City Municipal Code Title 8, <cite doc="City of American Canyon, Cal., Code" path="8.19">Chapter 8.19</cite> is hereby adopted as set forth below. Accordingly, the Table of Contents for the City of American Canyon Municipal Code Title 8 is hereby amended to add reference to <cite doc="City of American Canyon, Cal., Code" path="8.19">Chapter 8.19 "Safe Firearm Storage."</cite></text>
+    <text><cite doc="City of American Canyon, Cal., Code" path="8.19">Chapter 8.19</cite>, <cite doc="City of American Canyon, Cal., Code" path="8.19.010">8.19.010</cite>, <cite doc="City of American Canyon, Cal., Code" path="8.19.020">8.19.020</cite> and <cite doc="City of American Canyon, Cal., Code" path="8.19.030">8.19.030</cite> Safe Firearm Storage are hereby added to the American Canyon Municipal Code, to read as follows:</text>
+    <codify:insert path="8" after="8.18" codified:doc="City of American Canyon, Cal., Code" codified:path="|8.19">
+      <container>
+        <prefix>Chapter</prefix>
+        <num>8.19</num>
+        <heading>SAFE FIREARM STORAGE</heading>
+      </container>
+    </codify:insert>
     <text>
-      <u>Chapter 8.19.010 Storage of Firearms in a Residence</u>
+      <u>
+        <cite doc="City of American Canyon, Cal., Code" path="8.19.010">Chapter 8.19.010 Storage of Firearms in a Residence</cite>
+      </u>
     </text>
-    <text>Except when carried on his or her person, or otherwise in his or immediate control and possession, no person shall keep a firearm (as defined in California Penal Code section 16520, as it may be amended from time to time) in any residence in American Canyon owned or controlled by that person unless the firearm is stored in a locked container (as defined in California Penal Code section 16850, as it may be amended from time to time) or the firearm is disabled with a safety device listed on the California Department of Justice's roster of firearm safety devices (as defined in California Penal Code sections 16540 &amp; 23635, as may be amended from time to time).</text>
+    <text>Except when carried on his or her person, or otherwise in his or immediate control and possession, no person shall keep a firearm (as defined in <cite doc="Cal. Penal Code" path="§16520">California Penal Code section 16520</cite>, as it may be amended from time to time) in any residence in American Canyon owned or controlled by that person unless the firearm is stored in a locked container (as defined in <cite doc="Cal. Penal Code" path="§16850">California Penal Code section 16850</cite>, as it may be amended from time to time) or the firearm is disabled with a safety device listed on the California Department of Justice's roster of firearm safety devices (as defined in <cite doc="Cal. Penal Code" path="§16540">California Penal Code sections 16540</cite> &amp; <cite doc="Cal. Penal Code" path="§23635">23635</cite>, as may be amended from time to time).</text>
+    <codify:insert path="8.19" codified:doc="City of American Canyon, Cal., Code" codified:path="|8.19.010">
+      <section>
+        <num>8.19.010</num>
+        <heading>Storage of Firearms in a Residence</heading>
+        <text>Except when carried on his or her person, or otherwise in his or immediate control and possession, no person shall keep a firearm (as defined in <cite doc="Cal. Penal Code" path="§16520">California Penal Code section 16520</cite>, as it may be amended from time to time) in any residence in American Canyon owned or controlled by that person unless the firearm is stored in a locked container (as defined in <cite doc="Cal. Penal Code" path="§16850">California Penal Code section 16850</cite>, as it may be amended from time to time) or the firearm is disabled with a safety device listed on the California Department of Justice's roster of firearm safety devices (as defined in <cite doc="Cal. Penal Code" path="§16540">California Penal Code sections 16540</cite> &amp; <cite doc="Cal. Penal Code" path="§23635">23635</cite>, as may be amended from time to time).</text>
+      </section>
+    </codify:insert>
     <text>
-      <u>Chapter 8.19.020 Violations</u>
+      <u>
+        <cite doc="City of American Canyon, Cal., Code" path="8.19.020">Chapter 8.19.020 Violations</cite>
+      </u>
     </text>
     <text>The violation of this Chapter shall constitute an infraction. This Chapter may be enforced as described in Title 1 of this Code.</text>
+    <codify:insert path="8.19" codified:doc="City of American Canyon, Cal., Code" codified:path="|8.19.020">
+      <section>
+        <num>8.19.020</num>
+        <heading>Violations</heading>
+        <text>The violation of this Chapter shall constitute an infraction. This Chapter may be enforced as described in Title 1 of this Code.</text>
+      </section>
+    </codify:insert>
     <text>
-      <u>Chapter 8.19.030 Exceptions and Other Laws</u>
+      <u>
+        <cite doc="City of American Canyon, Cal., Code" path="8.19.030">Chapter 8.19.030 Exceptions and Other Laws</cite>
+      </u>
     </text>
-    <text>The requirements of section <u>8.19.010</u> do not apply when a firearm is carried on the person of or is otherwise in the immediate control and possession of, an individual in accordance with applicable local, state, and/or federal laws.</text>
+    <text>The requirements of section <u><cite doc="City of American Canyon, Cal., Code" path="8.19.010">section 8.19.010</cite></u> do not apply when a firearm is carried on the person of or is otherwise in the immediate control and possession of, an individual in accordance with applicable local, state, and/or federal laws.</text>
     <text>This Chapter does not apply when a firearm is carried on the person of. or is otherwise in the immediate control and possession of a peace officer (as defined in California Penal Code sections 830 et seq, as may be amended from time to time).</text>
     <text>It is not the intention of this Chapter to regulate any conduct if the regulation of such conduct has been preempted by state or federal law.</text>
+    <codify:insert path="8.19" codified:doc="City of American Canyon, Cal., Code" codified:path="|8.19.030">
+      <section>
+        <num>8.19.030</num>
+        <heading>Exceptions and Other Laws</heading>
+        <text>The requirements of <cite doc="City of American Canyon, Cal., Code" path="8.19.010">Section 8.19.010</cite> do not apply when a firearm is carried on the person of or is otherwise in the immediate control and possession of, an individual in accordance with applicable local, state, and/or federal laws.</text>
+        <text>This Chapter does not apply when a firearm is carried on the person of. or is otherwise in the immediate control and possession of a peace officer (as defined in California Penal Code sections 830 et seq, as may be amended from time to time).</text>
+        <text>It is not the intention of this Chapter to regulate any conduct if the regulation of such conduct has been preempted by state or federal law.</text>
+      </section>
+    </codify:insert>
   </section>
   <section>
     <num>3</num>

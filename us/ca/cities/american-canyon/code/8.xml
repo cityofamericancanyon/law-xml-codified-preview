@@ -1858,6 +1858,38 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>8.19</num>
+    <heading>SAFE FIREARM STORAGE</heading>
+    <annotation app="2023-07-06" doc="City of American Canyon, Cal., Ord. No. 2023-06" eff="2023-07-06" path="§2" type="History"/>
+    <section>
+      <num>8.19.010</num>
+      <heading>Storage of Firearms in a Residence</heading>
+      <text>Except when carried on his or her person, or otherwise in his or immediate control and possession, no person shall keep a firearm (as defined in <cite doc="Cal. Penal Code" path="§16520">California Penal Code section 16520</cite>, as it may be amended from time to time) in any residence in American Canyon owned or controlled by that person unless the firearm is stored in a locked container (as defined in <cite doc="Cal. Penal Code" path="§16850">California Penal Code section 16850</cite>, as it may be amended from time to time) or the firearm is disabled with a safety device listed on the California Department of Justice's roster of firearm safety devices (as defined in <cite doc="Cal. Penal Code" path="§16540">California Penal Code sections 16540</cite> &amp; <cite doc="Cal. Penal Code" path="§23635">23635</cite>, as may be amended from time to time).</text>
+      <annotations>
+        <annotation app="2023-07-06" doc="City of American Canyon, Cal., Ord. No. 2023-06" eff="2023-07-06" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>8.19.020</num>
+      <heading>Violations</heading>
+      <text>The violation of this Chapter shall constitute an infraction. This Chapter may be enforced as described in Title 1 of this Code.</text>
+      <annotations>
+        <annotation app="2023-07-06" doc="City of American Canyon, Cal., Ord. No. 2023-06" eff="2023-07-06" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>8.19.030</num>
+      <heading>Exceptions and Other Laws</heading>
+      <text>The requirements of <cite path="8.19.010">Section 8.19.010</cite> do not apply when a firearm is carried on the person of or is otherwise in the immediate control and possession of, an individual in accordance with applicable local, state, and/or federal laws.</text>
+      <text>This Chapter does not apply when a firearm is carried on the person of. or is otherwise in the immediate control and possession of a peace officer (as defined in California Penal Code sections 830 et seq, as may be amended from time to time).</text>
+      <text>It is not the intention of this Chapter to regulate any conduct if the regulation of such conduct has been preempted by state or federal law.</text>
+      <annotations>
+        <annotation app="2023-07-06" doc="City of American Canyon, Cal., Ord. No. 2023-06" eff="2023-07-06" path="§2" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>8.20</num>
     <heading>MANDATORY MUNICIPAL SOLID WASTE, RECYCLING AND COMPOST MATERIAL DISPOSAL REDUCTION</heading>
     <section>

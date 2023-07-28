@@ -376,14 +376,8 @@
         <text>Acre, Net. "Net acre" means the area of a lot or site remaining after dedication of all required rights-of-way.</text>
         <text>"Adjoining" means two or more lots or parcels of land sharing a common boundary line, or two or more objects in contact with each other. Lots or parcels of land which touch at corners only shall not be deemed adjoining. "Abutting," "adjacent" and "contiguous" shall mean the same as adjoining.</text>
         <text>"Affordable rent" means monthly rent, including utilities and all fees for housing services, not exceeding the following calculations:</text>
-        <para>
-          <num>(1)</num>
-          <text>Very low-income households: fifty percent of the median income multiplied by thirty percent and divided by twelve;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Low-income households: sixty percent of the median income multiplied by thirty percent and divided by twelve.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Very low-income households: fifty percent of the median income multiplied by thirty percent and divided by twelve;</text>
+        <text class="text-indent-2"><strong>2.</strong> Low-income households: sixty percent of the median income multiplied by thirty percent and divided by twelve.</text>
         <text>"Affordable sales price" means the maximum purchase price that will be affordable to the specified target income household, calculated on the basis of underwriting standards of mortgage financing available for the project and including all housing costs.</text>
         <text>"Alley" means a public way permanently reserved primarily for vehicular service access to the rear or side of properties otherwise abutting on a street.</text>
         <text>"Alter" means to make a change in the exterior appearance or the supporting members of a structure, such as bearing walls, columns, beams, or girders, that will prolong the life of the structure. In the case of signs, "alter" includes copy changes.</text>
@@ -599,71 +593,26 @@
         <heading>Commercial classifications.</heading>
         <text>Commercial uses include the sale or rental of goods and the provision of services other than those classified as public or quasi-public, or industrial.</text>
         <text>Adult-entertainment business means any of the following:</text>
-        <para>
-          <num>(1)</num>
-          <text>"Adult arcade" means an establishment where, for any form of consideration, one or more still or motion picture machines, projectors or other image producing devices are maintained to show images to five or fewer persons per machine at any time, and where a substantial portion of the images so displayed are distinguished or characterized by an emphasis on matters depicting or describing specified sexual activities.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>"Adult bookstore, adult novelty store or adult video store" means a commercial establishment that, as one of its principal business purposes, offers for sale or rental for any form of consideration any one or more of the following:</text>
-          <para>
-            <num>(a)</num>
-            <text>Books, magazines, periodicals or other printed matter, or photographs, films, motion pictures, video cassettes or video reproductions, compact discs (CDs), slides or other visual representations that are distinguished or characterized by an emphasis on matters depicting, describing or relating to specified sexual activities or specified anatomical areas; or</text>
-          </para>
-          <para>
-            <num>(b)</num>
-            <text>Instruments, devices or paraphernalia that are designed for use in connection with specified sexual activities.</text>
-          </para>
-          <text>The items described in subsections (a) and (b) shall be referred to collectively as "adult products."</text>
-          <text>A commercial establishment may have other principal business purposes that do not involve the offering for sale or rental of products depicting, describing or relating to specified sexual activities or specified anatomical areas and still be categorized as adult bookstore, adult novelty store or adult video store so long as one of its principal business purposes is the offering for sale or rental for consideration of the specified products that are distinguished or characterized by an emphasis on matters depicting, describing or relating to specified sexual activities or specified anatomical areas.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>"Adult cabaret" means a nightclub, restaurant, or similar business establishment that: a. regularly features live performances that are distinguished or characterized by an emphasis upon the display of specified anatomical areas or specified sexual activities; and/or b. regularly features persons who appear in a state of nudity.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>"Adult hotel/motel" means a hotel or motel or similar business establishment offering public accommodations for any form of consideration that, a. provides patrons with closed-circuit television transmissions, films, computer generated images, motion pictures, video cassettes, slides, compact discs (CDs) or other photographic reproductions a substantial portion of which are distinguished or characterized by an emphasis upon the depiction or description of specified sexual activities or specified anatomical areas; and b. rents, leases, or lets any room for less than a six-hour period, or rents, leases, or lets any single room more than twice in a twenty-four hour period.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>"Adult motion picture theater" means a building or portion thereof or area, open or enclosed, used for the presentation of motion pictures or other images in which a substantial portion of the total presentation time is devoted to the presentation of motion pictures distinguished or characterized by their emphasis on matters depicting, describing or relating to specified sexual activities, for observation by patrons or customers.</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>"Adult theater" means a theater, concert hall, auditorium or similar establishment that, for any form of consideration, regularly features live performances that are distinguished or characterized by an emphasis on the display of specified anatomical areas or specified sexual activities.</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>"Modeling studio" means a business that provides, for pecuniary compensation, monetary or other consideration, hire or reward, figure models who display specified anatomical areas to be observed, drawn, sketched, photographed, painted, sculpted or otherwise depicted by persons paying such consideration. Modeling studio does not include schools maintained pursuant to standards set by the State Board of Education. Modeling studio further does not include a studio or similar facility owned, operated or maintained by an individual artist or group of artists, that does not provide, permit or make available specified sexual activities.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> "Adult arcade" means an establishment where, for any form of consideration, one or more still or motion picture machines, projectors or other image producing devices are maintained to show images to five or fewer persons per machine at any time, and where a substantial portion of the images so displayed are distinguished or characterized by an emphasis on matters depicting or describing specified sexual activities.</text>
+        <text class="text-indent-2"><strong>2.</strong> "Adult bookstore, adult novelty store or adult video store" means a commercial establishment that, as one of its principal business purposes, offers for sale or rental for any form of consideration any one or more of the following:</text>
+        <text class="text-indent-4"><strong>a.</strong> Books, magazines, periodicals or other printed matter, or photographs, films, motion pictures, video cassettes or video reproductions, compact discs (CDs), slides or other visual representations that are distinguished or characterized by an emphasis on matters depicting, describing or relating to specified sexual activities or specified anatomical areas; or</text>
+        <text class="text-indent-4"><strong>b.</strong> Instruments, devices or paraphernalia that are designed for use in connection with specified sexual activities.</text>
+        <text class="text-indent-2">The items described in subsections (a) and (b) shall be referred to collectively as "adult products."</text>
+        <text class="text-indent-2">A commercial establishment may have other principal business purposes that do not involve the offering for sale or rental of products depicting, describing or relating to specified sexual activities or specified anatomical areas and still be categorized as adult bookstore, adult novelty store or adult video store so long as one of its principal business purposes is the offering for sale or rental for consideration of the specified products that are distinguished or characterized by an emphasis on matters depicting, describing or relating to specified sexual activities or specified anatomical areas.</text>
+        <text class="text-indent-2"><strong>3.</strong> "Adult cabaret" means a nightclub, restaurant, or similar business establishment that: a. regularly features live performances that are distinguished or characterized by an emphasis upon the display of specified anatomical areas or specified sexual activities; and/or b. regularly features persons who appear in a state of nudity.</text>
+        <text class="text-indent-2"><strong>4.</strong> "Adult hotel/motel" means a hotel or motel or similar business establishment offering public accommodations for any form of consideration that, a. provides patrons with closed-circuit television transmissions, films, computer generated images, motion pictures, video cassettes, slides, compact discs (CDs) or other photographic reproductions a substantial portion of which are distinguished or characterized by an emphasis upon the depiction or description of specified sexual activities or specified anatomical areas; and b. rents, leases, or lets any room for less than a six-hour period, or rents, leases, or lets any single room more than twice in a twenty-four hour period.</text>
+        <text class="text-indent-2"><strong>5.</strong> "Adult motion picture theater" means a building or portion thereof or area, open or enclosed, used for the presentation of motion pictures or other images in which a substantial portion of the total presentation time is devoted to the presentation of motion pictures distinguished or characterized by their emphasis on matters depicting, describing or relating to specified sexual activities, for observation by patrons or customers.</text>
+        <text class="text-indent-2"><strong>6.</strong> "Adult theater" means a theater, concert hall, auditorium or similar establishment that, for any form of consideration, regularly features live performances that are distinguished or characterized by an emphasis on the display of specified anatomical areas or specified sexual activities.</text>
+        <text class="text-indent-2"><strong>7.</strong> "Modeling studio" means a business that provides, for pecuniary compensation, monetary or other consideration, hire or reward, figure models who display specified anatomical areas to be observed, drawn, sketched, photographed, painted, sculpted or otherwise depicted by persons paying such consideration. Modeling studio does not include schools maintained pursuant to standards set by the State Board of Education. Modeling studio further does not include a studio or similar facility owned, operated or maintained by an individual artist or group of artists, that does not provide, permit or make available specified sexual activities.</text>
         <text>Amusement center: any place in which five or more coin- or slug-operated amusement devices are installed, including any place open to the public, whether or not the primary use of the premises is devoted to the operation of such devices.</text>
         <text>Animal Sales and Services.</text>
-        <para>
-          <num>(1)</num>
-          <text>Boarding, kennel: provision of shelter and care for four or more small animals four or more months of age. This classification includes activities such as feeding, exercising, grooming, breeding, and incidental medical care.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Grooming: provision of bathing and trimming services for small animals on a commer-cial basis. This classification includes boarding of small animals for a maximum period of forty-eight hours.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Medical care: medical and surgical treatment of small animals. This classification includes hospital facilities that are entirely enclosed, soundproofed, and air-conditioned. Incidental grooming and temporary boarding of animals for thirty days is included.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Retail sales: retail sales of small animals and related products within an entirely enclosed building. This classification includes incidental grooming.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Boarding, kennel: provision of shelter and care for four or more small animals four or more months of age. This classification includes activities such as feeding, exercising, grooming, breeding, and incidental medical care.</text>
+        <text class="text-indent-2"><strong>2.</strong> Grooming: provision of bathing and trimming services for small animals on a commer-cial basis. This classification includes boarding of small animals for a maximum period of forty-eight hours.</text>
+        <text class="text-indent-2"><strong>3.</strong> Medical care: medical and surgical treatment of small animals. This classification includes hospital facilities that are entirely enclosed, soundproofed, and air-conditioned. Incidental grooming and temporary boarding of animals for thirty days is included.</text>
+        <text class="text-indent-2"><strong>4.</strong> Retail sales: retail sales of small animals and related products within an entirely enclosed building. This classification includes incidental grooming.</text>
         <text>Bank savings and loan: a financial institution including federally-chartered banks, savings and loan associations, industrial loan companies, and credit unions that provides retail banking services to individuals and businesses. This classification does not include payday lending businesses or check cashing businesses. This classification includes only those institutions engaged in the on-site circulation of cash money.</text>
-        <para>
-          <num>(1)</num>
-          <text>Drive-up service: provision of banking services accessible to persons who remain in their automobiles.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Walk-up service: provision of banking services to persons at a walk-up window or automated teller machine.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Drive-up service: provision of banking services accessible to persons who remain in their automobiles.</text>
+        <text class="text-indent-2"><strong>2.</strong> Walk-up service: provision of banking services to persons at a walk-up window or automated teller machine.</text>
         <text>Bed and breakfast inns: establishments offering lodging on less than a monthly basis in a structure that was originally built as a residential dwelling, with incidental eating and drinking service for lodgers only provided from a single kitchen on the premises. This classification excludes uses classified under group residential.</text>
         <text>Bookstores: an establishment providing the retail sales of books, magazines, or book-related merchandise to the general public.</text>
         <text>Building materials and services: retailing, wholesaling or rental of building supplies or equipment. This classification includes lumberyards, tool and equipment sales and rental establishments, and building contractors' yards, but excludes activities classified under vehicle/equipment sales, leasing and services.</text>
@@ -694,87 +643,39 @@
         <text>Maintenance and repair services: establishments providing appliance repair, office machine repair, or building maintenance services. This classification excludes the maintenance and repair of vehicles (see vehicle/equipment repair).</text>
         <text>Nursery: an establishment selling horticultural materials in which all merchandise other than plants is kept within an enclosed building or a fully-screened enclosure, and fertilizer of any type is stored and sold in package form only.</text>
         <text>On-premises liquor consumption: establishments predominantly engaged in the preparation and retail sale of alcoholic beverages for consumption on the premises. Typical uses include bars, cocktail lounges, taverns and similar uses. This classification also includes live entertainment for the enjoyment of patrons, but excludes those uses classified under the commercial recreation and entertainment, indoor entertainment use type.</text>
-        <para>
-          <num>(1)</num>
-          <text>Tasting room: an establishment that offers samples of beer or wine for tasting on the premises, with or without charge.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Tasting room: an establishment that offers samples of beer or wine for tasting on the premises, with or without charge.</text>
         <text>Outdoor sales and displays: outdoor sales and displays are permitted only when in conjunction with a permanent on-site structure housing the business.</text>
         <text>Overnight accommodations, lodging services: establishments offering lodging on a less than monthly basis, and having kitchens in no more than sixty percent of guest units. This classification includes commercial functions that are integrated into lodging services operation and may be provided for the general public such as under congregate living facility and room rentals in a detached dwelling unit. Overnight accommodations and lodging services not allowed in the neighborhood commercial district.</text>
         <text>Pawnbroker: any person, co-partnership, firm, or corporation whose business includes buying, selling, trading, taking in pawn, accepting for sale on consignment, accepting for auctioning, or auctioning secondhand tangible personal property. The key difference between a "pawnbroker" and a "secondhand dealer" is that a pawnbroker loans money for tangible personal property while a secondhand dealer does not.</text>
         <text>Pawnbroker does not include:</text>
-        <para>
-          <num>(1)</num>
-          <text>Auctioneers;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Coin dealers;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Secondhand dealer.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Auctioneers;</text>
+        <text class="text-indent-2"><strong>2.</strong> Coin dealers;</text>
+        <text class="text-indent-2"><strong>3.</strong> Secondhand dealer.</text>
         <text>Pawnshop: a business engaged in conducting, managing, or carrying on the business of pawnbroking or loaning money, which includes buying, selling, taking in pawn tangible personal property given or deposited as security for a loan.</text>
         <text>Payday lending business: a retail business owned or operated by a "licensee" as that term is defined in <cite doc="Cal. Fin. Code" path="§23001|(d)">California Financial Code Section 23001(d)</cite>, as amended from time to time who offers, originates, or makes a deferred deposit transaction, who arranges a deferred deposit transaction for a deferred deposit originator, who acts as an agent for a deferred deposit originator, or who assists a deferred deposit originator in the origination of a deferred deposit transaction. However, "licensee" does not include a state or federally chartered bank, thrift, savings association, industrial loan company, or credit union. "Licensee" also does not include a retail seller engaged primarily in the business of selling consumer goods, including consumables, to retail buyers that cashes checks or issues money orders for a minimum fee not exceeding two dollars as a service to its customers that is incidental to its main purpose or business.</text>
         <text>Personal improvement services: provision of instructional services or facilities, including photography, fine arts, crafts, dance or music studios; driving schools; business and trade schools; reducing salons; and health or physical fitness clubs.</text>
-        <para>
-          <num>(1)</num>
-          <text>Night use: use of the facilities between ten p.m. and seven a.m.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Night use: use of the facilities between ten p.m. and seven a.m.</text>
         <text>Personal services: provision of recurrently-needed services of a personal nature. This classification includes hair and nail care salons, garment alteration services, repair shops, dry cleaning pickup, selfservice laundries, and massage services, but excludes banks, and savings and loans.</text>
         <text>Precious metal exchange, commonly referred to as "cash for gold": the operation of a gold and silver business, either stand alone or in conjunction with the operation of a retail store (e.g., jewelry store, or other similar store) which results in twenty percent or more of their gross business receipts being derived from the purchase of gold or silver jewelry or other similar items from a non-wholesale source (including, but not limited to, art objects, flatware, tableware or other personal household items). Gold and silver dealer does not include:</text>
-        <para>
-          <num>(1)</num>
-          <text>Auctioneers;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Coin dealers.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Auctioneers;</text>
+        <text class="text-indent-2"><strong>2.</strong> Coin dealers.</text>
         <text>Professional and medical offices: offices of firms or organizations providing professional, executive, management, administrative, or counseling services, such as design, engineering, real estate, insurance, investment, medical and legal offices. This classification excludes banks, savings and loan associations, and health services.</text>
         <text>Recycling collection center: a collection center for recyclable household materials, including glass, metal, paper products and other materials as may be determined by the community development director.</text>
         <text>Restaurant: an establishment where food and drink are prepared, served, and consumed primarily within the principal building. This classification includes restaurants, lunch counters, delicatessens, coffee shops, cafes and soda fountains; includes the on-site sale of beer, alcohol and wine incidental to the principal use; but excludes those uses classified under the on-premises liquor consumption use type. This classification also includes live entertainment for the enjoyment of dining patrons, but excludes those uses classified under the commercial recreation and entertainment, indoor entertainment use type.</text>
-        <para>
-          <num>(1)</num>
-          <text>Night use: use of the facilities between ten p.m. and seven a.m.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Night use: use of the facilities between ten p.m. and seven a.m.</text>
         <text>Restaurant, take-out: an establishment where food and/or beverages are sold in a form ready for consumption, where all or a significant portion of the consumption takes place or is designed to take place outside the confines of the restaurant, and where ordering and pickup of food may take place from an automobile.</text>
-        <para>
-          <num>(1)</num>
-          <text>Night use: use of the facilities between ten p.m. and seven a.m.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Night use: use of the facilities between ten p.m. and seven a.m.</text>
         <text>Retail commercial: the retail sales of commercial goods and services to the general public.</text>
         <text>Retail food sales: retail sales of food and/or beverages for off-site preparation and consumption. Establishments at which twenty percent or more of the transactions are sales of prepared food for on-site or take-out consumption shall be classified as catering or restaurants.</text>
-        <para>
-          <num>(1)</num>
-          <text>Convenience store: retail sales of prepackaged food, beverages, and small convenience items typically found in establishments with long or late hours of operation.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Liquor store: a retail establishment at which fifty percent or more of the transactions involve the sale of alcoholic beverages for off-site consumption.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Convenience store: retail sales of prepackaged food, beverages, and small convenience items typically found in establishments with long or late hours of operation.</text>
+        <text class="text-indent-2"><strong>2.</strong> Liquor store: a retail establishment at which fifty percent or more of the transactions involve the sale of alcoholic beverages for off-site consumption.</text>
         <text>Retail sales: establishments engaged in selling goods or merchandise to the general public for personal or household consumption and rendering services incidental to the sale of such goods. This classification includes processing or manufacturing activities incidental or subordinate to the primary retail activity whose products are primarily sold onsite, such as a jeweler or bakery.</text>
-        <para>
-          <num>(1)</num>
-          <text>Limited: retail sales of products manufactured by a principal industrial use.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Visitor-oriented: retail sales of specialty goods which are likely to be of interest or may be required by visitors to the community, such as gifts, souvenirs, handcrafts, antiques, and clothing.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Limited: retail sales of products manufactured by a principal industrial use.</text>
+        <text class="text-indent-2"><strong>2.</strong> Visitor-oriented: retail sales of specialty goods which are likely to be of interest or may be required by visitors to the community, such as gifts, souvenirs, handcrafts, antiques, and clothing.</text>
         <text>Secondhand dealer: a retail use where any person, co-partnership, firm or corporation in possession of a valid secondhand dealer's license (California Finance Code Section 2100) whose business includes buying, selling, trading, accepting for sale on consignment, accepting for auctioning or auctioning secondhand tangible personal property. A secondhand dealer who buys secondhand tangible personal property would be required to obtain a license from the police chief and file reports pursuant to <cite doc="Cal. Bus. &amp; Prof. Code">California Business and Professions Code</cite> Sections <cite doc="Cal. Bus. &amp; Prof. Code" path="§21625">21625</cite> through <cite doc="Cal. Bus. &amp; Prof. Code" path="§21647">21647</cite>. Secondhand dealer does not include:</text>
-        <para>
-          <num>(1)</num>
-          <text>Auctioneers;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Coin dealers;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Pawnbroker.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Auctioneers;</text>
+        <text class="text-indent-2"><strong>2.</strong> Coin dealers;</text>
+        <text class="text-indent-2"><strong>3.</strong> Pawnbroker.</text>
         <text>Tangible personal property: all secondhand property including, but not limited to: clothing, jewelry, personal property which bears a serial number or personalized initials or inscription which is purchased by a second hand dealer; or, which, at the time it is acquired by the second-hand dealer bears evidence of having had a serial number or personalized initials or inscription. Tangible personal property also includes new or used motor vehicles. Tangible personal property does not include new goods or merchandise purchased from a bona fide manufacturer or distributor or wholesaler of such new goods or merchandise, or coins, monetized bullion, or commercial grade ingots of precious metals.</text>
         <text>Tobacco paraphernalia: cigarette papers or wrappers, pipes, holders of smoking materials of all types, cigarette rolling machines, and any other item designed for the smoking or ingestion of tobacco products.</text>
         <text>Tobacco product: any substance containing tobacco leaf, including but not limited to cigarettes, cigars, pipe tobacco, hookah tobacco, snuff, chewing tobacco, dipping tobacco, snus, bidis, or any other preparation of tobacco; and any product or formulation of matter containing biologically active amounts of nicotine that is manufactured, sold, offered for sale, or otherwise distributed with the expectation that the product or matter will be intro- duced into the human body, but does not include any cessation product specifically approved by the United States Food and Drug Administration for use in treating nicotine or tobacco dependence.</text>
@@ -782,26 +683,11 @@
         <text>Tobacco retailer, small-format: any room, store, building, or other place less than ten thousand square feet in which fifty percent or more of the transactions involve the sale of any combination of the following products: tobacco products, tobacco paraphernalia, imitation tobacco product, electronic cigarettes, and devices capable of providing an inhalable dose of nicotine.</text>
         <text>Vapor bar or vapor lounge (also referred to as "smoking device bar" or "electronic smoking device lounge"): any facility, building, structure or location where customers use an electronic smoking device or other apparatus to deliver an inhaled dose of nicotine or other substance within the establishment.</text>
         <text>Vehicle/Equipment Sales and Services.</text>
-        <para>
-          <num>(1)</num>
-          <text>Automobile rental: rental of automobiles, including storage and incidental maintenance, but excluding maintenance requiring pneumatic lifts.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Automobile washing: washing, waxing or cleaning of automobiles or similar light vehicles.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Service station: an establishment engaged primarily in the retail sale of motor fuels and incidentally in the supplying of goods and services required in the operation and maintenance of motor vehicles. This classification includes incidental maintenance and repair of automobiles and light trucks, but excludes body and fender work or repair of heavy trucks or vehicles, upholstery work, auto glass work, painting, tire recapping, auto dismantling, auto storage, and the sale of groceries, dairy products, liquor, garden supplies and similar items.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Vehicle/equipment repair: repair of automobiles, light trucks, motorcycles, including the sale, installation, and servicing of related equipment and parts. This classification includes auto repair shops, wheel and brake shops, and tire sales and installation, but excludes body and fender shops, repair of heavy trucks or vehicles, vehicle dismantling or salvage, and tire retreading or recapping.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Vehicle/equipment sales, lease and rentals: sale, lease or rental of automobiles, trucks, tractors, construction and agricultural equipment, mobilehomes, and similar equipment, including storage of vehicles for sale, lease or rental and incidental maintenance and repair of such vehicles.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Automobile rental: rental of automobiles, including storage and incidental maintenance, but excluding maintenance requiring pneumatic lifts.</text>
+        <text class="text-indent-2"><strong>2.</strong> Automobile washing: washing, waxing or cleaning of automobiles or similar light vehicles.</text>
+        <text class="text-indent-2"><strong>3.</strong> Service station: an establishment engaged primarily in the retail sale of motor fuels and incidentally in the supplying of goods and services required in the operation and maintenance of motor vehicles. This classification includes incidental maintenance and repair of automobiles and light trucks, but excludes body and fender work or repair of heavy trucks or vehicles, upholstery work, auto glass work, painting, tire recapping, auto dismantling, auto storage, and the sale of groceries, dairy products, liquor, garden supplies and similar items.</text>
+        <text class="text-indent-2"><strong>4.</strong> Vehicle/equipment repair: repair of automobiles, light trucks, motorcycles, including the sale, installation, and servicing of related equipment and parts. This classification includes auto repair shops, wheel and brake shops, and tire sales and installation, but excludes body and fender shops, repair of heavy trucks or vehicles, vehicle dismantling or salvage, and tire retreading or recapping.</text>
+        <text class="text-indent-2"><strong>5.</strong> Vehicle/equipment sales, lease and rentals: sale, lease or rental of automobiles, trucks, tractors, construction and agricultural equipment, mobilehomes, and similar equipment, including storage of vehicles for sale, lease or rental and incidental maintenance and repair of such vehicles.</text>
         <text>Video rentals: a retail establishment where the rental or sale of video related products is performed.</text>
         <text>Wholesaling, commercial: wholesaling and storage of commercial goods and supplies within an enclosed building, but excluding distribution activities.</text>
         <text>Zero emission vehicle service station: an establishment engaged primarily in retail electric vehicle fuel sales and incidental goods and services required to operate and maintain zero emission motor vehicles. This classification includes incidental maintenance and repair of automobiles and light trucks, but excludes body and fender work or repair of heavy trucks or vehicles, upholstery work, auto glass work, painting, tire recapping, auto dismantling, auto storage, and the sale of groceries, dairy products, liquor, garden supplies and similar items. This classification does not include electric vehicle charging stations installed as an accessory use (see "Accessory use" definition in <cite path="|19.04.030">Section 19.04.030</cite>).</text>
@@ -10817,30 +10703,12 @@
         <heading>Sign programs.</heading>
         <text>The purpose of a sign program is to integrate signs with building and landscaping design to form a unified architectural statement. No permit shall be issued for an individual sign within a center where a sign program has been established until it has been determined consistent with the applicable program.</text>
         <text>A sign program shall be required for:</text>
-        <para>
-          <num>(1)</num>
-          <text>All new commercial, office and industrial centers consisting of three or more tenant spaces;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A property owner(s) may also have the option of filing a sign program application for an existing multi-tenant building or buildings;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Contiguous parcels that do not share driveway access and parking;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>A kiosk sign program;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Community/neighborhood project identification;</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>A special sign district.</text>
-        </para>
+        <text><strong>1.</strong> All new commercial, office and industrial centers consisting of three or more tenant spaces;</text>
+        <text><strong>2.</strong> A property owner(s) may also have the option of filing a sign program application for an existing multi-tenant building or buildings;</text>
+        <text><strong>3.</strong> Contiguous parcels that do not share driveway access and parking;</text>
+        <text><strong>4.</strong> A kiosk sign program;</text>
+        <text><strong>5.</strong> Community/neighborhood project identification;</text>
+        <text><strong>6.</strong> A special sign district.</text>
         <para>
           <num>(A)</num>
           <text>Application. For any lot, site or building on which the placement of one or more signs requires a sign program the owner, developer or leasing agent shall submit to the director the following:</text>
@@ -11905,18 +11773,9 @@
         <text>"Child care facility" means a facility other than a family day care home, including, but not limited to, infant centers, preschools, extended day care facilities, and school age childcare centers.</text>
         <text>"Common interest development" has the definition set forth in <cite doc="Cal. Civ. Code" path="§4100">California Civil Code Section 4100</cite>.</text>
         <text>"Concession" or "incentive" means any of the following:</text>
-        <para>
-          <num>(1)</num>
-          <text>A reduction in site development standards or a modification of zoning code requirements or architectural design requirements that exceed the minimum building standards approved by the California Building Standards Commission, as provided in Part 2.5 (the State Building Code commencing with <cite doc="Cal. Health &amp; Safety Code" path="§18901">Health and Safety Code Section 18901</cite>) of Division <cite doc="Cal. Health &amp; Safety Code" path="§13">13 of the California Health and Safety Code</cite>, including, but not limited to, a reduction in setback and square footage requirements, and in the ratio of vehicular parking spaces that would otherwise be required, that results in identifiable and actual cost reductions.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Approval of mixed use zoning in conjunction with a housing project, if commercial, office, industrial or other land uses will reduce the cost of a housing development, and if the commercial, office, industrial or other land uses are compatible with the housing project and the existing or planned development in the area where the proposed housing project will be located.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Other regulatory incentives or concessions proposed by the applicant or the city and approved by the city that result in identifiable and actual cost reductions.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> A reduction in site development standards or a modification of zoning code requirements or architectural design requirements that exceed the minimum building standards approved by the California Building Standards Commission, as provided in Part 2.5 (the State Building Code commencing with <cite doc="Cal. Health &amp; Safety Code" path="§18901">Health and Safety Code Section 18901</cite>) of Division <cite doc="Cal. Health &amp; Safety Code" path="§13">13 of the California Health and Safety Code</cite>, including, but not limited to, a reduction in setback and square footage requirements, and in the ratio of vehicular parking spaces that would otherwise be required, that results in identifiable and actual cost reductions.</text>
+        <text class="text-indent-2"><strong>2.</strong> Approval of mixed use zoning in conjunction with a housing project, if commercial, office, industrial or other land uses will reduce the cost of a housing development, and if the commercial, office, industrial or other land uses are compatible with the housing project and the existing or planned development in the area where the proposed housing project will be located.</text>
+        <text class="text-indent-2"><strong>3.</strong> Other regulatory incentives or concessions proposed by the applicant or the city and approved by the city that result in identifiable and actual cost reductions.</text>
         <text>This definition does not limit or require the provision of direct financial incentives for a housing development, including the provision of publicly owned land, by the city or the waiver of fees or dedication requirements.</text>
         <text>"Density bonus" means a density increase over the otherwise maximum allowable residential density under the applicable zoning code provisions and the land use element of the general plan as of the date of application by the applicant to the city.</text>
         <text>"Development standard" means the site or construction conditions that apply to a residential development pursuant to any ordinance, general plan element, specific plan, or other city condition, law, policy, resolution or regulation.</text>
@@ -13847,47 +13706,17 @@
           <text>For the purposes of this article, the definitions in <cite path="|19.32.020">Section 19.32.020</cite> of this code, and in Article 1 of the California Mobilehome Residency Law (<cite doc="Cal. Civ. Code">California Civil Code</cite>, Section 798, et seq.), and the following definitions shall apply:</text>
           <text>"Notice to quit" means in the case of a tenant, the Notice required by <cite doc="Cal. Civ. Code" path="§798.55|(b)">Section 798.55(b) of the California Civil Code</cite>. In the case of non-tenant resident, the notice required by an applicable provision of law.</text>
           <text>"Qualified resident" means any resident, as that term is used in <cite doc="Cal. Civ. Code" path="§798.11">California Civil Code Section 798.11</cite>, who satisfies any of the following criteria on the date such resident receives a notice to quit as defined above:</text>
-          <para>
-            <num>(1)</num>
-            <text>Has attained age sixty-two;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Is handicapped as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50072">Section 50072 of the California Health and Safety Code</cite>;</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Is disabled as defined in Title 42 United States Code 423; or</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>Is a person residing with and on whom is legally dependent (as determined for federal income tax purposes) one or more minor children; or</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>Is a person whose income is within the low-income category as defined by the U.S. Department of Housing and Urban Development for its Section 8 program as confirmed by the State Department of Housing and Community Development in amendment to Section 6932 of Title 25 of the California Code of Regulations.</text>
-          </para>
+          <text class="text-indent-2"><strong>1.</strong> Has attained age sixty-two;</text>
+          <text class="text-indent-2"><strong>2.</strong> Is handicapped as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50072">Section 50072 of the California Health and Safety Code</cite>;</text>
+          <text class="text-indent-2"><strong>3.</strong> Is disabled as defined in Title 42 United States Code 423; or</text>
+          <text class="text-indent-2"><strong>4.</strong> Is a person residing with and on whom is legally dependent (as determined for federal income tax purposes) one or more minor children; or</text>
+          <text class="text-indent-2"><strong>5.</strong> Is a person whose income is within the low-income category as defined by the U.S. Department of Housing and Urban Development for its Section 8 program as confirmed by the State Department of Housing and Community Development in amendment to Section 6932 of Title 25 of the California Code of Regulations.</text>
           <text>"Qualified tenant" means any tenant who satisfies any of the following criteria on the date such tenant receives a notice to quit as defined above:</text>
-          <para>
-            <num>(1)</num>
-            <text>Has attained age sixty-two;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Is handicapped as defined in Section 50072 of the California Health and Safely Code;</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Is disabled as defined in Title 42 United States Code 423; or</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>Is a person residing with and on whom is legally dependent (as determined for federal income tax purposes) one or more minor children; or</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>Is a person whose income is within the low-income category as defined by the U.S. Department of Housing and Urban Development for its Section 8 housing program as confirmed by the State Department of Housing and Community Development in annual amendments to Section 6932 of Title 25 of the California Code of Regulations.</text>
-          </para>
+          <text class="text-indent-2"><strong>1.</strong> Has attained age sixty-two;</text>
+          <text class="text-indent-2"><strong>2.</strong> Is handicapped as defined in Section 50072 of the California Health and Safely Code;</text>
+          <text class="text-indent-2"><strong>3.</strong> Is disabled as defined in Title 42 United States Code 423; or</text>
+          <text class="text-indent-2"><strong>4.</strong> Is a person residing with and on whom is legally dependent (as determined for federal income tax purposes) one or more minor children; or</text>
+          <text class="text-indent-2"><strong>5.</strong> Is a person whose income is within the low-income category as defined by the U.S. Department of Housing and Urban Development for its Section 8 housing program as confirmed by the State Department of Housing and Community Development in annual amendments to Section 6932 of Title 25 of the California Code of Regulations.</text>
           <text>"Tenant" means a homeowner, as defined in <cite doc="Cal. Civ. Code" path="§798.9">California Civil Code Section 798.9</cite>.</text>
           <annotations>
             <annotation type="History">Ord. 2006-05 § 1, 2006</annotation>
@@ -14659,18 +14488,9 @@
         <text>"Mobile vending vehicle" means any vehicle that is used for the purposes of providing sales of products or services as defined in <cite path="19.37">this chapter</cite>.</text>
         <text>"Mobile vendor" means an individual or business that owns or operates a mobile service or vending vehicle.</text>
         <text>"Operator" means any person or entity that:</text>
-        <para>
-          <num>(1)</num>
-          <text>Owns, controls, manages, and/or leases a mobile service or vending vehicle; and/or</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Contracts with any person(s) to drive, operate, prepare food in, and/or vend from, a mobile vending vehicle; and/or</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Drives, operates, prepares food in, or vends from, a mobile vending vehicle.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Owns, controls, manages, and/or leases a mobile service or vending vehicle; and/or</text>
+        <text class="text-indent-2"><strong>2.</strong> Contracts with any person(s) to drive, operate, prepare food in, and/or vend from, a mobile vending vehicle; and/or</text>
+        <text class="text-indent-2"><strong>3.</strong> Drives, operates, prepares food in, or vends from, a mobile vending vehicle.</text>
         <text>"Permit" means the business license or entitlement approval required under <cite path="19.37">this chapter</cite> or any other chapter of this code.</text>
         <text>"Person" means any natural person, firm, partnership, association, corporation, or other legal entity of any kind or nature.</text>
         <text>"Restocking" means the transfer of food, goods or merchandise to a mobile vending vehicle from any other person or vehicle and includes, but is not limited to, loading and delivery of food, goods and merchandise.</text>

@@ -1208,47 +1208,20 @@
       <text>"Dismantled vehicle" means a vehicle that has had, intentionally or unintentionally, one or more critical parts removed for forty-five days or more. A critical part is any part that is needed to safely operate the vehicle, including but not limited to a wheel or tire, windshield, door, side quarter panel, trunk, hood, roof, steering wheel, motor or transmission. A vehicle can be "dismantled" whether or not it is in an inoperative condition.</text>
       <text>"Highway" means a way or place of whatever nature, publicly maintained and open to the use of the public for purposes of vehicular travel. "Highway" includes streets.</text>
       <text>"Historic vehicle" means any vehicle which is collected, restored, maintained and operated by a collector or hobbyist primarily for historical exhibition or similar purposes and which is either:</text>
-      <para>
-        <num>(1)</num>
-        <text>A motor vehicle with an engine of sixteen or more cylinders manufactured prior to 1965;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A motor vehicle manufactured in the year 1922 or prior thereto;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A vehicle which was manufactured after 1922, is at least twenty-five years old, and is of historic interest;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>A vehicle described in paragraphs (1), (2), or (3) which is operated or moved over the highway primarily for the purpose of historical exhibition or other similar purposes shall, upon application in the manner and at the time prescribed by the state Department of Motor Vehicles, be issued special identification plates for the vehicle by the state Department of Motor Vehicles.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> A motor vehicle with an engine of sixteen or more cylinders manufactured prior to 1965;</text>
+      <text class="text-indent-2"><strong>2.</strong> A motor vehicle manufactured in the year 1922 or prior thereto;</text>
+      <text class="text-indent-2"><strong>3.</strong> A vehicle which was manufactured after 1922, is at least twenty-five years old, and is of historic interest;</text>
+      <text class="text-indent-2"><strong>4.</strong> A vehicle described in paragraphs (1), (2), or (3) which is operated or moved over the highway primarily for the purpose of historical exhibition or other similar purposes shall, upon application in the manner and at the time prescribed by the state Department of Motor Vehicles, be issued special identification plates for the vehicle by the state Department of Motor Vehicles.</text>
       <text>"Inoperative vehicle" means:</text>
-      <para>
-        <num>(1)</num>
-        <text>Any vehicle in such condition, as a result of mechanical and/or structural defects, however caused, that it cannot be legally or actually driven under its own power except for any vehicle which is being repaired, within a reasonable period of time; or</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Any vehicle that has not been, for more than six months, validly registered for operation or use on the highways in this state as required under the provisions of Division 3 (commencing at Section 4000 et seq.) of the state <cite doc="Cal. Veh. Code">Vehicle Code</cite>, including any "nonoperated vehicle" as defined in <cite path="|10.36.020">this section</cite>.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> Any vehicle in such condition, as a result of mechanical and/or structural defects, however caused, that it cannot be legally or actually driven under its own power except for any vehicle which is being repaired, within a reasonable period of time; or</text>
+      <text class="text-indent-2"><strong>2.</strong> Any vehicle that has not been, for more than six months, validly registered for operation or use on the highways in this state as required under the provisions of Division 3 (commencing at Section 4000 et seq.) of the state <cite doc="Cal. Veh. Code">Vehicle Code</cite>, including any "nonoperated vehicle" as defined in <cite path="|10.36.020">this section</cite>.</text>
       <text>"Motor vehicle" means any vehicle which is self-propelled, but, does not include a self-propelled wheelchair, invalid tricycle, or motorized quadricycle when operated by a person, who, by reason of physical disability, is otherwise unable to move about as a pedestrian.</text>
       <text>"Non-operated vehicle" means any vehicle for the which the owner of the vehicle has (1) filed a certification under penalty of perjury that the vehicle will not be operated, moved or left standing on any highway during the subsequent registration year without the owner first making application for registration of the vehicle, including full payment of all fees, and (2) obtained a certificate of nonoperation from the state Department of Motor Vehicles.</text>
       <text>For purposes of this subsection, "vehicle" means a device by which any person or property may be propelled, moved, or driven upon a highway having intact and assembled its major component parts including, but not limited to, the frame or chassis, cowl, and floor pan or, in the case of a trailer, the frame and wheels or, in the case of a motorcycle, the frame, front fork, and engine. For purposes of <cite path="|10.36.020">this section</cite>, "vehicle" does not include a device moved exclusively by human power, a device used exclusively upon stationary rails or tracks, or a motorized wheelchair.</text>
       <text>"Nonrepairable vehicle" means a vehicle of a type otherwise subject to registration that meets the criteria specified in subdivisions (1), (2) or (3). The vehicle shall be issued a nonrepairable vehicle certificate by the state Department of Motor Vehicles and shall not be titled or registered.</text>
-      <para>
-        <num>(1)</num>
-        <text>A nonrepairable vehicle is a vehicle that has no resale value except as a source of parts or scrap metal, and which the owner irreversibly designates solely as a source of parts or scrap metal.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A nonrepairable vehicle is a completely stripped vehicle (a surgical strip) recovered from theft, missing all of the bolt on sheet metal body panels, all of the doors and hatches, substantially all of the interior components, and substantially all of the grill and light assemblies, or that the owner designates has little or no resale value other than its worth as a source of scrap metal, or as a source of a vehicle identification number that could be used illegally.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A nonrepairable vehicle is a completely burned vehicle (burned hulk) that has been burned to the extent that there are no more usable or repairable body or interior components, tires and wheels, or drive train components, and which the owner irreversibly designates as having little or no resale value other than its worth as scrap metal or as a source of vehicle identification numbers that could be used illegally.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> A nonrepairable vehicle is a vehicle that has no resale value except as a source of parts or scrap metal, and which the owner irreversibly designates solely as a source of parts or scrap metal.</text>
+      <text class="text-indent-2"><strong>2.</strong> A nonrepairable vehicle is a completely stripped vehicle (a surgical strip) recovered from theft, missing all of the bolt on sheet metal body panels, all of the doors and hatches, substantially all of the interior components, and substantially all of the grill and light assemblies, or that the owner designates has little or no resale value other than its worth as a source of scrap metal, or as a source of a vehicle identification number that could be used illegally.</text>
+      <text class="text-indent-2"><strong>3.</strong> A nonrepairable vehicle is a completely burned vehicle (burned hulk) that has been burned to the extent that there are no more usable or repairable body or interior components, tires and wheels, or drive train components, and which the owner irreversibly designates as having little or no resale value other than its worth as scrap metal or as a source of vehicle identification numbers that could be used illegally.</text>
       <text>"Nonrepairable vehicle certificate" means a vehicle ownership document issued to the owner of a nonrepairable vehicle by the state Department of Motor Vehicles. Ownership of the vehicle may only be transferred two times on a nonrepairable vehicle certificate. A vehicle for which a nonrepairable vehicle certificate has been issued may not be titled or registered for use on the roads or highways of California. A nonrepairable vehicle certificate shall be conspicuously labeled with the word "nonrepairable" across the front.</text>
       <text>"Owner of the land" means the owner of the land on which the vehicle, or parts thereof, is located, as shown on the last equalized assessment roll.</text>
       <text>"Owner of the vehicle" means the last registered (and legal) owner of record.</text>
@@ -1398,13 +1371,13 @@
       <text>You are hereby notified to abate said nuisance by the removal of said vehicle (or said parts of a vehicle) within fifteen (15) days from the date of the mailing of this notice, and upon your failure to do so, the same will be abated and removed by the City and the costs thereof, together with administrative costs, will be assessed to you as owner of the land on which said vehicle (or said parts of a vehicle) is located.</text>
       <text>As owner of the land on which said vehicle (or said parts of a vehicle) is located, you are hereby notified that you may, within fifteen (15) days after the mailing of this notice of intention, request a public hearing, and if such request is not received by the City Clerk of the City of American Canyon within such 15-day period, the designated officer shall have the authority to abate and remove said vehicle (or said parts of a vehicle) as a public nuisance and assess the costs as aforesaid without a public hearing. You may submit a sworn written statement within such 15-day period denying responsibility for the presence of said vehicle (or said parts of a vehicle) on said land, with your reasons for denial, and such statement shall be construed as a request for hearing at which your presence is not required. You may appear in person at any hearing requested by you or the owner of the vehicle or, in lieu thereof, may present a sworn written statement as aforesaid in time for consideration at such hearing.</text>
       <text>Notice Mailed: ________/<u>S/</u>___________</text>
-      <text>(Date)	(Locally designated officer)</text>
+      <text>(Date)  (Locally designated officer)</text>
       <text>NOTICE OF INTENTION TO ABATE AND<br/>REMOVE AN ABANDONED, WRECKED,<br/>DISMANTLED, OR INOPERATIVE<br/>VEHICLE, OR PARTS THEREOF, AS A<br/>PUBLIC NUISANCE.</text>
       <text>(Name and address of last registered and/or legal owner of record of vehicle notice should be given to both if different).</text>
       <text>As last registered and legal owner of record of (description of vehicle - make, model, license, etc.), you are hereby notified that the undersigned pursuant to <cite path="10.36">Chapter 10.36</cite> of the American Canyon Municipal Code has determined that said vehicle (or parts of a vehicle) exists as an abandoned, wrecked, dismantled or inoperative vehicle at (describe location on public or private property) and constitutes a public nuisance pursuant to <cite path="10.36">Chapter 10.36</cite> of the American Canyon Municipal Code.</text>
       <text>You are hereby notified to abate said nuisance by the removal of said vehicle (or parts of a vehicle) within fifteen (15) days from the mailing of this notice. As registered and legal owner of record of said vehicle (or parts of a vehicle), you are hereby notified that you may, within fifteen (15) days after the mailing of this Notice of Intention request a public hearing and, if such request is not received by the City Clerk of the City of American Canyon within such fifteen (15) day period, the designated officer shall have the authority to abate and remove said vehicle (or parts of vehicle) without a hearing.</text>
       <text>Notice Mailed: _______/<u>S/</u>____________</text>
-      <text>(Date)	(Locally designated officer)</text>
+      <text>(Date)  (Locally designated officer)</text>
       <para>
         <num>(B)</num>
         <text>A copy of the notice referred to in subsection (A) of <cite path="|10.36.090">this section</cite> shall also be posted on the vehicle proposed to be abated and on the property where the vehicle is located.</text>
@@ -2024,7 +1997,7 @@
     <section>
       <num>10.52.040</num>
       <heading>Definitions.</heading>
-      <text>"Air pollution control officer" (APCO) means the executive officer of the Bay Area Air Quality Management District, or a designee of the APCO.	"Average vehicle ridership (AVR)" means the number of employees who start work at a work site during the peak period divided by the number of vehicles those employees use to arrive at the work site, averaged over the survey week as calculated pursuant to <cite path="|10.52.050|(K)">Section 10.52.050(K)</cite>. (BAAQMD Section 13-1-202)</text>
+      <text>"Air pollution control officer" (APCO) means the executive officer of the Bay Area Air Quality Management District, or a designee of the APCO.  "Average vehicle ridership (AVR)" means the number of employees who start work at a work site during the peak period divided by the number of vehicles those employees use to arrive at the work site, averaged over the survey week as calculated pursuant to <cite path="|10.52.050|(K)">Section 10.52.050(K)</cite>. (BAAQMD Section 13-1-202)</text>
       <text>"Bus pool" means a privately operated or chartered bus which provides commute transportation on a subscription basis. This term is also known as a club bus.</text>
       <text>"Car pool" means a vehicle occupied by two to six people traveling together between their residence and their work site or destination for the majority of the total trip distance. Employees who work for different employers, as well as nonemployed people, are included within this definition as long as they are in the vehicle for the majority of the total trip distance.</text>
       <text>"Commission" means the metropolitan transportation commission.</text>

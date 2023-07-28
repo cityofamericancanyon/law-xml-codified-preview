@@ -240,39 +240,18 @@
         <text>Lot Width, Average. "Average lot width" means the sum of the length of the front and rear lot line divided by two. In the case of irregularly-shaped lots having four or more sides, "average lot width" shall be the sum of the length of two lines, drawn perpendicular to one side line at the widest and narrowest portions of the lot, divided by two.</text>
         <text>"Owner" means the individual(s), or entity(ies), having sufficient proprietary interest in the land sought to be subdivided, and to commence and maintain proceedings to subdivide the same under the laws of the state of California and <cite path="18">this title</cite>.</text>
         <text>"Parcel map" means a map showing the division of land as described in the following cases:</text>
-        <para>
-          <num>(1)</num>
-          <text>Any parcel or parcels of land which is to be divided into four or fewer parcels; or</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The whole parcel before division contains less than five acres, each parcel created by the division abuts upon a public street and no dedications or improvements are required; or</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Any parcel or parcels of land divided into lots or parcels, each of a gross area of twenty acres or more, and each of which has an approved access to a maintained public street; or</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Any parcel or parcels of land divided into lots or parcels, each of which is forty acres or more; or</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Any parcel or parcels of land having approved access to a public street which comprises part of a tract of land zoned for industrial development and which has the approval of the governing body as to street alignments and widths, provided however, that the advisory agency may require the filing of a tentative and final map on such industrially-zoned land where it deems it in the public interest. Each map shall be filed and approved in accordance with the procedures of <cite path="18">this title</cite> and the Subdivision Map Act.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Any parcel or parcels of land which is to be divided into four or fewer parcels; or</text>
+        <text class="text-indent-2"><strong>2.</strong> The whole parcel before division contains less than five acres, each parcel created by the division abuts upon a public street and no dedications or improvements are required; or</text>
+        <text class="text-indent-2"><strong>3.</strong> Any parcel or parcels of land divided into lots or parcels, each of a gross area of twenty acres or more, and each of which has an approved access to a maintained public street; or</text>
+        <text class="text-indent-2"><strong>4.</strong> Any parcel or parcels of land divided into lots or parcels, each of which is forty acres or more; or</text>
+        <text class="text-indent-2"><strong>5.</strong> Any parcel or parcels of land having approved access to a public street which comprises part of a tract of land zoned for industrial development and which has the approval of the governing body as to street alignments and widths, provided however, that the advisory agency may require the filing of a tentative and final map on such industrially-zoned land where it deems it in the public interest. Each map shall be filed and approved in accordance with the procedures of <cite path="18">this title</cite> and the Subdivision Map Act.</text>
         <text>"Pedestrian way" means an easement exclusively for pedestrian use.</text>
         <text>"Planting strip" means the strip of land adjacent to the back of curb line or sidewalk line, which may be used as a public utilities easement and may be a part of the lot created by the subdivision.</text>
         <text>"Reserve strip" means a strip of land not less than one foot in width deeded or dedicated to the city for the purpose of regulating access to a partially improved or dedicated or dead-end, alley, street or highway, or to any arterial street.</text>
         <text>"Subdivider" means a person(s), or entity(ies), who causes land to be subdivided into any number of parcels.</text>
         <text>"Subdivision" means any real property improved or unimproved, or portion thereof, shown on the latest equalized county assessment roll as a unit or as contiguous units, which is proposed to be divided by a subdivider, including condominiums and community apartment projects, for the purpose of sale, lease, or financing, whether immediate or future, by any subdivider within any period. The following, however, are not subdivisions with the meaning of <cite path="18">this title</cite>:</text>
-        <para>
-          <num>(1)</num>
-          <text>Financing or leasing of industrial buildings, stores, offices, apartments or similar space within a building or spaces within a trailer park;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Mineral, oil or gas leases, cemeteries.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Financing or leasing of industrial buildings, stores, offices, apartments or similar space within a building or spaces within a trailer park;</text>
+        <text class="text-indent-2"><strong>2.</strong> Mineral, oil or gas leases, cemeteries.</text>
         <text>"Subdivision Map Act" means the Subdivision Map Act of the state of California.</text>
         <text>"Tentative map" means any map made for the purpose of showing the design and improvement of a proposed subdivision and the existing conditions in and around it, prepared in accordance with <cite path="18">this title</cite> and the Subdivision Map Act.</text>
         <text>"Vesting tentative map" means any tentative map with the words "vesting tentative map" printed conspicuously on its face prepared in accordance with <cite path="18">this title</cite> and the Subdivision Map Act.</text>
@@ -1877,7 +1856,7 @@
         <heading>Application requirements.</heading>
         <para>
           <num>(A)</num>
-          <text>A residential conversion project shall comply with all applicable provisions of Title 16, Adoption of Uniform Codes, Title 18, Subdivisions, Title 19, Zoning, the provisions of <cite path="|18.32.040">this section</cite> and with all other applicable state laws and local ordinances.&#13;	B.	In addition to the information required by other applicable sections of the municipal code, the following information shall be submitted at the time of filing:</text>
+          <text>A residential conversion project shall comply with all applicable provisions of Title 16, Adoption of Uniform Codes, Title 18, Subdivisions, Title 19, Zoning, the provisions of <cite path="|18.32.040">this section</cite> and with all other applicable state laws and local ordinances.&#13;  B.  In addition to the information required by other applicable sections of the municipal code, the following information shall be submitted at the time of filing:</text>
           <para>
             <num>(1)</num>
             <text>Building plans or other documents containing the following information pertaining to the project as proposed, certified as to accuracy by a licensed engineer.</text>
@@ -2152,56 +2131,20 @@
         <text>"Landlord" means an owner, lessor or sublessor, (including any person, firm, corporation, partnership or other entity) who receives or is entitled to receive rent for the use of any rental unit, or the agent, representative or successor of any of the foregoing.</text>
         <text>"Notice of termination" means the notice of intention to terminate tenancy, whether given by a landlord or by a tenant, provided for by <cite doc="Cal. Civ. Code" path="§1946">California Civil Code Section 1946</cite>.</text>
         <text>"Qualified tenant" means any tenant who satisfies any of the following criteria on the date said tenant gives or receives a notice of termination:</text>
-        <para>
-          <num>(a)</num>
-          <text>Has attained age sixty-two;</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>Is handicapped as defined in <cite doc="Cal. Health &amp; Safety Code" path="§55072">Section 55072 of the California Health and Safety Code</cite>;</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>Is disabled as defined Title 42 United States Code 423;</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>Is a person residing with and on whom is legally dependent (as determined for federal income tax purposes) one or more minor children; or</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>Is a person whose income is within the low-income category as defined by the U.S. Department of Housing and Urban Development for its Section 8 program as confirmed by the State Department of Housing and Community Development in amendment to Section 6932 of Title 25 of the California Code of Regulations.</text>
-        </para>
+        <text class="text-indent-2"><strong>a.</strong> Has attained age sixty-two;</text>
+        <text class="text-indent-2"><strong>b.</strong> Is handicapped as defined in <cite doc="Cal. Health &amp; Safety Code" path="§55072">Section 55072 of the California Health and Safety Code</cite>;</text>
+        <text class="text-indent-2"><strong>c.</strong> Is disabled as defined Title 42 United States Code 423;</text>
+        <text class="text-indent-2"><strong>d.</strong> Is a person residing with and on whom is legally dependent (as determined for federal income tax purposes) one or more minor children; or</text>
+        <text class="text-indent-2"><strong>e.</strong> Is a person whose income is within the low-income category as defined by the U.S. Department of Housing and Urban Development for its Section 8 program as confirmed by the State Department of Housing and Community Development in amendment to Section 6932 of Title 25 of the California Code of Regulations.</text>
         <text>"Rental unit" means each dwelling unit, efficiency dwelling unit, guest room, and suite in the city as defined in <cite path="|19.04.030">Section 19.04.030</cite> of this code, together with the land and buildings appurtenant thereto, and all housing services, privileges, furnishings and facilities supplied in connection with the use or occupancy thereof, including garage and parking facilities. The term rental unit shall not include:</text>
-        <para>
-          <num>(1)</num>
-          <text>A one-family dwelling, except where three or more dwelling units are located on the same lot;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Housing accommodations in hotels, motels, inns, tourist homes and boarding and rooming houses, provided that, at such time as an accommodation has been occupied by one or more of the same tenants for sixty days or more, such accommodation shall become a rental unit subject to the provisions of <cite path="18.34">this chapter</cite>;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Housing accommodations in any hospital, convent, monastery, extended medical care facility, asylum, nonprofit home for the aged, fraternity or sorority house, or housing accommodations owned, operated or managed by an institution of higher education, a high school or an elementary school for occupancy by its students;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Housing accommodations which a government unit, agency or authority owns, operates, or manages, or which are specifically exempted from municipal rent regulation by state or federal law or administrative regulation;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Mobilehome.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> A one-family dwelling, except where three or more dwelling units are located on the same lot;</text>
+        <text class="text-indent-2"><strong>2.</strong> Housing accommodations in hotels, motels, inns, tourist homes and boarding and rooming houses, provided that, at such time as an accommodation has been occupied by one or more of the same tenants for sixty days or more, such accommodation shall become a rental unit subject to the provisions of <cite path="18.34">this chapter</cite>;</text>
+        <text class="text-indent-2"><strong>3.</strong> Housing accommodations in any hospital, convent, monastery, extended medical care facility, asylum, nonprofit home for the aged, fraternity or sorority house, or housing accommodations owned, operated or managed by an institution of higher education, a high school or an elementary school for occupancy by its students;</text>
+        <text class="text-indent-2"><strong>4.</strong> Housing accommodations which a government unit, agency or authority owns, operates, or manages, or which are specifically exempted from municipal rent regulation by state or federal law or administrative regulation;</text>
+        <text class="text-indent-2"><strong>5.</strong> Mobilehome.</text>
         <text>"Tenant" means a tenant, subtenant, lessee, sublessee, or any other person entitled to use or occupancy of a rental unit. Tenant does not include any person who:</text>
-        <para>
-          <num>(1)</num>
-          <text>Is residing in a conversion project and intends to purchase a unit in such project after conversion has been accomplished, or who intends to reside with such a purchaser; or</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Received actual written notice, prior to entering into a written or oral agreement to become a tenant, that an application to convert the building to a condominium, stock cooperative or community apartment project was on file with the city or had already been approved, whichever the case may be.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Is residing in a conversion project and intends to purchase a unit in such project after conversion has been accomplished, or who intends to reside with such a purchaser; or</text>
+        <text class="text-indent-2"><strong>2.</strong> Received actual written notice, prior to entering into a written or oral agreement to become a tenant, that an application to convert the building to a condominium, stock cooperative or community apartment project was on file with the city or had already been approved, whichever the case may be.</text>
         <annotations>
           <annotation type="History">Ord. 2006-06 § 2, 2006</annotation>
         </annotations>

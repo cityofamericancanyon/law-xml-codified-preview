@@ -1007,14 +1007,8 @@
         <text>"Base flood" means a flood which has a one percent chance of being equaled or exceeded in any given year (also called the "100-year flood"). Base flood is the term used throughout <cite path="8.16">this chapter</cite>.</text>
         <text>"Basement" means any area of the building having its floor subgrade (i.e., below ground level) on all sides.</text>
         <text>"Breakaway walls" are any type of walls, whether solid or lattice, and whether constructed of concrete, masonry, wood, metal, plastic or any other suitable building material which is not part of the structural support of the building and which designed to break away under abnormally high tides or wave action without causing any damage to the structural integrity of the building on which they are used or any buildings to which they might be carried by flood waters. A breakaway wall shall have a safe design loading resistance of not less than ten and no more than twenty pounds per square foot. Use of breakaway walls must be certified by a registered engineer or architect and shall meet the following conditions:</text>
-        <para>
-          <num>(1)</num>
-          <text>Breakaway wall collapse shall result from a water load less than that which would occur during the base flood; and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The elevated portion of the building shall not incur any structural damage due to the effects of wind and water loads acting simultaneously in the event of the base flood.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Breakaway wall collapse shall result from a water load less than that which would occur during the base flood; and</text>
+        <text class="text-indent-2"><strong>2.</strong> The elevated portion of the building shall not incur any structural damage due to the effects of wind and water loads acting simultaneously in the event of the base flood.</text>
         <text>"Building." See "Structure."</text>
         <text>"Coastal high hazard area" means an area of special flood hazard extending from offshore to the inland limit of a primary frontal dune along an open coast and any other area subject to high velocity wave action from storms or seismic sources. It is an area subject to high velocity waters, including coastal and tidal inundation or tsunamis. The area is designated on a Flood Insurance Rate Map (FIRM) as zone V1—V30, VE or V.</text>
         <text>"Development" means any man-made change to improved or unimproved real estate, including but not limited to buildings or other structures, mining, dredging, filling, grading, paving, excavation or drilling operations or storage of equipment or materials.</text>
@@ -1022,14 +1016,8 @@
         <text>"Existing manufactured home park or subdivision" means a manufactured home park or subdivision for which the construction facilities for servicing the lots on which the manufactured homes are to be affixed (including, at a minimum, the installation of utilities, the construction of streets, and either final site grading or the pouring of concrete pads) is completed before the effective date of the floodplain management regulations adopted by a community.</text>
         <text>"Expansion to an existing manufactured home park or subdivision" means the preparation of additional sites by the construction of facilities for servicing the lots on which the manufacture homes are to be affixed (including the installation of utilities, the construction of streets, and either final site grading or the pouring of concrete pads).</text>
         <text>"Flood, flooding, or flood water" means:</text>
-        <para>
-          <num>(1)</num>
-          <text>A general and temporary condition of partial or complete inundation of normally dry land areas from the overflow of inland or tidal waters; the unusual and rapid accumulation or runoff of surface waters from any source; and/or mudslides (i.e., mudflows); and</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The condition resulting from flood-related erosion.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> A general and temporary condition of partial or complete inundation of normally dry land areas from the overflow of inland or tidal waters; the unusual and rapid accumulation or runoff of surface waters from any source; and/or mudslides (i.e., mudflows); and</text>
+        <text class="text-indent-2"><strong>2.</strong> The condition resulting from flood-related erosion.</text>
         <text>"Flood Boundary and Floodway Map (FBFM)" means the official map on which the Federal Emergency Management Agency or Federal Insurance Administration has delineated both the areas of special hazards and the floodway.</text>
         <text>"Flood Hazard Boundary Map" means the official map on which the Federal Emergency Management Agency or Federal Insurance Administration has delineated the areas of flood hazards.</text>
         <text>"Flood Insurance Rate Map (FIRM)" means the official map on which the Federal Emergency Management Agency or Federal Insurance Administration has delineated both the areas of special flood hazards and the risk premium zones applicable to the community.</text>
@@ -1050,49 +1038,19 @@
         <text>"Hardship" as related to Article V, Variance Procedure, of <cite path="8.16">this chapter</cite> means the exceptional hardship that would result from a failure to grant the requested variance. The city council requires that the variance be exceptional, unusual and peculiar to the property involved. Mere economic or financial hardship alone is not exceptional. Inconvenience, aesthetic considerations, physical handicaps, personal preferences, or the disapproval of one's neighbors likewise cannot, as a rule, qualify as an exceptional hardship. All of these problems can be resolved through other means without granting a variance, even if the alternative is more expensive, or requires the property owner to build elsewhere or put the parcel to a different use than originally intended.</text>
         <text>"Highest adjacent grade" means the highest natural elevation of the ground surface prior to construction next to the proposed walls of a structure.</text>
         <text>"Historic structure" means any structure that is:</text>
-        <para>
-          <num>(1)</num>
-          <text>Listed individually in the National Register of Historic Places (a listing maintained by the Department of Interior) or preliminary determined by the Secretary of the Interior as meeting the requirements for individual listing on the National Register;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Certified or preliminarily determined by the Secretary of the Interior as contributing to the historical significance of a registered historic district or a district preliminarily determined by the Secretary of the Interior to qualify as a registered historic district;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Individually listed on a state inventory of historic places in states with historic preservation programs which have been approved by the Secretary of Interior; or</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Individually listed on a local inventory of historic places in communities with historic preservation programs that have been certified either by an approved state program as determined by the Secretary of the Interior or directly by the Secretary of the Interior in states without approved programs.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Listed individually in the National Register of Historic Places (a listing maintained by the Department of Interior) or preliminary determined by the Secretary of the Interior as meeting the requirements for individual listing on the National Register;</text>
+        <text class="text-indent-2"><strong>2.</strong> Certified or preliminarily determined by the Secretary of the Interior as contributing to the historical significance of a registered historic district or a district preliminarily determined by the Secretary of the Interior to qualify as a registered historic district;</text>
+        <text class="text-indent-2"><strong>3.</strong> Individually listed on a state inventory of historic places in states with historic preservation programs which have been approved by the Secretary of Interior; or</text>
+        <text class="text-indent-2"><strong>4.</strong> Individually listed on a local inventory of historic places in communities with historic preservation programs that have been certified either by an approved state program as determined by the Secretary of the Interior or directly by the Secretary of the Interior in states without approved programs.</text>
         <text>"Levee" means a man-made structure, usually an earthen embankment, designed and constructed in accordance with sound engineering practices to contain, control or divert the flow of water so as to provide protection from temporary flooding.</text>
         <text>"Levee system" means a flood protection system which consists of a levee or levees and associated structures, such as closure and drainage devices, which are constructed and operated in accord with sound engineering practices.</text>
         <text>"Lowest floor" means the lowest floor of the lowest enclosed area, including basement. See "Basement."</text>
-        <para>
-          <num>(1)</num>
-          <text>An unfinished or flood resistant enclosure below the lowest floor that is usable solely for parking of vehicles, building access or storage in an area other than a basement area, is not considered a building's lowest floor provided it conforms to applicable non-elevation design requirements, including, but not limited to:</text>
-          <para>
-            <num>(a)</num>
-            <text>The wet floodproofing standard in <cite path="|8.16.160|(C)|(3)">Section 8.16.160(C)(3)</cite>;</text>
-          </para>
-          <para>
-            <num>(b)</num>
-            <text>The anchoring standards in <cite path="|8.16.160|(A)">Section 8.16.160(A)</cite>;</text>
-          </para>
-          <para>
-            <num>(c)</num>
-            <text>The construction materials and methods standards in <cite path="|8.16.160|(B)">Section 8.16.160(B)</cite>; and</text>
-          </para>
-          <para>
-            <num>(d)</num>
-            <text>The standards for utilities in <cite path="|8.16.170">Section 8.16.170</cite>.</text>
-          </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>For residential structures, all subgrade enclosed areas are prohibited as they are considered to be basements. See "Basement." This prohibition includes below-grade garages and storage areas.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> An unfinished or flood resistant enclosure below the lowest floor that is usable solely for parking of vehicles, building access or storage in an area other than a basement area, is not considered a building's lowest floor provided it conforms to applicable non-elevation design requirements, including, but not limited to:</text>
+        <text class="text-indent-4"><strong>a.</strong> The wet floodproofing standard in <cite path="|8.16.160|(C)|(3)">Section 8.16.160(C)(3)</cite>;</text>
+        <text class="text-indent-4"><strong>b.</strong> The anchoring standards in <cite path="|8.16.160|(A)">Section 8.16.160(A)</cite>;</text>
+        <text class="text-indent-4"><strong>c.</strong> The construction materials and methods standards in <cite path="|8.16.160|(B)">Section 8.16.160(B)</cite>; and</text>
+        <text class="text-indent-4"><strong>d.</strong> The standards for utilities in <cite path="|8.16.170">Section 8.16.170</cite>.</text>
+        <text class="text-indent-2"><strong>2.</strong> For residential structures, all subgrade enclosed areas are prohibited as they are considered to be basements. See "Basement." This prohibition includes below-grade garages and storage areas.</text>
         <text>"Manufactured home" means a structure, transportable in one or more sections, which is built on a permanent chassis and is designed for use with or without a permanent foundation when attached to the required utilities. The term "manufactured home" does not include a "recreational vehicle."</text>
         <text>"Manufactured home park or subdivision" means a parcel (or contiguous parcels) of land divided into two or more manufactured home lots for rent or sale.</text>
         <text>"Market value" shall be determined by estimating the cost to replace the structure in new condition and adjusting that cost figure by the amount of depreciation which has accrued since the structure was constructed. The cost replacement of the structure shall be based on a square foot cost factor determined by reference to a building cost estimating guide recognized by the building construction industry. The amount of depreciation shall be determined by taking into account the age and physical deterioration of the structure and functional obsolescence as approved by the floodplain administrator, but shall not include economic or other forms of external obsolescence. Use of replacement costs or accrued depreciation factors different from those contained in recognized building cost estimating guides may be considered only if such factors are included in a report prepared by an independent professional appraiser and supported by a written explanation of the differences.</text>
@@ -1106,22 +1064,10 @@
         <text>"Primary frontal dune" means a continuous or nearly continuous mound or ridge of sand with relatively steep seaward and landward slopes immediately landward and adjacent to the beach and subject to erosion and overtopping from high tides and waves during major coastal storms. The inland limit of the primary frontal dune occurs at the point where there is a distinct change from a relatively mild slope.</text>
         <text>"Public safety and nuisance" as related to Article V, Variance Procedure, of <cite path="8.16">this chapter</cite> means that the granting of a variance must not result in anything which is injurious to safety or health of an entire community or neighborhood, or any considerable number of persons, or unlawfully obstructs the free passage or use, in the customary manner, of any navigable lake, or river, bay, stream, canal, or basin.</text>
         <text>"Recreational vehicle" means vehicle which is:</text>
-        <para>
-          <num>(1)</num>
-          <text>Built on a single chassis;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Four hundred square feet or less when measured at the largest horizontal projection;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Designed to be self-propelled permanently towable by a light-duty truck; and</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Designed primarily not for use as a permanent dwelling but as temporary living quarters for recreational, camping, travel, or seasonal use.</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Built on a single chassis;</text>
+        <text class="text-indent-2"><strong>2.</strong> Four hundred square feet or less when measured at the largest horizontal projection;</text>
+        <text class="text-indent-2"><strong>3.</strong> Designed to be self-propelled permanently towable by a light-duty truck; and</text>
+        <text class="text-indent-2"><strong>4.</strong> Designed primarily not for use as a permanent dwelling but as temporary living quarters for recreational, camping, travel, or seasonal use.</text>
         <text>"Regulatory floodway" means the channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than one foot.</text>
         <text>"Remedy a violation" means to bring the structure or other development into compliance with state or local floodplain management regulations, or, if this is not possible, to reduce the impacts of its noncompliance. Ways that impacts may be reduced include protecting the structure or other affected development from flood damages, implementing the enforcement provisions of the ordinance or otherwise deterring future similar violations, or reducing state or federal financial exposure with regard to the structure or other development.</text>
         <text>"Riverine" means relating to, formed by, or resembling a river (including tributaries), stream, brook, etc.</text>
@@ -1132,14 +1078,8 @@
         <text>"Structure" means a walled and roofed building that is principally above ground; this includes a gas or liquid storage tank or a manufactured home.</text>
         <text>"Substantial damage" means damage of any origin sustained by a structure whereby the cost of restoring the structure to its before damaged condition would equal or exceed fifty percent of the market value of the structure before the damage occurred.</text>
         <text>"Substantial improvement" means any reconstruction, rehabilitation, addition, or other proposed new development of a structure, the cost of which equals or exceeds fifty percent of the market value of the structure before the "start of construction" of the improvement. This term includes structures which have incurred "substantial damage," regardless of the actual repair work preformed. The term does not, however, include either:</text>
-        <para>
-          <num>(1)</num>
-          <text>Any project for improvement of a structure to correct existing violations or state or local health, sanitary, or safety code specifications which have been identified by the local code enforcement official and which are the minimum necessary to assure safe living conditions; or</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Any alteration of a "historic structure," provided that the alteration will not preclude the structure's continued designation as a "historic structure."</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Any project for improvement of a structure to correct existing violations or state or local health, sanitary, or safety code specifications which have been identified by the local code enforcement official and which are the minimum necessary to assure safe living conditions; or</text>
+        <text class="text-indent-2"><strong>2.</strong> Any alteration of a "historic structure," provided that the alteration will not preclude the structure's continued designation as a "historic structure."</text>
         <text>"Variance" means a grant of relief from the requirements of <cite path="8.16">this chapter</cite> which permits construction in a manner that would otherwise be prohibited by <cite path="8.16">this chapter</cite>.</text>
         <text>"Violation" means the failure of a structure or other development to be fully compliant with <cite path="8.16">this chapter</cite>. A structure or other development without the elevation certificate, other certifications, or other evidence of compliance required in this ordinance is presumed to be in violation until such time as that documentation is provided.</text>
         <text>"V Zone." See "Coastal high hazard area."</text>
@@ -1946,18 +1886,9 @@
       <text>"Food facility" means a commercial and business establishment that stores, prepares, packages, serves, vends, or otherwise provides food for human consumption.</text>
       <text>"Food recovery" means actions to collect and distribute food for human consumption that otherwise would be disposed, or as otherwise defined in 14 CCR Section 18982(a)(24).</text>
       <text>"Food recovery organization" means an entity that engages in the collection or receipt of edible food from commercial edible food generators and distributes that edible food to the public for food recovery either directly or through other entities or as otherwise defined in 14 CCR Section 18982(a)(25), including, but not limited to:</text>
-      <para>
-        <num>(1)</num>
-        <text>A food bank as defined in <cite doc="Cal. Health &amp; Safety Code" path="§113783">Section 113783 of the Health and Safety Code</cite>;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A nonprofit charitable organization as defined in <cite doc="Cal. Health &amp; Safety Code" path="§113841">Section 113841 of the Health and Safety code</cite>; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A nonprofit charitable temporary food facility as defined in <cite doc="Cal. Health &amp; Safety Code" path="§113842">Section 113842 of the Health and Safety Code</cite>.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> A food bank as defined in <cite doc="Cal. Health &amp; Safety Code" path="§113783">Section 113783 of the Health and Safety Code</cite>;</text>
+      <text class="text-indent-2"><strong>2.</strong> A nonprofit charitable organization as defined in <cite doc="Cal. Health &amp; Safety Code" path="§113841">Section 113841 of the Health and Safety code</cite>; and</text>
+      <text class="text-indent-2"><strong>3.</strong> A nonprofit charitable temporary food facility as defined in <cite doc="Cal. Health &amp; Safety Code" path="§113842">Section 113842 of the Health and Safety Code</cite>.</text>
       <text>A food recovery organization is not a commercial edible food generator for the purposes of <cite path="8.20">this chapter</cite> and implementation of 14 CCR, Division 7, Chapter 12 pursuant to 14 CCR Section 18982(a)(7).</text>
       <text>If the definition in 14 CCR Section 18982(a)(25) for food recovery organization differs from this definition, the definition in 14 CCR Section 18982(a)(25) shall apply to <cite path="8.20">this chapter</cite>.</text>
       <text>"Food recovery service" means a person or entity that collects and transports edible food from a commercial edible food generator to a food recovery organization or other entities for food recovery, or as otherwise defined in 14 CCR Section 18982(a)(26). A food recovery service is not a commercial edible food generator for the purposes of this ordinance and implementation of 14 CCR, Division 7, Chapter 12 pursuant to 14 CCR Section 18982(a)(7).</text>
@@ -1977,29 +1908,14 @@
       <text>"Local education agency" means a school district, charter school, or county office of education that is not subject to the control of city or county regulations related to MSW, or as otherwise defined in 14 CCR Section 18982(a)(40).</text>
       <text>"Multifamily residential dwelling" or "multifamily" means of, from, or pertaining to residential premises with five or more dwelling units. Multifamily premises do not include hotels, motels, or other transient occupancy facilities, which are considered commercial businesses.</text>
       <text>"Municipal solid waste" or "MSW" means all fractions of discarded putrescible and non-putrescible solid, semi-solid and liquid wastes, including garbage, trash, refuse, paper, rubbish, ashes, industrial wastes, construction, and demolition debris, discarded home and industrial appliances, manure, vegetable or animal solid and semi-solid wastes, and other discarded substances or materials. MSW does not include:</text>
-      <para>
-        <num>(1)</num>
-        <text>Hazardous waste, as defined in the state <cite doc="Cal. Pub. Res. Code" path="§40141">Public Resources Code Section 40141</cite>.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Radioactive waste regulated pursuant to the state Radiation Control Law (Chapter 8 (commencing with Section 114960) of Part 9 of Division 104 of the state <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>).</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Medical waste regulated pursuant to the state Medical Waste Management Act (Part 14 (commencing with Section 117600) of Division 104 of the state <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>). Untreated medical waste shall not be disposed of in a MSW landfill, as defined in state <cite doc="Cal. Pub. Res. Code" path="§40195.1">Public Resources Code Section 40195.1</cite>. Medical waste that has been treated and deemed to be MSW shall be regulated pursuant to Division 30 of the state <cite doc="Cal. Pub. Res. Code">Public Resources Code</cite>.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Recyclable materials which have been source or type-separated from other waste material.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> Hazardous waste, as defined in the state <cite doc="Cal. Pub. Res. Code" path="§40141">Public Resources Code Section 40141</cite>.</text>
+      <text class="text-indent-2"><strong>2.</strong> Radioactive waste regulated pursuant to the state Radiation Control Law (Chapter 8 (commencing with Section 114960) of Part 9 of Division 104 of the state <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>).</text>
+      <text class="text-indent-2"><strong>3.</strong> Medical waste regulated pursuant to the state Medical Waste Management Act (Part 14 (commencing with Section 117600) of Division 104 of the state <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>). Untreated medical waste shall not be disposed of in a MSW landfill, as defined in state <cite doc="Cal. Pub. Res. Code" path="§40195.1">Public Resources Code Section 40195.1</cite>. Medical waste that has been treated and deemed to be MSW shall be regulated pursuant to Division 30 of the state <cite doc="Cal. Pub. Res. Code">Public Resources Code</cite>.</text>
+      <text class="text-indent-2"><strong>4.</strong> Recyclable materials which have been source or type-separated from other waste material.</text>
       <text>"MWELO" refers to the Model Water Efficient Landscape Ordinance (MWELO), 23 CCR, Division 2, Chapter 2.7</text>
       <text>"Non-compostable paper" includes, but is not limited to, paper that is coated in a plastic material that will not breakdown in the composting process, or as otherwise defined in 14 CCR Section 18982(a)(41).</text>
       <text>"Non-local entity" means the following entities that are not subject to the city's enforcement authority, or as otherwise defined in 14 CCR Section 18982(a)(42):</text>
-      <para>
-        <num>(1)</num>
-        <text>State agencies located within the boundaries of the city, including all public-school locations.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> State agencies located within the boundaries of the city, including all public-school locations.</text>
       <text>"Non-organic recyclables" means non-putrescible and non-hazardous recyclable wastes, including, but not limited to, bottles, cans, metals, plastics, and glass, or as otherwise defined in 14 CCR Section 18982(a)(43).</text>
       <text>"Notice of violation (NOV)" means a notice that a violation has occurred that includes a compliance date to avoid an action to seek penalties, or as otherwise defined in 14 CCR Section 18982(a)(45) or further explained in 14 CCR Section 18995.4.</text>
       <text>"Organic waste" means MSW's containing material originated from living organisms and their metabolic waste products, including, but not limited to, food, green material, landscape and pruning waste, organic textiles and carpets, lumber, wood, Paper products, printing and writing paper, manure, biosolids, digestate, and sludges or as otherwise defined in 14 CCR Section 18982(a)(46). Biosolids and digestate are as defined by 14 CCR Section 18982(a).</text>
@@ -2007,22 +1923,10 @@
       <text>"Paper products" include, but are not limited to, paper janitorial supplies, cartons, wrapping, packaging, file folders, hanging files, corrugated boxes, tissue, and toweling, or as otherwise defined in 14 CCR Section 18982(a)(51).</text>
       <text>"Printing and writing papers" include, but are not limited to, copy, xerographic, watermark, cotton fiber, offset, forms, computer printout paper, white wove envelopes, manila envelopes, book paper, note pads, writing tablets, newsprint, and other uncoated writing papers, posters, index cards, calendars, brochures, reports, magazines, and publications, or as otherwise defined in 14 CCR Section 18982(a)(54).</text>
       <text>"Prohibited container contaminants" means the following:</text>
-      <para>
-        <num>(1)</num>
-        <text>Discarded materials placed in the blue container that are not identified as acceptable source separated recyclable materials for the city blue container.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Discarded materials placed in the green container that are not identified as acceptable source separated green container compost material for the city green container.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Discarded materials placed in the gray container that are acceptable source separated recyclable materials and/or source separated green container compost materials to be placed in city green container and/or blue container; and</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Excluded waste placed in any container.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> Discarded materials placed in the blue container that are not identified as acceptable source separated recyclable materials for the city blue container.</text>
+      <text class="text-indent-2"><strong>2.</strong> Discarded materials placed in the green container that are not identified as acceptable source separated green container compost material for the city green container.</text>
+      <text class="text-indent-2"><strong>3.</strong> Discarded materials placed in the gray container that are acceptable source separated recyclable materials and/or source separated green container compost materials to be placed in city green container and/or blue container; and</text>
+      <text class="text-indent-2"><strong>4.</strong> Excluded waste placed in any container.</text>
       <text>"Recovered organic waste products" means products made from California, landfill-diverted recovered compost material processed in a permitted or otherwise authorized facility, or as otherwise defined in 14 CCR Section 18982(a)(60).</text>
       <text>"Recovery" means any activity or process described in 14 CCR Section 18983.1(b), or as otherwise defined in 14 CCR Section 18982(a)(49).</text>
       <text>"Recycled-content paper" means paper products and printing and writing paper that consists of at least thirty percent, by fiber weight, postconsumer fiber, or as otherwise defined in 14 CCR Section 18982(a)(61).</text>
@@ -2034,26 +1938,11 @@
       <text>"Route review" means a visual inspection of containers along a hauler route for the purpose of determining container contamination and may include mechanical inspection methods such as the use of cameras, or as otherwise defined in 14 CCR Section 18982(a)(65).</text>
       <text>"SB 1383" means Senate Bill 1383 of 2016 approved by the Governor on September 19, 2016, which added Sections 39730.5, 39730.6, 39730.7, and 39730.8 to the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite>, and added Chapter 13.1 (commencing with Section 42652) to Part 3 of Division <cite doc="Cal. Pub. Res. Code" path="§30">30 of the Public Resources Code</cite>, establishing methane emissions reduction targets in a statewide effort to reduce emissions of short-lived climate pollutants as amended, supplemented, superseded, and replaced from time to time.</text>
       <text>"SB 1383 eligible mulch" means mulch eligible to meet the annual recovered compost material product procurement target, pursuant to 14 CCR Chapter 12 of Division 7. This SB 1383 Eligible Mulch shall meet the following conditions for the duration of the applicable procurement compliance year, as specified by 14 CCR Section 18993.1 (f)(4):</text>
-      <para>
-        <num>(1)</num>
-        <text>Produced at one of the following facilities:</text>
-        <para>
-          <num>(i)</num>
-          <text>A transfer/processing facility or transfer/processing operation as defined in 14 CCR Sections 17402(a)(30) and (31), respectively, that is permitted or authorized under 14 CCR Division 7; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>A transfer/processing facility or transfer/processing operation as defined in 14 CCR Sections 17402(a)(30) and (31), respectively, that is permitted or authorized under 14 CCR Division 7; or</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>A MSW landfill as defined in <cite doc="Cal. Pub. Res. Code" path="§40195.1">Public Resources Code Section 40195.1</cite> that is permitted under 27 CCR Division 2.</text>
-        </para>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Meet or exceed the physical contamination, maximum metal concentration, and pathogen density standards for land application specified in 14 CCR Sections 17852(a)(24.5) (A)1 through 3, as enforced by Section 6-3-708(a)</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> Produced at one of the following facilities:</text>
+      <text class="text-indent-4"><strong>i.</strong> A transfer/processing facility or transfer/processing operation as defined in 14 CCR Sections 17402(a)(30) and (31), respectively, that is permitted or authorized under 14 CCR Division 7; or</text>
+      <text class="text-indent-4"><strong>ii.</strong> A transfer/processing facility or transfer/processing operation as defined in 14 CCR Sections 17402(a)(30) and (31), respectively, that is permitted or authorized under 14 CCR Division 7; or</text>
+      <text class="text-indent-4"><strong>iii.</strong> A MSW landfill as defined in <cite doc="Cal. Pub. Res. Code" path="§40195.1">Public Resources Code Section 40195.1</cite> that is permitted under 27 CCR Division 2.</text>
+      <text class="text-indent-2"><strong>2.</strong> Meet or exceed the physical contamination, maximum metal concentration, and pathogen density standards for land application specified in 14 CCR Sections 17852(a)(24.5) (A)1 through 3, as enforced by Section 6-3-708(a)</text>
       <text>"SB 1383 Regulations" or "SB 1383 Regulatory" means or refers to, for the purposes of <cite path="8.20">this chapter</cite>, the Short-Lived Climate Pollutants: Organic Material Reduction regulations developed by CalRecycle and adopted in 2020 that created 14 CCR, Division 7, Chapter 12 and amended portions of regulations of 14 CCR and 27 CCR.</text>
       <text>"Self-hauler" means a person, who hauls MSW, recyclable or compostable material he or she has generated to a transfer, processing, recovery, or disposal facility other than the direct service provider, whose primary business is not waste hauling. Self-hauler also includes a person who back-hauls waste, or as otherwise defined in 14 CCR Section 18982(a)(66). Back-haul means generating and transporting organic material to a destination owned and operated by the generator using the generator's own employees and equipment, or as otherwise defined in 14 CCR Section 18982(a)(66)(A).</text>
       <text>"Single-family" means of, from, or pertaining to any residential premises with fewer than five units.</text>
@@ -2065,63 +1954,21 @@
       <text>"State" means the state of California.</text>
       <text>"Supermarket" means a full-line, self-service retail store with gross annual sales of two million dollars, or more, and which sells a line of dry grocery, canned goods, or nonfood items and some perishable items, or as otherwise defined in 14 CCR Section 18982(a)(71).</text>
       <text>"Tier one commercial edible food generator" means a commercial edible food generator that is one of the following:</text>
-      <para>
-        <num>(1)</num>
-        <text>Supermarket.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Grocery store with a total facility size equal to or greater than ten thousand square feet.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Food service provider.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Food distributor.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Wholesale food vendor.</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>If the definition in 14 CCR Section 18982(a)(73) of tier one commercial edible food generator differs from this definition, the definition in 14 CCR Section 18982(a)(73) shall apply to <cite path="8.20">this chapter</cite>.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> Supermarket.</text>
+      <text class="text-indent-2"><strong>2.</strong> Grocery store with a total facility size equal to or greater than ten thousand square feet.</text>
+      <text class="text-indent-2"><strong>3.</strong> Food service provider.</text>
+      <text class="text-indent-2"><strong>4.</strong> Food distributor.</text>
+      <text class="text-indent-2"><strong>5.</strong> Wholesale food vendor.</text>
+      <text class="text-indent-2"><strong>6.</strong> If the definition in 14 CCR Section 18982(a)(73) of tier one commercial edible food generator differs from this definition, the definition in 14 CCR Section 18982(a)(73) shall apply to <cite path="8.20">this chapter</cite>.</text>
       <text>"Tier two commercial edible food generator" means a commercial edible food generator that is one of the following:</text>
-      <para>
-        <num>(1)</num>
-        <text>Restaurant with two hundred fifty or more seats, or a total facility size equal to or greater than five thousand square feet.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Hotel with an on-site food facility and two hundred or more rooms.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Health facility with an on-site food facility and one hundred or more beds.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Large venue.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>Large event.</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>A state agency with a cafeteria with two hundred fifty or more seats or total cafeteria facility size equal to or greater than five thousand square feet.</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>A local education agency facility with an on-site food facility.</text>
-      </para>
-      <para>
-        <num>(8)</num>
-        <text>If the definition in 14 CCR Section 18982(a)(74) of tier two commercial edible food generator differs from this definition, the definition in 14 CCR Section 18982(a)(74) shall apply to <cite path="8.20">this chapter</cite>.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> Restaurant with two hundred fifty or more seats, or a total facility size equal to or greater than five thousand square feet.</text>
+      <text class="text-indent-2"><strong>2.</strong> Hotel with an on-site food facility and two hundred or more rooms.</text>
+      <text class="text-indent-2"><strong>3.</strong> Health facility with an on-site food facility and one hundred or more beds.</text>
+      <text class="text-indent-2"><strong>4.</strong> Large venue.</text>
+      <text class="text-indent-2"><strong>5.</strong> Large event.</text>
+      <text class="text-indent-2"><strong>6.</strong> A state agency with a cafeteria with two hundred fifty or more seats or total cafeteria facility size equal to or greater than five thousand square feet.</text>
+      <text class="text-indent-2"><strong>7.</strong> A local education agency facility with an on-site food facility.</text>
+      <text class="text-indent-2"><strong>8.</strong> If the definition in 14 CCR Section 18982(a)(74) of tier two commercial edible food generator differs from this definition, the definition in 14 CCR Section 18982(a)(74) shall apply to <cite path="8.20">this chapter</cite>.</text>
       <text>"Uncontainerized yard trimming collection service" or "uncontainerized service" means a collection service that collects yard trimmings that are placed in a pile or bagged for collection on the street in front of a generator's house or place of business for collection and transport to a facility that recovers source separated organic waste, or as otherwise defined in 14 CCR Section 189852(a)(75).</text>
       <text>"Wholesale food vendor" means a business or establishment engaged in the merchant wholesale distribution of food, where food (including fruits and vegetables) is received, shipped, stored, prepared for distribution to a retailer, warehouse, distributor, or other destination, or as otherwise defined in 14 CCR Section 189852(a)(76).</text>
       <text>"Wholesale food vendor" means a business or establishment engaged in the merchant wholesale distribution of food, where food (including fruits and vegetables) is received, shipped, stored, prepared for distribution to a retailer, warehouse, distributor, or other destination, or as otherwise defined in 14 CCR Section 189852(a)(76).</text>

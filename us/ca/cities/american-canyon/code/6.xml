@@ -171,18 +171,9 @@
       <text>"City" means the city of American Canyon</text>
       <text>"Cockfighting" is the practice of setting two male birds or roosters to fight each other.</text>
       <text>"Rooster" means any male chicken which has any one of the following characteristics:</text>
-      <para>
-        <num>(1)</num>
-        <text>Six months or older;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Has full adult plumage;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Capable of crowing.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> Six months or older;</text>
+      <text class="text-indent-2"><strong>2.</strong> Has full adult plumage;</text>
+      <text class="text-indent-2"><strong>3.</strong> Capable of crowing.</text>
       <annotations>
         <annotation type="History">Ord. 2014-02 § 2, 2014</annotation>
       </annotations>

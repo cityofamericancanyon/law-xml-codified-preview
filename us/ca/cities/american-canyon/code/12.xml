@@ -431,18 +431,9 @@
       <heading>Definitions.</heading>
       <text>For purposes of <cite path="12.06">this chapter</cite>, the following words and phrases shall have the meaning set forth in <cite path="|12.06.020">this section</cite>, unless the context otherwise clearly requires.</text>
       <text>"Camp" means to:</text>
-      <para>
-        <num>(1)</num>
-        <text>Establish, maintain, operate, place, pitch or occupy camp facilities;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Live temporarily in a camp facility or outdoors; or</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Use camp paraphernalia in a camp facility or outdoors.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> Establish, maintain, operate, place, pitch or occupy camp facilities;</text>
+      <text class="text-indent-2"><strong>2.</strong> Live temporarily in a camp facility or outdoors; or</text>
+      <text class="text-indent-2"><strong>3.</strong> Use camp paraphernalia in a camp facility or outdoors.</text>
       <text>"Camp facilities" include, but are not limited to, tents, huts, temporary shelters, camper trailers, motor homes, or vehicles, as defined by <cite doc="Cal. Veh. Code" path="§670">California Vehicle Code Section 670</cite>.</text>
       <text>"Camp paraphernalia" includes, but is not limited to, bedrolls, tarpaulins, cots, beds, sleeping bags, hammocks or other sleeping equipment or any cooking equipment.</text>
       <text>"City" means the city of American Canyon.</text>

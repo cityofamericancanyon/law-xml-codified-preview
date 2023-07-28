@@ -1312,24 +1312,12 @@
               </tbody>
             </table>
           </text>
+          <text>* The values in this table were derived from:</text>
+          <text class="text-indent-2"><strong>1.</strong> California Irrigation Management Information System (CIMIS);</text>
+          <text class="text-indent-2"><strong>2.</strong> Reference Evapotranspiration Zones Map, University of California, Davis - Dept. of Land, Air &amp; Water Resources and California Dept. of Water Resources 1999;</text>
+          <text class="text-indent-2"><strong>3.</strong> Reference Evapotranspiration for California, University of California, Davis - Department of Agriculture and Natural Resources (1987) Bulletin 1922;</text>
+          <text class="text-indent-2"><strong>4.</strong> Determining Daily Reference Evapotranspiration, Cooperative Extension University of California, Davis - Division of Agriculture and Natural Resources (1987), Publication Leaflet 21426.</text>
         </para>
-      </para>
-      <text>* The values in this table were derived from:</text>
-      <para>
-        <num>(1)</num>
-        <text>California Irrigation Management Information System (CIMIS);</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Reference Evapotranspiration Zones Map, University of California, Davis - Dept. of Land, Air &amp; Water Resources and California Dept. of Water Resources 1999;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Reference Evapotranspiration for California, University of California, Davis - Department of Agriculture and Natural Resources (1987) Bulletin 1922;</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Determining Daily Reference Evapotranspiration, Cooperative Extension University of California, Davis - Division of Agriculture and Natural Resources (1987), Publication Leaflet 21426.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -1427,90 +1415,90 @@
               </tbody>
             </table>
           </text>
+          <text>* Plant Factor from WUCOLS</text>
+          <text>ETWU = (51.1)(0.62)(24,700/0.71 + 0)</text>
+          <text>= 1,102,116 gallons per year</text>
+          <text>Compare ETWU with MAWA: For this example MAWA = (51.1) (0.62) [(0.7 x 50,000) + (0.3 x 0)] = 1,108,870 gallons per year. The ETWU (1,102,116 gallons per year) is less than MAWA (1,108,870 gallons per year). In this example, the water budget complies with the MAWA.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Example ETWU calculation: total landscape area is fifty thousand square feet, two thousand square feet of which is planted with edible plants. The edible plant area is considered a special landscape area (SLA). The reference evapotranspiration value is 51.1 inches per year. The plant type, plant factor, and hydrozone area are shown in the table below.</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th>Hydrozone</th>
+                  <th>Plant Water Use Type(s)</th>
+                  <th>Plant Factor (PF)*</th>
+                  <th>Hydrozone Area (HA) (square feet)</th>
+                  <th>PF x HA (square feet)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>High</td>
+                  <td>0.8</td>
+                  <td>7,000</td>
+                  <td>5,600</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>High</td>
+                  <td>0.7</td>
+                  <td>9,000</td>
+                  <td>6,300</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>Medium</td>
+                  <td>0.5</td>
+                  <td>15,000</td>
+                  <td>7,500</td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td>Low</td>
+                  <td>0.3</td>
+                  <td>7,000</td>
+                  <td>2,100</td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td>Low</td>
+                  <td>0.2</td>
+                  <td>10,000</td>
+                  <td>2,000</td>
+                </tr>
+                <tr>
+                  <td proof="needed"/>
+                  <td proof="needed"/>
+                  <td proof="needed"/>
+                  <td>Sum</td>
+                  <td>23,500</td>
+                </tr>
+                <tr>
+                  <td>6</td>
+                  <td>SLA</td>
+                  <td>1.0</td>
+                  <td>2,000</td>
+                  <td>2,000</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+          <text>* Plant Factor from WUCOLS</text>
+          <text>ETWU = (51.1)(0.62)(23,500/0.71 + 2,000)</text>
+          <text>= (31.68) (33,099 + 2,000)</text>
+          <text>= 1,111,936 gallons per year</text>
+          <text>Compare ETWU with MAWA. For this example:</text>
+          <text>MAWA = (51.1) (0.62) [(0.7 x 50,000) + (0.3 x 2,000)]</text>
+          <text>= 31.68 x [35,000 + 600]</text>
+          <text>= 31.68 x 35,600</text>
+          <text>=1,127,808 gallons per year</text>
+          <text>The ETWU (1,111,936 gallons per year) is less than MAWA (1,127,808 gallons per year). For this example, the water budget complies with the MAWA.</text>
         </para>
       </para>
-      <text>* Plant Factor from WUCOLS</text>
-      <text>ETWU = (51.1)(0.62)(24,700/0.71 + 0)</text>
-      <text>= 1,102,116 gallons per year</text>
-      <text>Compare ETWU with MAWA: For this example MAWA = (51.1) (0.62) [(0.7 x 50,000) + (0.3 x 0)] = 1,108,870 gallons per year. The ETWU (1,102,116 gallons per year) is less than MAWA (1,108,870 gallons per year). In this example, the water budget complies with the MAWA.</text>
-      <para>
-        <num>(2)</num>
-        <text>Example ETWU calculation: total landscape area is fifty thousand square feet, two thousand square feet of which is planted with edible plants. The edible plant area is considered a special landscape area (SLA). The reference evapotranspiration value is 51.1 inches per year. The plant type, plant factor, and hydrozone area are shown in the table below.</text>
-        <text>
-          <table>
-            <thead>
-              <tr>
-                <th>Hydrozone</th>
-                <th>Plant Water Use Type(s)</th>
-                <th>Plant Factor (PF)*</th>
-                <th>Hydrozone Area (HA) (square feet)</th>
-                <th>PF x HA (square feet)</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>1</td>
-                <td>High</td>
-                <td>0.8</td>
-                <td>7,000</td>
-                <td>5,600</td>
-              </tr>
-              <tr>
-                <td>2</td>
-                <td>High</td>
-                <td>0.7</td>
-                <td>9,000</td>
-                <td>6,300</td>
-              </tr>
-              <tr>
-                <td>3</td>
-                <td>Medium</td>
-                <td>0.5</td>
-                <td>15,000</td>
-                <td>7,500</td>
-              </tr>
-              <tr>
-                <td>4</td>
-                <td>Low</td>
-                <td>0.3</td>
-                <td>7,000</td>
-                <td>2,100</td>
-              </tr>
-              <tr>
-                <td>5</td>
-                <td>Low</td>
-                <td>0.2</td>
-                <td>10,000</td>
-                <td>2,000</td>
-              </tr>
-              <tr>
-                <td proof="needed"/>
-                <td proof="needed"/>
-                <td proof="needed"/>
-                <td>Sum</td>
-                <td>23,500</td>
-              </tr>
-              <tr>
-                <td>6</td>
-                <td>SLA</td>
-                <td>1.0</td>
-                <td>2,000</td>
-                <td>2,000</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-      </para>
-      <text>* Plant Factor from WUCOLS</text>
-      <text>ETWU = (51.1)(0.62)(23,500/0.71 + 2,000)</text>
-      <text>= (31.68) (33,099 + 2,000)</text>
-      <text>= 1,111,936 gallons per year</text>
-      <text>Compare ETWU with MAWA. For this example:</text>
-      <text>MAWA = (51.1) (0.62) [(0.7 x 50,000) + (0.3 x 2,000)]</text>
-      <text>= 31.68 x [35,000 + 600]</text>
-      <text>= 31.68 x 35,600</text>
-      <text>=1,127,808 gallons per year</text>
-      <text>The ETWU (1,111,936 gallons per year) is less than MAWA (1,127,808 gallons per year). For this example, the water budget complies with the MAWA.</text>
       <annotations>
         <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
       </annotations>
@@ -2241,73 +2229,28 @@
       <text>"Building official" means the chief building official for the city of American Canyon.</text>
       <text>"City" means the city of American Canyon.</text>
       <text>"Common interest development" means any of the following:</text>
-      <para>
-        <num>(1)</num>
-        <text>A community apartment project.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A condominium project.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A planned development.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>A stock cooperative.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> A community apartment project.</text>
+      <text class="text-indent-2"><strong>2.</strong> A condominium project.</text>
+      <text class="text-indent-2"><strong>3.</strong> A planned development.</text>
+      <text class="text-indent-2"><strong>4.</strong> A stock cooperative.</text>
       <text>"Electronic submittal" means the utilization of one or more of the following:</text>
-      <para>
-        <num>(1)</num>
-        <text>Email;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The Internet; or</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Facsimile.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> Email;</text>
+      <text class="text-indent-2"><strong>2.</strong> The Internet; or</text>
+      <text class="text-indent-2"><strong>3.</strong> Facsimile.</text>
       <text>"Expedited permitting," and "expedited review," means the process outlined in <cite path="|16.15.070">Section 16.15.070</cite> entitled "Expedited permit review and inspection requirements."</text>
       <text>A "feasible method to satisfactorily mitigate or avoid the specific, adverse impact" includes, but is not limited to, any cost-effective method, condition or mitigation imposed by the city on another similarly situated application in a prior successful application for a similar permit.</text>
       <text>"Reasonable restrictions" on a solar energy system are those restrictions that do not significantly increase the cost of the system or significantly decrease its efficiency or specified performance, or that allow for an alternative system of comparable cost, efficiency, and energy conservation benefits.</text>
       <text>"Restrictions that do not significantly increase the cost of the system or decrease its efficiency or specified performance" means:</text>
-      <para>
-        <num>(1)</num>
-        <text>For water heater systems or solar swimming pool heating systems: an amount exceeding ten percent of the cost of the system, but in no case more than one thousand dollars, or decreasing the efficiency of the solar energy system by an amount exceeding ten percent as originally specified and proposed.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>For photovoltaic systems: an amount not to exceed one thousand dollars over the cost of the system as originally specified and proposed, or a decrease in system efficiency of an amount exceeding ten percent as originally specified and proposed.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> For water heater systems or solar swimming pool heating systems: an amount exceeding ten percent of the cost of the system, but in no case more than one thousand dollars, or decreasing the efficiency of the solar energy system by an amount exceeding ten percent as originally specified and proposed.</text>
+      <text class="text-indent-2"><strong>2.</strong> For photovoltaic systems: an amount not to exceed one thousand dollars over the cost of the system as originally specified and proposed, or a decrease in system efficiency of an amount exceeding ten percent as originally specified and proposed.</text>
       <text>"Small residential rooftop solar energy system" means all of the following:</text>
-      <para>
-        <num>(1)</num>
-        <text>A solar energy system that is not larger than ten kilowatts alternating current nameplate rating or thirty kilowatts thermal.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A solar energy system that conforms to all applicable state fire, structural, electrical, and other building codes as adopted or amended by the city of American Canyon and all state of California health and safety standards.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A solar energy system that is installed on a single- or duplex-family dwelling.</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>A solar panel or module array that does not exceed the maximum legal building height as defined by the city of American Canyon.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> A solar energy system that is not larger than ten kilowatts alternating current nameplate rating or thirty kilowatts thermal.</text>
+      <text class="text-indent-2"><strong>2.</strong> A solar energy system that conforms to all applicable state fire, structural, electrical, and other building codes as adopted or amended by the city of American Canyon and all state of California health and safety standards.</text>
+      <text class="text-indent-2"><strong>3.</strong> A solar energy system that is installed on a single- or duplex-family dwelling.</text>
+      <text class="text-indent-2"><strong>4.</strong> A solar panel or module array that does not exceed the maximum legal building height as defined by the city of American Canyon.</text>
       <text>"Solar energy system" means either of the following:</text>
-      <para>
-        <num>(1)</num>
-        <text>Any solar collector or other solar energy device whose primary purpose is to provide for the collection, storage, and distribution of solar energy for space heating, space cooling, electric generation, or water heating.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Any structural design feature of a building whose primary purpose is to provide for the collection, storage, and distribution of solar energy for electricity generation, space heating, space cooling or water heating.</text>
-      </para>
+      <text class="text-indent-2"><strong>1.</strong> Any solar collector or other solar energy device whose primary purpose is to provide for the collection, storage, and distribution of solar energy for space heating, space cooling, electric generation, or water heating.</text>
+      <text class="text-indent-2"><strong>2.</strong> Any structural design feature of a building whose primary purpose is to provide for the collection, storage, and distribution of solar energy for electricity generation, space heating, space cooling or water heating.</text>
       <text>"Specific, adverse impact" means a significant, quantifiable, direct and unavoidable impact, based on objective, identified and written public health or safety standards, policies or conditions as they existed on the date the application was deemed complete.</text>
       <annotations>
         <annotation type="History">Ord. 2022-05 § 2, 2022</annotation>

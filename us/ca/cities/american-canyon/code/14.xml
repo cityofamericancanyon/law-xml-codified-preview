@@ -653,46 +653,16 @@
         <text>"National prohibited discharges" means prohibitions applicable to all nondomestic dischargers regarding the introduction of pollutants into POTWs set forth in 40 CFR 403.5.</text>
         <text>"Net/gross calculations" means an adjustment to categorical pretreatment standards to reflect the presence of pollutants in the industrial user's intake water. (Ref. 40 CJ 1( 403.15.)</text>
         <text>"New source" means:</text>
-        <para>
-          <num>(1)</num>
-          <text>Any building, structure, facility or installation from which there is or may be a discharge of pollutants, the construction of which commenced after the publication of the proposed pretreatment standards under Section 307(c) of the Act which will be applicable to such source if such standards are thereafter promulgated in accordance with that section, provided that:</text>
-          <para>
-            <num>(a)</num>
-            <text>The building, structure, facility or installation is constructed at the site at which no other source is located;</text>
-          </para>
-          <para>
-            <num>(b)</num>
-            <text>The building, structure, facility or installation totally replaces the process or production equipment that causes the discharge of pollutants at an existing source; or</text>
-          </para>
-          <para>
-            <num>(c)</num>
-            <text>The production of wastewater generating processes of the building, structure, facility or installation are substantially independent of an existing source at the same site. In determining whether these are substantially independent factors such as the extent to which the new facility is integrated with the existing plant, and the extent to which the new facility is engaged in the same general type of activity as the existing source, should be considered.</text>
-          </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Construction on a site at which an existing source is located results in a modification rather than a new source if the construction does not create a new building, structure, facility or installation meeting the criteria of subsection (1)(b), or subsection (1)(c) of <cite path="|14.08.010">this section</cite> but otherwise alters, replaces, or adds to existing process or production equipment.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Construction of a new source as defined under this paragraph has commenced if the owner or operator has:</text>
-          <para>
-            <num>(a)</num>
-            <text>Begun, or caused to begin as part of a continuous on-site construction program:</text>
-            <para>
-              <num>(i)</num>
-              <text>Any placement, assembly, or installation of facilities or equipment;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>Significant site preparation work including clearing, excavation, or removal of existing buildings, structures, or facilities which is necessary for the placement, assembly, or installation of new source facilities or equipment; or</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>Entered into a binding contractual obligation for the purchase of facilities or equipment which are intended to be used in its operation within a reasonable time, options to purchase or contracts which can be terminated or modified without substantial loss, and contracts for feasibility, engineering, and design studies do not constitute a contractual obligation under this paragraph. (Ref. 40 CFR 403.3(k).)</text>
-            </para>
-          </para>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Any building, structure, facility or installation from which there is or may be a discharge of pollutants, the construction of which commenced after the publication of the proposed pretreatment standards under Section 307(c) of the Act which will be applicable to such source if such standards are thereafter promulgated in accordance with that section, provided that:</text>
+        <text class="text-indent-4"><strong>a.</strong> The building, structure, facility or installation is constructed at the site at which no other source is located;</text>
+        <text class="text-indent-4"><strong>b.</strong> The building, structure, facility or installation totally replaces the process or production equipment that causes the discharge of pollutants at an existing source; or</text>
+        <text class="text-indent-4"><strong>c.</strong> The production of wastewater generating processes of the building, structure, facility or installation are substantially independent of an existing source at the same site. In determining whether these are substantially independent factors such as the extent to which the new facility is integrated with the existing plant, and the extent to which the new facility is engaged in the same general type of activity as the existing source, should be considered.</text>
+        <text class="text-indent-2"><strong>2.</strong> Construction on a site at which an existing source is located results in a modification rather than a new source if the construction does not create a new building, structure, facility or installation meeting the criteria of subsection (1)(b), or subsection (1)(c) of <cite path="|14.08.010">this section</cite> but otherwise alters, replaces, or adds to existing process or production equipment.</text>
+        <text class="text-indent-2"><strong>3.</strong> Construction of a new source as defined under this paragraph has commenced if the owner or operator has:</text>
+        <text class="text-indent-4"><strong>a.</strong> Begun, or caused to begin as part of a continuous on-site construction program:</text>
+        <text class="text-indent-6"><strong>i.</strong> Any placement, assembly, or installation of facilities or equipment;</text>
+        <text class="text-indent-6"><strong>ii.</strong> Significant site preparation work including clearing, excavation, or removal of existing buildings, structures, or facilities which is necessary for the placement, assembly, or installation of new source facilities or equipment; or</text>
+        <text class="text-indent-6"><strong>iii.</strong> Entered into a binding contractual obligation for the purchase of facilities or equipment which are intended to be used in its operation within a reasonable time, options to purchase or contracts which can be terminated or modified without substantial loss, and contracts for feasibility, engineering, and design studies do not constitute a contractual obligation under this paragraph. (Ref. 40 CFR 403.3(k).)</text>
         <text>"Ninety-day compliance report" means a report submitted by a categorical industrial user, within ninety days following the date for final compliance with applicable categorical standards, or, in the case of a new source, following commencement of the introduction of wastewater into the POTW, that documents and certifies the compliance status of the user. (Ref. 40 CFR 403.12(d).)</text>
         <text>"Noncontact cooling water" means the water discharged from any system of heat transfer, condensation, air conditioning, refrigeration, or other sources to which no pollutant is added other than heat.</text>
         <text>"Nonconventional pollutants" means all pollutants which are not included in the list of conventional or toxic pollutants in 40 CFR Part 401.</text>
@@ -744,39 +714,14 @@
         <text>"Side sewer" means the sewer line beginning at the foundation wall of any building and terminating at the main sewer and includes the building lateral and street lateral together.</text>
         <text>"Significant industrial user (SIU)" means all industrial users subject to categorical pretreatment standards under 40 CFR 403.6 and 40 CFR Chapter I, Subchapter N; and any noncategorical industrial user that discharges an average of twenty-five thousand gallons per day or more of process wastewater to the POTW; or contributes a process wastestream which makes up five percent or more of the average dry weather hydraulic or organic capacity of the POTW treatment plant; or is designated as such by the control authority on the basis that the industrial user has a reasonable potential for adversely affecting the POTW's operation or for violating any pretreatment standard or requirement. (Ref. 40 CFR 403.3(t).)</text>
         <text>"Significant noncompliance" means:</text>
-        <para>
-          <num>(1)</num>
-          <text>Chronic violations (exceeding the daily maximum limit or the average limit sixty-six percent of the time during a six-month period) of the same pollutant parameter;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Technical review criteria (TRC) violations (thirty-three percent or more of the measurements for each pollutant parameter taken during a six-month period equal or exceeding the product of the</text>
-        </para>
-        <text>applicable limit and the TRC value [1.4 times the limit for a conventional pollutant or 1.2 times the limit for a toxic pollutant]);</text>
-        <para>
-          <num>(3)</num>
-          <text>A violation of pass through or interference;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>A discharge of imminent endangerment to human health, welfare, or the environment, or which required the POTW to use its emergency authorities under 40 (.FR 403.8(f)(1)(vi)(b);</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Violations of a compliance schedule milestone by ninety days;</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>Failure to provide, within thirty days after the due date, required reports such as baseline monitoring reports, ninety-day compliance reports, periodic self-monitoring reports, and reports on compliance with compliance schedules;</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>Failure to accurately report noncompliance;</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>Any other violation deemed significant by the control authority. (Ref. 40 CFR 403.8(f)(2)(vii).)</text>
-        </para>
+        <text class="text-indent-2"><strong>1.</strong> Chronic violations (exceeding the daily maximum limit or the average limit sixty-six percent of the time during a six-month period) of the same pollutant parameter;</text>
+        <text class="text-indent-2"><strong>2.</strong> Technical review criteria (TRC) violations (thirty-three percent or more of the measurements for each pollutant parameter taken during a six-month period equal or exceeding the product of the applicable limit and the TRC value [1.4 times the limit for a conventional pollutant or 1.2 times the limit for a toxic pollutant]);</text>
+        <text class="text-indent-2"><strong>3.</strong> A violation of pass through or interference;</text>
+        <text class="text-indent-2"><strong>4.</strong> A discharge of imminent endangerment to human health, welfare, or the environment, or which required the POTW to use its emergency authorities under 40 CFR 403.8(f)(1)(vi)(b);</text>
+        <text class="text-indent-2"><strong>5.</strong> Violations of a compliance schedule milestone by ninety days;</text>
+        <text class="text-indent-2"><strong>6.</strong> Failure to provide, within thirty days after the due date, required reports such as baseline monitoring reports, ninety-day compliance reports, periodic self-monitoring reports, and reports on compliance with compliance schedules;</text>
+        <text class="text-indent-2"><strong>7.</strong> Failure to accurately report noncompliance;</text>
+        <text class="text-indent-2"><strong>8.</strong> Any other violation deemed significant by the control authority. (Ref. 40 CFR 403.8(f)(2)(vii).)</text>
         <text>"Single-family unit" means any structure constructed for occupancy of one single-family. This classification includes trailers and mobile home units with plumbing hook-up.</text>
         <text>"Slug discharge" means any discharge of a nonroutine, episodic nature, including, but not limited to, an accidental spill or a noncustomary batch discharge. Also known as slug loading, shock loads, or batch dumps of comparable or noncomparable pollutants from industries, whether accidental or on purpose.</text>
         <text>"Slug load" means any pollutant (including biochemical oxygen demand) released in a discharge of a flow rate or concentration which will cause a violation of the specific discharge prohibitions in 40 CFR 403.5(b) to 403.12(f).</text>

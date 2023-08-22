@@ -13,14 +13,14 @@
       <law-git>https://github.com/cityofamericancanyon/law.git</law-git>
       <html/>
     </canonical-urls>
-    <history-start>0001-01-01</history-start>
+    <history-start>2023-06-01</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofamericancanyon/law-xml" commit="d85bb4c83159dec49c6821c5952d78fa1ceca137"/>
+        <repository name="cityofamericancanyon/law-xml" commit="19acf4f262d57b9095d07e3cd5865aa447f37951"/>
       </repositories>
-      <platform version="2.11.0" reproducible="false"/>
-      <build-date>2023-07-28</build-date>
-      <codified-date>2023-07-06</codified-date>
+      <platform version="2.13.0" reproducible="false"/>
+      <build-date>2023-08-22</build-date>
+      <codified-date>2023-08-22</codified-date>
     </build>
   </meta>
   <xi:include href="./us/ca/cities/american-canyon/code/index.xml"/>
@@ -29,4 +29,5 @@
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2023/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/2022/index.xml"/>
   </collection>
+  <xi:include href="./us/ca/cities/american-canyon/drafting-manual/index.xml"/>
 </library>

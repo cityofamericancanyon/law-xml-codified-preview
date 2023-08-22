@@ -1287,7 +1287,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>If an inoperative vehicle is in a condition which it can legally or actually be driven under its own power on the highways of this state, and is classified as "inoperative" pursuant to <cite path="|10.36.010">Section 10.36.010</cite> of <cite path="10.36">this chapter</cite> solely because it is unregistered, to promptly register the vehicle for use on the highways of this state as required under the provisions of Division 3 (commencing at Section 4000 et seq.) of the state <cite doc="Cal. Veh. Code">Vehicle Code</cite>;</text>
+            <text>If an inoperative vehicle is in a condition which it can legally or actually be driven under its own power on the highways of this state, and is classified as "inoperative" pursuant to <cite path="|10.36.010" proof="needed">Section 10.36.010</cite> of <cite path="10.36">this chapter</cite> solely because it is unregistered, to promptly register the vehicle for use on the highways of this state as required under the provisions of Division 3 (commencing at Section 4000 et seq.) of the state <cite doc="Cal. Veh. Code">Vehicle Code</cite>;</text>
           </para>
           <para>
             <num>(d)</num>
@@ -1691,7 +1691,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text><cite path="|10.44.040">This section</cite> shall not apply to bicycle manufacturers or bicycle dealers transporting bicycles in the normal course of business.</text>
+        <text><cite proof="needed" path="|10.44.040">This section</cite> shall not apply to bicycle manufacturers or bicycle dealers transporting bicycles in the normal course of business.</text>
       </para>
       <annotations/>
     </section>

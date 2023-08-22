@@ -14,7 +14,7 @@
     </para>
     <para>
       <num>(b)</num>
-      <text>In any code amendment, the drafter shall take time to eliminate duplicative provisions in a particular chapter, section, or subsection.</text>
+      <text>In any code amendment, the drafter shall take time to eliminate duplicative provisions in a particular chapter, article, section, or subsection.</text>
     </para>
     <para>
       <num>(c)</num>
@@ -140,7 +140,7 @@
         </para>
         <para>
           <num>(E)</num>
-          <text>consecutive upper-case letter with left indent of 2".</text>
+          <text>consecutive upper-case letters with left indent of 2".</text>
         </para>
         <aftertext>Where each number is of the format "(&lt;para num&gt;)" with a trailing space.</aftertext>
       </para>
@@ -271,7 +271,7 @@
     <para>
       <num>(b)</num>
       <heading>Recitals.</heading>
-      <text>Leading conjunctions shall be all-caps and un-bolded. The last recital shall be followed by:</text>
+      <text>Leading conjunctions shall be all-caps and bolded. The last recital shall begin as follows:</text>
       <include>
         <text>NOW, THEREFORE, THE COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN AS FOLLOWS:</text>
       </include>
@@ -281,7 +281,7 @@
       <text>Sections.</text>
       <para>
         <num>(1)</num>
-        <text>Sections shall be numbered with sequential Arabic numerals and a trailing period: "Section &lt;section num&gt;.".</text>
+        <text>The section prefix shall be upper case and bold. Section numbers and trailing period shall be bold: "<strong>SECTION &lt;section num&gt;.</strong>".</text>
       </para>
       <para>
         <num>(2)</num>
@@ -305,7 +305,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Text shall continue on same line as the section number.</text>
+        <text>Text shall continue on same line as the section number and title (if present).</text>
       </para>
       <para>
         <num>(5)</num>
@@ -326,7 +326,6 @@
         <para>
           <num>(D)</num>
           <heading>Effective Date.</heading>
-          <text>This Ordinance was introduced on Month date, year, and adopted on Month date, year, and shall be effective 30 days after its date of adoption.</text>
         </para>
         <para>
           <num>(E)</num>

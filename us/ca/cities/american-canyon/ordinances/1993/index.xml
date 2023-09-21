@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<collection xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="1993">
+  <heading>1993 Ordinances</heading>
+  <xi:include href="./93-15.xml"/>
+  <xi:include href="./93-14.xml"/>
+  <xi:include href="./93-12.xml"/>
+  <xi:include href="./93-10.xml"/>
+  <xi:include href="./93-09.xml"/>
+  <xi:include href="./93-08.xml"/>
+  <xi:include href="./93-07.xml"/>
+  <xi:include href="./93-06.xml"/>
+  <xi:include href="./93-05.xml"/>
+  <xi:include href="./93-04.xml"/>
+  <xi:include href="./93-03.xml"/>
+  <xi:include href="./93-02.xml"/>
+  <xi:include href="./93-01.xml"/>
+</collection>

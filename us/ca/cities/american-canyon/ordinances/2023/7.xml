@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., 2023-07">
+  <num>2023-07</num>
+  <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON AMENDING THE WATSON RANCH SPECIFIC PLAN (PL22-0023)</heading>
+  <meta>
+    <effective>2023-10-05</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-07.pdf">Ord. No. 2023-07</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2023-07</citation>
+    </citations>
+    <history>
+      <introduced>2023-08-15</introduced>
+      <adopted>2023-09-05</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to Section 65300 of the State Planning and Zoning Law (<cite doc="Cal. Gov't Code" path="§65000">Gov. Code § 65000 et seq.</cite>), the City of American Canyon has adopted a General Plan to provide comprehensive long-range planning and a blueprint of the city's future form, including land use and circulation maps that specify the roadway network and the distribution of types and intensities of land; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Section 65358 of the State Planning and Zoning Law provides that the City Council may amend all or part of the General Plan if it deems the amendment to be in the public interest; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Watson Ranch Specific Plan (WRSP) is a comprehensive planning document that encompasses 309-acres and will contribute significantly to the identity of American Canyon with its unique draw of new residential neighborhoods and the Napa Valley Ruins &amp; Gardens (NVRG); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the WRSP area is located within north of Vintage Ranch; east of the Union Pacific Rail Line; west of the City limits, and generally south of Watson Lane; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 16, 2018, the City Council of the City of American Canyon amended the General Plan to recognize and ensure consistency with and between the City of American Canyon General Plan and the Watson Ranch Specific Plan; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 16, 2018, the City Council certified the Watson Ranch Specific Plan Draft and Final Environmental Impact Report (collectively, the "WRSP Final EIR") pursuant to the California Environmental Quality Act (<cite doc="Cal. Pub. Res. Code" path="§21000">Pub. Res. Code § 21000 et seq.</cite>, ("CEQA"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on November 6, 2018, the City Council of the City of American Canyon adopted the Watson Ranch Specific Plan by Ordinance pursuant to Municipal Code Chapter 19.12.020, establishing it as the regulating document for the development of the Watson Ranch Specific Plan site; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Watson Ranch Specific Plan (WRSP) is a detailed planning document which provides a land use and policy framework for future development of approximately 309 acres within the City of American Canyon; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as a policy framework for development of 309 acres, the WRSP by necessity will require amendment from time-to-time to provide appropriate modifications to address current needs and improved ideas; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on June 4, 2019, the City Council of the City of American Canyon amended the General Plan to accommodate technical revisions to the Watson Ranch Specific Plan (Resolution 2019-40); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on June 18, 2019, the City Council of the City of American Canyon approved the first amendment to the WRSP (Ordinance 2019-05); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>subsequent to June 18, 2019, the City of American Canyon has approved numerous implementing discretionary applications that have resulted in a Development Agreement; Large Lot Vesting Tentative Map; Street and Park Dedications; Lemos Pointe Apartments, Artisan and Harvest single-family homes; Tentative and Final Maps for single family subdivisions; the NVRG Hotel and Condominiums; two NVRG Amphitheaters; and approval of ministerial construction permits; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>without changing the approved residential and commercial development intensity, the applicant, AC1-LLC, proposed a General Plan Amendment and Watson Ranch Specific Plan Amendment to implement improved ideas for a more efficient roadway circulation, park locations, public school needs, and clarification of narrative language and policy descriptions throughout the Specific Plan document (PL22-0023); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 25, 2023, the City of American Canyon Planning Commission conducted a public hearing and unanimously recommended approval of the Watson Ranch General Plan Amendment and Watson Ranch Specific Plan Amendment; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on August 15, 2023, the City of American Canyon City Council conducted a public hearing and approved the Watson Ranch Specific Plan General Plan Amendment; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on August 15, 2023, the City of American Canyon City Council conducted a public hearing, at which time all those in attendance were given the opportunity to speak on this Watson Ranch Specific Plan Amendment.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Findings to Approve the Specific Plan Amendment in accordance with American Canyon Municipal Code Section 19.17.080</text>
+    <para>
+      <num>A.</num>
+      <text>The distribution, location and extent of land uses, including open space, as depicted in the specific plan is consistent with the general plan.</text>
+      <text>
+        <em>The Watson Ranch Specific Plan sets forth the land uses, residential densities, non-residential intensities, permitted and conditional uses, development standards, and design guidelines for the WRSP Area and further implements the Policies set forth for the Town Center land use designation. The Watson Ranch Specific Plan is consistent with the General Plan. This Amendment has a corresponding amendment to the General Plan and is therefore consistent.</em>
+      </text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>The specific plan provides for public infrastructure and services needed to support the land uses described in the plan, including adequate distribution, location, extent and intensity of transportation, sewage, water, drainage, solid waste disposal, energy, parks, community facilities and other essential facilities.</text>
+      <text>
+        <em>The Specific Plan does set forth the design for roadways, water, wastewater, recycled water, storm drainage systems, parks and other community facilities necessary to support the land uses described in the plan. Specifically, Chapters 4, 5, 7 and 8 of the WRSP address these facilities. This Amendment is consistent with the provision of these facilities.</em>
+      </text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>The standards and development criteria, including requirements for resource utilization, will ensure that development proceeds in an orderly fashion and maintains a high level of quality.</text>
+      <text>
+        <em>Chapter 6 of the WRSP sets forth development standards which are supplemented by Design Guidelines in Appendix A. The development standards and design guidelines together promote efficient resource utilization, best practices, and sustainability to ensure a high level of quality. Further Chapter 9, Implementation, sets forth the phasing program to ensure the development proceeds in an orderly fashion. This Amendment does not alter the standards and development criteria set forth in the Specific Plan and is therefore consistent.</em>
+      </text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>The specific plan contains implementation measures, including financing programs, to ensure that development is supported by adequate infrastructure as it occurs.</text>
+      <text>
+        <em>WRSP Chapter 9, Implementation, sets forth the financing principles and policies, identifies different financing mechanisms, and sets forth phasing of supporting infrastructure. This Amendment supports the provisions of the Development Agreement which, consistent with the Specific plan, provides further clarity on financing and phasing of infrastructure. Therefore, this Amendment does not materially alter the implementation plan set forth in the Specific Plan and is therefore consistent.</em>
+      </text>
+    </para>
+    <para>
+      <num>E.</num>
+      <text>The site is suitable for the type and intensity of development proposed.</text>
+      <text>
+        <em>As determined through the initial existing conditions analysis and the preparation of the WRSP Final EIR, the WRSP site is suitable for the type and intensity of the proposed development associated with this Amendment. The Amendment does not alter the type and intensity of development proposal and is therefore consistent.</em>
+      </text>
+    </para>
+    <para>
+      <num>F.</num>
+      <text>The flexibility in development standards afforded by the specific plan process has resulted in a project providing more superior design and amenities than would occur under more traditional zoning practices, and the project provides clear and substantial benefit to the city.</text>
+      <text>
+        <em>The WRSP Project implements the General Plan for the Town Center land use designation, consistent with Objective 1.19 of the General Plan: "Provide for the development of a Town Center that physically and functionally serves as the symbolic and identifiable focus of community activities and events for the City of American Canyon and which is a regional destination within Napa Valley." General Plan Policy 1.19.7 designated that the land uses in this area be developed pursuant to one or more specific plans. The WRSP includes Development Standards and Design Guidelines that promote diverse neighborhood design and integrated housing types. It further provides for the creation of a "Town Center" through the renovation of the cement factory ruins while preserving the unique character of this site feature. This Amendment does not alter the flexibility in development standards, the superior design or amenities of the Specific Plan and is therefore consistent.</em>
+      </text>
+    </para>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Based on the findings described above, the City Council of the City of American Canyon hereby amends the Watson Ranch Specific Plan as depicted in <cite path="attachments|Ex. A">Exhibit A</cite> to this Ordinance.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>
+      <strong>CEQA FINDINGS: Regarding Environmental Review pursuant to the California Environmental Quality Act (CEQA)</strong>
+    </text>
+    <para>
+      <num>1.</num>
+      <text>This Specific Plan Amendment does not change the total number of dwelling units and commercial square footage established by the WRSP. Therefore, the environmental impacts of the WRSP Project which included the Specific Plan were adequately considered in the certified Final ElR for the Watson Ranch Specific Plan Project (SCN. 2015022030) which includes findings, a Statement of Overriding Considerations for the Project, and a Mitigation Monitoring and Reporting Program.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Approval of the Specific Plan Amendment based on the Final EIR, the Statement of Overriding Considerations for the Project, and the Mitigation Monitoring and Reporting Program complies with CEQA.</text>
+    </para>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Effective Date.  This ordinance shall become effective effect 30 days after its final passage pursuant to <cite doc="Cal. Gov't Code" path="§36937">Government Code section 36937</cite>.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Severability.  If any section, sentence, clause or phrase of this Ordinance is for any reason held to be invalid or unconstitutional by a decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this Ordinance.  The City Council hereby declares that it would have passed this Ordinance and adopted this Ordinance and each section, sentence, clause or phrase thereof, irrespective of the fact that one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <text>Custodian of Records. The documents and materials that constitute the record of proceedings on which this Ordinance is based are located at the City Clerk's office located at 4831 Broadway, Suite 201, American Canyon, CA 94503.  The custodian of these records is the City Clerk.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 15<sup>TH</sup> day of August, 2023 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Councilmember Oro</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 5<sup>TH</sup> day of September, 2023, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Councilmember Oro</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+  <attachment id="Ex. A">
+    <text>Revised Watson Ranch Specific Plan</text>
+    <text>[For Revised Watson Ranch Specific Plan see <a href="./adopted/2023-07.pdf">PDF</a>]</text>
+  </attachment>
+</document>

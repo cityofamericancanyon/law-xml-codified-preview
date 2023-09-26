@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., 2023-08" codify:doc="City of American Canyon, Cal., Code">
+  <num>2023-08</num>
+  <heading>AN ORDINANCE OF CITY COUNCIL OF THE CITY OF AMERICAN CANYON, CALIFORNIA AMENDING AMERICAN CANYON MUNICIPAL CODE (ACMC) CHAPTER 19.40.050 TO INCREASE HARDCOPY PROPERTY OWNER AND TENANT NOTIFICATION FROM 300 FEET TO 500 FEET OF A PROPOSED PROJECT LOCATION</heading>
+  <meta>
+    <effective>2023-10-19</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-08.pdf" proof="needed">Ord. No. 2023-08</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2023-08</citation>
+    </citations>
+    <history>
+      <introduced>2023-09-05</introduced>
+      <adopted>2023-09-19</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 18, 2022, the City Council and Planning Commission, in a joint meeting conducted a workshop to discuss the City's public hearing notification requirements for discretionary development; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the workshop reviewed existing municipal code notification requirements, State law requirements, and outreach practices above and beyond municipal code requirements; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 18, 2022, the City Council directed staff to revise the Municipal Code to increase hardcopy public hearing notification radius from 300 feet to 500 feet of a proposed project; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to the California Environmental Quality Act (CEQA), the proposed public hearing notification increase from 300 feet to 500 feet qualifies for a Categorical Exemption CEQA Guidelines §15061(b)(3) as the public hearing notification procedures have no potential to cause a significant effect on the environment; CEQA Guidelines §15060(c)(2) as a project that will not result in a direct or reasonably foreseeable indirect physical change in the environment; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on August 24, 2023, the City of American Canyon Planning Commission recommended City Council approval of the proposed Ordinance with a modification to require all residential tenants receive notification within 500 feet of the project location; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a duly-noticed public hearing was held by the City of American Canyon City Council on September 5, 2023 on the subject application, at which time all those in attendance were given the opportunity to speak on this proposal, and all comments were reviewed and considered.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>the City Council of the City of American Canyon does here by Ordain an amendment to American Canyon Municipal Code (ACMC) Chapter 19.40.050(B)(1)(c) to increase property owner hardcopy notification to 500 feet of a proposed project location, provide notification to all residents within 500 feet of the project location and correct grammatical/typographical errors as shown below:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>19.40.050</num>
+    <heading>Notice of public hearing.</heading>
+    <text>When a public hearing is required by this chapter, notice of the hearing shall be given in the manner specified in this section.</text>
+    <para>
+      <num>A.</num>
+      <text>Contents of Notice. A required public hearing notice shall contain at least the date, time, and place of the hearing; the identity of the hearing body, and the nature and location of the application in sufficient detail for a member of the public to be able to understand the nature, intent and scale of the project or request</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Method of Noticing. At least ten calendar days before the date of any public hearing, required notice shall be given through all the following actions:</text>
+      <para>
+        <num>1.</num>
+        <text>Publishing such notice once in a newspaper of general circulation within the city, or if none, in a newspaper of general circulation within the county of Napa; and</text>
+      </para>
+      <para>
+        <num>2.</num>
+        <text> Mailing or delivering notice, postage prepaid, to all the following:</text>
+        <para>
+          <num>a.</num>
+          <text>The property owner,</text>
+        </para>
+        <para>
+          <num>b.</num>
+          <text>The applicant,</text>
+        </para>
+        <para>
+          <num>c.</num>
+          <text>The owners of all property within five hundred (500) feet of the exterior boundaries of the property which is the subject of the application,</text>
+        </para>
+        <para>
+          <num>d.</num>
+          <text>Accomplish tenant notification with all physical addresses located within five hundred (500) feet of the exterior boundaries of the property which is the subject of the application, and</text>
+        </para>
+        <para>
+          <num>e.</num>
+          <text>Any person who has filed a written request for such notice.</text>
+        </para>
+      </para>
+      <para>
+        <num>3.</num>
+        <text>For purposes of this mailed or delivered notice, the last known names and addresses of property owners on the last county assessment roll shall be used. If the number of owners to whom notice would be mailed or delivered is greater than one thousand, a display advertisement of at least one-eighth page in at least one newspaper of general circulation may be published at least ten days prior to the hearing in lieu of mailed or delivered notice. (Ord. 2002-07 Exh. A, 2002; Ord. 2001-02 § 1, 2001).</text>
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>1</num>
+    <text>CEQA FINDINGS. The City Council finds the municipal code amendment is not subject to the California Environmental Quality Act ("CEQA") pursuant to Section 15060(c)(2) because the activity will not result in a direct or reasonably foreseeable indirect physical change in the environment; and Section 15060(c)(3) because the activity is not a project as defined in Section 15378 of the CEQA Guidelines, California Code of Regulations, Title 14, Chapter 3 because it has no potential for resulting in physical change to the environment, directly or indirectly.  In addition, the municipal code amendment is not a project under CEQA Regulation Section 15061(b)(3) because it has no potential for causing a significant effect on the environment.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Effective Date.  This ordinance shall become effective effect 30 days after its final passage pursuant to <cite doc="Cal. Gov't Code" path="§36937">Government Code section 36937</cite>.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Severability.  If any section, sentence, clause or phrase of this Ordinance is for any reason held to be invalid or unconstitutional by a decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this Ordinance.  The City Council hereby declares that it would have passed this Ordinance and adopted this Ordinance and each section, sentence, clause or phrase thereof, irrespective of the fact that one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Custodian of Records. The documents and materials that constitute the record of proceedings on which this Ordinance is based are located at the City Clerk's office located at 4831 Broadway, Suite 201, American Canyon, CA 94503.  The custodian of these records is the City Clerk.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 5<sup>th</sup> day of September, 2023 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Oro, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 19<sup>th</sup> day of September, 2023, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Oro, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

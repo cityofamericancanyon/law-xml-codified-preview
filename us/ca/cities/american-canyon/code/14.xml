@@ -341,7 +341,7 @@
           <text>At the time of submission of application for building permit for an industrial building connection to the city wastewater collection system, an applicant shall pay a sanitary sewer connection charge for industrial uses in accordance with the following formula:</text>
         </para>
         <text>Connection Fee =</text>
-        <text>$35.11 x (flow (in gpd) x (0.85 + (.09 x BOD (in mg/l) ÷ 236) + (0.6 x TSS (in mg/l) 238)))</text>
+        <text>$35.11 x (flow (in gpd) x (0.85 + (.09 x BOD (in mg/l) ÷ 236) + (0.6 x TSS (in mg/l) ÷ 238)))</text>
         <text>The terms BOD and TSS are as <cite path="|4.08.010">4.08.010</cite> and are expressed in milligrams per liter (mg/l). Values of BOD and TSS for a particular project shall be subject to approval by the city engineer. The charges shall be subject to adjustment in accordance with <cite path="|14.04.100">Section 14.04.100</cite>.</text>
         <para>
           <num>(B)</num>

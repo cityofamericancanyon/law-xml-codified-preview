@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2023-09">
+  <num>2023-09</num>
+  <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON, STATE OF CALIFORNIA, AMENDING TITLE 3 OF CITY OF AMERICAN CANYON MUNICIPAL CODE TO REMOVE CHAPTER 3.12 PURCHASING SYSTEM</heading>
+  <meta>
+    <effective>2023-11-02</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2023-09.pdf" proof="needed">Ord. No. 2023-09</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2023-09</citation>
+    </citations>
+    <history>
+      <introduced>2023-09-19</introduced>
+      <adopted>2023-10-03</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of American Canyon ("City") seeks to adopt an amended Purchasing Policy and Procedures; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Chapter 3.12 addresses purchasing processes and authorization limits for the City Manager and City staff; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the current ordinance includes old language that no longer aligns with current processes and authorization limits; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Administrative Policy: Purchasing Policy and Procedures guides staff regarding the procurement of goods, equipment and services including ethical guidelines and responsibilities; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the current Purchasing Policy and Procedures have been in place since 2007; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>city staff is proposing a new amended Purchasing Policy and Procedures to better align with current processes and increased authorization limits to reflect current day costs of procuring goods and services; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>having a Council approved administrative policy would provide adequate guidance on procurement activities and authorization limits;</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE,</conjunction>
+      <text>THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Remove chapter 3.12 of the American Canyon Municipal Code "Purchasing System"</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Adopt the updated American Canyon Municipal Code removing Title 3, Chapter 3.12 "Purchasing System".</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>CEQA.  The adoption of this Ordinance is exempt from the provisions of the California Environmental Quality Act (CEQA) pursuant to CEQA Guidelines Section 15061(b)(3), which provides that CEQA only applies to projects which have the potential for causing a significant effect on the environment. Where it can be determined that the proposed project will not have a significant adverse effect on the environment. The project is not subject to CEQA. This Ordinance removes the purchasing system from the municipal code, and does not propose nor authorize any action or specific project that would have the potential to cause a significant adverse effect on the environment.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Severability. Should any provision of this Ordinance, or its application to any person or circumstance, be determined by a court of competent jurisdiction to be unlawful, unenforceable, or otherwise void. that determination shall have no effect on any other provision of this Ordinance or the application of this Ordinance to any other person or circumstance and, to that end, the provisions hereof are severable.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Publication; Effective Date. This Ordinance shall take effect and be enforced within thirty (30) days from and after the date of its adoption by the City Council at a second reading and shall be posted and published in accordance with the <cite doc="Cal. Gov't Code" path="§36937">California Government Code section 36937</cite>.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 19<sup>TH</sup> day of September, 2023 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Oro, Vice Mayor Washington, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 3<sup>rd</sup> day of October, 2023, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Aboudamous, Joseph, Oro, Mayor Garica</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+  <codify:repeal doc="City of American Canyon, Cal., Code" path="3.12" codified:doc="City of American Canyon, Cal., Code" codified:path="|3.12.010"/>
+</document>

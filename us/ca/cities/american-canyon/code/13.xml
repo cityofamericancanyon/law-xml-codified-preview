@@ -131,192 +131,195 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>As of the effective date of the ordinance codified in <cite path="13.06">this chapter</cite>, or January 1, 2008, whichever comes later, the water meter charges for customers shall be levied according to the following schedule.</text>
-        <text>Inside city customers:</text>
+        <heading>As of the effective date of the ordinance, or January 1, 2025, whichever comes later, the water meter charges for all customers shall be levied according to the following schedule:</heading>
         <text>
           <table>
-            <thead>
-              <tr>
-                <th>Meter size</th>
-                <th>1-Jan-08</th>
-                <th>1-Jan-09</th>
-                <th>1-Jan-10</th>
-                <th>1-Jan-11</th>
-              </tr>
-            </thead>
             <tbody>
               <tr>
-                <td>5/8″ and 3/4″</td>
-                <td>$  4.00</td>
-                <td>$  4.40</td>
-                <td>$  4.84</td>
-                <td>$  5.32</td>
+                <td proof="needed"/>
+                <th>
+                  <em>01/01/25</em>
+                </th>
+                <th>
+                  <em>01/01/26</em>
+                </th>
+                <th>
+                  <em>01/01/27</em>
+                </th>
+                <th>
+                  <em>01/01/28</em>
+                </th>
+                <th>
+                  <em>01/01/29</em>
+                </th>
               </tr>
               <tr>
-                <td>1″<br/>Residential</td>
-                <td>4.00</td>
-                <td>4.40</td>
-                <td>4.84</td>
-                <td>5.32</td>
+                <th>
+                  <em>&lt; 1" meter</em>
+                </th>
+                <th>
+                  <em>$31.32</em>
+                </th>
+                <th>
+                  <em>$34.14</em>
+                </th>
+                <th>
+                  <em>$37.21</em>
+                </th>
+                <th>
+                  <em>$38.70</em>
+                </th>
+                <th>
+                  <em>$39.86</em>
+                </th>
               </tr>
               <tr>
-                <td>1″</td>
-                <td>6.67</td>
-                <td>7.34</td>
-                <td>8.07</td>
-                <td>8.88</td>
+                <th>
+                  <em>1" meter</em>
+                </th>
+                <th>
+                  <em>$31.32</em>
+                </th>
+                <th>
+                  <em>$34.14</em>
+                </th>
+                <th>
+                  <em>$37.21</em>
+                </th>
+                <th>
+                  <em>$38.70</em>
+                </th>
+                <th>
+                  <em>$39.86</em>
+                </th>
               </tr>
               <tr>
-                <td>1.5″</td>
-                <td>13.33</td>
-                <td>14.67</td>
-                <td>16.13</td>
-                <td>17.75</td>
+                <th>
+                  <em>1 1/2" meter</em>
+                </th>
+                <th>
+                  <em>$58.53</em>
+                </th>
+                <th>
+                  <em>$63.80</em>
+                </th>
+                <th>
+                  <em>$69.55</em>
+                </th>
+                <th>
+                  <em>$72.33</em>
+                </th>
+                <th>
+                  <em>$74.50</em>
+                </th>
               </tr>
               <tr>
-                <td>2″</td>
-                <td>21.33</td>
-                <td>23.47</td>
-                <td>25.81</td>
-                <td>28.39</td>
+                <th>
+                  <em>2" meter</em>
+                </th>
+                <th>
+                  <em>$91.19</em>
+                </th>
+                <th>
+                  <em>$99.40</em>
+                </th>
+                <th>
+                  <em>$108.35</em>
+                </th>
+                <th>
+                  <em>$112.68</em>
+                </th>
+                <th>
+                  <em>$116.06</em>
+                </th>
               </tr>
               <tr>
-                <td>3″</td>
-                <td>42.67</td>
-                <td>46.93</td>
-                <td>51.63</td>
-                <td>56.79</td>
+                <th>
+                  <em>3" meter</em>
+                </th>
+                <th>
+                  <em>$178.29</em>
+                </th>
+                <th>
+                  <em>$194.33</em>
+                </th>
+                <th>
+                  <em>$211.82</em>
+                </th>
+                <th>
+                  <em>$220.30</em>
+                </th>
+                <th>
+                  <em>$226.91</em>
+                </th>
               </tr>
               <tr>
-                <td>4″</td>
-                <td>66.67</td>
-                <td>73.33</td>
-                <td>80.67</td>
-                <td>88.73</td>
+                <th>
+                  <em>4" meter</em>
+                </th>
+                <th>
+                  <em>$276.27</em>
+                </th>
+                <th>
+                  <em>$301.13</em>
+                </th>
+                <th>
+                  <em>$328.23</em>
+                </th>
+                <th>
+                  <em>$341.36</em>
+                </th>
+                <th>
+                  <em>$351.60</em>
+                </th>
               </tr>
               <tr>
-                <td>6″</td>
-                <td>133.33</td>
-                <td>146.67</td>
-                <td>161.33</td>
-                <td>177.47</td>
+                <th>
+                  <em>6" meter</em>
+                </th>
+                <th>
+                  <em>$548.43</em>
+                </th>
+                <th>
+                  <em>$597.79</em>
+                </th>
+                <th>
+                  <em>$651.59</em>
+                </th>
+                <th>
+                  <em>$677.66</em>
+                </th>
+                <th>
+                  <em>$697.99</em>
+                </th>
               </tr>
               <tr>
-                <td>8″</td>
-                <td>213.33</td>
-                <td>234.67</td>
-                <td>258.13</td>
-                <td>283.95</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>Outside city customers:</text>
-        <text>
-          <table>
-            <thead>
-              <tr>
-                <th>Meter size</th>
-                <th>1-Jan-08</th>
-                <th>1-Jan-09</th>
-                <th>1-Jan-10</th>
-                <th>1-Jan-11</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>5/8″ and 3/4″</td>
-                <td>$5.60</td>
-                <td>$6.16</td>
-                <td>$6.78</td>
-                <td>$7.45</td>
-              </tr>
-              <tr>
-                <td>1″ Residential</td>
-                <td>5.60</td>
-                <td>6.16</td>
-                <td>6.78</td>
-                <td>7.45</td>
-              </tr>
-              <tr>
-                <td>1″</td>
-                <td>9.34</td>
-                <td>10.27</td>
-                <td>11.30</td>
-                <td>12.43</td>
-              </tr>
-              <tr>
-                <td>1.5″</td>
-                <td>18.67</td>
-                <td>20.53</td>
-                <td>22.59</td>
-                <td>24.85</td>
-              </tr>
-              <tr>
-                <td>2″</td>
-                <td>29.87</td>
-                <td>32.85</td>
-                <td>36.14</td>
-                <td>39.75</td>
-              </tr>
-              <tr>
-                <td>3″</td>
-                <td>59.73</td>
-                <td>65.71</td>
-                <td>72.28</td>
-                <td>79.51</td>
-              </tr>
-              <tr>
-                <td>4″</td>
-                <td>93.33</td>
-                <td>102.67</td>
-                <td>112.93</td>
-                <td>124.23</td>
-              </tr>
-              <tr>
-                <td>6″</td>
-                <td>186.67</td>
-                <td>205.33</td>
-                <td>225.87</td>
-                <td>248.45</td>
-              </tr>
-              <tr>
-                <td>8″</td>
-                <td>298.67</td>
-                <td>328.53</td>
-                <td>361.39</td>
-                <td>397.53</td>
+                <th>
+                  <em>8" meter</em>
+                </th>
+                <th>
+                  <em>$875.03</em>
+                </th>
+                <th>
+                  <em>$953.78</em>
+                </th>
+                <th>
+                  <em>$1,039.63</em>
+                </th>
+                <th>
+                  <em>$1,081.21</em>
+                </th>
+                <th>
+                  <em>$1,113.65</em>
+                </th>
               </tr>
             </tbody>
           </table>
         </text>
       </para>
-      <para>
+      <para placeholder="Repealed">
         <num>(C)</num>
-        <text>As of the effective date of the ordinance codified in <cite path="13.06">this chapter</cite>, or January 1, 2008, whichever comes later, temporary water meter charges for customers shall be levied according to the following schedule:</text>
-        <text>Inside and outside city customers:</text>
-        <text>
-          <table>
-            <thead>
-              <tr>
-                <th>Meter size</th>
-                <th>1-Jan-08</th>
-                <th>1-Jan-09</th>
-                <th>1-Jan-10</th>
-                <th>1-Jan-11</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Temporary Meter</td>
-                <td>$59.73</td>
-                <td>$65.71</td>
-                <td>$72.28</td>
-                <td>$79.51</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
+        <text>Repealed.</text>
       </para>
       <para>
         <num>(D)</num>
@@ -324,6 +327,8 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 2007-13 § 3, 2007</annotation>
+        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§1" type="History"/>
+        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -335,168 +340,155 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>As of the effective date of the ordinance codified in <cite path="13.06">this chapter</cite>, or January 1, 2008, whichever comes later, customers will pay quantity rates according to the schedule included below.</text>
-        <text>Single-family residential—Inside city:</text>
+        <heading>As of the effective date of the ordinance, or January 1, 2019, whichever comes later, customers will pay quantity rates according to the following schedule below:</heading>
         <text>
           <table>
+            <thead>
+              <tr>
+                <th>
+                  <em>Residential Use</em>
+                </th>
+                <th>
+                  <em>01/01/19</em>
+                </th>
+                <th>
+                  <em>01/01/20</em>
+                </th>
+                <th>
+                  <em>01/01/21</em>
+                </th>
+                <th>
+                  <em>01/01/22</em>
+                </th>
+                <th>
+                  <em>01/01/23</em>
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  <em>Tier 1 (0 - 6 units)</em>
+                </th>
+                <th>
+                  <em>$6.07</em>
+                </th>
+                <th>
+                  <em>$6.42</em>
+                </th>
+                <th>
+                  <em>$6.78</em>
+                </th>
+                <th>
+                  <em>$7.15</em>
+                </th>
+                <th>
+                  <em>$7.54</em>
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  <em>Tier 2 (&gt; 6 units)</em>
+                </th>
+                <th>
+                  <em>$6.50</em>
+                </th>
+                <th>
+                  <em>$7.01</em>
+                </th>
+                <th>
+                  <em>$7.38</em>
+                </th>
+                <th>
+                  <em>$7.76</em>
+                </th>
+                <th>
+                  <em>$8.15</em>
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  <em>Non-Residential Use</em>
+                </th>
+                <th>
+                  <em>01/01/19</em>
+                </th>
+                <th>
+                  <em>01/01/20</em>
+                </th>
+                <th>
+                  <em>01/01/21</em>
+                </th>
+                <th>
+                  <em>01/01/22</em>
+                </th>
+                <th>
+                  <em>01/01/23</em>
+                </th>
+              </tr>
+            </thead>
             <tbody>
               <tr>
                 <td proof="needed"/>
+                <th>
+                  <em>$6.24</em>
+                </th>
+                <th>
+                  <em>$6.59</em>
+                </th>
+                <th>
+                  <em>$6.96</em>
+                </th>
+                <th>
+                  <em>$7.33</em>
+                </th>
+                <th>
+                  <em>$7.72</em>
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  <em>Raw Water</em>
+                </th>
+                <th>
+                  <em>01/01/19</em>
+                </th>
+                <th>
+                  <em>01/01/20</em>
+                </th>
+                <th>
+                  <em>01/01/21</em>
+                </th>
+                <th>
+                  <em>01/01/22</em>
+                </th>
+                <th>
+                  <em>01/01/23</em>
+                </th>
+              </tr>
+              <tr>
                 <td proof="needed"/>
-                <th>1-Jan-08</th>
-                <th>1-Jan-09</th>
-                <th>1-Jan-10</th>
-                <th>1-Jan-11</th>
-              </tr>
-              <tr>
-                <td>Tier 1</td>
-                <td>0-8 hcf</td>
-                <td>$2.25</td>
-                <td>$2.41</td>
-                <td>$2.58</td>
-                <td>$2.76</td>
-              </tr>
-              <tr>
-                <td>Tier 2</td>
-                <td>9-20 hcf</td>
-                <td>2.88</td>
-                <td>3.08</td>
-                <td>3.30</td>
-                <td>3.53</td>
-              </tr>
-              <tr>
-                <td>Tier 3</td>
-                <td>21+ hcf</td>
-                <td>3.45</td>
-                <td>3.55</td>
-                <td>3.66</td>
-                <td>3.77</td>
+                <th>
+                  <em>$3.06</em>
+                </th>
+                <th>
+                  <em>$3.15</em>
+                </th>
+                <th>
+                  <em>$3.24</em>
+                </th>
+                <th>
+                  <em>$3.34</em>
+                </th>
+                <th>
+                  <em>$3.44</em>
+                </th>
               </tr>
             </tbody>
           </table>
         </text>
-        <text>Single-family residential—Outside city:</text>
         <text>
-          <table>
-            <tbody>
-              <tr>
-                <td proof="needed"/>
-                <td proof="needed"/>
-                <th>1-Jan-08</th>
-                <th>1-Jan-09</th>
-                <th>1-Jan-10</th>
-                <th>1-Jan-11</th>
-              </tr>
-              <tr>
-                <td>Tier 1</td>
-                <td>0-8 hcf</td>
-                <td>$3.15</td>
-                <td>$3.37</td>
-                <td>$3.61</td>
-                <td>$3.86</td>
-              </tr>
-              <tr>
-                <td>Tier 2</td>
-                <td>9-20 hcf</td>
-                <td>4.03</td>
-                <td>4.31</td>
-                <td>4.62</td>
-                <td>4.94</td>
-              </tr>
-              <tr>
-                <td>Tier 3</td>
-                <td>21+ hcf</td>
-                <td>4.83</td>
-                <td>4.97</td>
-                <td>5.12</td>
-                <td>5.28</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>Commercial, industrial, multifamily, landscaping, public—Inside city:</text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td proof="needed"/>
-                <th>1-Jan-08</th>
-                <th>1-Jan-09</th>
-                <th>1-Jan-10</th>
-                <th>1-Jan-11</th>
-              </tr>
-              <tr>
-                <td>All water consumed</td>
-                <td>$2.63</td>
-                <td>$2.81</td>
-                <td>$3.01</td>
-                <td>$3.22</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>Commercial, industrial, multifamily, landscaping, public—Outside city:</text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td proof="needed"/>
-                <th>1-Jan-08</th>
-                <th>1-Jan-09</th>
-                <th>1-Jan-10</th>
-                <th>1-Jan-11</th>
-              </tr>
-              <tr>
-                <td>All water consumed</td>
-                <td>$3.68</td>
-                <td>$3.94</td>
-                <td>$4.22</td>
-                <td>$4.51</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>Temporary meters—Inside and outside city customers:</text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td proof="needed"/>
-                <th>1-Jan-08</th>
-                <th>1-Jan-09</th>
-                <th>1-Jan-10</th>
-                <th>1-Jan-11</th>
-              </tr>
-              <tr>
-                <td>All water consumed</td>
-                <td>$3.68</td>
-                <td>$3.94</td>
-                <td>$4.22</td>
-                <td>$4.51</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-        <text>Raw water—Inside and outside city customers:</text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td proof="needed"/>
-                <th>1-Jan-08</th>
-                <th>1-Jan-09</th>
-                <th>1-Jan-10</th>
-                <th>1-Jan-11</th>
-              </tr>
-              <tr>
-                <td>All water consumed</td>
-                <td>$1.26</td>
-                <td>$1.35</td>
-                <td>$1.44</td>
-                <td>$1.54</td>
-              </tr>
-            </tbody>
-          </table>
+          <strong>
+            <em>Effective January 1, 2024, and on every January 1st thereafter, quantity charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</em>
+          </strong>
         </text>
       </para>
       <para>
@@ -505,6 +497,7 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 2007-13 § 3, 2007</annotation>
+        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1031,16 +1024,283 @@
     </section>
     <section>
       <num>13.14.065</num>
-      <heading>Recycled water service required.</heading>
+      <heading>Recycled water service required</heading>
       <text>Following a public hearing, the city's nonresidential water customers whose properties may be served by recycled water shall connect their property to recycled water for those uses for which the use of potable domestic water would be deemed a waste or unreasonable use of water as specified in Division 7, Chapter 7, of the <cite doc="Cal. Water Code">California Water Code</cite> (Section 13550 et seq.). Recycled water customers shall pay for recycled water at the rate established by the city council.</text>
-      <text>Upon written notification from the city, new development shall construct the infrastructure to accept recycled water from the city. New development shall pay any applicable recycled water connection fees at the rate established by the city council.</text>
-      <text>Upon written notification from the city, new development abutting on any street in which there is now or may in the future be located a public recycled water line, is required to connect the property directly to the recycled water line, provided that the public recycled water line is within two hundred feet of the nearest point of the property. The expense to extend the public recycled water line and associated appurtenances to and across the street frontage is the sole responsibility of the developer.</text>
-      <text>Upon written notification from the city, new development abutting on any street in which there may be located a public recycled water line in the future is required to construct the recycled water line and associated appurtenances along the street frontage at the developer's sole expense, including the new development's connection thereto.</text>
-      <text>Failure of a water customer to accept service of recycled water when it is made available, where use of potable water would otherwise be deemed a waste or unreasonable use of water, may be grounds for termination of the customer's potable water service.</text>
-      <text>Failure of a recycled water customer to comply with the city's conditions for recycled water use shall be deemed a violation and shall be subject to enforcement as outlined in <cite path="|13.14.120">Section 13.14.120</cite>.</text>
-      <text>Water customers may appeal the city's determination that recycled water of suitable quality is available as outlined in <cite path="|13.14.110">Section 13.14.110</cite>.</text>
+      <text>
+        <strong>
+          <em>As of the effective date of the ordinance, or January 1, 2025, whichever comes later, recycled water customers shall pay the meter charges and quantity rates for recycled water service as set forth below:</em>
+        </strong>
+      </text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="6">
+                <em>Water Meter Charges</em>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td proof="needed"/>
+              <th>
+                <em>01/01/25</em>
+              </th>
+              <th>
+                <em>01/01/26</em>
+              </th>
+              <th>
+                <em>01/01/27</em>
+              </th>
+              <th>
+                <em>01/01/28</em>
+              </th>
+              <th>
+                <em>01/01/29</em>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <em>&lt; 1" meter</em>
+              </th>
+              <th>
+                <em>$38.89</em>
+              </th>
+              <th>
+                <em>$42.78</em>
+              </th>
+              <th>
+                <em>$47.05</em>
+              </th>
+              <th>
+                <em>$49.41</em>
+              </th>
+              <th>
+                <em>$51.88</em>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <em>1" meter</em>
+              </th>
+              <th>
+                <em>$64.81</em>
+              </th>
+              <th>
+                <em>$71.29</em>
+              </th>
+              <th>
+                <em>$78.42</em>
+              </th>
+              <th>
+                <em>$82.34</em>
+              </th>
+              <th>
+                <em>$86.46</em>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <em>1 1/2" meter</em>
+              </th>
+              <th>
+                <em>$129.62</em>
+              </th>
+              <th>
+                <em>$142.58</em>
+              </th>
+              <th>
+                <em>$156.84</em>
+              </th>
+              <th>
+                <em>$164.69</em>
+              </th>
+              <th>
+                <em>$172.92</em>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <em>2" meter</em>
+              </th>
+              <th>
+                <em>$207.40</em>
+              </th>
+              <th>
+                <em>$228.14</em>
+              </th>
+              <th>
+                <em>$250.95</em>
+              </th>
+              <th>
+                <em>$263.50</em>
+              </th>
+              <th>
+                <em>$276.67</em>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <em>3" meter</em>
+              </th>
+              <th>
+                <em>$414.79</em>
+              </th>
+              <th>
+                <em>$456.27</em>
+              </th>
+              <th>
+                <em>$501.90</em>
+              </th>
+              <th>
+                <em>$526.99</em>
+              </th>
+              <th>
+                <em>$553.34</em>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <em>4" meter</em>
+              </th>
+              <th>
+                <em>$648.11</em>
+              </th>
+              <th>
+                <em>$712.92</em>
+              </th>
+              <th>
+                <em>$784.22</em>
+              </th>
+              <th>
+                <em>$823.43</em>
+              </th>
+              <th>
+                <em>$864.60</em>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <em>6" meter</em>
+              </th>
+              <th>
+                <em>$1,296.23</em>
+              </th>
+              <th>
+                <em>$1,425.85</em>
+              </th>
+              <th>
+                <em>$1,568.43</em>
+              </th>
+              <th>
+                <em>$1,646.85</em>
+              </th>
+              <th>
+                <em>$1,729.20</em>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <em>8" meter</em>
+              </th>
+              <th>
+                <em>$2,073.96</em>
+              </th>
+              <th>
+                <em>$2,281.36</em>
+              </th>
+              <th>
+                <em>$2,509.49</em>
+              </th>
+              <th>
+                <em>$2,634.97</em>
+              </th>
+              <th>
+                <em>$2,766.71</em>
+              </th>
+            </tr>
+            <tr>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+              <td proof="needed"/>
+            </tr>
+            <tr>
+              <th colspan="6">
+                <em>Quantity Rates ($/hcf)</em>
+              </th>
+            </tr>
+            <tr>
+              <td proof="needed"/>
+              <th>
+                <em>01/01/25</em>
+              </th>
+              <th>
+                <em>01/01/26</em>
+              </th>
+              <th>
+                <em>01/01/27</em>
+              </th>
+              <th>
+                <em>01/01/28</em>
+              </th>
+              <th>
+                <em>01/01/29</em>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <em>Delivered</em>
+              </th>
+              <th>
+                <em>$3.14</em>
+              </th>
+              <th>
+                <em>$3.46</em>
+              </th>
+              <th>
+                <em>$3.80</em>
+              </th>
+              <th>
+                <em>$3.99</em>
+              </th>
+              <th>
+                <em>$4.19</em>
+              </th>
+            </tr>
+            <tr>
+              <th>
+                <em>Self-Haul</em>
+              </th>
+              <th>
+                <em>$1.88</em>
+              </th>
+              <th>
+                <em>$2.07</em>
+              </th>
+              <th>
+                <em>$2.28</em>
+              </th>
+              <th>
+                <em>$2.39</em>
+              </th>
+              <th>
+                <em>$2.51</em>
+              </th>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <text>
+        <strong>
+          <em>Effective January 1, 2030, and on every January 1st thereafter, wastewater service charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</em>
+        </strong>
+      </text>
       <annotations>
         <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1161,26 +1421,181 @@
     </section>
     <section>
       <num>13.14.100</num>
-      <heading>Drought surcharge.</heading>
-      <text>Customers will receive prior notification of the standard allotment basis, applicable rates, and the opportunity to request exceptions to the standard allotment basis.</text>
-      <text>Water use beyond the maximum allowed for each water conservation stage shall be subject to a drought surcharge pursuant to the schedule set forth below. The customer of record may request an increase in this basic allotment as set forth in <cite path="|13.14.110">Section 13.14.110</cite> hereof. Application forms and instructions will be available at the American Canyon City Hall.</text>
-      <text>In addition to the general water service rates, each customer shall pay, during each billing period, a drought surcharge for water delivered in excess of the basic allotment. The surcharge is as follows:</text>
+      <heading>Drought Surcharge</heading>
       <para>
         <num>(A)</num>
-        <text>Up to 10% in excess of allotment = 1.0 times the applicable volume charge.</text>
+        <heading>Customers will receive prior notification of the standard allotment basis, applicable rates, and the opportunity to request exceptions to the standard allotment basis.</heading>
       </para>
       <para>
         <num>(B)</num>
-        <text>10.01% to 20% in excess of allotment = 2.0 times the applicable volume charge.</text>
+        <heading>Water use beyond the maximum allowed for each water conservation stage shall be subject to a drought surcharge pursuant to the schedule set forth below.</heading>
+        <text>
+          <strong>
+            <em>The customer of record may request an increase in this basic allotment as set forth in <cite path="13.14.110">Section 13.14.110</cite> hereof. Application forms and instructions will be available at the American Canyon City Hall.</em>
+          </strong>
+        </text>
       </para>
       <para>
         <num>(C)</num>
-        <text>Over 20% in excess of allotment = 3.0 times the applicable volume charge.</text>
-        <text>Customers whose water usage falls in Tier 1 of the rate schedule are assumed to have maximized their conservation effort and will not be subject to a drought surcharge if their water consumption is not further reduced.</text>
-        <text>In addition to the drought surcharge, if drought usage exceeds the allowed allotment, a warning will be issued and enforcement actions may be taken as described in <cite path="|13.14.120">Section 13.14.120</cite>.</text>
+        <heading>In addition to the quantity rates set forth in ACMC <cite path="13.06.040|(B)">13.06.040.B</cite>, each customer shall pay, during each billing period, a drought surcharge for water delivered in excess of the basic allotment as follows:</heading>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td proof="needed"/>
+                <th>
+                  <em>01/01/25</em>
+                </th>
+                <th>
+                  <em>01/01/26</em>
+                </th>
+                <th>
+                  <em>01/01/27</em>
+                </th>
+                <th>
+                  <em>01/01/28</em>
+                </th>
+                <th>
+                  <em>01/01/29</em>
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  <em>Stage 1</em>
+                </th>
+                <th>
+                  <em>$0.35</em>
+                </th>
+                <th>
+                  <em>$0.44</em>
+                </th>
+                <th>
+                  <em>$0.53</em>
+                </th>
+                <th>
+                  <em>$0.58</em>
+                </th>
+                <th>
+                  <em>$0.62</em>
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  <em>Stage 2</em>
+                </th>
+                <th>
+                  <em>$0.79</em>
+                </th>
+                <th>
+                  <em>$0.98</em>
+                </th>
+                <th>
+                  <em>$1.19</em>
+                </th>
+                <th>
+                  <em>$1.30</em>
+                </th>
+                <th>
+                  <em>$1.39</em>
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  <em>Stage 3</em>
+                </th>
+                <th>
+                  <em>$1.36</em>
+                </th>
+                <th>
+                  <em>$1.68</em>
+                </th>
+                <th>
+                  <em>$2.03</em>
+                </th>
+                <th>
+                  <em>$2.23</em>
+                </th>
+                <th>
+                  <em>$2.39</em>
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  <em>Stage 4</em>
+                </th>
+                <th>
+                  <em>$2.12</em>
+                </th>
+                <th>
+                  <em>$2.61</em>
+                </th>
+                <th>
+                  <em>$3.16</em>
+                </th>
+                <th>
+                  <em>$3.46</em>
+                </th>
+                <th>
+                  <em>$3.71</em>
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  <em>Stage 5</em>
+                </th>
+                <th>
+                  <em>$3.17</em>
+                </th>
+                <th>
+                  <em>$3.92</em>
+                </th>
+                <th>
+                  <em>$4.75</em>
+                </th>
+                <th>
+                  <em>$5.20</em>
+                </th>
+                <th>
+                  <em>$5.57</em>
+                </th>
+              </tr>
+              <tr>
+                <th>
+                  <em>Stage 6</em>
+                </th>
+                <th>
+                  <em>$4.76</em>
+                </th>
+                <th>
+                  <em>$5.88</em>
+                </th>
+                <th>
+                  <em>$7.12</em>
+                </th>
+                <th>
+                  <em>$7.79</em>
+                </th>
+                <th>
+                  <em>$8.36</em>
+                </th>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>
+          <strong>
+            <em>Customers whose water usage falls in Tier 1 as set forth in in ACMC <cite path="13.06.040|(B)">13.06.040.B</cite> are assumed to have maximized their conservation effort and will not be subject to a drought surcharge if their water consumption is not further reduced.</em>
+          </strong>
+        </text>
+        <text>
+          <strong>
+            <em>In addition to the drought surcharge, if drought usage exceeds the allowed allotment, a warning will be issued and enforcement actions may be taken as described in <cite path="13.14.120">Section 13.14.120</cite>.</em>
+          </strong>
+        </text>
       </para>
       <annotations>
         <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
+        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§4" type="History"/>
       </annotations>
     </section>
     <section>

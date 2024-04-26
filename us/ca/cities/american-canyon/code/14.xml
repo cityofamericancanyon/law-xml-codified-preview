@@ -49,172 +49,195 @@
       </section>
       <section>
         <num>14.04.020</num>
-        <heading>Wastewater monthly service charges—Single-family residences.</heading>
+        <heading>Wastewater service charges – Residential service</heading>
         <para>
           <num>(A)</num>
-          <text>Each single-family residential customer shall pay for wastewater services according to the schedule outlined below. For purposes of determining if a single-family customer is a "low," "average," or "high" user, the city will average each customer's three winter water use bills (January through March) and, on the following July 1st, the city may reassign each customer to the appropriate category based on that average winter water use.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>Single-family residential customers will be billed according to the following schedule:</text>
+          <heading>As of the effective date of the ordinance, or January 1, 2025, whichever comes later, each residential customer shall pay for wastewater services per dwelling unit per month according to the schedule outlined below:</heading>
           <text>
             <table>
               <tbody>
                 <tr>
                   <td proof="needed"/>
-                  <th>1-Jan-08</th>
-                  <th>1-Jan-09</th>
-                  <th>1-Jan-10</th>
+                  <th>
+                    <em>01/01/25</em>
+                  </th>
+                  <th>
+                    <em>01/01/26</em>
+                  </th>
+                  <th>
+                    <em>01/01/27</em>
+                  </th>
+                  <th>
+                    <em>01/01/28</em>
+                  </th>
+                  <th>
+                    <em>01/01/29</em>
+                  </th>
                 </tr>
                 <tr>
-                  <td>Low winter water use (0-4 hcf)</td>
-                  <td>$34.55</td>
-                  <td>$37.83</td>
-                  <td>$41.42</td>
+                  <th>
+                    <em>Single Family Residential</em>
+                  </th>
+                  <th>
+                    <em>$74.94</em>
+                  </th>
+                  <th>
+                    <em>$89.93</em>
+                  </th>
+                  <th>
+                    <em>$100.72</em>
+                  </th>
+                  <th>
+                    <em>$112.81</em>
+                  </th>
+                  <th>
+                    <em>$112.81</em>
+                  </th>
                 </tr>
                 <tr>
-                  <td>Average winter water use (4-13 hcf)</td>
-                  <td>36.79</td>
-                  <td>40.29</td>
-                  <td>44.11</td>
-                </tr>
-                <tr>
-                  <td>High winter water use (13+ hcf)</td>
-                  <td>38.11</td>
-                  <td>41.73</td>
-                  <td>45.69</td>
+                  <th>
+                    <em>Multi-Family Residential</em>
+                  </th>
+                  <th>
+                    <em>$48.70</em>
+                  </th>
+                  <th>
+                    <em>$58.44</em>
+                  </th>
+                  <th>
+                    <em>$65.45</em>
+                  </th>
+                  <th>
+                    <em>$73.31</em>
+                  </th>
+                  <th>
+                    <em>$73.31</em>
+                  </th>
                 </tr>
               </tbody>
             </table>
           </text>
         </para>
         <para>
-          <num>(C)</num>
-          <text>Effective January 1, 2012, and on every January 1st thereafter, wastewater service charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</text>
+          <num>(B)</num>
+          <heading>Effective January 1, 2030, and on every January 1st thereafter, wastewater service charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</heading>
         </para>
         <annotations>
           <annotation type="History">Ord. 2011-06 § 1, 2011</annotation>
           <annotation type="History">Ord. 2007-14 § 3, 2007</annotation>
+          <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§6" type="History"/>
         </annotations>
       </section>
       <section>
         <num>14.04.030</num>
-        <heading>Wastewater monthly service charge—Mobilehome residential service.</heading>
+        <heading>Wastewater service charge—Mobile home residential service</heading>
         <para>
           <num>(A)</num>
-          <text>Each mobilehome customer with an individual metered account shall pay for wastewater services according to the following schedule:</text>
-          <text>
-            <table>
-              <tbody>
-                <tr>
-                  <td proof="needed"/>
-                  <th>1-Jan-08</th>
-                  <th>1-Jan-09</th>
-                  <th>1-Jan-10</th>
-                </tr>
-                <tr>
-                  <td>Mobilehome—individually metered</td>
-                  <td>$ 27.59</td>
-                  <td>$30.21</td>
-                  <td>$33.08</td>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>The billing for mobilehome customers with an individual metered account may be adjusted up or down by as much as ten percent of the mobilehome rate in force at that time to provide credit or additional payment for customers who use smaller or larger amounts of winter water relative to other single-family residential customers. The city council may initiate such an adjustment, including any other implementing procedures, by resolution.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>Effective January 1, 2012, and on every January 1st thereafter, wastewater service charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</text>
+          <heading>Each mobile home customer with an individual metered account shall be considered a Multi-Family Residential Customer and pay for wastewater services according to the schedule set forth in ACMC <cite path="14.04.020">14.040.020</cite>.</heading>
         </para>
         <annotations>
           <annotation type="History">Ord. 2011-06 § 2, 2011</annotation>
           <annotation type="History">Ord. 2007-14 § 3, 2007</annotation>
+          <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§7" type="History"/>
         </annotations>
       </section>
       <section>
         <num>14.04.040</num>
-        <heading>Wastewater monthly service charge—Multifamily.</heading>
+        <heading>Wastewater service charge—Multifamily</heading>
         <para>
           <num>(A)</num>
-          <text>The monthly service charge for any multifamily customer shall pay for wastewater service according to the following schedule:</text>
-          <text>
-            <table>
-              <tbody>
-                <tr>
-                  <td proof="needed"/>
-                  <th>1-Jan-08</th>
-                  <th>1-Jan-09</th>
-                  <th>1-Jan-10</th>
-                </tr>
-                <tr>
-                  <td>Multifamily -per unit</td>
-                  <td>$ 27.591</td>
-                  <td>$30.211</td>
-                  <td>$33.08</td>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>The city council may, by resolution, establish policies and procedures to discount the per-unit charge for vacant spaces or apartments for multifamily customers provided such vacancies could be documented and such vacancies extend beyond one billing cycle.</text>
-        </para>
-        <para>
-          <num>(C)</num>
-          <text>Effective January 1, 2012, and on every January 1st thereafter, wastewater service charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</text>
+          <heading>Each multi-family residential customer shall pay for wastewater services according to the schedule set forth in ACMC <cite path="14.04.020">14.040.020</cite>.</heading>
         </para>
         <annotations>
           <annotation type="History">Ord. 2011-06 § 3, 2011</annotation>
           <annotation type="History">Ord. 2007-14 § 3, 2007</annotation>
+          <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§8" type="History"/>
         </annotations>
       </section>
       <section>
         <num>14.04.050</num>
-        <heading>Wastewater service charges—Nonresidential, normal strength.</heading>
+        <heading>Wastewater service charges—Nonresidential, normal strength</heading>
         <para>
           <num>(A)</num>
-          <text>Each normal strength, nonresidential customer will pay the greater of the fixed monthly rate in the schedule below or the variable rate in the schedule below multiplied by monthly water consumption of the customer.</text>
+          <heading>As of the effective date of the ordinance, or January 1, 2025, whichever comes later, each normal strength, nonresidential customer shall pay both a monthly service charge and a volumetric charge for wastewater services according to the schedule outlined below:</heading>
           <text>
             <table>
               <tbody>
                 <tr>
                   <td proof="needed"/>
-                  <th>1-Jan-08</th>
-                  <th>1-Jan-09</th>
-                  <th>1-Jan-10</th>
+                  <th>
+                    <em>01/01/25</em>
+                  </th>
+                  <th>
+                    <em>01/01/26</em>
+                  </th>
+                  <th>
+                    <em>01/01/27</em>
+                  </th>
+                  <th>
+                    <em>01/01/28</em>
+                  </th>
+                  <th>
+                    <em>01/01/29</em>
+                  </th>
                 </tr>
                 <tr>
-                  <td>Normal strength—nonresidential (fixed)</td>
-                  <td>$36.79</td>
-                  <td>$40.29</td>
-                  <td>$44.11</td>
+                  <th>
+                    <em>Monthly Service Charge</em>
+                  </th>
+                  <th>
+                    <em>$115.21</em>
+                  </th>
+                  <th>
+                    <em>$138.25</em>
+                  </th>
+                  <th>
+                    <em>$154.84</em>
+                  </th>
+                  <th>
+                    <em>$173.42</em>
+                  </th>
+                  <th>
+                    <em>$173.42</em>
+                  </th>
                 </tr>
                 <tr>
-                  <td proof="needed"/>
-                  <td colspan="3">or</td>
-                </tr>
-                <tr>
-                  <td>Normal strength—nonresidential (variable)</td>
-                  <td>$3.291</td>
-                  <td>$3.601</td>
-                  <td>$3.94</td>
+                  <th>
+                    <em>Volumetric Rate ($/HCF)</em>
+                  </th>
+                  <th>
+                    <em>$1.92</em>
+                  </th>
+                  <th>
+                    <em>$2.31</em>
+                  </th>
+                  <th>
+                    <em>$2.58</em>
+                  </th>
+                  <th>
+                    <em>$2.89</em>
+                  </th>
+                  <th>
+                    <em>$2.89</em>
+                  </th>
                 </tr>
               </tbody>
             </table>
           </text>
+          <text>
+            <strong>
+              <em>The volumetric charge shall be equal to the volumetric rate established by schedule above ($/HCF) multiplied by the quantity of water delivered to the customer pursuant to ACMC <cite path="13.04">13.04</cite>.</em>
+            </strong>
+          </text>
         </para>
         <para>
           <num>(B)</num>
-          <text>Effective January 1, 2012, and on every January 1st thereafter, wastewater service charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</text>
+          <heading>Effective January 1, 2030, and on every January 1st thereafter, wastewater service charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</heading>
         </para>
         <annotations>
           <annotation type="History">Ord. 2011-06 § 4, 2011</annotation>
           <annotation type="History">Ord. 2007-14 § 3, 2007</annotation>
+          <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§9" type="History"/>
         </annotations>
       </section>
       <section>

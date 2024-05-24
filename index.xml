@@ -18,8 +18,8 @@
       <repositories>
         <repository name="cityofamericancanyon/law-xml" commit="8becc1f0e8e162d8f21397d226088f46ba6e5338"/>
       </repositories>
-      <platform version="2.13.6" reproducible="false"/>
-      <build-date>2024-04-26</build-date>
+      <platform version="2.14.0" reproducible="false"/>
+      <build-date>2024-05-24</build-date>
       <codified-date>2024-05-16</codified-date>
     </build>
   </meta>
@@ -59,6 +59,10 @@
     <xi:include href="./us/ca/cities/american-canyon/ordinances/1994/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/1993/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/1992/index.xml"/>
+  </collection>
+  <collection name="us/ca/cities/american-canyon/ordinances">
+    <heading>Resolutions</heading>
+    <xi:include href="./us/ca/cities/american-canyon/resolutions/2024/index.xml"/>
   </collection>
   <xi:include href="./us/ca/cities/american-canyon/drafting-manual/index.xml"/>
 </library>

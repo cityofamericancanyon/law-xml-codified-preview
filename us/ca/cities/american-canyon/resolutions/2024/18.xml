@@ -1,0 +1,1249 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Res. No. 2024-18" codify:doc="City of American Canyon, Cal., Code">
+  <num>2024-18</num>
+  <heading>RESOLUTION OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON ADOPTING A CITY INITIATIVE ORDINANCE (MEASURE K) ESTABLISHING A MINISTERIAL PERMITTING PROCESS FOR DEVELOPMENT OF CERTAIN WAREHOUSE FACILITIES BY AMENDING THE CITY OF AMERICAN CANYON MUNICIPAL CODE</heading>
+  <meta>
+    <effective>2024-03-05</effective>
+    <citations>
+      <citation type="res" url="./adopted/2024-18.pdf">Res. No. 2024-18</citation>
+      <citation type="bb">City of American Canyon, Cal., Res. No. 2024-18</citation>
+    </citations>
+    <history>
+      <introduced>2024-03-05</introduced>
+      <adopted>2024-03-05</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on October 20, 2023, a Notice of Intention to circulate a petition for an ordinance initiative entitled "An Initiative Measure Establishing a Ministerial Permitting Process for Development of Certain Warehouse Facilities by Amending the City of American Canyon Municipal Code" ("Initiative") was submitted to the City, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Initiative establishes a ministerial permitting process for development of certain warehouse facilities by amending the City of American Canyon Municipal Code, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on January 4, 2024, the City Clerk delivered the Initiative Petition to the Napa County Clerk Ex-Officio Registrar of Voters ("Registrar") for signature verification, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on January 12, 2024, the Registrar returned a Certificate of Sufficiency regarding the Initiative Petition using a random sample verification process authorized by the California Election Code, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on February 6, 2024, the City Council accepted the certification of the Registrar as to the sufficiency of the Initiative Petition, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on February 6, 2024, the City Council ordered an <cite doc="Cal. Elec. Code" path="§9212">Elections Code section 9212</cite> Report, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on March 5, 2024, the City Council received and reviewed the <cite doc="Cal. Elec. Code" path="§9212">Elections Code section 9212</cite> Report, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to Election Code section 9215, the City Council is authorized to adopt the Initiative measure, without alteration, when the Report is presented to the City Council or within 10 days thereafter, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>based on the record and substantial evidence contained therein, the City Council finds and declares that its consideration of, and decision regarding, the citizen sponsored Initiative Petition, attached as Exhibit A, is a ministerial act, and therefore is exempt from the California Environmental Quality Act pursuant to Native American Sacred Site &amp; Environmental Protection Assn. v. City of San Juan Capistrano (Pueblo Serra) (2004) 120 Cal.App.4th 961, and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is in the best interests of the City and its citizens to avoid unnecessary expenditure of staff time and any expense in submitting the subject Initiative to the ballot.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY RESOLVE, DECLARE, DETERMINE AND ORDER AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>The recitals above are true and correct and are hereby made part of this Resolution.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>The City Council hereby adopts the "Initiative Measure Establishing a Ministerial Permitting Process for Development of Certain Warehouse Facilities by Amending the City of American Canyon Municipal Code," attached hereto as Exhibit A, without alteration, and directs City staff to take all actions necessary to implement the Municipal Code Amendment and Ordinance set forth in the Initiative without delay.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>The reading of the entire ordinance set forth in the Initiative is hereby waived and shall be considered adopted by title only, namely the "Establishment of a Ministerial Permitting Process for Development of Certain Warehouse Facilities by Amending the City of American Canyon Municipal Code."</text>
+  </section>
+  <procedural-data>
+    <text><strong>PASSED, APPROVED</strong> and <strong>ADOPTED</strong> at a Regular Meeting of the City Council of the City of American Canyon held on the 5<sup>th</sup> day of March 2024, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmembers Joseph, Washington, Vice Mayor Oro, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>Councilmember Aboudamous</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+  <codify:insert path="19|3" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.54">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>19.54</num>
+      <heading>Sustainable, Energy-Efficient Warehouse Design Permit</heading>
+    </container>
+  </codify:insert>
+  <attachment id="law">
+    <heading>INITIATIVE MEASURE</heading>
+    <text>The people of the City of American Canyon do ordain as follows:</text>
+    <section name="1">
+      <num>1</num>
+      <heading>Title</heading>
+      <text>This initiative measure shall be known as the “Net-Zero Energy Facilities Initiative” (the “Initiative”).</text>
+    </section>
+    <section name="2">
+      <num>2</num>
+      <heading>Findings and Purpose</heading>
+      <para>
+        <num>A.</num>
+        <text><u>Findings.</u> The people of the City of American Canyon (“City”) find and declare that the streamlined development of sustainable energy-efficient warehouse facilities, as provided for in the Net-Zero Energy Facilities Initiative, would:</text>
+        <para>
+          <num>(1)</num>
+          <text>Promote the use in new warehouse facilities of sustainable energy sources, including solar photovoltaic powe.r</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provide that such new warehouse facilities be subject to design and site guidelines and conditions of approval that promote “green building” design, water conservation, and energy conservation, including affordable and economic passive solar.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Preserve biologically sensitive on-site areas as open space where feasible.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Mitigate significant impacts on the environment through implementation of feasible mitigation measures.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Promote economic growth in the City by attracting new industries.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Streamline development that generates net positive tax revenues for the City by generating more in new tax revenues than are consumed by City expenditures on services provided to the development.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>Create new employment opportunities for residents of the City, Napa County, and the surrounding region.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Improve the City's job-housing ratio by adding new employment opportunities.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>Further the goals and policies of the City's General Plan by developing land contemplated to support urban development to its highest and best use.</text>
+        </para>
+      </para>
+      <para>
+        <num>B.</num>
+        <text><u>Purpose.</u> The purpose of this Initiative ordinance is to establish a ministerial, non-discretionary review and permitting process to incentivize development of sustainable, energy-efficient warehouse projects. Eligible projects would be required, at a minimum, to: </text>
+        <para>
+          <num>(1)</num>
+          <text>Comply with landscape, site design, and design guidelines that promote "green building" design, water conservation, and energy conservation, including affordable and economic passive solar.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Mitigate significant impacts on the environment, including emissions of greenhouse gases and vehicle miles traveled, through implementation of feasible mitigation measures and use of renewable energy sources.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Preserve biologically sensitive on-site areas as open space where feasible.</text>
+        </para>
+      </para>
+    </section>
+    <section>
+      <num>3</num>
+      <heading>Code Amendment</heading>
+      <text>The following chapter would be added to the City's municipal code.</text>
+      <container>
+        <codified:at path="19.54"/>
+        <prefix>Chapter</prefix>
+        <num>19.54</num>
+        <heading>SUSTAINABLE, ENERGY-EFFICIENT WAREHOUSE DESIGN PERMIT</heading>
+        <section>
+          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.54.010"/>
+          <num>19.54.010</num>
+          <heading>Purpose and applicability.</heading>
+          <text><cite doc="City of American Canyon, Cal., Code" path="19.54">This chapter</cite> establishes a new City development entitlement known as the Sustainable, Energy-Efficient Warehouse Design Permit, which is ministerial and thus is not subject to the California Environmental Quality Act (CEQA). <cite doc="City of American Canyon, Cal., Code" path="19.54">This chapter</cite> establishes a non-discretionary review and permitting process designed to encourage landowners to seek the development of eligible projects, which will by necessity include design features and conditions of approval intended to facilitate sustainability and minimize the projects' environmental effects. <cite doc="City of American Canyon, Cal., Code" path="19.54">This chapter</cite> applies to warehouse projects located in the GI (general industrial) district meeting the requirements of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter</cite>. Any requirements found outside <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter (19.54)</cite> for projects in the GI district that are inconsistent with the requirements and streamlining provisions of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter (19.54)</cite> shall not apply to sustainable, energy-efficient warehouse projects that satisfy the requirements of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter (19.54)</cite> and therefore qualify for the benefits of its streamlined review and permitting process.</text>
+        </section>
+        <section>
+          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.54.020"/>
+          <num>19.54.020</num>
+          <heading>Review.</heading>
+          <text>A project shall be approved pursuant to the provisions of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter</cite> and all applicable and objective development standards in the zone in which the development occurs that are not inconsistent with the requirements and streamlining provisions of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter (19.54)</cite>. Upon confirmation that the project meets the requirements of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter</cite>, the community development director will approve the application and issue a ministerial permit. Projects meeting the requirements of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter</cite> and subject to the standard conditions of approval set forth herein shall be exempt from design review under <cite doc="City of American Canyon, Cal., Code" path="19.41">Chapter 19.41</cite>.</text>
+        </section>
+        <section>
+          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.51.030"/>
+          <num>19.51.030</num>
+          <heading>Design and appearance.</heading>
+          <para>
+            <num>(A)</num>
+            <text>Warehouse buildings shall be of Type VB construction, site cast, tilted concrete panels with a variety of architectural elements.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Typical wall panel shall be enhanced with reveals and a textured elastomeric, multicolored coating system.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Areas around building entries must be enhanced with tinted glazing in aluminum frames with overhead steel-framed painted canopies. Placement of these enhancements should be focused on those locations most visible from the public roadways.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Rooftop mechanical equipment for heating, ventilation, and air conditioning systems shall be screened with a roof parapet and/or with roof screens equal in height to the mechanical equipment.</text>
+          </para>
+        </section>
+        <section>
+          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.51.050"/>
+          <num>19.51.050</num>
+          <heading>Sustainability standards</heading>
+          <text>Eligible projects must include design elements or features that meet the following sustainability standards set forth in <cite doc="City of American Canyon, Cal., Code" path="|19.51.030">this section</cite>.</text>
+          <para>
+            <num>(A)</num>
+            <text>Stormwater and drainage. A stormwater pollution prevention plan to minimize contamination, erosion, and dust pollution during construction. All stormwater runoff from impervious surfaces (roofs and paving) must be routed through a specially designed water quality detention and treatment basin. On-site detention must be provided to meet the City of American Canyon standards.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Storage and collection of recyclable materials. Provide readily accessible areas that serve the entire building and are identified for the depositing, storage and collection of nonhazardous materials for recycling.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Construction waste management, including recycling. A minimum of 65 percent diversion of construction and demolition waste from landfills. All of trees, stumps, rocks and associated vegetation and soils resulting from land clearing shall be reused or recycled.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Environmental tobacco smoke control.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Light pollution reduction.</text>
+            <para>
+              <num>(1)</num>
+              <text>All exterior site lighting, including mounted building lighting and lighting within the parking areas and along walkways shall provide a minimum of 1-foot candle illumination in these areas.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Lighting shall be shielded as appropriate and avoid light spillage or glare from the project site.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Exterior light fixtures on buildings shall be shielded to return potential light glare and impacts.</text>
+            </para>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Water-efficient landscaping.</text>
+            <para>
+              <num>(1)</num>
+              <text>The project shall be landscaped using plants adapted to the of American Canyon climate. Low-water-use plants shall be primarily used, with moderate water use plants used at accent points, such as driveways and building entries.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The project shall comply with <cite doc="City of American Canyon, Cal., Code" path="|8.20.110">Section 8.20.110</cite> of the City of American Canyon Municipal Code, known as the Model Water Efficient Landscape Ordinance (MWELO).</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The landscape palette shall not include oleander.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>All landscaping shall be designed to use recycled water for irrigation. Recycled water landscaping shall be designed to comply with California Code of Regulations Title 22 and shall include design details to prevent runoff of recycled water. The irrigation system shall include an evapotranspiration/automatic (or smart) (ET/SMART) irrigation controller.</text>
+            </para>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>Water use reduction methods.</text>
+            <para>
+              <num>(1)</num>
+              <text>The project shall comply with the City's Zero Water Footprint policy adopted by the City Council on October 23, 2007. In this policy, "Zero Water Footprint" is defined as "no loss in reliability or increase in water rates for existing water service customers due to new demand for water within the City's Water Service Area.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All buildings shall be dual plumbed to use recycled water for non-potable uses.</text>
+            </para>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>Use of low volatile organic compound (VOC) emitting sealants, adhesives, coatings, floorings, and wood materials.</text>
+            <para>
+              <num>(1)</num>
+              <text>"Low-VOC" architectural coatings used during project construction shall not exceed 50 grams of reactive organic gases (ROG) or VOC per liter of product.</text>
+            </para>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>Roof structures that are designed to accommodate additional weight for roof-top photovoltaic electricity generation panel arrays.</text>
+          </para>
+          <para>
+            <num>(J)</num>
+            <text>California Green Building Code compliant electric vehicle charging stations must be provided as follows:</text>
+            <para>
+              <num>(1)</num>
+              <text>Parking areas for passenger automobiles and trucks shall be designed and constructed to accommodate electric vehicle (EV) charging stations. At a minimum, the parking shall be designed to accommodate a number of EV charging stations equal to the Tier 2 Nonresidential Voluntary Measures of the California Green Building Standards Code, Section A5.106.5.3.2 (or a successor section as it exists at the time of project approval).</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>According to California Building Code section 11B-228.3.2.1, the applicable number of electric vehicle charging stations (EVCS) and van accessible EVCS spaces for the employee parking lot must be provided.</text>
+            </para>
+          </para>
+          <para>
+            <num>(K)</num>
+            <text>Application of United States Green Building Council Leadership in Energy and Environmental Design (LEEDTM) techniques and practices to the project design and construction.</text>
+          </para>
+          <para>
+            <num>(L)</num>
+            <text>Covered parking for bicycles.</text>
+          </para>
+          <para>
+            <num>(M)</num>
+            <text>Preservation of open space and wetlands either onsite or offsite.</text>
+          </para>
+          <para>
+            <num>(N)</num>
+            <text>Greenhouse gas emissions and energy.</text>
+            <para>
+              <num>(1)</num>
+              <text>Buildings shall be designed and constructed to, at a minimum, the Tier 2 advanced energy efficiency requirements of the Nonresidential Voluntary Measures of the California Green Building Standards Code, Division A5.2, Energy Efficiency, as outlined under Section A5.203.1.2.2.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Parking areas for passenger automobiles and trucks shall be designed and constructed to accommodate electric vehicle (EV) charging stations. At a minimum, the parking shall be designed to accommodate a number of EV charging stations equal to the Tier 2 Nonresidential Voluntary Measures of the California Green Building Standards Code, Section A5.106.5.3.2.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Electricity demand will be satisfied with 100 percent carbon-free electricity sources, through means such as on-site solar panels, through the year 2045.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>To the extent permitted by federal law, the project shall be designed without the use of natural gas-fueled appliances or natural gas plumbing. If, in the judgment of the City Attorney at the time of City review of a proposed project, the City Attorney determines that the City is precluded by the federal Energy Policy and Conservation Act (42 U.S.C. § 6291 et seq.) from using its police power or building code(s) to prohibit the proposed project from using natural gas, the applicant may seek to obtain the streamlining benefits of <cite doc="City of American Canyon, Cal., Code" path="19.54">this Chapter (19.54)</cite> by voluntarily foregoing the use of natural gas in its proposed qualifying project. Such a voluntary proposal shall be reflected in the submission of project documents and plans showing an absence of natural gas piping and other infrastructure.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Project applicants shall incorporate GHG-reducing construction best management practices (BMPs), including use of alternative fueled construction vehicles and equipment, the use of local building materials, and the recycling and reuse of construction waste.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Vehicle miles traveled (VMT) for the project shall be 15 percent or more below the regional average. As part of the project application, the applicant shall submit a transportation study prepared by a qualified transportation engineer or consultant demonstrating that VMT for both anticipated employee trips and anticipated truck trips associated with project operations will be at least 15 percent below the regional average, with the affected "region" being the nine-county geographic area (Bay Area) subject to the planning jurisdiction of the Metropolitan Transportation Commission.</text>
+            </para>
+          </para>
+        </section>
+        <section>
+          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.51.060"/>
+          <num>19.51.060</num>
+          <heading>Standard Conditions of Approval.</heading>
+          <text>Approval of a ministerial permit pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.54">this Chapter (19.54)</cite> does not preclude imposition of the objective standard conditions of approval set forth in <cite doc="City of American Canyon, Cal., Code" path="|19.51.060">this section</cite>. These include objective process requirements related to issuance of a building permit. Any further approvals, such as demolition, grading, and building permits shall be issued on a ministerial basis subject to the objective standards set forth herein, compliance with which shall be required as conditions of approval included in the Sustainable, Energy-Efficient Warehouse Design Permit approved by the City pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter (19.54)</cite>.</text>
+          <text>The conditions of this permit shall be printed on the first sheet of each plan set submitted for a building or other ministerial permit pursuant to this Sustainable, Energy-Efficient Warehouse Design Permit. This permit will be enforced pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.02">Chapter 19.02</cite>.</text>
+          <para>
+            <num>(A)</num>
+            <text>Lighting. Prior to issuance of building permits for the project, the project applicant shall prepare and submit a photometric plan to the City of American Canyon for review and approval. The proposed plan shall demonstrate that all exterior light fixtures would be directed downward or employ full cut-off fixtures to minimize light spillage and avoid interference with aviation operations at the Napa County Airport. The approved plan shall be incorporated into the project.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Air quality.</text>
+            <para>
+              <num>(1)</num>
+              <text>The following best management practices (BMPs), as recommended by the Bay Area Air Quality Management District (BAAQMD), shall be included in the design of the project and project approval documents, and shall be implemented during construction.</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>All active construction areas shall be watered at least two times per day.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>All exposed non-paved surfaces (e.g., parking areas, staging areas, soil piles, graded areas, and access roads) shall be watered at least three times per day and/or non-toxic soil stabilizers shall be applied to exposed non-paved surfaces.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>All haul trucks transporting soil, sand, or other loose material off-site shall be covered and/or shall maintain at least 2 feet of freeboard.</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>All visible mud or dirt tracked out onto adjacent public roads shall be removed using wet power vacuum street sweepers at least once per day. The use of dry power sweeping is prohibited.</text>
+              </para>
+              <para>
+                <num codify:value="(e)">e.</num>
+                <text>All vehicle speeds on unpaved roads shall be limited to 15 miles per hours. All roadways, driveways, and sidewalks to be paved shall be completed as soon as possible. Building pads shall be laid as soon as possible after grading unless seeding or soil binders are used.</text>
+              </para>
+              <para>
+                <num codify:value="(f)">f.</num>
+                <text>Idling time shall be minimized either by shutting equipment off when in use or reducing the maximum idling time to 5 minutes (as required by the California Airborne Toxics Control Measure Title 13, Section 2485 of California Code of Regulations). Clear signage regarding idling restrictions shall be provided for construction workers at all access points.</text>
+              </para>
+              <para>
+                <num codify:value="(g)">g.</num>
+                <text>All construction equipment shall be maintained and properly tuned in accordance with manufacturer specifications. All equipment shall be checked by a certified mechanic and determined to be running in proper condition prior to operation.</text>
+              </para>
+              <para>
+                <num codify:value="(h)">h.</num>
+                <text>The prime construction contractor shall post a publicly visible sign with the telephone number and person to contact regarding dust complaints. The City and the construction contractor shall take corrective action within 48 hours. The BAAQMD phone number shall be visible to ensure compliance with applicable regulations.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Prior to issuance of grading or building permits, the project applicant shall provide the City with documentation demonstrating the use of "Low-VOC" architectural coatings during project construction. "Low-VOC" architectural coatings shall not exceed 50 grams of reactive organic gases (ROG) or VOC per liter of product.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Prior to issuing the certificate of occupancy for the project, the project applicant shall provide the City with documentation demonstrating the use of a truck fleet that complies with the California Air Resources Board's On-Road Heavy-Duty Regulations (Cal. Code Regs., title 13, div. 3, ch. 1, art. 4.5, § 2025 et seq.) or superseding subsequently-enacted CARB regulations addressing the same subject matter. If the project applicant does not own the truck fleet that would be used during operation of the project, the project applicant shall provide the City with documentation from the truck fleet owner or operator demonstrating that trucks utilized for operation of the project will comply with these requirements. If any change occurs where a new truck fleet is utilized during operation of the project, the project applicant shall provide the City with documentation demonstrating that the new truck fleet meets or exceeds these requirements.</text>
+              <text>To monitor and ensure that truck fleet complies with the California Air Resources Board's On-Road Heavy-Duty Regulations (Cal. Code Regs., title 13, div. 3, ch. 1, art. 4.5, § 2025 et seq.) or superseding subsequently-enacted CARB regulations addressing the same subject matter, the fleet operator shall maintain records available to the City upon request. Alternatively, the City may require periodic reporting and provision of written records by operators and conduct regular inspections of the records.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Prior to issuance of the certificate of occupancy for a building with dock doors, signage shall be posted identifying idling restrictions and contact information to report violations to the building manager.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Prior to the issuance of a certificate of occupancy, as part of future lease agreements, the project proponent shall provide all future tenants at the project site information on available California Air Resources Board and BAAQMD incentive programs, such as the Carl Moyer Program and the Voucher Incentive Program, that support upgrading truck fleets to clean air technology equipment.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Wildlife.</text>
+            <para>
+              <num>(1)</num>
+              <text>Swainson's hawk.</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>The applicant must provide a biological study from a qualified biologist evaluating the project site for the presence of ecologically valuable hawk foraging habitat. The study must include conclusions as to whether any loss of habitat due to the project would create a significant environmental effect requiring mitigation, applying the significance threshold found in California Code of Regulations, title 14, section 15065, subdivision (a)(1) (whether the project would substantially reduce the number or restrict the range of the hawk). Any significant environmental effect to Swainson's hawk habitat identified in a study prepared by a qualified biologist would be mitigated through off-site preservation of habitat at a 1:1 ratio. A specific strategy for how to achieve such off-site preservation shall be prepared by the qualified biologist and submitted to the City.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>Pre-construction surveys for Swainson's hawk shall be conducted in the project site vicinity prior to initiation of project construction activities. Agency protocol for conducting nesting surveys for Swainson's hawk requires that three surveys be conducted during the nesting season, with the first one between March 20 and April 5, the second one between April 5 and April 20, and the third one between June 10 to July 30. Surveys shall be conducted each year following initiation of construction if project activities are delayed or discontinued for seven or more days prior to the first required survey period (March 20 to April 5) and are scheduled to recommence during the second survey period or before August 1. These pre-construction surveys shall include investigation of all potential nesting trees within a half-mile radius around all project activities and shall be completed for at least two survey periods immediately prior to commencement of project construction. Surveys shall be conducted in accordance with "Recommended timing and methodology for Swainson's Hawk Nesting Surveys in California's Central Valley" issued by the California Department of Fish and Wildlife (CDFW) (then the California Department of Fish and Game) in 2000 (or as updated) to maximize the potential for locating nesting Swainson's hawk and reduce the potential for nest failures due to project activities and/or disturbances.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>If no nesting Swainson's hawk are found during the first or second required survey period starting March 20 and extending to April 20, then project construction may commence. If during the third surveys (June 10 to July 30) Swainson's hawk are found to be nesting in the project vicinity and construction has commenced, it shall be assumed the Swainson's hawk commenced nesting and thus the Swainson's hawk are habituated to the ambient level of noise and disturbance emanating from the project site.</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>If Swainson's hawk are found to be nesting within 0.25 miles of the project site, a non-disturbance buffer shall be established to keep all construction activities a minimum of 0.25 miles from the nest site. CDFW shall be consulted regarding the adequacy of the buffer established by the qualified Raptor Biologist. At that time the necessity for acquiring a <cite doc="Cal. Fish &amp; Game Code" path="§2081">Fish and Game section 2081</cite> Incidental Take Permit (ITP) authorization would be determined. An ITP authorization shall be required if there were a valid concern the project activities would result in the "take" of an adult Swainson's hawk, eggs, or nestlings.</text>
+              </para>
+              <para>
+                <num codify:value="(e)">e.</num>
+                <text>Surveys and the biological study shall be conducted by a qualified raptor biologist with at least a minimum of a 4-year college degree in wildlife biology or related environmental science, familiarity with Swainson's hawk and its local ecology, and 2 years of experience surveying for and detecting Swainson's hawk pursuant to "Recommended timing and methodology for Swainson's Hawk Nesting Surveys in California's Central Valley" survey protocol. No disturbance such as construction or earthmoving activity shall occur within the established buffer zone until it is determined by a qualified Raptor Biologist that the young have fledged or that the nesting cycle is complete based on the monitoring of the active nest by a qualified Raptor Biologist.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Golden eagle.</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>No more than 30 days prior to the first ground disturbance activity, pre-construction golden eagle nesting surveys shall be conducted in the project vicinity by a qualified raptor biologist. The qualified raptor biologist shall have a minimum of a 4-year college degree in wildlife biology or related environmental science and at least 2 years of experience surveying for and detecting nesting golden eagles and its local ecology. Preconstruction surveys shall include investigation of all potential nesting trees within a survey area determined by the qualified raptor biologist, but no less than a 1.0-mile radius around all project activities.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>If active golden eagle nests are identified within any trees within the survey areas in a 1.0-mile radius of the project site, a qualified raptor biologist shall establish a protection buffer of approximately 1.0 mile that is adequate to ensure noise or activity from the project would not cause nest disturbance of young or adult bird mortality. Buffer zones may vary in size as some golden eagles are more acclimated to disturbance than others. Size of buffer zone may be modified by the qualified raptor biologist considering the type of construction activity that may occur and the behavioral factors and extent that golden eagle may have acclimated to disturbance.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>No construction or earth moving activity shall occur within the established buffer zone until it is determined by a qualified raptor biologist that the young golden eagles have fledged or that the nesting cycle is complete based on monitoring of the active nest by the qualified raptor biologist.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Northern harrier and short-eared owl.</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>Prior to ground disturbance, a pre-construction nesting survey shall be conducted for northern harrier and short-eared owl by a qualified raptor biologist if construction is scheduled during the nesting season (February 1 through September 1). The qualified raptor biologist shall have at least 2 years of experience surveying for and detecting nesting northern harrier and short-eared owl.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>To determine whether northern harrier or short-eared owl is nesting on-site, a qualified Raptor Biologist(s) shall conduct walking transects through the project site grassland habitat searching for nests within a minimum 500-foot radius from the project site. Where the survey area encroaches onto private property not accessible to the public (e.g., fenced in commercial property, residential backyard, etc., the qualified raptor biologist shall either contact the property owner for permission to physically access the property or conduct a visual survey of adjacent areas by scanning with binoculars or a spotting scope.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>An active northern harrier or short-eared owl nest must be protected by implementing a minimum 500-foot radius buffer zone around the nest marked with orange construction fencing. If an active nest is located outside of the project site, the buffer shall be extended onto the project site and demarcated where it intersects the project site. Size of buffer zone could be increased considering the type of construction activity that may occur, physical barriers between the construction site and active next, and the behavioral factors and extent that northern harrier or short-eared owl may have acclimated to disturbance.</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>No construction or earthmoving activity shall occur within the established buffer zone until it is determined by a qualified raptor biologist that the young have fledged or that the nesting cycle is otherwise determined to be complete based on monitoring of the active nest by a qualified raptor biologist.</text>
+              </para>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Burrowing owl. Prior to any ground disturbance, pre-construction surveys for burrowing owl shall be conducted within a minimum of 150 meters of the project site. Where the survey area encroaches onto private property not accessible to the public (e.g., fenced in commercial property, residential backyard, etc.), the qualified biologist shall either contact the property owner for permission to physically access the property or conduct a visual survey of adjacent areas by scanning with binoculars or a spotting scope. The pre-construction surveys shall be conducted by a qualified biologist following CDFW 2012 staff report survey methods and biologist qualifications to establish the status of burrowing owl on the project site.</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>If burrowing owl are found to occupy the project site during the nonbreeding season (September 1 to January 31), occupied burrows shall be avoided by establishing a no-disturbance buffer zone to a minimum of 100 feet around the burrow. Buffers may be adjusted to address site-specific conditions using the impact assessment approach described in the CDFW 2012 staff report.  If a qualified Raptor Biologist determines the location of an occupied burrow(s) may be impacted even with the 100-foot buffer, or the burrow(s) are in location(s) on the project site where a buffer cannot be established without preventing the project from moving forward, then a passive relocation effort may be instituted to relocate the individual(s) out of harm's way pursuant to a Burrowing Owl Exclusion Plan prepared in accordance with the CDFW 2012 staff report.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>If burrowing owl are found to be present during the breeding season (February 1 to August 31), the proposed project ground-disturbing activities shall follow the CDFW 2012 staff report recommended avoidance protocol whereby occupied burrows shall be avoided with a no-disturbance buffer.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>If burrowing owls are ultimately found on the site and burrow eviction/relocation of burrowing owls during the non-nesting season is a selected strategy to move forward with the project without direct impacts to burrowing owl individuals, the applicant shall coordinate this effort with CDFW and provide habitat mitigation consistent with the 2012 CDFW Staff Report on burrowing owl.</text>
+              </para>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>If construction occurs during the breeding season of migratory and resident birds (February 1 to August 31), a qualified Biologist shall conduct a pre-construction breeding bird survey in areas of suitable habitat within 7 days prior to the onset of construction activity. Surveys shall be conducted within the project footprint and 100 feet from the construction limits for nesting passerines, 250 feet from the construction limits for nesting accipiters and a minimum of 500 feet from the construction limits for nesting raptors. If the survey area is found to be absent of nesting birds, no further mitigation would be required. However, if construction activities are delayed by more than 7 days, an additional nesting bird survey shall be performed. If bird nests are found, appropriate buffer zones shall be established around all active nests to protect nesting adults and their young from direct or indirect impacts related to project construction disturbance. Size of buffer zones shall be determined per recommendations of the qualified Biologist based on site conditions and species involved, but typical buffers around active nests are 500 feet for large raptors such as buteos, 250 feet for small raptors such as accipiters, and 100 feet for passerines (songbirds) and other bird species. For special status species, a 0.25-mile shall be established for nesting Swainson's hawk; 1.0 mile for golden eagle; and a 500-foot buffer for nesting tricolored blackbirds. If an active nest is located outside of the project site, the buffer shall be extended onto the project site and demarcated where it intersects the project site. Buffer zones shall be maintained until it can be documented that either the nest has failed, or the young have fledged.</text>
+            </para>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Wetlands.</text>
+            <para>
+              <num>(1)</num>
+              <text>There shall be no net loss of wetlands as a result of the project, as determined by a qualified aquatics resource specialist. Lost wetland functions must be restored through a mitigation process, devised by the qualified aquatics resource specialist, of creating new wetlands or preserving existing wetlands either onsite or offsite and enhancing their functionality prior to the occurrence of impacts to the onsite wetlands. The project applicant shall also obtain any permits for filling wetlands required by the U.S. Army Corps of Engineers (USACE), the United States Fish and Wildlife Service, the California Regional Water Quality Control Board for the San Francisco Region (San Francisco RWQCB), or the California Department of Fish and Wildlife.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The project applicant shall submit to the City a jurisdictional delineation and report prepared by a qualified aquatics resource specialist for wetlands subject to jurisdiction of the USACE and/or San Francisco RWQCB identifying temporary and permanent impacts to wetlands resulting from the project and recommending a compensatory mitigation ratio (not less than 1:1) to minimize impacts that cannot be avoided. The mitigation ratio and any other recommendations in the report shall be incorporated into the project plans and all applicable construction-related permits.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Prior to issuance of grading permits, the project applicant shall submit to the City a conceptual Wetland Mitigation and Monitoring Plan prepared by a qualified aquatics resource specialist in accordance with Subpart J – Compensatory Mitigation for Losses of Aquatic Resources outlined in the State Water Resources Control Board Procedures, and in accordance with the State Water Resources Control Board Implementation Guidance dated April 2020 and in accordance with the USACE Compensatory Mitigation Rule (33 Code of Federal Regulations Part 332). The Wetland Mitigation and Monitoring Plan shall address the loss wetlands impact as a result of the project.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Prior to issuance of grading permits, the project applicant shall apply for and obtain a Nationwide Permit from the San Francisco District of the USACE for discharge within wetlands/waters of the United States under Clean Water Act section 404 jurisdiction. For the USACE permit to be valid, the applicant shall apply for and obtain the accompanying Section 401 Water Quality Certification from the San Francisco Bay RWQCB. The applicant shall apply for and obtain a separate Waiver of Waste Discharge Requirements from the San Francisco RWQCB for impacts to wetlands/waters of the State. The applicant shall implement the terms of the approved permit(s).</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Prior to issuance of a grading permit, the Wetland Mitigation and Monitoring Plan shall be submitted to the San Francisco Bay RWQCB for review as part of the process for obtaining a permit from the agency, if one is required.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>The Wetland Mitigation and Monitoring Plan shall include in irrevocable instrument (e.g., deed restriction or conservation easements) that shall restrict use of created/established wetlands. The Wetland Mitigation and Monitoring Plan shall also include a long-term endowment that would be fully funded by the proposed project to manage any open space preserve and created wetlands in perpetuity. The basic objective of the Wetland Mitigation and Monitoring Plan is to ensure that project wetland impacts, and compensatory mitigation proposed to offset the wetland impacts, shall provide a no-net-loss of area of wetlands, and wetlands established/created shall be in-kind to the wetlands impacted. In summary, the Wetland Mitigation and Monitoring Plan shall at a minimum:</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>Provide financial assurances to ensure a high level of confidence that the compensatory mitigation shall be successfully completed, in accordance with applicable performance standards.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>Design ecological performance standards to assess whether the Wetland Mitigation and Monitoring Plan is achieving the overall objectives, so that it can be objectively evaluated to determine whether it is developing into the desired resource type (vernal pool, seasonal wetland e.g.), and attaining any other applicable metrics such as acres, number of native plant species, water saturation and/or ponding depth etc.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>Monitor the site for a duration of time determined to be necessary by the qualified aquatics resource specialist, the United States Army Corps of Engineers, and/or the San Francisco Regional Quality Control Board to determine whether the Wetland Mitigation and Monitoring Plan is meeting the performance standards. This monitoring period may be extended if performance standards are not met due to how the wetlands were constructed or natural events such as severe droughts.</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>Protect preserved and created wetlands in perpetuity using an irrevocable instrument (e.g., deed restriction or conservation easement) and provide an endowment sufficient to fund the Long-Term Management Plan.</text>
+              </para>
+              <para>
+                <num codify:value="(e)">e.</num>
+                <text>An overall assessment of the condition of the wetlands that shall be permanently impacted by the proposed project shall be conducted using the California Rapid Assessment Method (CRAM) for depressional wetlands, or a hybrid approach based on CRAM. Each similar wetland type that may be impacted shall be assessed to describe the floristic community and record the native and non-native dominant plants within the vernal pool and palustrine emergent wetlands. Physical structure such as topographic complexity and physical features that may provide habitat for aquatic species (e.g., boulders, woody debris etc.) shall be recorded and used to design the created/established wetlands. The purpose of this assessment is to ensure the design of the wetlands shall provide habitat that is similar to the wetlands being impacted to ensure the impacted wetlands are mitigated in-kind.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Cultural Resources.</text>
+            <para>
+              <num>(1)</num>
+              <text>Appropriate buffer zones shall be determined per recommendations of an Archaeologist who meets the Secretary of the Interior's Professional Qualifications Standards (qualified Archaeologist to avoid or minimize disturbance of archaeological resources.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>An Archaeologist who meets the Secretary of the Interior's Professional Qualification Standards for archaeology shall be present on-site during all earth disturbing activities. If prehistoric or historic-period archaeological resources are encountered, all construction activities within 100 feet of the find shall halt and the City of American Canyon shall be notified. Prehistoric archaeological materials may include obsidian and chert flaked stone tools (e.g., projectile points, knives, scrapers) or toolmaking debris; culturally darkened soil ("midden") containing heat-affected rocks, artifacts, or shellfish remains; and stone milling equipment (e.g., mortars, pestles, hand stones, or milling slabs); and battered stone tools, such as hammerstones and pitted stones. Historic- period materials might include stone, concrete, or adobe footings and walls; filled wells or privies; and deposits of metal, glass, and/or ceramic refuse.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The Archaeologist shall inspect the findings within 24 hours of discovery. If it is determined the project could damage a historical resource or a unique archaeological resource (as defined pursuant to the CEQA Guidelines), mitigation shall be implemented in accordance with <cite doc="Cal. Pub. Res. Code" path="§21083.2">Public Resources Code Section 21083.2</cite> and Section 15126.4 of the CEQA Guidelines, with a preference for preservation in place. Consistent with Section 15126.4(b)(3), this may be accomplished through planning construction to avoid the resource; incorporating the resource within open space; capping and covering the resource; or deeding the site into a permanent conservation easement. If avoidance is not feasible because it would preclude the construction of important structures or infrastructure or require exorbitant expenditures, as determined by the applicant, a qualified Archaeologist shall prepare and implement a detailed treatment plan. Treatment of unique archaeological resources shall follow the applicable requirements of <cite doc="Cal. Pub. Res. Code" path="§21083.2">Public Resources Code Section 21083.2</cite>. Treatment for most resources would consist of (but would not be limited to) sample excavation, artifact collection, and site documentation, with the aim to target the recovery of important scientific data contained in the portion(s) of the significant resource to be impacted by the proposed project. The treatment plan shall include provisions for analysis of data in a regional context, reporting of results within a timely manner, curation of artifacts and data at an approved facility, and dissemination of reports to local and State repositories, libraries, and interested professionals.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>In the event of the accidental discovery or recognition of any human remains, CEQA Guidelines Section 15064.5, <cite doc="Cal. Health &amp; Safety Code" path="§7050.5">Health and Safety Code Section 7050.5</cite>, and <cite doc="Cal. Pub. Res. Code">Public Resources Code</cite> Sections 5097.94 and Section 5097.98 shall be followed. If during project construction, there is accidental discovery or recognition of any human remains, the following steps shall be taken:</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>There shall be no further excavation or disturbance within 100 feet of the remains until the County Coroner is contacted to determine whether the remains are Native American and if an investigation of the cause of death is required. If the Coroner determines the remains to be Native American, the Coroner shall contact the Native American Heritage Commission (NAHC) within 24 hours, and the NAHC shall identify the person or persons it believes to be the Most Likely Descendant (MLD) of the deceased Native American. The MLD may make recommendations to the landowner or the person responsible for the excavation work within 48 hours, for means of treating or disposing of, with appropriate dignity, the human remains, and any associated grave goods as provided in Public Resource Code Section 5097.98.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>Where the following conditions occur, the landowner or authorized representative shall rebury the Native American human remains and associated grave goods with appropriate dignity either in accordance with the recommendations of the MLD or on the project site in a location not subject to further subsurface disturbance:</text>
+                <para>
+                  <num codify:value="(i)">i.</num>
+                  <text>The NAHC is unable to identify an MLD or the MLD failed to make a recommendation within 48 hours after being notified by the commission.</text>
+                </para>
+                <para>
+                  <num codify:value="(ii)">ii.</num>
+                  <text>The descendant identified fails to make a recommendation.</text>
+                </para>
+                <para>
+                  <num codify:value="(iii)">iii.</num>
+                  <text>The landowner or authorized representative rejects the recommendation of the descendant, and mediation by the NAHC fails to provide measures acceptable to the landowner.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>The project applicant must make reasonable efforts to consult with representatives of any California Native American Tribe, as defined in <cite doc="Cal. Pub. Res. Code" path="§21073">Public Resources Code section 21073</cite> (e.g., the Yocha Dehe Wintun Nation), that might be interested in the project site based on the historical homelands of such tribes. The applicant must submit to the City written evidence of such reasonable efforts to conduct such consultation. Where the applicant has successfully engaged with an interested California Native American Tribe and has received input therefrom, the applicant shall offer to allow a tribal monitor representing the interested California Native American Tribe to be present during all project-related ground disturbance. The project applicant shall offer to follow the California Native American Tribe's treatment protocol for Tribal Cultural Resources (TCRs) meeting the definition found in <cite doc="Cal. Pub. Res. Code" path="§21074">Public Resources Code section 21074</cite>, if such a protocol exists and is made available to the applicant, except where compliance with such a protocol would preclude the construction of important structures or infrastructure or require exorbitant expenditures, as determined by the applicant.</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>Human Remains: Any human remains which are found in conjunction with projects on lands culturally affiliated with a California Native American Tribe that has engaged in consultation with the project application shall be treated in accordance with any applicable and reasonably available Tribal protocol for the disposition or treatment of such remains.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>Inadvertent Discovery of Native American Human Remains: Whenever Native American human remains are found during the course of a project, the determination of Most Likely Descendant (MLD) under <cite doc="Cal. Pub. Res. Code" path="§5097.98">California Public Resources Code Section 5097.98</cite> will be made by the Native American Heritage Commission (NAHC) upon notification to the NAHC of the discovery of said remains at a project site. If the location of the site and the history and prehistory of the area is culturally affiliated with the Tribe, the NAHC contacts the Tribe; a Tribal member will be designated by the Tribe to consult with the landowner and/or project proponents.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>Treatment of Native American Remains: In the event that Native American human remains are found during development of a project and a California Native American Tribe or a member of such a Tribe is determined to be MLD, the following provisions shall apply. The Medical Examiner shall immediately be notified, ground-disturbing activities in that location shall cease and the Tribe shall be allowed, pursuant to <cite doc="Cal. Pub. Res. Code" path="§5097.98|(a)">California Public Resources Code Section 5097.98(a)</cite>, to (1) inspect the site of the discovery and (2) make determinations as to how the human remains and grave goods shall be treated and disposed of with appropriate dignity. The Tribe shall complete its inspection and make its MLD recommendation within 48 hours of getting access to the site. The Tribe shall have the final determination as to the disposition and treatment of human remains and grave goods. Said determination may include avoidance of the human remains, reburial on-site, or reburial on tribal or other lands that will not be disturbed in the future. The Tribe may wish to rebury said human remains and grave goods or ceremonial and cultural items on or near the site of their discovery, in an area which will not be subject to future disturbances over a prolonged period of time. Reburial of human remains shall be accomplished in compliance with the <cite doc="Cal. Pub. Res. Code">California Public Resources Code</cite> Sections 5097.98(a) and (b). The term "human remains" encompasses more than human bones because the Tribe's traditions call for the burial of associated cultural items with the deceased (funerary objects), and/or the ceremonial burning of Native American human remains, funerary objects, grave goods, and animals. Ashes, soils, and other remnants of these burning ceremonies, as well as associated funerary objects and unassociated funerary objects buried with or found near the Native American remains are to be treated in the same manner as bones or bone fragments that remain intact.</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>Non-Disclosure of Location of Reburials: Unless otherwise required by law, the site of any reburial of Native American human remains shall not be disclosed and will not be governed by public disclosure requirements of the California Public Records Act, <cite doc="Cal. Gov't Code" path="§6250">California Government Code Section 6250</cite> et seq. The Medical Examiner shall withhold public disclosure of information related to such reburial pursuant to the specific exemption set forth in <cite doc="Cal. Gov't Code" path="§6254|(r)">California Government Code Section 6254(r)</cite>. Any involved California Native American Tribe may require that the location for reburial be recorded with the California Historic Resources Inventory System (CHRIS) on a form acceptable to the CHRIS center. The Tribe may also suggest the landowner enter into an agreement regarding the confidentiality of site information that will run with title on the property.</text>
+              </para>
+              <para>
+                <num codify:value="(e)">e.</num>
+                <text>Treatment of Cultural Resources: Treatment of all cultural items, including ceremonial items and archaeological items will reflect the religious beliefs, customs, and practices of any California Native American Tribe with whom the project applicant has successfully consulted. All cultural items, including ceremonial items and archaeological items, that may be found at a project site shall, if requested by the Tribe, be turned over to the Tribe for appropriate treatment, unless ordered by a court or agency of competent jurisdiction. The project proponent shall waive any and all claims to ownership of Tribal ceremonial and cultural items, including archaeological items, which may be found on a project site in favor of the Tribe. If any intermediary (for example, an Archaeologist retained by the project proponent) is necessary, said entity or individual shall not possess those items for longer than is reasonably necessary, as determined solely by the Tribe.</text>
+              </para>
+              <para>
+                <num codify:value="(f)">f.</num>
+                <text>Inadvertent Discoveries: If additional significant sites or sites not identified as significant in a project environmental review process, but later determined to be significant, are located within a project impact area, such sites will be subjected to further archaeological and cultural significance evaluation by the project proponent, the Lead Agency, and the Tribe to determine whether additional mitigation measures are necessary to treat sites in a culturally appropriate manner consistent with CEQA requirements for mitigation of impacts to cultural resources. If there are human remains present that have been identified as Native American, all work will cease for a period of up to 30 days in accordance with Federal Law.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Geology.</text>
+            <para>
+              <num>(1)</num>
+              <text>Where a project site lies astride, or immediately adjacent to, the West Napa Fault, the project applicant shall, prior to the issuance of any building permits, submit plans to the City of American Canyon that demonstrate a minimum 50-foot setback between the West Napa Fault and each building. The approved plans shall be incorporated into the proposed project.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Prior to the issuance of building permits for any phase of the project, the project applicant shall submit a design-level Geotechnical Investigation to the City of American Canyon for review and approval. The investigation shall be prepared by a qualified engineer and identify grading and building practices necessary to achieve compliance with the latest adopted edition of the California Building Standards Code (CBC) geologic, soils, and seismic requirements, including abatement of expansive soil conditions. The report shall also determine the final design parameters for walls, foundations, foundation slabs, and surrounding related improvements (e.g., utilities roadways, parking lots, and sidewalks). The measures identified in the approved report shall be incorporated into the project plans and all applicable construction-related permits.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>If potential fossils are discovered during project implementation, all earthwork or other types of ground disturbance within 100 feet of the find shall stop immediately until a qualified professional Paleontologist can assess the nature and importance of the find. Based on the scientific value or uniqueness of the find, the Paleontologist shall either record the find and recommend that the applicant allow work to continue or recommend salvage and recovery of the fossil. The Paleontologist shall, if required, propose modifications to the stop-work radius based on the nature of the find, site geology, and the activities occurring on the site. If treatment and salvage is required, recommendations will be consistent with Society of Vertebrate Paleontology guidelines and currently accepted scientific practice. If necessary, treatment for fossil remains shall include preparation and recovery of fossil materials so that they can be housed in an appropriate museum or university collection, and, if required, shall also include preparation of a report for publication describing the finds.</text>
+            </para>
+          </para>
+          <para>
+            <num>(G)</num>
+            <text>Greenhouse gas emissions.</text>
+            <para>
+              <num>(1)</num>
+              <text>Prior to the issuance of any grading permits, the project applicant shall provide the City of American Canyon with documentation (e.g., site plans) demonstrating project construction will include the following construction Best Management Practices (BMPs):</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>At least 15 percent of the construction fleet for each project phase shall be alternatively fueled or electric.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>At least 10 percent of building materials used for project construction shall be sourced from local suppliers.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>At least 65 percent of construction and demolition waste materials shall be recycled or reused.</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>At least one contractor that has a business location in American Canyon shall be contracted for project construction.</text>
+              </para>
+              <para>
+                <num codify:value="(e)">e.</num>
+                <text>All construction contracts shall include language that requires all off-road equipment with a power rating below 19 kilowatts (e.g., plate compactors, pressure washers) using during construction be electrically powered.</text>
+              </para>
+              <para>
+                <num codify:value="(f)">f.</num>
+                <text>Architectural coatings used for project construction shall be "Low-VOC," containing no greater than 50 grams of volatile organic compounds (VOC) per liter of product.</text>
+              </para>
+              <para>
+                <num codify:value="(g)">g.</num>
+                <text>Idling times shall be minimized either by shutting equipment off when not in use or reducing the maximum idling time to 5 minutes (as required by the California Airborne Toxics Control Measure [ATCM] Title 13, Section 2485 of California Code of Regulations). Clear signage regarding idling restrictions shall be provided for construction workers at all access points.</text>
+              </para>
+              <para>
+                <num codify:value="(h)">h.</num>
+                <text>All construction equipment shall be maintained and properly tuned in accordance with manufacturer's specifications. All equipment shall be checked by a certified mechanic and determined to be running in proper condition prior to operation.</text>
+              </para>
+              <para>
+                <num codify:value="(i)">i.</num>
+                <text>The prime construction contractor shall post a publicly visible sign with their telephone number and contractor to contact. The construction contractor shall take corrective action within 48 hours. The BAAQMD's phone number shall also be identified and visible to ensure compliance with applicable regulations.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Prior to issuance of any building permits, the project applicant shall demonstrate to the satisfaction of the City of American Canyon (e.g., shown on-site plans), that the proposed buildings are designed and will be built to, at a minimum, the Tier 2 advanced energy efficiency requirements of the Nonresidential Voluntary Measures of the California Green Building Standards Code, Division A5.2, Energy Efficiency, as outlined under Section A5.203.1.2.2.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Prior to issuance of any building permits, the project applicant shall demonstrate to the satisfaction of the City of American Canyon (e.g., shown on site plans), that the proposed parking areas for passenger automobiles and trucks are designed and will be built to accommodate electric vehicle (EV) charging stations. At a minimum, the parking shall be designed to accommodate a number of EV charging stations equal to the Tier 2 Nonresidential Voluntary Measures of the California Green Building Standards Code, Section A5.106.5.3.2.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Prior to the issuance of any building permit for a proposed project, the project applicant shall provide the City with documentation (e.g., site plans) demonstrating that the electricity demand will be satisfied with 100 percent carbon-free electricity sources, through means such as on-site solar panels, through the year 2045.</text>
+            </para>
+          </para>
+          <para>
+            <num>(H)</num>
+            <text>Stormwater.</text>
+            <para>
+              <num>(1)</num>
+              <text>Prior to issuance of grading permits for the proposed project, the applicant shall submit to the City of American Canyon a Storm Water Pollution Prevention Plan (SWPPP) in accordance with the requirements of the statewide Construction General Permit (Order No. 2009-0009-DWQ as amended) and stamped by a professional engineer with at least three years of experience in preparing stormwater plans (qualified stormwater engineer). The SWPPP shall be designed to address the following objectives: (1) all pollutants and their sources (e.g., runoff), including sources of sediment associated with construction, construction site erosion, and all other activities associated with construction activity, are controlled; (2) where not otherwise required to be under a RWQCB permit, all non-stormwater discharges are identified and either eliminated, controlled, or treated; (3) site Best Management Practices (BMPs) (e.g., silt fencing, street sweeping, routine inspection, etc.) are effective and result in the reduction or elimination of pollutants in stormwater discharges and authorized non-stormwater discharges from construction activity; and (4) stabilization BMPs are installed to reduce or eliminate pollutants after construction are completed. The SWPPP shall be prepared by a qualified SWPPP developer. The SWPPP shall include the minimum BMPs required for the identified Risk Level. BMP implementation shall be consistent with the BMP requirements in the most recent version of the California Stormwater Quality Association (CASQA) Stormwater Best Management Handbook–Construction or the California Department of Transportation (Caltrans) Stormwater Quality Handbook Construction Site BMPs Manual. The SWPPP shall be implemented during construction.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Prior to the issuance of building permits, the project applicant shall submit a Stormwater Control Plan to the City of American Canyon signed and stamped by a qualified stormwater engineer. The plan shall be developed using the California Stormwater Quality Association (CASQA) "New Development and Redevelopment Handbook" and include applicable provisions of Section C.3 of the San Francisco Bay Regional Water Quality Control Board (RWQCB) Municipal Regional Permit (Order No. R2-2015- 0049, NPDES Permit No. CAS612008 (or more recent permit). The Stormwater Control Plan shall identify pollution prevention measures and Best Management Practices (BMPs) to control stormwater pollution from operational activities and facilities and provide maintenance in perpetuity. The Stormwater Control Plan shall include Low Impact Development (LID) design concepts, as well as concepts that accomplish a "first flush" objective that remove contaminants from the first 2 inches of stormwater before it enters area waterways. The project applicant shall also prepare and submit an Operations and Maintenance Agreement to the City, identifying procedures to ensure stormwater quality control measures work properly during operations.</text>
+            </para>
+          </para>
+          <para>
+            <num>(I)</num>
+            <text>Noise.</text>
+            <para>
+              <num>(1)</num>
+              <text>Implementation of the following multi-part mitigation measure is required to reduce potential construction period noise impacts:</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>The construction contractor shall ensure that all equipment driven by internal combustion engines shall be equipped with mufflers that are in good condition and appropriate for the equipment.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>The construction contractor shall ensure that unnecessary idling of internal combustion engines (i.e., idling in excess of 5 minutes) is prohibited.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>The construction contractor shall utilize "quiet" models of air compressors and other stationary noise sources where technology exists.</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>At all times during project grading and construction, the construction contractor shall ensure that stationary noise- generating equipment shall be located as far as practicable from sensitive receptors and placed so that emitted noise is directed away from adjacent residences.</text>
+              </para>
+              <para>
+                <num codify:value="(e)">e.</num>
+                <text>The construction contractor shall ensure that the construction staging areas shall be located to create the greatest feasible distance between the staging area and noise-sensitive receptors nearest the project site.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The construction contractor shall ensure that all on-site construction activities, including the operation of any tools or equipment used in construction, drilling, repair, alteration, grading, or demolition work, are limited to between the daytime hours of 7:00 a.m. to 7:00 p.m. Monday through Saturday. No construction shall be permitted on Sundays and federal holidays.</text>
+            </para>
+          </para>
+          <para>
+            <num>(J)</num>
+            <text>Landscaping.</text>
+            <para>
+              <num>(1)</num>
+              <text>Prior to building permit issuance, Landscape plans must comply with the State of California Water Efficient Landscape Ordinance. A landscape architect shall document and attest to the compliance with the State ordinance on the landscape plans.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All trees shown on the landscape plans must be 15 gallons in size or larger</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>The landscape plans must provide cross sections for landscaping areas showing trees, landscaping, etc. that ensure that proposed trees would not be planted above proposed utilities or inappropriately planted in bio-retention areas. Landscape plans must be reconciled with any civil plans and continue to provide a robust tree palette.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Prior to issuance of a certificate of occupancy, the project landscape architect shall certify that all plant materials have been installed in accordance with the landscape plan submitted with the application materials.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>All tree stakes and ties shall be removed within one year following installation or as soon as trees are able to stand erect without support.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Clear sight triangles shall be maintained at all driveways. Low-lying plantings and other site fixtures, including signs, shall be no taller than 30 inches within the site vision triangles.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>All planting shall be maintained in good growing condition. Such maintenance shall include, where appropriate, pruning, mowing, weeding, cleaning of debris and trash, fertilizing, and regular watering. Whenever necessary, planning shall be replaced with other plant materials to ensure continued compliance with applicable landscaping requirements. Required irrigation systems shall be maintained in sound operating conditions with heads periodically cleaned and replaced when missing to insure continued regular watering of landscaped areas, and health and vitality of landscape materials.</text>
+            </para>
+          </para>
+          <para>
+            <num>(K)</num>
+            <text>Building and Safety.</text>
+            <para>
+              <num>(1)</num>
+              <text>Construction and grading activities on the site shall be limited to between 7:00 a.m. and 6:00 p.m. Monday through Friday. Work between the hours of 6:00 p.m. and 7:00 a.m. and work on weekends and holidays requires prior written approval from the Building Official. If weekends and holiday work is approved construction and grading activities on the site shall be limited to between 8:00 a.m. to 6:00 p.m. on Saturdays and between 10:00 a.m. and 6:00 p.m. on Sundays and State and federal holidays.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All construction plans and buildings onsite shall conform to the California Code of Regulations, Title 24. All building plans shall include all necessary recommendations from the Geotechnical Report for the site, to be superseded only by the California Code if any conflicts arise.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Prior to the final inspection, the applicant or developer shall submit a letter of certification to the Building Official from the project architect, civil engineer, and landscape architect certifying that all improvements have been constructed in accordance with the approved building plans. A Certified Access Specialist (CASP) shall also submit a letter certifying that all improvements have been constructed in compliance with applicable State and federal accessibility standards. Determination of consistency shall be subject to the review and approval of the Building Official.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Prior to issuance of a building permit, the applicant shall submit a Construction Waste Management Plan for the diversion of at least 65 percent of the debris from the building demolition and construction. The plan shall include the qualified recycler that will be used, the methods of managing diversion of construction materials on site, and the proposed documentation that will be submitted to confirm that the diversion goal has been met.</text>
+            </para>
+          </para>
+          <para>
+            <num>(L)</num>
+            <text>Fire Protection.</text>
+            <text>The following conditions shall be satisfactorily addressed on the building permit submittal:</text>
+            <para>
+              <num>(1)</num>
+              <text>Prior to issuance of any building permits, the project applicant shall pay Fire Impact Fees (see current Standards Fees and Charges adopted by resolution).</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Where a qualified engineer determines that the payment of Fire Impact Fees will not be sufficient to compensate the American Canyon Fire Protection District (ACFPD) for any identified fire service deficiencies attributable solely to the proposed project, the project applicant shall, prior to the issuance of building permits, take whatever additional steps (e.g., the formation of a Mello-Roos Community Facilities District or similar financing mechanism) to make up for such deficiency.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>There shall be no deferred submittals for fire protection equipment and related utilities. Fire protection plans shall not be attached to or bound with the building plan submittal package. This includes but is not limited to Automatic Fire Sprinkler, Fire Alarm, Fixed Fire Protection, and Civil plans.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>All fire-related underground piping and fire appurtenances shall be shown on the Civil plan submittal, at least one (1) plan set under separate cover shall be submitted to the Building Division for routing to the Fire Protection District detailing all underground piping and related fire appurtenances including but not limited to underground piping, underground sweep detail, underground trench details showing depth of burial, type of backfill, manufacturer's specifications of piping, valve joints, fittings and calculated size and locations of thrust blocks, hydrant locations (designate public or private), gate shut-off valves, PIVs, FDCs, fire pumps, fire pump and/or riser rooms. The applicant will need to submit all related fire information on a separate plan for fire review. The fire-related portions of the Civil plan shall not be bound with the building plan.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Prior to issuance of a building permit, the underground utility contractor, architect, and fire sprinkler contractor shall coordinate the location of risers and control valves.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>An approved water supply capable of supplying the required fire flow for fire protection systems shall be provided to all premises upon which facilities or buildings are hereby constructed or moved into or within the City. Required fire flow and hydrant distribution shall be in accordance with Appendix B and C of the California Fire Code. The square footage of each building and the required fire flow information must be demonstrated on the plan submittal. The number and spacing of onsite fire hydrants shall meet requirements of the California Fire Code.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>New buildings and additions to existing buildings shall conform to requirements set forth in the currently adopted editions of the California Building Code, California Fire Code, City standards and nationally recognized standards.</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>The fire protection equipment shall be located within an interior room having an approved exterior access door or in an exterior enclosure attached to the building, specifically, for the purpose of housing such equipment.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>Prior to issuance of a building permit, a fire department circulation plan using the City's ladder struck and demonstrating clear turning movements into and out of the project shall be provided. The final design of fire department access components shall be reviewed and approved by the Fire Marshal prior to installation. The circulation plan must show how a fire apparatus can position near the building on either side, with the ability to turn the apparatus around to leave the project site.</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>Fire apparatus access roads shall be designed in accordance with provisions set forth in the California Fire Code Chapter 5 and Appendix D as amended by the City and the applicable Public Works Standard.</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text>Fire apparatus access roads shall have an unobstructed minimum width of 20 feet (curb to curb) and a minimum unobstructed vertical clearance of 13' 6". Such roads shall have an all-weather paved surface capable of supporting a GVW of 71,000 pounds.</text>
+            </para>
+            <para>
+              <num>(12)</num>
+              <text>Fire apparatus access roads shall be completed with all-weather surfaces prior to the stockpiling of combustible materials or beginning combustible construction. Fire apparatus access shall be provided to within 150 feet of the most remote portions of all buildings from an approved exterior route. If this cannot be achieved, fire apparatus turn-arounds will be needed.</text>
+            </para>
+            <para>
+              <num>(13)</num>
+              <text>Fire apparatus access roads shall not be obstructed in any manner, including the parking of vehicles. Vertical traffic calming in the form of speed bumps, humps or dips are prohibited along fire access roads without prior approval from the Fire Code Official. The minimum width and clearances established in Section 503.2.1 shall be maintained at all times.</text>
+            </para>
+            <para>
+              <num>(14)</num>
+              <text>When required by the Fire Chief, fire apparatus access roads shall be designated as Fire Lanes and appropriate signs and/or markings installed in accordance with the <cite doc="Cal. Veh. Code">California Vehicle Code</cite> and approved City standards.</text>
+            </para>
+            <para>
+              <num>(15)</num>
+              <text>Where applicable, plan submittals shall include locations of fire lane red curbing and fire lane signage. Please refer to and include City Public Works Standard FP-2A &amp; 2B with plan submittals for permitting.</text>
+            </para>
+            <para>
+              <num>(16)</num>
+              <text>The City requires that a fire hydrant be in service within 250 feet of the furthest point of construction prior to the stockpiling of combustible materials for the beginning of construction.</text>
+            </para>
+            <para>
+              <num>(17)</num>
+              <text>The Fire Department Connections (FDCs) shall be located not more than 100ft. from the nearest fire hydrant.</text>
+            </para>
+            <para>
+              <num>(18)</num>
+              <text>Plans submitted for permit shall include City of American Canyon "Underground" standards, detail drawings and the applicable City of American Canyon Public Works Standard detail (W-7A, B, C or D) for Fire Service double detector check installations. A separate set of plans shall be submitted detailing all related underground fire utilities and appurtenances including but not limited to, all underground piping, type, sizes, depth of burial, fittings, thrust blocks, risers, pumps, hydrants, FDCs, etc.</text>
+            </para>
+            <para>
+              <num>(19)</num>
+              <text>System Protection Area Limitations NFPA 13-8.2.1 Maximum floor area on any one floor to be protected by sprinklers supplied by any one sprinkler system riser or combined system riser shall be as follows.</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>Light Hazard – 52,000 sf – per riser</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>Ordinary Hazard - 52,000 sf – per riser</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>*Extra Hazard – Hydraulically calculated - 40,000 sf – per riser</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>Storage – High-piled storage (as defined in 3.9.1.16) and storage covered by other NFPA standards – 40,000 sf – per riser</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(M)</num>
+            <text>Public Works.</text>
+            <para>
+              <num>(1)</num>
+              <text>The applicant shall be responsible for all City plan check and inspection costs. The applicant shall establish a Developer Deposit Account with the City upon the initiation of plan check services. The amount of the initial deposit shall be determined by the City Engineer. Additional funds may be required based upon actual costs.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>All improvements shall be designed in accordance with the American Canyon Municipal Code (ACMC), City of American Canyon Engineering Standard Plans and Specifications for Public Improvements (City Standards), except as specifically noted otherwise in these conditions.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>All new utilities to serve the project, shall be placed underground with the exception of surface-mounted transformers, pedestal mounted terminal boxes, and meter cabinets.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Unless otherwise explicitly permitted, all existing wells, septic tanks, and/or underground fuel storage tanks shall be abandoned under permit and inspection of Napa County Department of Environmental Services or other designated agency. If there are none, the project engineer shall provide a letter describing the scope of the search done to make this determination.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>A detailed Soils Investigation/Geotechnical Report shall be prepared and submitted. The report shall address, at a minimum, potential for liquefaction, R-values, expansive soils, and seismic risk. The applicant's Building Permit Plan Set (including grading, utility, landscape, and building plans) shall incorporate all design and construction criteria recommended in the Geotechnical Report.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>A drainage report prepared by a California Registered Civil Engineer shall be submitted with the initial submittal of the Building Permit Plan Set. The report shall include detailed hydrologic and hydraulic calculations to support the design and sizing of all public and private drainage facilities including storm drains and detention facilities. The report shall address existing downstream storm drain facilities and hydraulic conditions which may impact the design of proposed facilities and improvements.</text>
+            </para>
+            <para>
+              <num>(7)</num>
+              <text>A final detailed post-construction Stormwater Control Plan (SWCP) that identifies and sizes all permanent post-construction stormwater treatment BMPs shall be prepared and submitted to the City Engineer. The SWCP shall be prepared in accordance with the latest edition of the <em>Bay Area Stormwater Management Agencies Association (BASMAA) Post-Construction Manual</em> and the requirements of the State Water Resources Control Board Phase II Municipal Separate Storm Water System (MS4) General Permit (Order 2013-0001 DWQ).</text>
+            </para>
+            <para>
+              <num>(8)</num>
+              <text>A Post Construction Stormwater Operations Maintenance Plan meeting the definition found in <cite doc="City of American Canyon, Cal., Code" path="14.28">Chapter 14.28</cite> that includes a plan sheet showing all storm drain and water quality infrastructure that is to be maintained, along with detailed instructions and schedules for the ongoing maintenance and operation of all post-construction stormwater BMPs shall be signed and stamped by a qualified stormwater engineer and submitted to the City Engineer. The property owner(s) shall enter into an agreement with the City that provides the terms, conditions, and security associated with the ongoing requirements of the post-construction stormwater BMPs.</text>
+            </para>
+            <para>
+              <num>(9)</num>
+              <text>The applicant shall secure all necessary rights-of-way and public and private easements for both onsite and offsite improvements. The applicant shall prepare all necessary legal descriptions and deeds.</text>
+            </para>
+            <para>
+              <num>(10)</num>
+              <text>To the extent any offsite public improvements require the acquisition of property not currently owned by the applicant or the City, the applicant shall first make a good-faith effort to acquire the necessary property rights; however, if the applicant makes such an effort and is unable to acquire such rights, then the applicant may request the City acquire the necessary property rights through the exercise of eminent domain provided that the applicant first enters into an agreement with the City to pay for all costs incurred by the City to acquire such rights and if the City does not acquire the rights necessary to allow the offsite public improvements to be completed by the applicant within the statutory timeline provided by law, then the applicant shall be relieved of the obligation to construct those off-site improvements only to the extent they require property not currently owned by the applicant or the City. The applicant shall make a good-faith effort to identify and acquire the necessary property rights at the earliest opportunity.</text>
+            </para>
+            <para>
+              <num>(11)</num>
+              <text>The applicant shall submit the Building Permit Plan Set, prepared by a registered Civil Engineer, to the City's Public Works Department. This is a separate submittal from the building permit application. The final plan set shall include all civil, landscape and joint trench drawings under a single cover sheet. No final grading or other construction shall be performed until the Building Permit Plan Set has been approved. The applicant shall not begin clearing, grubbing, or rough grading prior to the approval of the Building Permit Plan Set, unless explicitly approved by the City through the standard grading and utilities only permit process. An Encroachment Permit is required for any work within City right-of-way. Encroachments Permits will not be issued prior to the approval of the Improvement Plans.</text>
+            </para>
+            <para>
+              <num>(12)</num>
+              <text>All public water service laterals or services (domestic, recycled, and fire water) shall include approved backflow prevention devices.</text>
+            </para>
+            <para>
+              <num>(13)</num>
+              <text>Cathodic protection shall be provided for all water valves, fittings, hydrants, meters, backflow devices and other metal appurtenances, regardless of the findings of any soils corrosivity analysis.</text>
+            </para>
+            <para>
+              <num>(14)</num>
+              <text>The applicant shall keep adjoining public and private streets free and clean of project, direct, mud, materials, and debris during the construction period in accordance with SWPPP using appropriate BMPs and as is found necessary by a qualified professional civil engineer.</text>
+            </para>
+            <para>
+              <num>(15)</num>
+              <text>If any hazardous material is encountered during the construction of this project, all work shall be immediately stopped and the Fire Department, Napa County Department of Environmental Services or other designated agency, and the City Inspector shall be notified immediately. Work shall not proceed until clearance has been issued by all of these agencies.</text>
+            </para>
+            <para>
+              <num>(16)</num>
+              <text>Prior to final preparation of the subgrade and placement of base materials, all underground utilities shall be installed, and service connections stubbed out behind the sidewalk. Public utilities, cable tv, sanitary sewers, and water lines shall be installed in a manner that will not disturb the street pavement, curb, gutter and sidewalk, when future service connections or extensions are made.</text>
+            </para>
+            <para>
+              <num>(17)</num>
+              <text>Where soil or geologic conditions encountered in grading operations are different from that anticipated in the Soil and/or Geologic Investigation Report, or where such conditions warrant changes to the recommendations contained in the original Soil Investigation, a revised Soil or Geologic Investigation Report shall be submitted for approval by the City Engineer.</text>
+            </para>
+            <para>
+              <num>(18)</num>
+              <text>All new fire hydrants shall be covered with burlap sacks until the hydrants have been tested and found to be in conformance with City flow requirements. No storage of combustible materials or construction of building shall be permitted until all hydrants meet City flow requirements.</text>
+            </para>
+            <para>
+              <num>(19)</num>
+              <text>Prior to placing the final lift of asphalt, all public storm drains and sanitary sewer lines shall be video inspected at the applicant's expense. All video media (CD, DVD, or portable hard drive) shall be submitted to the City. If any inadequacies are found, they shall be repaired prior to the placement of the final lift of asphalt.</text>
+            </para>
+            <para>
+              <num>(20)</num>
+              <text>All streets, curbs, gutters, sidewalks or other public facilities damaged in the course of construction associated with the project shall be the responsibility of the applicant and shall be repaired to the satisfaction of the City at the applicant's expense.</text>
+            </para>
+            <para>
+              <num>(21)</num>
+              <text>After all the new underground utilities within existing public streets have been installed, the entire affected areas shall be milled and repaved to present a neat finished pavement area. Multiple trench patches are not acceptable.</text>
+            </para>
+            <para>
+              <num>(22)</num>
+              <text>All construction stormwater pollution prevention BMPs shall be installed as the first order of work and in accordance with the State Water Resources Control Board's General Construction Permit for Stormwater Discharges Associated with Construction and Land Disturbance Activities (Order 2009-0009-DWQ, as amended), the applicant's SWPPP, and the City's Erosion and Sediment Control Plan in accordance with the City's MS4 Permit. All stormwater BMPs shall be maintained to the satisfaction of the Qualified SWPPP Developer (QSD) and Qualified SWPP Practitioner (QSP).</text>
+            </para>
+            <para>
+              <num>(23)</num>
+              <text>With the exception of water used for loading and testing of potable water lines, all construction water used for the project shall be obtained from a source other than American Canyon potable water sources. The applicant shall provide verification that an outside source of construction water, e.g., recycled water, has been established and will be available for the duration of the project construction.</text>
+            </para>
+            <para>
+              <num>(24)</num>
+              <text>Plans submitted to Public Works shall be tied to the State of California coordinate system.</text>
+            </para>
+            <para>
+              <num>(25)</num>
+              <text>The applicant shall construct all of the on-site private streets, water, recycled water, sewer, storm drainage and stormwater quality Private Improvements described below. All private street, water, recycled water, sewer, storm drainage and stormwater quality improvements shall be designed in accordance with City Standards, except as specifically noted otherwise in these Standard Conditions.</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text><u>Storm Drain Facilities</u>: Construct private on-site drainage facilities, detention facilities, and other appurtenances to collect and convey all surface drainage to an approved private storm drain facility or outfall. Onsite drainage facilities shall provide for the positive drainage of all adjacent upstream or upgrade properties to prevent ponding. Existing run-on from adjacent properties shall not be obstructed and shall be conveyed onsite. Off-site peak storm water discharge shall not exceed 90 percent of the undeveloped peak flow from the 24-hour, 100-year event. The storm drains and detention facilities shall be substantially consistent with any preliminary plans. The sizing of all storm drains and detention facilities shall be determined by the approved final drainage report.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text><u>Stormwater Quality Facilities</u>: Permanent on-site private post-construction stormwater treatment BMPs shall be designed and constructed in accordance with the approved final SWCP.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text><u>Recycled Water Services</u>: Separate recycled water services shall be provided for domestic non-potable uses and irrigation uses.</text>
+              </para>
+            </para>
+            <para>
+              <num>(26)</num>
+              <text>The applicant shall reimburse the City for the project's fair share of the costs for improvements to transportation facilities needed to handle traffic associated with the project within City level of service (LOS) requirements, as determined by the City Engineer with input from the applicant and the applicant's traffic consultant.</text>
+            </para>
+            <para>
+              <num>(27)</num>
+              <text>The applicant shall reimburse the City for the project's fair share of the costs for any improvements to of the City's wastewater treatment pipeline system and treatment plant needed to handle wastewater generated by the project.</text>
+            </para>
+            <para>
+              <num>(28)</num>
+              <text>Prior to submittal of the Building Permit Plan Set, the applicant shall:</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>Submit to the City a Building Permit Plan Set modeled on the City's "Improvement Plan Checklist."</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>Pay an initial cash deposit for City plan check services in an amount to be determined by the City prior to the time of submittal. The project engineer shall contact City staff to discuss submittal details to determine initial deposit amount.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>Provide the following:</text>
+                <para>
+                  <num codify:value="(i)">i.</num>
+                  <text>Public Street Repair Plan</text>
+                </para>
+                <para>
+                  <num codify:value="(ii)">ii.</num>
+                  <text>Utility Plan and Joint Trench Plan</text>
+                </para>
+                <para>
+                  <num codify:value="(iii)">iii.</num>
+                  <text>SWPPP and City Erosion and Sediment Control Plan</text>
+                </para>
+                <para>
+                  <num codify:value="(iv)">iv.</num>
+                  <text>Drainage Report</text>
+                </para>
+                <para>
+                  <num codify:value="(v)">v.</num>
+                  <text>Post-Construction SWCP</text>
+                </para>
+                <para>
+                  <num codify:value="(vi)">vi.</num>
+                  <text>Geotechnical Report</text>
+                </para>
+                <para>
+                  <num codify:value="(vii)">vii.</num>
+                  <text>Construction Traffic Control Plan</text>
+                </para>
+                <para>
+                  <num codify:value="(viii)">viii.</num>
+                  <text>Traffic Impact Study</text>
+                </para>
+                <para>
+                  <num codify:value="(ix)">ix.</num>
+                  <text>Application for Water and Sewer Service</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(29)</num>
+              <text>Pothole and physically determine (by way of a survey performed by the Engineer of Record) the actual horizontal location and vertical depth of all existing underground utilities throughout the proposed area of work and provide the design of all new utility installations required to serve the project including a schedule for implementation of such work as to prevent disrupting of utility service to adjacent properties.</text>
+            </para>
+            <para>
+              <num>(30)</num>
+              <text>Prior to approval of the Building Permit Plan Set, the applicant shall:</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>Provide written acknowledgement by the Geotechnical Engineer of Record that the plans incorporate all design and construction criteria specified in the Geotechnical Report.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>Furnish proof of acquisition of all rights of entry and/or temporary and permanent easements necessary to construct the project and the location of all such rights on the plans.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>Furnish proof that all permits that may be required by the California Department of Fish &amp; Wildlife, State and Regional Water Quality Control Board, U.S. Army Corps of Engineers and any other regulatory agencies with jurisdiction over the proposed construction have been obtained.</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>Fill out and submit the City's Erosion and Sediment Control Plan (ESCP) Template. Applicant may refer to a SWPPP, as appropriate, by referencing page number within the SWPPP that addresses the requirements of the ESCP.</text>
+              </para>
+              <para>
+                <num codify:value="(e)">e.</num>
+                <text>Submit a copy of the Notice of Intent and Wastewater Discharge Identification Number (WDID#) for coverage under the State Water Resources Control Board's General Construction Permit for Stormwater Discharge Associated with Construction and Land Disturbance Activities (Order 2009-0009-DWQ).</text>
+              </para>
+            </para>
+            <para>
+              <num>(31)</num>
+              <text>Prior to commencement of construction activities, the applicant shall:</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>Pay off all current account balances with the City.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>Pay an inspection fee in an amount to be determined at the time of commencement for the City's inspection of the Public Improvements.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>Conduct a pre-construction meeting with representatives of the City whereby the applicant, the Legally Responsible Party (LRP), Qualified SWPPP (QSP), Qualified SWPPP Developer (QSD), and/or the Contractor provides the following:</text>
+                <para>
+                  <num codify:value="(i)">i.</num>
+                  <text>Six (6) full-size bond copies of the approved Building Permit Plan Set for the City's use.</text>
+                </para>
+                <para>
+                  <num codify:value="(ii)">ii.</num>
+                  <text>One (1) job-site copy of the latest edition of the City Standards for the Contractor's use.</text>
+                </para>
+                <para>
+                  <num codify:value="(iii)">iii.</num>
+                  <text>One (1) job-site copy of the SWPPP for use by the LRP, QSP, QSD, and Contractor.</text>
+                </para>
+                <para>
+                  <num codify:value="(iv)">iv.</num>
+                  <text>Electronic copies of Building Permit Plan Set and SWPPP.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(32)</num>
+              <text>Prior to approval of a building permit, the applicant shall pay all account balances and current City and American Canyon Fire District fees (Mitigation &amp; Capacity) based on the rates in effect at the time of permit issuance. These fees include but may not be limited to the following: Traffic Mitigation, General Plan Update, Civic Facilities, Fire District, Water Capacity, Wastewater Capacity, Zero Water Footprint Mitigation, and Affordable Housing Nexus.</text>
+            </para>
+            <para>
+              <num>(33)</num>
+              <text>Prior to issuance of the first building permit, the applicant shall enter into a Recorded Transportation Demand Management Program Agreement (TDM Agreement) encompassing the entire project. The TDM Agreement shall be based on a traffic study prepared by a qualified transportation engineer. The study shall address whether the proposed project is consistent with the City's traffic level of service (LOS) policy as set forth in Guiding Policy 1.6 of the Circulation Element of the City of American Canyon General Plan, which is to "[a]chieve and maintain a Multimodal LOS D or better for roadways and intersections during peak-hours where possible and as long as possible," and shall include the components set forth in paragraphs a and b below.</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>Where the traffic study shows that a TDM agreement is necessary to achieve consistency with Guiding Policy 1.6, the TDM Agreement shall include a financial guarantee to the City in order to ensure the effectiveness of the TDM Agreement in achieving consistency with the Guiding Policy. Depending on the results of the traffic study, this guarantee may address the need to achieve specific AM peak-hour volumes and/or specific PM peak-hour volumes attributable to the project.</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>The TDM program shall be implemented at the applicant's cost, with no cost to the City, regardless of the eventual mix of uses and shall at a minimum include a permanent vehicle counting station at each public access point. The TDM program shall include a requirement to start and end workday shifts during off-peak hours (i.e., not between 7:00 a.m. to 9:00 a.m. or 3:00 p.m. to 6:00 p.m.).</text>
+                <text>In addition to requiring off-peak workday shift changes, additional examples of measures that may be considered as part of an effective TDM program include but are not limited to the following:</text>
+                <para>
+                  <num codify:value="(i)">i.</num>
+                  <text>Implement shuttle service to key employment centers or park-and-ride lots in the area for those employees whose workday shift start during peak hours.</text>
+                </para>
+                <para>
+                  <num codify:value="(ii)">ii.</num>
+                  <text>Car-share program</text>
+                </para>
+                <para>
+                  <num codify:value="(iii)">iii.</num>
+                  <text>Shuttles to regional transit</text>
+                </para>
+                <para>
+                  <num codify:value="(iv)">iv.</num>
+                  <text>Transit subsidies</text>
+                </para>
+                <para>
+                  <num codify:value="(v)">v.</num>
+                  <text>Carpool/vanpool subsidies</text>
+                </para>
+                <para>
+                  <num codify:value="(vi)">vi.</num>
+                  <text>Employer-owned/sponsored vanpools</text>
+                </para>
+                <para>
+                  <num codify:value="(vii)">vii.</num>
+                  <text>Flex-time and telecommute programs</text>
+                </para>
+                <para>
+                  <num codify:value="(viii)">viii.</num>
+                  <text>Use of rail to transport employees and/or the delivery of goods</text>
+                </para>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>The applicant shall retain a transportation planning/engineering consultant to analyze the effectiveness of the TDM program in a written report. The TDM Report will include data collected from the permanent vehicle counting station and a determination of employee commute methods, which shall be informed by surveying all employees working at the site. The TDM Report shall be submitted to the City on a periodic on-going basis and it shall form the basis of on-going determinations as to the effectiveness of the TDM program.</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>If at any point the TDM program is not effective in achieving consistency with Guiding Principle 1.6, the applicant shall take additional steps in order to achieve such consistency. Possible steps could include the payment of Traffic Impact Fees or enhancements or additions to the measures included in the original TDM Program.</text>
+              </para>
+            </para>
+            <para>
+              <num>(34)</num>
+              <text>Prior to occupancy of any building, the applicant shall:</text>
+              <para>
+                <num codify:value="(a)">a.</num>
+                <text>Restore all adjacent off-site road surfaces to pre-project conditions (if applicable).</text>
+              </para>
+              <para>
+                <num codify:value="(b)">b.</num>
+                <text>Submit a certification by the Geotechnical Engineer of Record that all work has been completed in substantial conformance with the recommendations in Soils Investigation/Geotechnical Report.</text>
+              </para>
+              <para>
+                <num codify:value="(c)">c.</num>
+                <text>Provide a mylar and digital copy of the Building Permit Plan Set that includes all as-built or field changes, digital (.pdf) and AutoCAD (.dwg) format, compatible with the City's current version, and tied to the City's coordinate system.</text>
+              </para>
+              <para>
+                <num codify:value="(d)">d.</num>
+                <text>Provide a letter stating that all of the Standard Conditions of Approval set forth in <cite doc="City of American Canyon, Cal., Code" path="|19.51.060">this section</cite> have been met.</text>
+              </para>
+              <para>
+                <num codify:value="(e)">e.</num>
+                <text>Provide a letter from the Civil Engineer of Record certifying that all the site improvements were constructed and inspected in substantial conformance with the approved plans and City Standards.</text>
+              </para>
+              <para>
+                <num codify:value="(f)">f.</num>
+                <text>Enter and record a post-construction Stormwater Operations and Maintenance Agreement with the City.</text>
+              </para>
+            </para>
+          </para>
+        </section>
+      </container>
+    </section>
+    <section>
+      <num>4</num>
+      <heading>Effective Date</heading>
+      <text>This initiative measure shall be binding and effective as of the earliest date allowed by law.</text>
+    </section>
+    <section>
+      <num>5</num>
+      <heading>Severability</heading>
+      <text>If any section, subsection, sentence, phrase, or clause of this initiative is declared invalid by a court of competent jurisdiction, the remaining sections, subsections, sentences, phrases and clauses shall remain valid and enforceable. The voters declare that they would have passed all sections, subsections, sentences, phrases and clauses of this initiative without the section, subsection, phrase or clause declared invalid by a court of competent jurisdiction.</text>
+    </section>
+    <section>
+      <num>6</num>
+      <heading>Conflicts with State and Federal Law</heading>
+      <text>The provisions of this initiative measure shall not apply to the extent that they would violate state or federal laws.</text>
+      <text>This initiative shall not be applied in a manner that would result in an unconstitutional taking of private property.</text>
+    </section>
+    <section>
+      <num>7</num>
+      <heading>Relationship to Municipal Code</heading>
+      <text>If any provision of this initiative conflicts with other provisions contained in the City of American Canyon Municipal Code, the provisions of the initiative ordinance shall supersede any other conflicting provision. This initiative ordinance does not alter, modify, or eliminate any zoning or other requirements of the City of American Canyon Municipal Code other than the new <cite doc="City of American Canyon, Cal., Code" path="19.54">chapter (19.54)</cite> created by the initiative.</text>
+    </section>
+    <section>
+      <num>8</num>
+      <heading>Amendments</heading>
+      <text>No provision of this initiative ordinance may be amended or repealed until January 1, 2029. After that date, the City Council shall have the power to amend or repeal the ordinance.</text>
+    </section>
+  </attachment>
+</document>

@@ -60,7 +60,7 @@
     <xi:include href="./us/ca/cities/american-canyon/ordinances/1993/index.xml"/>
     <xi:include href="./us/ca/cities/american-canyon/ordinances/1992/index.xml"/>
   </collection>
-  <collection name="us/ca/cities/american-canyon/ordinances">
+  <collection name="us/ca/cities/american-canyon/resolutions">
     <heading>Resolutions</heading>
     <xi:include href="./us/ca/cities/american-canyon/resolutions/2024/index.xml"/>
   </collection>

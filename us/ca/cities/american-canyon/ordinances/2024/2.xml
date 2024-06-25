@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2024-02" codify:doc="City of American Canyon, Cal., Code">
+  <num>2024-02</num>
+  <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON, STATE OF CALIFORNIA, ADOPTING INDUSTRIAL USE GREENHOUSE GAS STANDARDS</heading>
+  <meta>
+    <effective>2024-03-21</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-02.pdf">Ord. No. 2024-02</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2024-02</citation>
+    </citations>
+    <history>
+      <introduced>2024-02-06</introduced>
+      <adopted>2024-02-20</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>California has established the ambitious goal of carbon neutrality by 2045, which will require significant reductions and mitigation of greenhouse gas ("GHG") emissions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>industrial land uses like freight, warehouse, and logistics centers often emit substantial GHG emissions in their construction and operation, especially due to heavy-duty truck traffic; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>new developments and land use proposals present some of the best and most efficient opportunities to reduce and mitigate GHG emissions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>mitigation of GHG emissions from individual projects often reduces co-emitted air pollutants, with advantages for nearby air quality and human health; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of American Canyon ("City") seeks to be an environmental leader by attracting industrial development that meets the highest standards of environmental sustainability; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the California Environmental Quality Act (<cite doc="Cal. Pub. Res. Code" path="§21000">Pub. Res. Code § 21000</cite> et sea., "CEQA") requires lead agencies to choose a threshold of significance to evaluate greenhouse gas emissions; lead agencies must choose a threshold that is supported by substantial evidence and captures all significant impacts; and lead agencies have the discretion to create their own threshold or adopt one developed by an expert agency; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>in 2022 the Bay Area Air Quality Management District ("BAAQMD") issued guidance recommending GHG significance thresholds of general applicability for residential and commercial projects; but did not recommend a threshold for industrial land uses; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>BAAQMD's thresholds for residential and commercial projects are insufficient for industrial land uses because they do not capture or consider the significant sources of GHG emissions from industrial land uses; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>until BAAQMD develops a GHG threshold appropriate for industrial uses, the City will adopt its own threshold standards relying on the analysis and implement record of other rule-making actions of other local agencies to determine a threshold of applicability to industrial land uses; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the South Coast Air Quality Management District ("SCAQMD") has developed a threshold of significance for industrial land uses that is supported by substantial evidence and captures the significant sources of GHG impacts; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a threshold of significance that combines BAAQMD's baseline threshold with the SCAQMD's threshold will capture the presently known GHG emissions from industrial land uses; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a duly-noticed public hearing was held by the City of American Canyon Planning Commission on January 25, 2024 on the subject ordinance, and recommends City Council approval; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a duly-noticed public hearing was held by the City of American Canyon City Council on February 6, 2024 on the subject ordinance, at which time all those in attendance were given the opportunity to speak on this proposal and to submit comments.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE,</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN THAT <cite doc="City of American Canyon, Cal., Code" path="|19.01.061">SECTION 19.01.061</cite> IS HEREBY ADDED TO THE MUNICIPAL CODE OF THE CITY OF AMERICAN CANYON AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <container>
+    <heading>19.01.061 Industrial Use Greenhouse Gas Standards</heading>
+    <para>
+      <num>(A)</num>
+      <text>Every Industrial Use Land Use Proposal for which the City of American Canyon is the Lead Agency shall use the following threshold to evaluate the significance of greenhouse gas (GHG) impact under the California Environmental Quality Act (CEQA):</text>
+      <para>
+        <num>(1)</num>
+        <heading>TIER 1.</heading>
+        <text>Determine if CEQA categorical exemptions are applicable. If not, move to Tier 2.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <heading>Tier 2.</heading>
+        <text>Consider whether the proposed project is consistent with a locally adopted GHG reduction plan that has gone through public hearing and CEQA review, that has an approved inventory, includes monitoring, <em>etc</em>. If not, move to Tier 3.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <heading>Tier 3.</heading>
+        <text>Consider whether the project includes, at a minimum, the following project design elements:</text>
+        <para>
+          <num>1.</num>
+          <text>
+            <strong>Buildings</strong>
+          </text>
+          <para>
+            <num>a.</num>
+            <text>The project will not include natural gas appliances or natural gas plumbing (in both residential and nonresidential development).</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The project will not result in any wasteful, inefficient, or unnecessary energy use as determined by the analysis required under CEQA Section 21100(b)(3) and Section 15126.2(b) of the State CEQA Guidelines.</text>
+          </para>
+        </para>
+        <para>
+          <num>2.</num>
+          <text>
+            <strong>Transportation</strong>
+          </text>
+          <para>
+            <num>a.</num>
+            <text>The project will achieve a reduction in project-generated vehicle miles traveled ("VMT") below the regional average consistent with the current version of the California Climate Change Scoping Plan (currently 15 percent).</text>
+          </para>
+          <para>
+            <num>b.</num>
+            <text>The project will achieve compliance with off-street electric vehicle requirements in the most recently adopted version of CALGreen Tier 2.  If the project does not include the above project design elements, the Project has a significant GHG impact. If it does include the above project design elements, move to Tier 4.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(4)</num>
+        <heading>Tier 4.</heading>
+        <text>Consider whether the project generates GHG emissions in excess of the South Coast Air Quality Management District's 10,000 MT CO2e per year screening threshold for industrial uses and stationary projects. If so, the project has a significant GHG impact.</text>
+      </para>
+    </para>
+  </container>
+  <codify:insert path="19.01" after="19.01.060" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.01.061">
+    <section>
+      <num>19.01.061</num>
+      <heading>Industrial Use Greenhouse Gas Standards</heading>
+      <para>
+        <num>(A)</num>
+        <text>Every Industrial Use Land Use Proposal for which the City of American Canyon is the Lead Agency shall use the following threshold to evaluate the significance of greenhouse gas (GHG) impact under the California Environmental Quality Act (CEQA):</text>
+        <para>
+          <num>(1)</num>
+          <heading codify:value="Tier 1.">TIER 1.</heading>
+          <text>Determine if CEQA categorical exemptions are applicable. If not, move to Tier 2.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <heading>Tier 2.</heading>
+          <text>Consider whether the proposed project is consistent with a locally adopted GHG reduction plan that has gone through public hearing and CEQA review, that has an approved inventory, includes monitoring, <em>etc</em>. If not, move to Tier 3.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <heading>Tier 3.</heading>
+          <text>Consider whether the project includes, at a minimum, the following project design elements:</text>
+          <para>
+            <num codify:value="(a)">1.</num>
+            <text>
+              <strong>Buildings</strong>
+            </text>
+            <para>
+              <num codify:value="(i)">a.</num>
+              <text>The project will not include natural gas appliances or natural gas plumbing (in both residential and nonresidential development).</text>
+            </para>
+            <para>
+              <num codify:value="(ii)">b.</num>
+              <text>The project will not result in any wasteful, inefficient, or unnecessary energy use as determined by the analysis required under CEQA Section 21100(b)(3) and Section 15126.2(b) of the State CEQA Guidelines.</text>
+            </para>
+          </para>
+          <para>
+            <num codify:value="(b)">2.</num>
+            <text>
+              <strong>Transportation</strong>
+            </text>
+            <para>
+              <num codify:value="(i)">a.</num>
+              <text>The project will achieve a reduction in project-generated vehicle miles traveled ("VMT") below the regional average consistent with the current version of the California Climate Change Scoping Plan (currently 15 percent).</text>
+            </para>
+            <para>
+              <num codify:value="(ii)">b.</num>
+              <text>The project will achieve compliance with off-street electric vehicle requirements in the most recently adopted version of CALGreen Tier 2.  If the project does not include the above project design elements, the Project has a significant GHG impact. If it does include the above project design elements, move to Tier 4.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <heading>Tier 4.</heading>
+          <text>Consider whether the project generates GHG emissions in excess of the South Coast Air Quality Management District's 10,000 MT CO2e per year screening threshold for industrial uses and stationary projects. If so, the project has a significant GHG impact.</text>
+        </para>
+      </para>
+    </section>
+  </codify:insert>
+  <section>
+    <num>1</num>
+    <text>CEQA FINDINGS. The City Council finds the municipal code amendments are exempt from environmental review under CEQA as it is not a Project under CEQA Guidelines Section 15378(b) and is categorically exempt under CEQA Guidelines Section 15308 "Actions by Regulatory Agencies for Protection of the Environment and a Notice of Exemption has been prepared for this proposed amendment.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Effective Date.  This ordinance shall become effective effect 30 days after its final passage pursuant to <cite doc="Cal. Gov't Code" path="§36937">Government Code section 36937</cite>.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Severability.  If any section, sentence, clause or phrase of this Ordinance is for any reason held to be invalid or unconstitutional by a decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this Ordinance.  The City Council hereby declares that it would have passed this Ordinance and adopted this Ordinance and each section, sentence, clause or phrase thereof, irrespective of the fact that one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Custodian of Records. The documents and materials that constitute the record of proceedings on which this Ordinance is based are located at the City Clerk's office located at 4831 Broadway, Suite 201, American Canyon, CA 94503.  The custodian of these records is the City Clerk.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a Regular Meeting of the City Council of the City of American Canyon, State of California, held on the 6<sup>th</sup> day of February, 2024, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Council Members Aboudamous, Joseph, Washington, Vice Mayor Oro, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 20<sup>th</sup> day of February, 2024, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Council Members Aboudamous, Joseph, Washington, Vice Mayor Oro, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

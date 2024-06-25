@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2024-06" codify:doc="City of American Canyon, Cal., Code">
+  <num>2024-06</num>
+  <heading>AN ORDINANCE AMENDING AMERICAN CANYON MUNICIPAL CODE CHAPTER 19.41 "DESIGN PERMITS" CONSISTENT WITH STATE LAW AND HOUSING ELEMENT IMPLEMENTATION PROGRAM C</heading>
+  <meta>
+    <effective>2024-07-04</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-06.pdf" proof="needed">Ord. No. 2024-06</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2024-06</citation>
+    </citations>
+    <history>
+      <introduced>2024-05-21</introduced>
+      <adopted>2024-06-04</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on January 31, 2023, the City Council approved the 6th Cycle Housing Element (Housing Element); and;</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on June 30, 2023, the State of California Department of Housing and Community Development (HCD) certified the Housing Element; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Housing Element includes approximately 70 programs to identify and reduce constraints to housing production; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Housing Element Implementation Program C requires certain Municipal Code updates to reduce constraints to housing production, including revising Chapter 19.41 (Design Permits) to eliminate subjectivity in review and approval of housing developments protected by the Housing accountability Act under <cite doc="Cal. Gov't Code" path="§65589.5">Government Code Section 65589.5</cite>; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on April 25, 2024, the City of American Canyon Planning Commission conducted a duly noticed public hearing on the on the subject ordinance and recommends City Council approval; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on May 21, 2024, the City Council of the City of American Canyon conducted a duly-noticed public hearing on the subject application, at which time all those in attendance were given the opportunity to speak on this proposal and to submit comments.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>BE IT ORDAINED that the City Council of the City of American Canyon, having considered all the evidence, including any submitted by member of the public, hereby adopts Municipal Code amendments as follows:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Revise <cite doc="City of American Canyon, Cal., Code" path="19.41">Chapter 19.41 (Design Permits)</cite> in compliance with <cite doc="Cal. Gov't Code" path="§65589.5">Government Code Section 65589.5</cite> and Housing Element Implementation Program C as follows:</text>
+    <include>
+      <container>
+        <heading>Chapter 19.41 DESIGN PERMITS</heading>
+        <section>
+          <num>19.41.010</num>
+          <heading>Purpose</heading>
+          <text>The purpose of <cite doc="City of American Canyon, Cal., Code" path="19.41">this chapter</cite> is to<s>:</s></text>
+          <text codify:value="">Ensure excellence in site planning and architectural design, consistent with the general plan, and applicable local, regional, and state development policies, and municipal code standards.</text>
+          <text>(Ord. 2001-02 § 1, 2001.)</text>
+        </section>
+        <codify:replace path="19.41.010" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.010">
+          <section>
+            <num>19.41.010</num>
+            <heading>Purpose</heading>
+            <text>The purpose of <cite doc="City of American Canyon, Cal., Code" path="19.41">this chapter</cite> is to ensure excellence in site planning and architectural design, consistent with the general plan, and applicable local, regional, and state development policies, and municipal code standards.</text>
+          </section>
+        </codify:replace>
+        <section>
+          <codify:replace path="19.41.020" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.020"/>
+          <num>19.41.020</num>
+          <heading>Applicability</heading>
+          <text>Design permit approval by the community development director, planning commission, or city council is required for the following:</text>
+          <para>
+            <num>(A)</num>
+            <text>New structures, except single-family detached dwellings and their attendant accessory structures constructed on a parcel of land. However, when a builder constructs three or more single-family dwellings in a single subdivision in one year, or on a single block in one year if the lots are not located within a subdivision, the dwelling units shall be subject to approval of a design permit.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Proposed outdoor land use(s).</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Alterations of land in commercial or industrial districts, and/or of sites of more than one acre in residential districts that have no prior documented approvals.</text>
+            <text codify:value="">(Ord. 2001-02 § 1, 2001; Ord. 2009-10 § 3, 2009.)</text>
+          </para>
+        </section>
+        <section>
+          <codify:replace path="19.41.030" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.030"/>
+          <num>19.41.030</num>
+          <heading>Design permit approval</heading>
+          <text>Except as provided in this chapter, no building or structure may be erected, and no proposed outdoor land use may permitted until a design permit application has been approved by the community development director, planning commission, or city council as required below. Such review and approval may take place concurrently with the review of any other required approvals.</text>
+          <para>
+            <num>(A)</num>
+            <text>Community Development Department Director Approvals. The community development director may approve the following design permit applications. No public hearing shall be required unless the design permit is being processed concurrently with other applications for which a hearing is required. In this case, the design permit shall be considered at the same public hearing.</text>
+            <para>
+              <num>(1)</num>
+              <text>Two-family dwellings and appurtenant accessory structures.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Multifamily projects containing fewer than five units.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Commercial structures containing less than five thousand square feet total, industrial structures containing less than twenty thousand square feet total.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Proposed outdoor land use(s).</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Planning Commission Approvals. The planning commission may approve the following design permit applications following a public hearing pursuant to the procedures set forth in <cite doc="City of American Canyon, Cal., Code" path="19.40">Chapter 19.40</cite>:</text>
+            <para>
+              <num>(1)</num>
+              <text>Multifamily dwelling projects containing five or more units.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The construction in one year by a single builder of three or more single-family dwellings in a single subdivision, or on a single block if the lots are not located within a subdivision, except such construction in the PC zone district.</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Commercial structures containing five thousand total square feet or more and industrial structures containing twenty thousand square feet or more.</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Sign programs requiring commission approval, pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.23">Chapter 19.23</cite>.</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Small-cell antenna facilities that do not comply with standards described in <cite doc="City of American Canyon, Cal., Code" path="19.53">Chapter 19.53</cite>.</text>
+            </para>
+            <para>
+              <num>(6)</num>
+              <text>Design permit applications referred to the commission by the director because of unique circumstances, potential public controversy, or a need for policy direction.</text>
+            </para>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>City Council Approvals. The City Council may approve a design permit following a recommendation by the Planning Commission when the California Environmental Quality Act (CEQA) environmental review requires a statement of overriding considerations pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.01.060|(C)">Section 19.01.060(C)</cite>.</text>
+            <text codify:value="">(Ord. 2001-02 § 1, 2001; Ord. 2009-10 § 3, 2009; Ord. 2018-05 § 7, 2018.)</text>
+          </para>
+        </section>
+        <section>
+          <codify:replace path="19.41.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.040"/>
+          <num>19.41.040</num>
+          <heading>Scope of design permit review</heading>
+          <text>The following areas of design shall be considered in reviewing design permits:</text>
+          <para>
+            <num>(A)</num>
+            <text>Site Planning.</text>
+            <para>
+              <num>(1)</num>
+              <text>Setbacks, site coverage, building heights, and outdoor use areas,</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Parking, and vehicular and pedestrian circulation,</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Preservation of natural site amenities,</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Required landscaping, outdoor lighting, and outdoor furniture,</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Usability of required public and private open spaces.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Structural Design.</text>
+            <para>
+              <num>(1)</num>
+              <text>Compliance with required scale, mass, bulk, and proportions,</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>Compliance with required building materials and detailing for all structures,</text>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text>Screening of utility, mechanical facilities, and outdoor storage,</text>
+            </para>
+            <para>
+              <num>(4)</num>
+              <text>Compliance with required fence and wall design,</text>
+            </para>
+            <para>
+              <num>(5)</num>
+              <text>Compliance with required architectural elements that contribute to visual interest and variety, including variation to wall planes, multiple roof lines and defined entries.</text>
+            </para>
+            <text codify:value="">(Ord. 2001-02 § 1, 2001.)</text>
+          </para>
+        </section>
+        <section>
+          <codify:replace path="19.41.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.050"/>
+          <num>19.41.050</num>
+          <heading>Required findings</heading>
+          <text>Approval of a design permit application may be granted by the appropriate decision-making authority only if all the following findings are made:</text>
+          <para>
+            <num>(A)</num>
+            <text>The project complies with all applicable provisions of this title and any applicable approvals granted for the project by any decision-making authority.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The project and its design complies with any applicable design guidelines.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The project and its design complies with all applicable general plan policies, and applicable local, regional, and state development policies, and municipal code standards.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The project complies with applicable policies of the Napa County Airport land use compatibility plan.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The proposed design provides for adequate and safe on-site vehicular and pedestrian circulation.</text>
+          </para>
+          <text codify:value="">(Ord. 2001-02 § 1, 2001; Ord. 2010-03 § 3, 2010.)</text>
+        </section>
+        <section>
+          <codify:replace path="19.41.060" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.41.060"/>
+          <num>19.41.060</num>
+          <heading>Expiration of approval</heading>
+          <para>
+            <num>(A)</num>
+            <text>If the project for which a design permit has been approved pursuant to this chapter has not been inaugurated within two years of the granting of the design permit, the approval shall become null and void and of no effect. This provision shall not apply to applications approved in conjunction with another discretionary permit. In such cases, the expiration period shall coincide with that of the associated period.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>An extension of time may be granted by the community development director upon the written request by a responsible party before the expiration of the two-year period, provided that:</text>
+            <para>
+              <num>(1)</num>
+              <text>There have been no changes in the approved plans; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>There has been no change of circumstances which would prevent any of the required findings of approval from being made.</text>
+            </para>
+          </para>
+          <text codify:value="">(Ord. 2001-02 § 1, 2001.)</text>
+        </section>
+      </container>
+    </include>
+  </section>
+  <section>
+    <num>2</num>
+    <text>CALIFORNIA ENVIRONMENTAL QUALITY ACT The proposed policy amendments are not subject to the California Environmental Quality Act ("CEQA") pursuant to Section 15060(c)(2) because the activity will not result in a direct or reasonably foreseeable indirect physical change in the environment; and Section 15060(c)(3) because the activity is not a project as defined in Section 15378 of the CEQA Guidelines, California Code of Regulations, Title 14, Chapter 3 because it has no potential for resulting in physical change to the environment, directly or indirectly.  In addition, the policy amendments are not a project under CEQA Regulation Section 15061(b)(3) because it has no potential for causing a significant effect on the environment.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Effective Date.  This ordinance shall become effective effect 30 days after its final passage pursuant to <cite doc="Cal. Gov't Code" path="§36937">Government Code Section 36937</cite>.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Severability.  If any section, sentence, clause or phrase of this Ordinance is for any reason held to be invalid or unconstitutional by a decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this Ordinance.  The City Council hereby declares that it would have passed this Ordinance and adopted this Ordinance and each section, sentence, clause or phrase thereof, irrespective of the fact that one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <text>Custodian of Records. The documents and materials that constitute the record of proceedings on which this Ordinance is based are located at the City Clerk's office located at 4831 Broadway, Suite 201, American Canyon, CA 94503.  The custodian of these records is the City Clerk.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 21<sup>st</sup> day of May, 2024 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Council Members Joseph, Wahington, Vice Mayor Oro, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Council Member Aboudamous</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 4<sup>th</sup> day of June, 2024 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Council Members Joseph, Wahington, Vice Mayor Oro, and Mayor Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Council Member Aboudamous</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

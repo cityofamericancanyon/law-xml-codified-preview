@@ -16,10 +16,10 @@
     <history-start>2023-06-01</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofamericancanyon/law-xml" commit="52a59d7574847a30002b31af6f001e861e7c549b"/>
+        <repository name="cityofamericancanyon/law-xml" commit="c9eee1be2a504bb97faf8b96d36b83f1927b387f"/>
       </repositories>
-      <platform version="2.13.9" reproducible="false"/>
-      <build-date>2024-07-26</build-date>
+      <platform version="2.14.0" reproducible="false"/>
+      <build-date>2024-09-14</build-date>
       <codified-date>2024-07-04</codified-date>
     </build>
   </meta>

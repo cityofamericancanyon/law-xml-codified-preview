@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2024-07" codify:doc="City of American Canyon, Cal., Code">
+  <num>2024-07</num>
+  <heading>AN ORDINANCE OF THE CITY OF AMERICAN CANYON CITY COUNCIL AMENDING TITLES 13 AND 14 OF THE CITY OF AMERICAN CANYON MUNICIPAL CODE, TO AUTHORIZE THE CITY COUNCIL TO AMEND THE TIMING FOR PAYMENT OF DEVELOPMENT OR MITIGATION IMPACT FEES FOR SEWER AND WATER FEES</heading>
+  <meta>
+    <effective>2024-08-06</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-07.pdf">Ord. No. 2024-07</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2024-07</citation>
+    </citations>
+    <history>
+      <introduced>2024-07-16</introduced>
+      <adopted>2024-08-06</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of American Canyon ("City") may exact development or mitigation impact fees as a condition of granting discretionary land use and development permits and approvals and pursuant to its police power under <cite doc="Cal. Const." path="XI-7" proof="needed">California Constitution Article XI, Section 7</cite>, subject to the limitations of the Mitigation Fee Act, <cite doc="Cal. Gov't Code" path="§66000">Government Code Section 66000</cite> et seq. (the "Mitigation Fee Act"); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City has discretion as to when the City collects development or mitigation impact fees subject to the limitations of the Mitigation Fee Act; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text><cite doc="Cal. Gov't Code" path="§66007|(a)">Government Code Section 66007(a)</cite>, a provision of the Mitigation Fee Act, expressly provides that the City may collect development impact fees such as "water capacity fees" and "wastewater capacity fees" on the date of issuance of a certificate of occupancy; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City currently collects water capacity fees and wastewater capacity fees prior to the issuance of building permits for new constructions and prior to the approval of final maps for subdivisions; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council wishes to have discretion in the timing of collecting water capacity fees and wastewater capacity fees to further its mission of growing the local economy; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Ordinance is exempt from environmental review under CEQA.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE</conjunction>
+      <text>THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of American Canyon, Cal., Code" path="13">Title 13</cite>, <cite doc="City of American Canyon, Cal., Code" path="13.06">Chapter 13.06</cite> of the Municipal Code is hereby amended as follows (bold, underline):</text>
+    <text>
+      <cite doc="City of American Canyon, Cal., Code" path="13.06.090|(A)">13.06.090 (A)</cite>
+    </text>
+    <text>At the time of submission of an application for a building permit for connection to the city water system, an applicant shall be required to pay a water capacity fee, in proportion to the new connection's impact on the water system. <strong><u>The water capacity fees set forth in this chapter shall be collected from new construction prior to issuance of a building permit, and for subdivisions prior to approval of a final map, unless other provisions are adopted as a part of an approved development agreement, or the City Council authorizes an alternative to the timing of such fees by resolution.</u></strong></text>
+  </section>
+  <codify:replace path="13.06.090|(A)" codified:doc="City of American Canyon, Cal., Code" codified:path="|13.06.090|(A)">
+    <para>
+      <num>(A)</num>
+      <text>At the time of submission of an application for a building permit for connection to the city water system, an applicant shall be required to pay a water capacity fee, in proportion to the new connection's impact on the water system. The water capacity fees set forth in this chapter shall be collected from new construction prior to issuance of a building permit, and for subdivisions prior to approval of a final map, unless other provisions are adopted as a part of an approved development agreement, or the City Council authorizes an alternative to the timing of such fees by resolution.</text>
+    </para>
+  </codify:replace>
+  <section>
+    <num>2</num>
+    <text><cite doc="City of American Canyon, Cal., Code" path="14">Title 14</cite>, <cite doc="City of American Canyon, Cal., Code" path="14.06">Chapter 14.06</cite> of the Municipal Code is hereby amended as replacing existing Section <cite doc="City of American Canyon, Cal., Code" path="14.06.020|(A)">14.06.020 (A)</cite> as follows:</text>
+    <text>
+      <cite doc="City of American Canyon, Cal., Code" path="14.06.020|(A)">14.06.020 (A)</cite>
+    </text>
+    <text>At the time of submission of application for building permit for connection to the city wastewater collection system, an applicant shall pay a wastewater capacity fee in proportion to use of the capacity of the wastewater system<strong><u>. The wastewater capacity fees set forth in this chapter shall be collected from new construction prior to issuance of a building permit, and for subdivisions prior to approval of a final map, unless other provisions are adopted as a part of an approved development agreement, or the City Council authorizes an alternative to the timing of such fees by resolution.</u></strong></text>
+  </section>
+  <codify:replace path="14.06.020|(A)" codified:doc="City of American Canyon, Cal., Code" codified:path="|14.06.020|(A)">
+    <para>
+      <num>(A)</num>
+      <text>At the time of submission of application for building permit for connection to the city wastewater collection system, an applicant shall pay a wastewater capacity fee in proportion to use of the capacity of the wastewater system. The wastewater capacity fees set forth in this chapter shall be collected from new construction prior to issuance of a building permit, and for subdivisions prior to approval of a final map, unless other provisions are adopted as a part of an approved development agreement, or the City Council authorizes an alternative to the timing of such fees by resolution.</text>
+    </para>
+  </codify:replace>
+  <section>
+    <num>3</num>
+    <text>CEQA Exemption</text>
+    <text>The ordinance is not subject to the California Environmental Quality Act ("CEQA") pursuant to CEQA Regulation Section 15060(c)(2) because the activity will not result in a direct or reasonably foreseeable indirect physical change in the environment; and Section 15060(c)(3) because the activity is not a project as defined in Section 15378 of the CEQA Guidelines, California Code of Regulations, Title 14, Chapter 3 because it has no potential for resulting in physical change to the environment, directly or indirectly. In addition, the ordinance is not a project under CEQA Regulation Section 15061(b)(3) because it has no potential for causing a significant effect on the environment.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a Regular Meeting of the City Council of the City of American Canyon, State of California, held on the 16th day of July, 2024, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Joseph, Oro, Wahington, Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Aboudamous</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a Regular Meeting of the City Council of the City of American Canyon, State of California, held on the 6<sup>th</sup> day of August, 2024, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Joseph, Oro, Wahington, Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Aboudamous</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

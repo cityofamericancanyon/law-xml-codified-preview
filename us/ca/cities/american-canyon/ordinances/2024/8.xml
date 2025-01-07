@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2024-08" codify:doc="City of American Canyon, Cal., Code">
+  <num>2024-08</num>
+  <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON REPEALING AND REPLACING AMERICAN CANYON MUNICIPAL CODE CHAPTER 2.04.050 AND ESTABLISHING A CITY COUNCIL CODE OF CONDUCT AND GOVERNANCE PROTOCOL</heading>
+  <meta>
+    <effective>2024-11-19</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-08.pdf">Ord. No. 2024-08</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2024-08</citation>
+    </citations>
+    <history>
+      <introduced>2024-10-15</introduced>
+      <adopted>2024-11-19</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City Council Code of Conduct and Governance Protocol (Code and Protocol) was first established in 2007 and most recently updated in 2021; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Code and Protocol is designed to establish standards of behavior and operational procedures for council members, ensuring transparency, accountability, and ethical governance. Its primary purpose is to foster a professional and respectful environment, guiding council members in their interactions with each other, city staff, and the public; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Code and Protocol outlines expectations for ethical conduct, including integrity, impartiality, and adherence to legal and procedural norms; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Code and Protocol outlines meeting procedures, decision-making processes, and public engagement strategies, aiming to enhance the efficiency and effectiveness of municipal operations</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the Code and Protocol maintains the public trust and promotes a collaborative and responsible approach to local government.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE</conjunction>
+      <text>THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN AS FOLLOWS:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>All prior versions of the City Council Code of Conduct and Governance Protocols are hereby rescinded and replaced with that certain City Council Code of Conduct and Governance Protocols - including Appendices A - H - attached hereto as Exhibit A.</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>The City Council Code of Conduct and Governance Protocols may only be revised by ordinance, however any of the Appendices A – H may be revised by future City Council Minute Order or Resolution.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>The City Clerk, City Manager and City Attorney shall keep an updated copies of Council Code of Conduct and Governance Protocols - including Appendices A - H, and copies shall be distributed to new Council Members upon their election or appointment to City Council.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>All City Council Members shall acknowledge receipt of the Council Code of Conduct and Governance Protocols and agree to follow the Code of Conduct.</text>
+  </section>
+  <section>
+    <num>5</num>
+    <text>American Canyon Municipal Code Chapter <cite doc="City of American Canyon, Cal., Code" path="2.04.050">2.04.050</cite> shall be repealed and replaced by the following:</text>
+    <text>
+      <em><cite doc="City of American Canyon, Cal., Code" path="2.04.050">2.04.050</cite> Adoption of procedures.</em>
+    </text>
+    <text>
+      <em>The council shall follow the most current version of City Council Code of Conduct and Governance Protocols on file with the City Clerk to establish rules of procedure to govern the conduct of its meetings, any of its other functions and activities, and regulations pertaining thereto.</em>
+    </text>
+    <text>
+      <em>The City Council Code of Conduct and Governance Protocols may only be revised by ordinance, however any of the appendices created by 3</em>
+      <sup>
+        <em>rd</em>
+      </sup>
+      <em> parties may be updated with the latest information upon approval of a City Council Minute Order.</em>
+    </text>
+  </section>
+  <codify:replace path="2.04.050" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.050">
+    <section>
+      <num>2.04.050</num>
+      <heading>Adoption of procedures.</heading>
+      <text>The council shall follow the most current version of City Council Code of Conduct and Governance Protocols on file with the City Clerk to establish rules of procedure to govern the conduct of its meetings, any of its other functions and activities, and regulations pertaining thereto.</text>
+      <text>The City Council Code of Conduct and Governance Protocols may only be revised by ordinance, however any of the appendices created by 3<sup>rd</sup> parties may be updated with the latest information upon approval of a City Council Minute Order.</text>
+    </section>
+  </codify:replace>
+  <section>
+    <num>6</num>
+    <text>The Ordinance shall become effective 30 days after its adoption.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 15th day of October, 2024 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Joseph, Wahington, Oro</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Aboudamous, Garcia</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 19<sup>th</sup> day of November, 2024 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Joseph, Wahington, Oro, Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Aboudamous</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Leon Garcia, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

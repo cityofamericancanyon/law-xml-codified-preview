@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2024-09">
+  <num>2024-09</num>
+  <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON TO MODIFYING THE COMPENSATION OF THE MEMBERS OF THE CITY COUNCIL</heading>
+  <meta>
+    <effective>2024-11-06</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2024-09.pdf" proof="needed">Ord. No. 2024-09</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2024-09</citation>
+    </citations>
+    <history>
+      <introduced>2024-12-03</introduced>
+      <adopted>2025-01-21</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>pursuant to <cite doc="Cal. Gov't Code" path="§36516|(a)|(2)|(a)">Government Code section 36516(a)(2)(a)</cite>, on October 17, 2023, the City Council adopted Ordinance No. 2023-10 amending City Municpal Code Chapter 2.04.060 to set City Council monthly compensation at $950.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>Ordinance No. 2023-10 ordained the effective date for the increase in pay as November 6, 2024, after the next election cycle in accordance with existing law.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>as of November 26, 2024, the November 5, 2024 Election results have not been certified.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>December 7, 2024, is the beginning of the pay period following the anticipated December 3, 2024 Election results certification.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>City Ordinance No. 2004-01, adopted on August 19, 2004 established compensation for City Council Members when agenda items included matters related to the former American Canyon County Water District ("Water District").</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>City Ordinance No. 2009-02, adopted on January 20, 2009 modified the compensation for City Council Members when agenda items included matters related to the Water District.</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>consistent with City Ordinance No. 2024-08, adopting the City's Code of Conduct and Governance Protocols, the City Council no longer wishes to receive additional compensation for Water District matters.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW THEREFORE THE CITY COUNCIL OR THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN AS FOLLOWS:</conjunction>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Chapter <cite doc="City of American Canyon, Cal., Code" path="2.04.060">2.04.060</cite> of the Municipal Code shall be amended to provide (amendments in bold):</text>
+    <para>
+      <num>3.</num>
+      <text><cite doc="City of American Canyon, Cal., Code" path="2.04.060|(A)|(4)">Section 2.04.060(A)(4)</cite> is amended to provide: Notwithstanding the effective date of the ordinance codified in this chapter, consistent with <cite doc="Cal. Gov't Code" path="§36516.5">Government Code Section 36516.5</cite>, the salaries of the members of the city council shall not be increased to nine hundred fifty dollars per month until <strong>December 7, 2024.</strong></text>
+    </para>
+    <codify:replace doc="City of American Canyon, Cal., Code" path="2.04.060|(A)|(4)" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.060|(A)|(4)">
+      <para>
+        <num>(4)</num>
+        <text>Notwithstanding the effective date of the ordinance codified in this chapter, consistent with <cite doc="Cal. Gov't Code" path="§36516.5">Government Code Section 36516.5</cite>, the salaries of the members of the city council shall not be increased to nine hundred fifty dollars per month until December 7, 2024.</text>
+      </para>
+    </codify:replace>
+  </section>
+  <section>
+    <num>2</num>
+    <text>All previous ordinances concerning additional compensation for City Council members when agenda items include matters related to the Water District are hereby rescinded.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>This Ordinance shall be effective as of November 6, 2024.</text>
+    <text>Consistent with the California Environmental Quality Act (<cite doc="Cal. Pub. Res. Code" path="§21000">Public Resources Code Section 21000</cite> et seq.) ("CEQA") and the Administrative Regulations Implementing CEQA (Title 14, Cal. Code Regs., Section 15000 et seq.) ("CEQA Guidelines") , the Board has determined that the adoption of this Resolution is not a "project" within the meaning of CEQA because pursuant to CEQA Guidelines Section 15378(b)(4) it involves only a government fiscal activity that does not involve any commitment to any specific project that may result in a potentially significant physical impact on the environment.  The City Clerk or designee may file a Notice of Exemption with the Napa County Clerk within three (3) days following adoption of this Resolution.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 3<sup>RD</sup> day of December 2024, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmember Mark Joseph, Councilmember Pierre Washington, Vice Mayor David Oro, Mayor Leon Garcia</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Councilmember Mariam Aboudamous</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 21<sup>st</sup> day of January 2025, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmember Brando Cruz, Councilmember Melissa Lamattina, Councilmember David Oro, Vice Mayor Mark Joseph, Mayor Pierre Washington</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Pierre Washington, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

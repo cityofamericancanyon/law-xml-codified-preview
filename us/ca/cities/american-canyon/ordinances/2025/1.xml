@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2025-01">
+  <num>2025-01</num>
+  <heading>AN ORDINANCE OF THE CITY OF AMERICAN CANYON TO REPEAL AND REPLACE CHAPTER 12.04.051 "SKATEPARK USE" TO THE AMERICAN CANYON MUNICIPAL CODE</heading>
+  <meta>
+    <effective>2025-04-17</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-01.pdf">Ord. No. 2025-01</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2025-01</citation>
+    </citations>
+    <history>
+      <introduced>2025-03-04</introduced>
+      <adopted>2025-03-18</adopted>
+    </history>
+  </meta>
+  <text>The Council of the City of American Canyon does hereby ordain as follows:</text>
+  <section>
+    <num>1</num>
+    <text><cite doc="City of American Canyon, Cal., Code" path="|12.04.051">Chapter 12.04.051</cite> "Skatepark Use" of the City of American Canyon's Municipal Code is hereby repealed and replaced with the following:</text>
+    <text>
+      <strong><cite doc="City of American Canyon, Cal., Code" path="|12.04.051">CHAPTER 12.04.051</cite> SKATEPARK USE</strong>
+    </text>
+    <para>
+      <num>(A)</num>
+      <text>For the purpose of this section, the term "skatepark" means the designated concrete recreational skating facility at Veterans Memorial Park that contains ramps, obstacles, and structures such as half-pipe, bowls, rails, ledges, and stairs, which allow participants to perform tricks and practiced skills.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>This section does not apply to any duly authorized City employees.</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Any person who violates this section is guilty of an infraction and upon conviction thereof shall be punished as provided by law.</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>The City of American Canyon reserves the right to eject anyone from the skatepark for any reason and reserves the right to close the facility without notice.</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>The skatepark is open daily from sunrise to sunset unless otherwise posted. Use of the skatepark before sunrise, after sunset, or outside of posted hours is prohibited.</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>Anyone under the age of 14 must be accompanied by a parent or guardian.</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>No camping or overnight or extended use.</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>No loitering or trespassing.</text>
+    </para>
+    <para>
+      <num>(I)</num>
+      <text>Disorderly conduct, excessive noise, rioting, or any actions that disturb the peace is strictly prohibited.</text>
+    </para>
+    <para>
+      <num>(J)</num>
+      <text>No person shall ride a skateboard or inline skate in the skatepark except while wearing a helmet, kneepads, and elbow pads.</text>
+    </para>
+    <para>
+      <num>(K)</num>
+      <text>No person shall use the skatepark for any purpose other than skateboarding. Inline skating, bicycles, scooters, and motorized equipment are prohibited unless expressly authorized by the City of American Canyon.</text>
+    </para>
+    <para>
+      <num>(L)</num>
+      <text>Unauthorized ramps, jumps, equipment or obstacles may not be brought to the skatepark or used at the skatepark.</text>
+    </para>
+    <para>
+      <num>(M)</num>
+      <text>Fighting, intimidation, hazing, abusive/foul/offensive language and behavior, and profanity are not permitted.</text>
+    </para>
+    <para>
+      <num>(N)</num>
+      <text>Keep food and drink off the skating surface and ramps.</text>
+    </para>
+    <para>
+      <num>(O)</num>
+      <text>The use of drugs, alcohol, or being under the influence of such substances is strictly prohibited at the skatepark. Alcoholic beverages are not permitted on the premises.</text>
+    </para>
+    <para>
+      <num>(P)</num>
+      <text>The use of tobacco products is strictly prohibited, including but not limited to cigarette smoking, electronic cigarettes or other vaping devices, nicotine delivery systems, smokeless tobacco, and any other paraphernalia.</text>
+    </para>
+    <para>
+      <num>(Q)</num>
+      <text>No glass, stones, or similar items in or around the skating area.</text>
+    </para>
+    <para>
+      <num>(R)</num>
+      <text>No fires or barbeques.</text>
+    </para>
+    <para>
+      <num>(S)</num>
+      <text>No amplified music without prior approval from the City of American Canyon.</text>
+    </para>
+    <para>
+      <num>(T)</num>
+      <text>Animals are not permitted within the skatepark.</text>
+    </para>
+    <para>
+      <num>(U)</num>
+      <text>Organized events, commercialized lessons, and contests require express written authorization from the City of American Canyon.</text>
+    </para>
+    <para>
+      <num>(V)</num>
+      <text>Vendors are prohibited unless approved by the City of American Canyon.</text>
+    </para>
+    <para>
+      <num>(W)</num>
+      <text>Dispose of trash into designated trash receptacles.</text>
+    </para>
+    <para>
+      <num>(X)</num>
+      <text>No graffiti or tagging.</text>
+    </para>
+    <para>
+      <num>(Y)</num>
+      <text>Activity is not permitted when the surface is wet or icy.</text>
+    </para>
+  </section>
+  <codify:replace doc="City of American Canyon, Cal., Code" path="|12.04.051" codified:doc="City of American Canyon, Cal., Code" codified:path="|12.04.051">
+    <section>
+      <num>12.04.051</num>
+      <heading>Skatepark Use</heading>
+      <para>
+        <num>(A)</num>
+        <text>For the purpose of this section, the term "skatepark" means the designated concrete recreational skating facility at Veterans Memorial Park that contains ramps, obstacles, and structures such as half-pipe, bowls, rails, ledges, and stairs, which allow participants to perform tricks and practiced skills.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>This section does not apply to any duly authorized City employees.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any person who violates this section is guilty of an infraction and upon conviction thereof shall be punished as provided by law.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The City of American Canyon reserves the right to eject anyone from the skatepark for any reason and reserves the right to close the facility without notice.</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The skatepark is open daily from sunrise to sunset unless otherwise posted. Use of the skatepark before sunrise, after sunset, or outside of posted hours is prohibited.</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Anyone under the age of 14 must be accompanied by a parent or guardian.</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>No camping or overnight or extended use.</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>No loitering or trespassing.</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>Disorderly conduct, excessive noise, rioting, or any actions that disturb the peace is strictly prohibited.</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>No person shall ride a skateboard or inline skate in the skatepark except while wearing a helmet, kneepads, and elbow pads.</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>No person shall use the skatepark for any purpose other than skateboarding. Inline skating, bicycles, scooters, and motorized equipment are prohibited unless expressly authorized by the City of American Canyon.</text>
+      </para>
+      <para>
+        <num>(L)</num>
+        <text>Unauthorized ramps, jumps, equipment or obstacles may not be brought to the skatepark or used at the skatepark.</text>
+      </para>
+      <para>
+        <num>(M)</num>
+        <text>Fighting, intimidation, hazing, abusive/foul/offensive language and behavior, and profanity are not permitted.</text>
+      </para>
+      <para>
+        <num>(N)</num>
+        <text>Keep food and drink off the skating surface and ramps.</text>
+      </para>
+      <para>
+        <num>(O)</num>
+        <text>The use of drugs, alcohol, or being under the influence of such substances is strictly prohibited at the skatepark. Alcoholic beverages are not permitted on the premises.</text>
+      </para>
+      <para>
+        <num>(P)</num>
+        <text>The use of tobacco products is strictly prohibited, including but not limited to cigarette smoking, electronic cigarettes or other vaping devices, nicotine delivery systems, smokeless tobacco, and any other paraphernalia.</text>
+      </para>
+      <para>
+        <num>(Q)</num>
+        <text>No glass, stones, or similar items in or around the skating area.</text>
+      </para>
+      <para>
+        <num>(R)</num>
+        <text>No fires or barbeques.</text>
+      </para>
+      <para>
+        <num>(S)</num>
+        <text>No amplified music without prior approval from the City of American Canyon.</text>
+      </para>
+      <para>
+        <num>(T)</num>
+        <text>Animals are not permitted within the skatepark.</text>
+      </para>
+      <para>
+        <num>(U)</num>
+        <text>Organized events, commercialized lessons, and contests require express written authorization from the City of American Canyon.</text>
+      </para>
+      <para>
+        <num>(V)</num>
+        <text>Vendors are prohibited unless approved by the City of American Canyon.</text>
+      </para>
+      <para>
+        <num>(W)</num>
+        <text>Dispose of trash into designated trash receptacles.</text>
+      </para>
+      <para>
+        <num>(X)</num>
+        <text>No graffiti or tagging.</text>
+      </para>
+      <para>
+        <num>(Y)</num>
+        <text>Activity is not permitted when the surface is wet or icy.</text>
+      </para>
+    </section>
+  </codify:replace>
+  <section>
+    <num>2</num>
+    <text>EFFECTIVE DATES. This ordinance shall take effect thirty (30) days after its adoption.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>SEVERABILITY. The ordinance shall be liberally constructed to achieve its purpose and preserve its validity. If any provisions or clause of this ordinance or application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of this ordinance which can be given effect without the valid provision or application. To this end, the provisions of this ordinance are declared to be servable and are intended to have independent validity.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing ordinance was introduced and read at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 4<sup>th</sup> day of March 2025, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmember Brando Cruz, Councilmember Melissa Lamattina, Councilmember David Oro, Vice Mayor Mark Joseph, Mayor Pierre Washington</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 18<sup>th</sup> day of March 2025, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmember Brando Cruz, Councilmember Melissa Lamattina, Councilmember David Oro, Vice Mayor Mark Joseph, Mayor Pierre Washington</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Pierre Washington, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

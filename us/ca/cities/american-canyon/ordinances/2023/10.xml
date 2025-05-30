@@ -45,63 +45,61 @@
     <recital>
       <conjunction>NOW THEREFORE,</conjunction>
       <text>THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON DOES HEREBY ORDAIN AS FOLLOWS:</text>
+      <text>Consistent with the findings of the State Legislature, the City Council makes the following findings:</text>
+      <para>
+        <num>(A)</num>
+        <text>The Legislature has not raised the base pay amounts for City Councilmembers since 1984; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Since 1984 inflation has increased more than 300%; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The City of American Canyon has not raised the pay for City Councilmembers since 2004; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>An increase in base pay amounts for City Councilmembers will enable City Councilmembers to balance their careers and personal obligations with the calling to serve the American Canyon community; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>An increase in base pay amounts for City Councilmembers will make it easier for members of marginalized communities to serve on the Council.</text>
+      </para>
+      <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060">Chapter 2.04.060</cite> of the Municipal Code shall be amended to provide (amendments in bold):</text>
+      <para>
+        <num>1.</num>
+        <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060|(A)|(1)">Section 2.04.060(A)(1)</cite> is amended to provide: <strong>Consistent with <cite doc="Cal. Gov't Code" path="§36516|(a)|(2)|(A)">Government Code Section 36516(a)(2)(A)</cite>, the city council establishes the compensation to be paid to each member as nine hundred fifty dollars per month.</strong></text>
+      </para>
+      <codify:replace path="|2.04.060|(A)|(1)" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.060|(A)|(1)">
+        <para>
+          <num>(1)</num>
+          <text>Consistent with <cite doc="Cal. Gov't Code" path="§36516|(a)|(2)|(A)">Government Code Section 36516(a)(2)(A)</cite>, the city council establishes the compensation to be paid to each member as nine hundred fifty dollars per month.</text>
+        </para>
+      </codify:replace>
+      <para>
+        <num>2.</num>
+        <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060|(A)|(3)">Section 2.04.060(A)(3)</cite> is amended to provide: <strong>The ordinance codified in this chapter shall become effective on January 1, 2024.</strong></text>
+      </para>
+      <codify:replace path="|2.04.060|(A)|(3)" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.060|(A)|(3)">
+        <para>
+          <num>(3)</num>
+          <text>The ordinance codified in this chapter shall become effective on January 1, 2024.</text>
+        </para>
+      </codify:replace>
+      <para>
+        <num>3.</num>
+        <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060|(A)|(4)">Section 2.04.060(A)(4)</cite> is amended to provide: <strong>Notwithstanding the effective date of the ordinance codified in this chapter, consistent with <cite doc="Cal. Gov't Code" path="§36516.5">Government Code Section 36516.5</cite>, the salaries of the members of the city council shall not be increased to nine hundred fifty dollars per month until November 6, 2024.</strong></text>
+      </para>
+      <codify:replace path="|2.04.060|(A)|(4)" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.060|(A)|(4)">
+        <para>
+          <num>(4)</num>
+          <text>Notwithstanding the effective date of the ordinance codified in this chapter, consistent with <cite doc="Cal. Gov't Code" path="§36516.5">Government Code Section 36516.5</cite>, the salaries of the members of the city council shall not be increased to nine hundred fifty dollars per month until November 6, 2024.</text>
+        </para>
+      </codify:replace>
+      <text>Consistent with the California Environmental Quality Act (Public Resources Code Section 21000 et seq.) ("CEQA") and the Administrative Regulations Implementing CEQA (Title 14, Cal. Code Regs., Section 15000 et seq.) ("CEQA Guidelines") , the Board has determined that the adoption of this Resolution is not a "project" within the meaning of CEQA because pursuant to CEQA Guidelines Section 15378(b)(4) it involves only a government fiscal activity that does not involve any commitment to any specific project that may result in a potentially significant physical impact on the environment. The City Clerk or designee may file a Notice of Exemption with the Napa County Clerk within three (3) days following adoption of this Resolution.</text>
     </recital>
   </recitals>
-  <container>
-    <text>Consistent with the findings of the State Legislature, the City Council makes the following findings:</text>
-    <para>
-      <num>(A)</num>
-      <text>The Legislature has not raised the base pay amounts for City Councilmembers since 1984; and</text>
-    </para>
-    <para>
-      <num>(B)</num>
-      <text>Since 1984 inflation has increased more than 300%; and</text>
-    </para>
-    <para>
-      <num>(C)</num>
-      <text>The City of American Canyon has not raised the pay for City Councilmembers since 2004; and</text>
-    </para>
-    <para>
-      <num>(D)</num>
-      <text>An increase in base pay amounts for City Councilmembers will enable City Councilmembers to balance their careers and personal obligations with the calling to serve the American Canyon community; and</text>
-    </para>
-    <para>
-      <num>(E)</num>
-      <text>An increase in base pay amounts for City Councilmembers will make it easier for members of marginalized communities to serve on the Council.</text>
-    </para>
-    <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060">Chapter 2.04.060</cite> of the Municipal Code shall be amended to provide (amendments in bold):</text>
-    <para>
-      <num>1.</num>
-      <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060|(A)|(1)">Section 2.04.060(A)(1)</cite> is amended to provide: <strong>Consistent with <cite doc="Cal. Gov't Code" path="§36516|(a)|(2)|(A)">Government Code Section 36516(a)(2)(A)</cite>, the city council establishes the compensation to be paid to each member as nine hundred fifty dollars per month.</strong></text>
-    </para>
-    <codify:replace path="|2.04.060|(A)|(1)" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.060|(A)|(1)">
-      <para>
-        <num>(1)</num>
-        <text>Consistent with <cite doc="Cal. Gov't Code" path="§36516|(a)|(2)|(A)">Government Code Section 36516(a)(2)(A)</cite>, the city council establishes the compensation to be paid to each member as nine hundred fifty dollars per month.</text>
-      </para>
-    </codify:replace>
-    <para>
-      <num>2.</num>
-      <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060|(A)|(3)">Section 2.04.060(A)(3)</cite> is amended to provide: <strong>The ordinance codified in this chapter shall become effective on January 1, 2024.</strong></text>
-    </para>
-    <codify:replace path="|2.04.060|(A)|(3)" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.060|(A)|(3)">
-      <para>
-        <num>(3)</num>
-        <text>The ordinance codified in this chapter shall become effective on January 1, 2024.</text>
-      </para>
-    </codify:replace>
-    <para>
-      <num>3.</num>
-      <text><cite doc="City of American Canyon, Cal., Code" path="|2.04.060|(A)|(4)">Section 2.04.060(A)(4)</cite> is amended to provide: <strong>Notwithstanding the effective date of the ordinance codified in this chapter, consistent with <cite doc="Cal. Gov't Code" path="§36516.5">Government Code Section 36516.5</cite>, the salaries of the members of the city council shall not be increased to nine hundred fifty dollars per month until November 6, 2024.</strong></text>
-    </para>
-    <codify:replace path="|2.04.060|(A)|(4)" codified:doc="City of American Canyon, Cal., Code" codified:path="|2.04.060|(A)|(4)">
-      <para>
-        <num>(4)</num>
-        <text>Notwithstanding the effective date of the ordinance codified in this chapter, consistent with <cite doc="Cal. Gov't Code" path="§36516.5">Government Code Section 36516.5</cite>, the salaries of the members of the city council shall not be increased to nine hundred fifty dollars per month until November 6, 2024.</text>
-      </para>
-    </codify:replace>
-    <text>Consistent with the California Environmental Quality Act (Public Resources Code Section 21000 et seq.) ("CEQA") and the Administrative Regulations Implementing CEQA (Title 14, Cal. Code Regs., Section 15000 et seq.) ("CEQA Guidelines") , the Board has determined that the adoption of this Resolution is not a "project" within the meaning of CEQA because pursuant to CEQA Guidelines Section 15378(b)(4) it involves only a government fiscal activity that does not involve any commitment to any specific project that may result in a potentially significant physical impact on the environment. The City Clerk or designee may file a Notice of Exemption with the Napa County Clerk within three (3) days following adoption of this Resolution.</text>
-  </container>
   <procedural-data>
     <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 3<sup>RD</sup> day of October 2023, by the following vote:</text>
     <text>

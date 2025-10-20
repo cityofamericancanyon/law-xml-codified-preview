@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2025-04" codify:doc="City of American Canyon, Cal., Code">
+  <num>2025-04</num>
+  <heading>AN ORDINANCE OF THE CITY COUNCIL OF THE CITY OF AMERICAN CANYON, CALIFORNIA, AMENDING CHAPTER 5.04.220 AND CHAPTER 5.04.410 OF TITLE 5 OF THE AMERICAN CANYON MUNICIPAL CODE, REGULATING EXEMPTION FOR CHARITABLE AND NONPROFIT ORGANIZATIONS AND BUSINESS LICENSE FEES – FLAT RATE</heading>
+  <meta>
+    <effective>2025-10-01</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2025-04.pdf" proof="needed">Ord. No. 2025-04</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2025-04</citation>
+    </citations>
+    <history>
+      <introduced>2025-09-02</introduced>
+      <adopted>2025-09-16</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the City of American Canyon's Business License Program ensures that all businesses comply with applicable State, County, and City regulations; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>it is unlawful for any person or entity to commence, transact, engage in, or carry-on any business in the city without first having obtained a valid license and paid the license fee; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the number of community events with multiple vendors have increased and managing these vendors has been challenging hindering timely license processing and compliance enforcement; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>by providing a category for Community Special Events, event promotors will be responsible for collecting vendor information, ensuring compliance with all relevant permits and regulations. This will streamline the process and facilitate faster license issuance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on September 2, 2025, the City Council of the City of American Canyon conducted a duly-noticed public hearing, at which time all those in attendance were give the opportunity to speak on the proposal.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE, BE IT ORDAINED:</conjunction>
+      <text/>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Chapter <cite doc="City of American Canyon, Cal., Code" path="5.04.410">5.04.410</cite> to Title 5 of the City of American Canyon Municipal Code is hereby amended with the following business license regulations:</text>
+    <include>
+      <section>
+        <codify:replace path="5.04.220" codified:doc="City of American Canyon, Cal., Code" codified:path="|5.04.220"/>
+        <num>5.04.220</num>
+        <heading>Exemption – Charitable and nonprofit organizations.</heading>
+        <text>The provisions of <cite doc="City of American Canyon, Cal., Code" path="5.04">this chapter</cite> shall not be deemed or construed to require the payment of a license fee to conduct, manage or carry on any business, occupation, or activity from any institution or organization which is conducted, managed or carried on wholly for the benefit of charitable purposes from which profit is not derived, either directly or indirectly, by any individual; nor shall any license fee be required for the conducting of any entertainment, concert, exhibition, community special event, or lecture on scientific, historical, literary, religious or moral subjects within the city whenever the receipts of any such entertainment, concert, exhibition or lecture are to be appropriated to any church or school or to any religious or benevolent purpose; nor shall any license fee be required for the conducting of any entertainment, dance, special community event, municipal organization or association whenever the receipts of any such entertainment, dance, community special event, concert exhibition or lecture are to be appropriated for the purpose and objects for which such organization or association was formed and from which profit is not derived either directly or indirectly, by any individual; provided, however, that nothing in <cite doc="City of American Canyon, Cal., Code" path="5.04.20">this section</cite> shall be deemed to exempt any such organization or association from complying with any of the provisions of this code requiring a permit from the city council or any commission or officer to conduct, manage, or carry on any profession, trade, calling or occupation. This exemption shall apply to promoters, service providers, and vendors who are employed or contracted by the charitable or nonprofit organizations hosting community special events, as previously described.</text>
+      </section>
+    </include>
+    <text>(Ord. 92-20 (part), 1992; Ord. 2012-01(part) § 1, 2012; prior code § 3.28.220)</text>
+    <include>
+      <section>
+        <num>5.04.410</num>
+        <heading>License fees—Flat rate.</heading>
+        <text>Every person transacting and carrying on the businesses enumerated in this section shall pay a license fee as follows:</text>
+        <text>
+          <strong>Advertising.</strong>
+        </text>
+        <text class="text-indent-2">(A) Billboards, signs not fixed on places of business: one hundred dollars per structure or sign.</text>
+        <text class="text-indent-2">(B) Distributing handbills: one hundred dollars annually, or fifty dollars monthly, or twenty-five dollars daily.</text>
+        <text class="text-indent-2">(C) Sound trucks: two hundred dollars annual fee per truck, or fifty dollars daily fee per truck.</text>
+        <text class="text-indent-2">(D) Klieg lights: one hundred fifty dollars per year per light, or at licensee's option, fifteen dollars per day per light.</text>
+        <text>
+          <strong>Auctioneers.</strong>
+        </text>
+        <text>Auctioneers not having a fixed place of business in the city, two hundred fifty dollars per year, or at the option of the licensee, twenty-five dollars per day.</text>
+        <text>
+          <strong>Card Rooms.</strong>
+        </text>
+        <text>One hundred fifty dollars per table per year.</text>
+        <text>
+          <strong>Carnivals, Fairs.</strong>
+        </text>
+        <text>Two hundred dollars for the first day and one hundred fifty dollars for each additional day, for the first ten or fewer concessions; plus thirty dollars for the first day and twenty dollars for each additional day for each concession in excess of ten. For the purpose of this section, "concession" means any amusement ride, booth, exhibit, stall, tent, trailer, or stand which charges any fee for the ride, service or product offered.</text>
+        <text>
+          <strong>Circuses.</strong>
+        </text>
+        <text>Two hundred dollars per day.</text>
+        <text>
+          <strong>Commercial Filming.</strong>
+        </text>
+        <text>On city streets or other city property, as follows:</text>
+        <text>
+          <table class="layout-table">
+            <thead>
+              <tr>
+                <th class="text-indent-2">Persons Employed at Location</th>
+                <th class="text-indent-2">Rate per Day</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="text-indent-2">1 — 3</td>
+                <td class="text-indent-2">$100.00</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">4 — 6</td>
+                <td class="text-indent-2">200.00</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">7 — 9</td>
+                <td class="text-indent-2">400.00</td>
+              </tr>
+              <tr>
+                <td class="text-indent-2">10 and over</td>
+                <td class="text-indent-2">600.00</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text>Traffic-control costs or any additional costs as required by the chief of police shall be paid entirely by the applicant.</text>
+        <text>
+          <strong>Community Special Events.</strong>
+        </text>
+        <text>Two hundred dollars per day per event. Unlimited vendors and concessions. For the purpose of this section, "concession" means any booth, stall, tent, trailer, mobile vendor, or stand which charges any fee for the service or product offered. Vendors include service providers such as musicians, stage crew, lighting, DJ's. Not applicable to Charitable and non-profit organizations.</text>
+        <text>
+          <strong>Contractors.</strong>
+        </text>
+        <text>Every person engaged in the business of contracting which requires a state contractors' license shall pay a business license as follows:</text>
+        <text class="text-indent-2">(A) General contractors, one hundred dollar annual fee;</text>
+        <text class="text-indent-2">(B) Subcontractors, fifty dollar annual fee;</text>
+        <text class="text-indent-2">(C) Business licenses for general contractors and subcontractors may be obtained semi-annually.</text>
+        <text>
+          <strong>Living Accommodations.</strong>
+        </text>
+        <text>Every person transacting or engaged in the rental of four or more dwelling units in any apartment house, roominghouse, houses for rent, or other living accommodations shall pay an annual fee of twelve dollars per unit, provided that hotels and motels shall be on the gross receipts basis, Class B.</text>
+        <text>
+          <strong>Mobilehome, Trailer and Recreational Vehicle Parks.</strong>
+        </text>
+        <text>Twelve dollars per space per year.</text>
+        <text>
+          <strong>Peddlers and Solicitors.</strong>
+        </text>
+        <text class="text-indent-2">(A) Principal, two hundred dollar annual fee.</text>
+        <text class="text-indent-2">(B) Each additional solicitor or peddler, ten dollars quarterly.</text>
+        <text>
+          <strong>Sales Representatives.</strong>
+        </text>
+        <text>Every person engaged in the business of soliciting of orders for sales or services by a nationally franchised business (such as AVON) wherein solicitation only occurs by previous appointment, shall pay a business license fee of twenty-five dollars per year.</text>
+        <text>
+          <strong>Taxicabs.</strong>
+        </text>
+        <text class="text-indent-2">(A) Taxicab operator's license, sixty dollar annual fee;</text>
+        <text class="text-indent-2">(B) Taxicab vehicles, per vehicle, twenty-five dollar annual fee.</text>
+      </section>
+    </include>
+    <text>(Ord. 92-20 (part), 1992; Ord. 93-06 § 1, 1993; Ord. 2012-01(part) § 1, 2012; prior code § 3.28.420)</text>
+  </section>
+  <section>
+    <num>2</num>
+    <text>The adoption of the proposed ordinance is not a project that has the potential for causing a significant effect on the environment and therefore is not subject to review under the California Environmental Quality Act (CEQA). In addition, the proposed ordinance amendment is exempt under the definition of the Project in Section 15378 (b)(3) in that it concerns general policy and procedure making.</text>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Severability. The City Council hereby declares that if any section, subsection, sentence, clause or phrase of this Ordinance is, for any reason, held to be invalid or unconstitutional such decision shall not affect the validity or constitutionality of the remaining portions of this ordinance. The City Council hereby declares that it would have passed this Ordinance, and each section, subsection, clause or phrase hereof, irrespective of the fact that any one or more sections, subsections, sentences, clauses or phrases may be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>4</num>
+    <text>The Mayor shall sign this Ordinance and the City Clerk shall attest thereto and shall within 15 days of its adoption cause a summary of it to be published in a newspaper and circulated in the City and thereupon and thereafter this ordinance shall take effect and be in force according to law.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 2<sup>nd</sup> day of September, 2025, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmember Brando Cruz, Councilmember Melissa Lamattina, Councilmember David Oro, Vice Mayor Mark Joseph, Mayor Pierre Washington</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Councilmember David Oro</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 16<sup>th</sup> day of September, 2025, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmember Brando Cruz, Councilmember Melissa Lamattina, Councilmember David Oro, Vice Mayor Mark Joseph, Mayor Pierre Washington</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Pierre Washington, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">William D. Ross, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

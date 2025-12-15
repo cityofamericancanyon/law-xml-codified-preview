@@ -210,12 +210,12 @@
   <container>
     <prefix>Chapter</prefix>
     <num>3.12</num>
-    <reason>Repealed</reason>
     <heading>PURCHASING SYSTEM</heading>
+    <reason>Repealed</reason>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.010</num>
       <heading>Adoption of purchasing system.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="History">Ord. 2007-05, 2007</annotation>
@@ -224,9 +224,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.020</num>
       <heading>Centralized purchasing division.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.020</annotation>
@@ -234,9 +234,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.030</num>
       <heading>Purchasing agent.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.030</annotation>
@@ -244,9 +244,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.040</num>
       <heading>Purchasing regulations.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.040</annotation>
@@ -254,9 +254,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.050</num>
       <heading>Exemptions from centralized purchasing.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.050</annotation>
@@ -264,9 +264,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.060</num>
       <heading>Estimates of requirements.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.060</annotation>
@@ -274,9 +274,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.070</num>
       <heading>Requisitions.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.070</annotation>
@@ -284,9 +284,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.080</num>
       <heading>Purchase orders.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.080</annotation>
@@ -294,9 +294,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.090</num>
       <heading>Encumbrance of funds.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.090</annotation>
@@ -304,9 +304,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.100</num>
       <heading>Inspection and testing.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.100</annotation>
@@ -314,9 +314,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.110</num>
       <heading>Bidding.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.110</annotation>
@@ -324,9 +324,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.120</num>
       <heading>Formal (sealed) bid procedures.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="History">Ord. 2007-05, 2007</annotation>
@@ -336,9 +336,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.130</num>
       <heading>Notice inviting formal bids.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.130</annotation>
@@ -346,9 +346,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.140</num>
       <heading>Published notice for formal bids.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.140</annotation>
@@ -356,9 +356,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.150</num>
       <heading>Approved vendors list.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.150</annotation>
@@ -366,9 +366,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.160</num>
       <heading>Bulletin board notice.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.160</annotation>
@@ -376,9 +376,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.170</num>
       <heading>Bidder's security.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.170</annotation>
@@ -386,9 +386,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.175</num>
       <heading>Other formal bond requirements.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.175</annotation>
@@ -396,9 +396,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.180</num>
       <heading>Formal bid opening procedure.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.180</annotation>
@@ -406,9 +406,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.190</num>
       <heading>Rejection of formal bids.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.190</annotation>
@@ -416,9 +416,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.200</num>
       <heading>Award of formal bid contracts.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.200</annotation>
@@ -426,9 +426,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.210</num>
       <heading>Tie formal bids.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.210</annotation>
@@ -436,9 +436,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.215</num>
       <heading>No formal bids.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.215</annotation>
@@ -446,9 +446,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.230</num>
       <heading>Open market or informal bid procedure.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="History">Ord. 2007-05, 2007</annotation>
@@ -457,9 +457,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.240</num>
       <heading>Minimum number of informal bids.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.240</annotation>
@@ -467,9 +467,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.250</num>
       <heading>Notice inviting informal bids.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.250</annotation>
@@ -477,9 +477,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.260</num>
       <heading>Record of informal bids.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.260</annotation>
@@ -487,9 +487,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.270</num>
       <heading>Exceptions to competitive bidding requirement.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="History">Ord. 2007-05, 2007</annotation>
@@ -498,9 +498,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.275</num>
       <heading>Local business preference policy.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="History">Ord. 2015-11 § 1, 2015</annotation>
@@ -508,9 +508,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.280</num>
       <heading>Regulation re selection of contract services.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.280</annotation>
@@ -518,9 +518,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.300</num>
       <heading>Surplus supplies and equipment.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.300</annotation>
@@ -528,9 +528,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.310</num>
       <heading>Surplus supplies—Trade-ins.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.310</annotation>
@@ -538,9 +538,9 @@
       </annotations>
     </section>
     <section placeholder="Repealed">
-      <reason>Repealed</reason>
       <num>3.12.320</num>
       <heading>Surplus supplies—Sale.</heading>
+      <reason>Repealed</reason>
       <text>Repealed.</text>
       <annotations>
         <annotation type="Prior Codifications">Previously codified as 3.12.320</annotation>

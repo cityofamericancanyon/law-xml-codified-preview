@@ -1134,279 +1134,127 @@
       <section>
         <num>13.14.065</num>
         <heading>Recycled water service required</heading>
-        <text>Following a public hearing, the city's nonresidential water customers whose properties may be served by recycled water shall connect their property to recycled water for those uses for which the use of potable domestic water would be deemed a waste or unreasonable use of water as specified in Division 7, Chapter 7, of the <cite doc="Cal. Water Code">California Water Code</cite> (Section 13550 et seq.). Recycled water customers shall pay for recycled water at the rate established by the city council.</text>
-        <text>
-          <strong>
-            <em>As of the effective date of the ordinance, or January 1, 2025, whichever comes later, recycled water customers shall pay the meter charges and quantity rates for recycled water service as set forth below:</em>
-          </strong>
-        </text>
+        <text>Following a public hearing, the city's recycled water customers whose properties may be served by recycled water shall connect their property to recycled water for those uses for which the use of potable domestic water would be deemed a waste or unreasonable use of water as specified in Division 7, Chapter 7, of the <cite doc="Cal. Water Code">California Water Code</cite> (Section 13550 et seq.).</text>
+        <text>As of the effective date of the ordinance, or January 1, 2025, whichever comes later, recycled water customers shall pay the meter charges and quantity rates for recycled water service as set forth below:</text>
         <text>
           <table>
             <thead>
               <tr>
-                <th colspan="6">
-                  <em>Water Meter Charges</em>
-                </th>
+                <th colspan="6">Water Meter Charges</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td proof="needed"/>
-                <th>
-                  <em>01/01/25</em>
-                </th>
-                <th>
-                  <em>01/01/26</em>
-                </th>
-                <th>
-                  <em>01/01/27</em>
-                </th>
-                <th>
-                  <em>01/01/28</em>
-                </th>
-                <th>
-                  <em>01/01/29</em>
-                </th>
+                <td/>
+                <td>01/01/25</td>
+                <td>01/01/26</td>
+                <td>01/01/27</td>
+                <td>01/01/28</td>
+                <td>01/01/29</td>
               </tr>
               <tr>
-                <th>
-                  <em>&lt; 1" meter</em>
-                </th>
-                <th>
-                  <em>$38.89</em>
-                </th>
-                <th>
-                  <em>$42.78</em>
-                </th>
-                <th>
-                  <em>$47.05</em>
-                </th>
-                <th>
-                  <em>$49.41</em>
-                </th>
-                <th>
-                  <em>$51.88</em>
-                </th>
+                <td>&lt; 1" meter</td>
+                <td>$38.89</td>
+                <td>$42.78</td>
+                <td>$47.05</td>
+                <td>$49.41</td>
+                <td>$51.88</td>
               </tr>
               <tr>
-                <th>
-                  <em>1" meter</em>
-                </th>
-                <th>
-                  <em>$64.81</em>
-                </th>
-                <th>
-                  <em>$71.29</em>
-                </th>
-                <th>
-                  <em>$78.42</em>
-                </th>
-                <th>
-                  <em>$82.34</em>
-                </th>
-                <th>
-                  <em>$86.46</em>
-                </th>
+                <td>1" meter</td>
+                <td>$64.81</td>
+                <td>$71.29</td>
+                <td>$78.42</td>
+                <td>$82.34</td>
+                <td>$86.46</td>
               </tr>
               <tr>
-                <th>
-                  <em>1 1/2" meter</em>
-                </th>
-                <th>
-                  <em>$129.62</em>
-                </th>
-                <th>
-                  <em>$142.58</em>
-                </th>
-                <th>
-                  <em>$156.84</em>
-                </th>
-                <th>
-                  <em>$164.69</em>
-                </th>
-                <th>
-                  <em>$172.92</em>
-                </th>
+                <td>1 1/2" meter</td>
+                <td>$129.62</td>
+                <td>$142.58</td>
+                <td>$156.84</td>
+                <td>$164.69</td>
+                <td>$172.92</td>
               </tr>
               <tr>
-                <th>
-                  <em>2" meter</em>
-                </th>
-                <th>
-                  <em>$207.40</em>
-                </th>
-                <th>
-                  <em>$228.14</em>
-                </th>
-                <th>
-                  <em>$250.95</em>
-                </th>
-                <th>
-                  <em>$263.50</em>
-                </th>
-                <th>
-                  <em>$276.67</em>
-                </th>
+                <td>2" meter</td>
+                <td>$207.40</td>
+                <td>$228.14</td>
+                <td>$250.95</td>
+                <td>$263.50</td>
+                <td>$276.67</td>
               </tr>
               <tr>
-                <th>
-                  <em>3" meter</em>
-                </th>
-                <th>
-                  <em>$414.79</em>
-                </th>
-                <th>
-                  <em>$456.27</em>
-                </th>
-                <th>
-                  <em>$501.90</em>
-                </th>
-                <th>
-                  <em>$526.99</em>
-                </th>
-                <th>
-                  <em>$553.34</em>
-                </th>
+                <td>3" meter</td>
+                <td>$414.79</td>
+                <td>$456.27</td>
+                <td>$501.90</td>
+                <td>$526.99</td>
+                <td>$553.34</td>
               </tr>
               <tr>
-                <th>
-                  <em>4" meter</em>
-                </th>
-                <th>
-                  <em>$648.11</em>
-                </th>
-                <th>
-                  <em>$712.92</em>
-                </th>
-                <th>
-                  <em>$784.22</em>
-                </th>
-                <th>
-                  <em>$823.43</em>
-                </th>
-                <th>
-                  <em>$864.60</em>
-                </th>
+                <td>4" meter</td>
+                <td>$648.11</td>
+                <td>$712.92</td>
+                <td>$784.22</td>
+                <td>$823.43</td>
+                <td>$864.60</td>
               </tr>
               <tr>
-                <th>
-                  <em>6" meter</em>
-                </th>
-                <th>
-                  <em>$1,296.23</em>
-                </th>
-                <th>
-                  <em>$1,425.85</em>
-                </th>
-                <th>
-                  <em>$1,568.43</em>
-                </th>
-                <th>
-                  <em>$1,646.85</em>
-                </th>
-                <th>
-                  <em>$1,729.20</em>
-                </th>
+                <td>6" meter</td>
+                <td>$1,296.23</td>
+                <td>$1,425.85</td>
+                <td>$1,568.43</td>
+                <td>$1,646.85</td>
+                <td>$1,729.20</td>
               </tr>
               <tr>
-                <th>
-                  <em>8" meter</em>
-                </th>
-                <th>
-                  <em>$2,073.96</em>
-                </th>
-                <th>
-                  <em>$2,281.36</em>
-                </th>
-                <th>
-                  <em>$2,509.49</em>
-                </th>
-                <th>
-                  <em>$2,634.97</em>
-                </th>
-                <th>
-                  <em>$2,766.71</em>
-                </th>
-              </tr>
-              <tr>
-                <td proof="needed"/>
-                <td proof="needed"/>
-                <td proof="needed"/>
-                <td proof="needed"/>
-                <td proof="needed"/>
-                <td proof="needed"/>
-              </tr>
-              <tr>
-                <th colspan="6">
-                  <em>Quantity Rates ($/hcf)</em>
-                </th>
-              </tr>
-              <tr>
-                <td proof="needed"/>
-                <th>
-                  <em>01/01/25</em>
-                </th>
-                <th>
-                  <em>01/01/26</em>
-                </th>
-                <th>
-                  <em>01/01/27</em>
-                </th>
-                <th>
-                  <em>01/01/28</em>
-                </th>
-                <th>
-                  <em>01/01/29</em>
-                </th>
-              </tr>
-              <tr>
-                <th>
-                  <em>Delivered</em>
-                </th>
-                <th>
-                  <em>$3.14</em>
-                </th>
-                <th>
-                  <em>$3.46</em>
-                </th>
-                <th>
-                  <em>$3.80</em>
-                </th>
-                <th>
-                  <em>$3.99</em>
-                </th>
-                <th>
-                  <em>$4.19</em>
-                </th>
-              </tr>
-              <tr>
-                <th>
-                  <em>Self-Haul</em>
-                </th>
-                <th>
-                  <em>$1.88</em>
-                </th>
-                <th>
-                  <em>$2.07</em>
-                </th>
-                <th>
-                  <em>$2.28</em>
-                </th>
-                <th>
-                  <em>$2.39</em>
-                </th>
-                <th>
-                  <em>$2.51</em>
-                </th>
+                <td>8" meter</td>
+                <td>$2,073.96</td>
+                <td>$2,281.36</td>
+                <td>$2,509.49</td>
+                <td>$2,634.97</td>
+                <td>$2,766.71</td>
               </tr>
             </tbody>
           </table>
         </text>
         <text>
-          <strong>
-            <em>Effective January 1, 2030, and on every January 1st thereafter, wastewater service charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</em>
-          </strong>
+          <table>
+            <thead>
+              <tr>
+                <th colspan="6">Quantity Rates ($/hcf)</th>
+              </tr>
+              <tr>
+                <td/>
+                <th>01/01/25</th>
+                <th>01/01/26</th>
+                <th>01/01/27</th>
+                <th>01/01/28</th>
+                <th>01/01/29</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Delivered</td>
+                <td>$3.14</td>
+                <td>$3.46</td>
+                <td>$3.80</td>
+                <td>$3.99</td>
+                <td>$4.19</td>
+              </tr>
+              <tr>
+                <td>Self-Haul</td>
+                <td>$1.88</td>
+                <td>$2.07</td>
+                <td>$2.28</td>
+                <td>$2.39</td>
+                <td>$2.51</td>
+              </tr>
+            </tbody>
+          </table>
         </text>
+        <text>Effective January 1, 2030, and on every January 1st thereafter, wastewater service charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</text>
       </section>
     </codify:replace>
     <text>

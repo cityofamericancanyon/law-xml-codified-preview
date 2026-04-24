@@ -47,15 +47,16 @@
         <codify:replace path="5.04.220" codified:doc="City of American Canyon, Cal., Code" codified:path="|5.04.220"/>
         <num>5.04.220</num>
         <heading>Exemption – Charitable and nonprofit organizations.</heading>
-        <text>The provisions of <cite doc="City of American Canyon, Cal., Code" path="5.04">this chapter</cite> shall not be deemed or construed to require the payment of a license fee to conduct, manage or carry on any business, occupation, or activity from any institution or organization which is conducted, managed or carried on wholly for the benefit of charitable purposes from which profit is not derived, either directly or indirectly, by any individual; nor shall any license fee be required for the conducting of any entertainment, concert, exhibition, community special event, or lecture on scientific, historical, literary, religious or moral subjects within the city whenever the receipts of any such entertainment, concert, exhibition or lecture are to be appropriated to any church or school or to any religious or benevolent purpose; nor shall any license fee be required for the conducting of any entertainment, dance, special community event, municipal organization or association whenever the receipts of any such entertainment, dance, community special event, concert exhibition or lecture are to be appropriated for the purpose and objects for which such organization or association was formed and from which profit is not derived either directly or indirectly, by any individual; provided, however, that nothing in <cite doc="City of American Canyon, Cal., Code" path="5.04.20">this section</cite> shall be deemed to exempt any such organization or association from complying with any of the provisions of this code requiring a permit from the city council or any commission or officer to conduct, manage, or carry on any profession, trade, calling or occupation. This exemption shall apply to promoters, service providers, and vendors who are employed or contracted by the charitable or nonprofit organizations hosting community special events, as previously described.</text>
+        <text>The provisions of <cite doc="City of American Canyon, Cal., Code" path="5.04">this chapter</cite> shall not be deemed or construed to require the payment of a license fee to conduct, manage or carry on any business, occupation, or activity from any institution or organization which is conducted, managed or carried on wholly for the benefit of charitable purposes from which profit is not derived, either directly or indirectly, by any individual; nor shall any license fee be required for the conducting of any entertainment, concert, exhibition, community special event, or lecture on scientific, historical, literary, religious or moral subjects within the city whenever the receipts of any such entertainment, concert, exhibition or lecture are to be appropriated to any church or school or to any religious or benevolent purpose; nor shall any license fee be required for the conducting of any entertainment, dance, special community event, municipal organization or association whenever the receipts of any such entertainment, dance, community special event, concert exhibition or lecture are to be appropriated for the purpose and objects for which such organization or association was formed and from which profit is not derived either directly or indirectly, by any individual; provided, however, that nothing in <cite doc="City of American Canyon, Cal., Code" path="5.04.220">this section</cite> shall be deemed to exempt any such organization or association from complying with any of the provisions of this code requiring a permit from the city council or any commission or officer to conduct, manage, or carry on any profession, trade, calling or occupation. This exemption shall apply to promoters, service providers, and vendors who are employed or contracted by the charitable or nonprofit organizations hosting community special events, as previously described.</text>
       </section>
     </include>
     <text>(Ord. 92-20 (part), 1992; Ord. 2012-01(part) § 1, 2012; prior code § 3.28.220)</text>
     <include>
       <section>
+        <codify:replace path="5.04.410" codified:doc="City of American Canyon, Cal., Code" codified:path="|5.04.410"/>
         <num>5.04.410</num>
         <heading>License fees—Flat rate.</heading>
-        <text>Every person transacting and carrying on the businesses enumerated in this section shall pay a license fee as follows:</text>
+        <text>Every person transacting and carrying on the businesses enumerated in <cite doc="City of American Canyon, Cal., Code" path="5.04.410">this section</cite> shall pay a license fee as follows:</text>
         <text>
           <strong>Advertising.</strong>
         </text>
@@ -74,7 +75,7 @@
         <text>
           <strong>Carnivals, Fairs.</strong>
         </text>
-        <text>Two hundred dollars for the first day and one hundred fifty dollars for each additional day, for the first ten or fewer concessions; plus thirty dollars for the first day and twenty dollars for each additional day for each concession in excess of ten. For the purpose of this section, "concession" means any amusement ride, booth, exhibit, stall, tent, trailer, or stand which charges any fee for the ride, service or product offered.</text>
+        <text>Two hundred dollars for the first day and one hundred fifty dollars for each additional day, for the first ten or fewer concessions; plus thirty dollars for the first day and twenty dollars for each additional day for each concession in excess of ten. For the purpose of <cite doc="City of American Canyon, Cal., Code" path="5.04.410">this section</cite>, "concession" means any amusement ride, booth, exhibit, stall, tent, trailer, or stand which charges any fee for the ride, service or product offered.</text>
         <text>
           <strong>Circuses.</strong>
         </text>
@@ -115,7 +116,7 @@
         <text>
           <strong>Community Special Events.</strong>
         </text>
-        <text>Two hundred dollars per day per event. Unlimited vendors and concessions. For the purpose of this section, "concession" means any booth, stall, tent, trailer, mobile vendor, or stand which charges any fee for the service or product offered. Vendors include service providers such as musicians, stage crew, lighting, DJ's. Not applicable to Charitable and non-profit organizations.</text>
+        <text>Two hundred dollars per day per event. Unlimited vendors and concessions. For the purpose of <cite doc="City of American Canyon, Cal., Code" path="5.04.410">this section</cite>, "concession" means any booth, stall, tent, trailer, mobile vendor, or stand which charges any fee for the service or product offered. Vendors include service providers such as musicians, stage crew, lighting, DJ's. Not applicable to Charitable and non-profit organizations.</text>
         <text>
           <strong>Contractors.</strong>
         </text>

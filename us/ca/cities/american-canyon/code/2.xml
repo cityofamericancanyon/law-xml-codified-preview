@@ -114,7 +114,7 @@
       <annotations>
         <annotation type="History">Ord. 98-06 § 2, 1998</annotation>
         <annotation type="Prior Codifications">Previously codified as 2.04.040</annotation>
-        <annotation app="2024-11-19" doc="City of American Canyon, Cal., Ord. No. 2024-08" eff="2024-11-19" path="" type="History"/>
+        <annotation app="2024-11-19" doc="City of American Canyon, Cal., Ord. No. 2024-08" eff="2024-11-19" path="" target-path="2.04.050" type="History"/>
       </annotations>
     </section>
     <section>
@@ -148,8 +148,10 @@
         <annotation type="History">Ord. 2004-13, 2004</annotation>
         <annotation type="History">Ord. 98-06 § 2, 1998</annotation>
         <annotation type="Prior Codifications">Previously codified as 2.04.050</annotation>
-        <annotation app="2024-01-01" doc="City of American Canyon, Cal., Ord. No. 2023-10" eff="2024-01-01" path="" type="History"/>
-        <annotation app="2024-11-06" doc="City of American Canyon, Cal., Ord. No. 2024-09" eff="2024-11-06" path="§1" type="History"/>
+        <annotation app="2024-01-01" doc="City of American Canyon, Cal., Ord. No. 2023-10" eff="2024-01-01" path="" target-path="|2.04.060|(A)|(1)" type="History"/>
+        <annotation app="2024-01-01" doc="City of American Canyon, Cal., Ord. No. 2023-10" eff="2024-01-01" path="" target-path="|2.04.060|(A)|(3)" type="History"/>
+        <annotation app="2024-01-01" doc="City of American Canyon, Cal., Ord. No. 2023-10" eff="2024-01-01" path="" target-path="|2.04.060|(A)|(4)" type="History"/>
+        <annotation app="2024-11-06" doc="City of American Canyon, Cal., Ord. No. 2024-09" eff="2024-11-06" path="§1" target-path="2.04.060|(A)|(4)" type="History"/>
       </annotations>
     </section>
     <section>

@@ -327,8 +327,8 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 2007-13 § 3, 2007</annotation>
-        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§1" type="History"/>
-        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§2" type="History"/>
+        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§1" target-path="|13.06.030|(B)" type="History"/>
+        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§2" target-path="13.06.030|(C)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -497,7 +497,7 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 2007-13 § 3, 2007</annotation>
-        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§3" type="History"/>
+        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§3" target-path="|13.06.040|(B)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -606,7 +606,7 @@
       <annotations>
         <annotation type="History">Ord. 2008-01 § 1, 2008</annotation>
         <annotation type="History">Ord. 2007-09 § 1, 2007</annotation>
-        <annotation app="2024-08-06" doc="City of American Canyon, Cal., Ord. No. 2024-07" eff="2024-08-06" path="" type="History"/>
+        <annotation app="2024-08-06" doc="City of American Canyon, Cal., Ord. No. 2024-07" eff="2024-08-06" path="" target-path="13.06.090|(A)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1149,7 +1149,7 @@
       <text>Effective January 1, 2030, and on every January 1st thereafter, wastewater service charges will be adjusted by the percent change in the Bay Area Consumer Price Index over the previous calendar year, or by three percent, whichever is less.</text>
       <annotations>
         <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
-        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§5" type="History"/>
+        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§5" target-path="13.14.065" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1444,7 +1444,7 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 2022-06 § 1, 2022</annotation>
-        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§4" type="History"/>
+        <annotation app="2024-05-16" doc="City of American Canyon, Cal., Ord. No. 2024-05" eff="2024-05-16" path="§4" target-path="13.14.100" type="History"/>
       </annotations>
     </section>
     <section>

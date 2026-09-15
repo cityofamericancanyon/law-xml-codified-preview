@@ -497,7 +497,7 @@
         <annotation type="History">Ord. 2012-01 § 1, 2012</annotation>
         <annotation type="History">Ord. 92-20, 1992</annotation>
         <annotation type="Prior Codifications">Previously codified as 3.28.220</annotation>
-        <annotation app="2025-10-01" doc="City of American Canyon, Cal., Ord. No. 2025-04" eff="2025-10-01" path="§1" type="History"/>
+        <annotation app="2025-10-01" doc="City of American Canyon, Cal., Ord. No. 2025-04" eff="2025-10-01" path="§1" target-path="5.04.220" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1013,7 +1013,7 @@
         <annotation type="History">Ord. 93-06 § 1, 1993</annotation>
         <annotation type="History">Ord. 92-20, 1992</annotation>
         <annotation type="Prior Codifications">Previously codified as 3.28.410</annotation>
-        <annotation app="2025-10-01" doc="City of American Canyon, Cal., Ord. No. 2025-04" eff="2025-10-01" path="§1" type="History"/>
+        <annotation app="2025-10-01" doc="City of American Canyon, Cal., Ord. No. 2025-04" eff="2025-10-01" path="§1" target-path="5.04.410" type="History"/>
       </annotations>
     </section>
     <section>

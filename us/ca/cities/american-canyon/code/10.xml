@@ -2838,7 +2838,7 @@
       <annotations>
         <annotation type="History">Ord. 2017-02 § 1, 2017</annotation>
         <annotation type="History">Ord. 2016-10 § 1, 2016</annotation>
-        <annotation app="2023-06-01" doc="City of American Canyon, Cal., Ord. No. 2023-04" eff="2023-06-01" path="" type="History"/>
+        <annotation app="2023-06-01" doc="City of American Canyon, Cal., Ord. No. 2023-04" eff="2023-06-01" path="" target-path="|10.56.010" type="History"/>
       </annotations>
     </section>
   </container>

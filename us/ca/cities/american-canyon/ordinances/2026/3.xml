@@ -20,7 +20,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>ACMC Sections 19.05.090 and 19.05.100 currently exclude swine from the definitions of animal husbandry and livestock keeping; and</text>
+      <text>ACMC Sections <cite doc="City of American Canyon, Cal., Code" path="|19.05.090">19.05.090</cite> and <cite doc="City of American Canyon, Cal., Code" path="|19.05.100">19.05.100</cite> currently exclude swine from the definitions of animal husbandry and livestock keeping; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -40,7 +40,7 @@
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
-      <text>ACMC Chapter 19.31 establishes standards for animal keeping, including minimum lot sizes, setbacks, maintenance requirements, sanitation standards, nuisance prevention measures, and enforcement provisions, all of which would remain in effect; and</text>
+      <text>ACMC <cite doc="City of American Canyon, Cal., Code" path="|19.31">Chapter 19.31</cite> establishes standards for animal keeping, including minimum lot sizes, setbacks, maintenance requirements, sanitation standards, nuisance prevention measures, and enforcement provisions, all of which would remain in effect; and</text>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -88,7 +88,7 @@
         <heading>Accessory classifications.</heading>
         <text>Accessory uses are uses that are incidental to the principal permitted or conditionally-permitted use or structure on a site and are customarily found on the same lot.</text>
         <text>Accessory dwelling unit: a dwelling unit located in a commercial zoning district on the same site as a primary permitted or conditionally-permitted use.</text>
-        <text>Livestock keeping: The keeping of large animals for personal purposes, including equines, bovines, sheep, goats, and swine in accordance with the provisions of Chapter 19.31, Animal Keeping Regulations.</text>
+        <text>Livestock keeping: The keeping of large animals for personal purposes, including equines, bovines, sheep, goats, and swine in accordance with the provisions of <cite doc="City of American Canyon, Cal., Code" path="|19.31">Chapter 19.31</cite>, Animal Keeping Regulations.</text>
         <text>Cafeteria: incidental dining facilities provided for on-site employees and guests of a commercial or industrial use.</text>
         <text>Caretaker's quarters: a dwelling unit on the site of a commercial, industrial, public or semipublic use, occupied by a guard, caretaker, or operator of a facility.</text>
         <text>Day care home, large: the provision of care, protection and supervision, in the provider's own home, for seven to fourteen children, inclusive, including children under the age of ten years who reside at the home, on a less than twenty-four-hour basis.</text>
@@ -114,8 +114,7 @@
       </text>
       <para>
         <num>(2)</num>
-        <text>Livestock.</text>
-        <text>Large animals, including equines, bovines, sheep, goats, and swine, may be kept for personal purposes where livestock keeping is permitted as an accessory use in the underlying zoning district.</text>
+        <text><strong>Livestock</strong>. Large animals, including equines, bovines, sheep, goats, and swine, may be kept for personal purposes where livestock keeping is permitted as an accessory use in the underlying zoning district.</text>
       </para>
     </para>
     <codify:replace path="19.31.020|(B)|(2)" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.31.020|(B)|(2)">

@@ -1505,10 +1505,10 @@
     </section>
     <section>
       <num>16.14.080</num>
-      <heading>Irrigation efficiency.</heading>
-      <text>For the purpose of determining maximum applied water allowance, average irrigation efficiency is assumed to be 0.71. Irrigation systems shall be designed, maintained, and managed to meet or exceed an average landscape irrigation efficiency of 0.71.</text>
+      <text>All irrigation systems shall include an approved backflow prevention assembly. The assembly shall be installed and maintained in accordance with <cite path="13.08">Chapter 13.08</cite>,Backflow Prevention and Cross-Connection Control.</text>
       <annotations>
         <annotation type="History">Ord. 2015-05 § 2, 2015</annotation>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit D" target-path="16.14.080" type="History"/>
       </annotations>
     </section>
     <section>

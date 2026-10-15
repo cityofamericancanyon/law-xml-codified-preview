@@ -479,6 +479,14 @@
         <annotation type="Prior Codifications">Previously codified as 1.01.270</annotation>
       </annotations>
     </section>
+    <section>
+      <num>1.24.060</num>
+      <text>Any violation of <cite path="13.08">Chapter 13.08</cite> is unlawful and may be enforced as an infraction, misdemeanor, or by administrative citation in accordance with City enforcement procedures. Each day a violation continues shall constitute a separate and distinct offense.</text>
+      <text>The remedies provided herein are cumulative and not exclusive.</text>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit G" target-path="1.24" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>

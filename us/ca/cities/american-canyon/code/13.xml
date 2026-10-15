@@ -69,6 +69,16 @@
         <annotation type="History">Ord. 5 § 5, 1992</annotation>
       </annotations>
     </section>
+    <section>
+      <num>13.04.060</num>
+      <heading>Water Service Connection Requirements</heading>
+      <text>All new water service connections, and any modifications to existing water service connections that require a building permit, encroachment permit, or discretionary or ministerial development review approval, shall comply with <cite path="13.08">Chapter 13.08</cite>, Backflow Prevention and Cross-Connection Control.</text>
+      <text>Existing water service connections that are not subject to modification, redevelopment, or permit review may remain in their current condition. If future construction, redevelopment, change in use, or permit activity triggers City review, the water service shall be brought into compliance with <cite path="13.08">Chapter 13.08</cite> as a condition of approval.</text>
+      <text>All applicable program fees, including inspection fees, testing fees, and administrative fees associated with <cite path="13.08">Chapter 13.08</cite>, shall be assessed at the time of permit issuance or development review.</text>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit B" target-path="13.04" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -685,6 +695,402 @@
       </para>
       <annotations>
         <annotation type="History">Ord. 2007-09 § 1, 2007</annotation>
+      </annotations>
+    </section>
+    <section>
+      <num>13.06.140</num>
+      <heading>Annual Backflow Assembly Testing Administration Fee</heading>
+      <text>The City Council may establish by resolution an annual backflow assembly testing administration fee for each backflow prevention assembly subject to inspection, testing, or compliance under <cite path="13.08">Chapter 13.08</cite>. The fee shall be established to recover the reasonable costs of program administration, inspection coordination, and compliance oversight.</text>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit C" target-path="13.06" type="History"/>
+      </annotations>
+    </section>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>13.08</num>
+    <heading>BACKFLOW PREVENTION AND CROSS-CONNECTION CONTROL</heading>
+    <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+    <section>
+      <num>13.08.010</num>
+      <heading>Purpose and Intent</heading>
+      <text>This document establishes the administrative procedures, technical standards, and fee schedule for implementing <cite path="13.08">Chapter 13.08</cite> of the American Canyon Municipal Code, "Backflow Prevention and Cross-Connection Control."</text>
+      <text>The intent is to ensure that all backflow prevention assemblies connected to the City's potable water system are properly installed, tested, and maintained to protect public health and comply with California Code of Regulations, Title 17, Sections 7583-7605.</text>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.020</num>
+      <heading>Applicability</heading>
+      <text>This ordinance applies to any property owner that receives potable water service by the City of American Canyon and requires a new backflow prevention and cross-control device ("device") on their property or owns an existing device on their property.</text>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.030</num>
+      <heading>Program Administration</heading>
+      <para>
+        <num>(A)</num>
+        <text>The Water Division within the Public Works Department shall administer the program under the authority of the Public Works Director or designee.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Program Administrator shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>Maintain a database of all registered backflow prevention assemblies.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Maintain a current list of certified testers.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Track annual test results and non-compliance notices.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Coordinate enforcement actions with Utility Billing and Code Enforcement.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.040</num>
+      <heading>Approved Devices</heading>
+      <para>
+        <num>(A)</num>
+        <text>Only assemblies approved by the University of Southern California Foundation for Cross-Connection Control and Hydraulic Research (USC-FCCCHR) and accepted by the City Engineer shall be installed. The City Engineer shall maintain and update the Approved Assembly List consistent with City Standard Details and Code <cite path="|18.42.010">Section 18.42.010</cite> authority.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Device types include:</text>
+        <para>
+          <num>(1)</num>
+          <text>Air Gap Separation (AG)</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Reduced Pressure Principal Assembly (RP)</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Double Check Valve Assembly (DCVA)</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Pressure Vacuum Breaker (PVB)</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The Public Works Director may approve equivalent devices upon proof of listing and performance testing.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The Water Division shall publish and maintain an Approved Assembly List, updated annually.</text>
+      </para>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.050</num>
+      <heading>Certified Testers</heading>
+      <para>
+        <num>(A)</num>
+        <text>Certification Requirements</text>
+        <text>Testers must:</text>
+        <para>
+          <num>(1)</num>
+          <text>Hold a valid certification from AWWA or American Backflow Prevention Association (ABPA).</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Provide proof of calibration of test equipment (within past 12 months).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Maintain a City of American Canyon business license.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Submit an application to be added to the City's Certified Tester List.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Renewal</text>
+        <text>Tester approval is valid for one calendar year and must be renewed annually with updated certification and equipment calibration documentation.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Conduct</text>
+        <text>Certified testers must perform all testing in accordance with AWWA Manual M14 and report findings honestly and accurately. Any falsified report shall result in immediate removal from the City's approved list and possible referral to regulatory authorities.</text>
+      </para>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.060</num>
+      <heading>Testing and Reporting Requirements</heading>
+      <para>
+        <num>(A)</num>
+        <text>Initial Testing</text>
+        <para>
+          <num>(1)</num>
+          <text>Every new backflow prevention assembly serving a new building, new water service, or new facility shall be tested and certified by the City prior to final occupancy or water service activation.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Annual Testing</text>
+        <para>
+          <num>(1)</num>
+          <text>Annually thereafter, the property owner shall be responsible for ensuring that all required backflow prevention assembly testing is completed by a Certified Backflow Prevention Assembly Tester approved by the City and that all required test reports are submitted to the Water Division in accordance with <cite path="13.08">this Chapter</cite>.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Water Division shall send annual notifications to property owners at least thirty (30) days prior to the testing due date. The Public Works Director, or designee, may exercise reasonable administrative discretion in the enforcement of testing deadlines when circumstances warrant, including when additional time is reasonably necessary to complete repairs, retesting, or other corrective actions, provided such discretion is consistent with <cite path="13.08">this Chapter</cite> and applicable State regulations.</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Reporting</text>
+        <para>
+          <num>(1)</num>
+          <text>Test reports must be submitted by the property owner to the City prior to the annual due date and within ten (10) business days after testing using the City-approved Backflow Test Report Form.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Reports may be submitted electronically via the City's online portal or by mail to the Water Division.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Only test reports completed by a Certified Backflow Prevention Assembly Tester approved by the City shall be accepted. Reports may be submitted in paper or electronic format and shall bear either an original handwritten signature or an authenticated electronic signature of the certified tester. The Public Works Director, or designee, may establish administrative procedures by resolution for the electronic submission, verification, and acceptance of test reports.</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Failed Tests</text>
+        <para>
+          <num>(1)</num>
+          <text>If an assembly fails testing, it must be repaired or replaced within ten (10) calendar days.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A re-test must be performed and reported within five (5) business days after repair.</text>
+        </para>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Non-Compliance</text>
+        <text>Failure to comply with testing or repair deadlines will result in:</text>
+        <para>
+          <num>(1)</num>
+          <text>Issuance of a Notice of Violation (NOV);</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Application of a Non-Compliance Administrative Fee; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Potential termination of water service until compliance is achieved.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.070</num>
+      <heading>Installation Requirements</heading>
+      <para>
+        <num>(1)</num>
+        <text>Installation shall conform to City Standard Details and applicable plumbing codes.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Assemblies shall not be buried or installed in pits subject to flooding.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Assemblies shall be installed in an approved security cage or enclosure meeting City Standard Details.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Vault installations are not permitted unless specifically approved by the City Engineer.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The customer is responsible for maintenance of the installation area, including keeping enclosures accessible and free from vegetation or obstructions.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>Fire protection systems shall install assemblies approved for fire-line use per AWWA C510/C511 and NFPA standards.</text>
+      </para>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.080</num>
+      <heading>Recordkeeping</heading>
+      <text>The Water Division shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Maintain records necessary to administer and enforce the City's Backflow Prevention and Cross-Connection Control Program. The Water Division shall maintain digital records of all backflow prevention assemblies, including their locations, owners, and test results, for a minimum period of five (5) years.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Recordkeeping procedures, including requirements for documentation, retention periods, reporting, and maintenance of records related to backflow prevention assemblies, test results, and program activities, shall be established and adopted by City Council Resolution.</text>
+      </para>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.090</num>
+      <heading>Fees</heading>
+      <text>The following fees shall be established and may be updated annually by City Council Resolution. Any annual adjustment to the fees shall be based on the Municipal Cost Index published by American City &amp; County, or a successor agency or publication, as the identified inflation adjustment factor. The City Council may consider additional factors necessary to ensure that fees remain consistent with the reasonable costs associated with administering the Backflow Prevention and Cross-Connection Control Program.</text>
+      <text>
+        <table>
+          <thead>
+            <tr>
+              <th>Fee Type</th>
+              <th>Description</th>
+              <th>Amount*</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Annual Program Administration Fee</td>
+              <td>Charged per registered backflow assembly to recover administrative costs.</td>
+              <td>Established by City Council Resolution</td>
+            </tr>
+            <tr>
+              <td>Late Test Report Fee</td>
+              <td>Charged if annual test report is not received by due date.</td>
+              <td>Established by City Council Resolution</td>
+            </tr>
+            <tr>
+              <td>Non-Compliance Reinspection Fee</td>
+              <td>Charged for each follow-up inspection by City staff.</td>
+              <td>Established by City Council Resolution</td>
+            </tr>
+            <tr>
+              <td>Certified Tester Application Fee</td>
+              <td>Annual fee to maintain listing on approved tester list.</td>
+              <td>Established by City Council Resolution</td>
+            </tr>
+            <tr>
+              <td>Backflow Prevention Assembly Installation Permit Fee</td>
+              <td>Fee for review, approval, inspection, documentation, and administration associated with the initial installation, relocation, replacement, or modification of a backflow prevention assembly. Fees may vary based on the number of assemblies, assembly type, size, complexity, and level of review required.</td>
+              <td>Established by City Council Resolution</td>
+            </tr>
+            <tr>
+              <td>Backflow Prevention Assembly Annual Testing Fee (if applicable)</td>
+              <td>Fee associated with administration of the annual backflow prevention assembly testing program, including record management, compliance tracking, and reporting requirements.</td>
+              <td>Established by City Council Resolution</td>
+            </tr>
+            <tr>
+              <td>Backflow Prevention Assembly Reinspection Fee (if applicable)</td>
+              <td>Fee for additional inspections, reviews, or administrative efforts required due to failed tests, incomplete documentation, non-compliance, or corrective actions.</td>
+              <td>Established by City Council Resolution</td>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+      <text>*Actual dollar amounts to be inserted by resolution.</text>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.100</num>
+      <heading>Enforcement Procedure</heading>
+      <para>
+        <num>(1)</num>
+        <text>Notice of Violation (NOV): will be issued to the property owner responsible for the backflow prevention assembly. The NOV shall identify the violation, required corrective action, and compliance timeframe. The NOV may be served by mail, electronic delivery, personal delivery, or other method approved by the Public Works Director or designee. The compliance timeframe shall account for delivery of the notice and the time reasonably necessary to complete corrective actions, including repairs and retesting. The Public Works Director, or designee, may extend compliance deadlines when warranted.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Second Notice: The Public Works Director, or designee, may issue a Notice of Violation (NOV) requiring corrective action. If compliance is not achieved within fifteen (15) days of the date of the NOV for electronic delivery, or the postmarked date of the NOV for mailed delivery, or within another timeframe specified in the NOV, the City may pursue additional enforcement actions as authorized by <cite path="13.08">this Chapter</cite>. If a violation remains unresolved and poses a threat to public health or the quality of the City's water supply, the City may perform or arrange for the repair or replacement of the backflow prevention assembly as necessary to protect the public water system. The property owner shall be responsible for reimbursement of all reasonable costs incurred by the City associated with such corrective actions. Fees established pursuant to <cite path="13.08">this Chapter</cite> shall be based on the reasonable costs incurred by the City for administering, implementing, and enforcing the Backflow Prevention and Cross-Connection Control Program. Fee amounts may be based on factors including, but not limited to, staff time, inspection requirements, recordkeeping, reporting, testing administration, program management, and other costs necessary to provide the applicable service. Fees shall be established and updated by City Council Resolution and shall not exceed the reasonable cost of providing the associated service or administering the program</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Final Notice / Shutoff Warning: If still noncompliant after 30 days from the initial NOV issuance date, water service may be terminated per AMC <cite path="|13.08.090">§13.08.090</cite>.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>Reinstatement: Service restored upon receipt of passing test report and payment of applicable fees.</text>
+      </para>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.110</num>
+      <heading>Administrative Appeals</heading>
+      <para>
+        <num>(A)</num>
+        <text>Customers may appeal any enforcement action when supported by substantial information under AMC <cite path="|13.08.100">§13.08.100</cite> to the City Manager within ten (10) days of a NOV issuance. The decision of the City Manager is final.</text>
+      </para>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>13.08.120</num>
+      <heading>Forms and References</heading>
+      <para>
+        <num>(A)</num>
+        <text>The following forms and references are adopted by reference and maintained by the Water Division:</text>
+        <para>
+          <num>(1)</num>
+          <text>City of American Canyon Backflow Test Report Form.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Certified Tester Application Form.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>USC-FCCCHR Approved Assemblies List.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>City of American Canyon Standard Detail Drawings for Backflow Assemblies.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>AWWA Manual M14 – Recommended Practice for Backflow Prevention and Cross-Connection Control.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Forms, standard details, and administrative documents, provided such updates do not amend the substantive requirements of <cite path="13.08">Chapter 13.08</cite>, may be updated by the Public Works Director or designee without further City Council action.</text>
+      </para>
+      <annotations>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="" target-path="13" type="History"/>
+        <annotation app="2026-10-01" doc="City of American Canyon, Cal., Ord. No. 2026-01" eff="2026-10-01" path="attachments|Exhibit A" target-path="13.08" type="History"/>
       </annotations>
     </section>
   </container>

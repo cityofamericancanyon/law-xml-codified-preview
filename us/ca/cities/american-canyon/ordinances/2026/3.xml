@@ -1,0 +1,2675 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:citations="https://open.law/schemas/citations" xmlns="https://open.law/schemas/library" xmlns:codify="https://open.law/schemas/codify" xmlns:cache="https://open.law/schemas/cache" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="City of American Canyon, Cal., Ord. No. 2026-03" codify:doc="City of American Canyon, Cal., Code">
+  <num>2026-03</num>
+  <heading>AN ORDINANCE AMENDING AMERICAN CANYON MUNICIPAL CODE SECTIONS 19.05.090, 19.05.100, 19.10.040, AND 19.31.020 TO REMOVE THE PROHIBITION ON SWINE, LIMIT LIVESTOCK KEEPING TO THE RESIDENTIAL ESTATE (RE) ZONING DISTRICT, AND REMOVE OBSOLETE GENERAL PLAN POLICY REFERENCES</heading>
+  <meta>
+    <effective>2026-10-15</effective>
+    <citations>
+      <citation type="ord" url="./adopted/2026-03.pdf">Ord. No. 2026-03</citation>
+      <citation type="bb">City of American Canyon, Cal., Ord. No. 2026-03</citation>
+    </citations>
+    <history>
+      <introduced>2026-09-01</introduced>
+      <adopted>2026-09-15</adopted>
+    </history>
+  </meta>
+  <recitals>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the American Canyon Municipal Code (ACMC) regulates livestock keeping and animal husbandry through Chapter 19.05 (Use Classifications), Chapter 19.10 (Residential Zoning Districts), and Chapter 19.31 (Animal Keeping Standards); and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>ACMC Sections 19.05.090 and 19.05.100 currently exclude swine from the definitions of animal husbandry and livestock keeping; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments would remove those exclusions and allow swine where animal husbandry or livestock keeping are otherwise permitted by the ACMC; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>The Residential Estate (RE) zoning district is intended for low-density residential development on large lots where livestock keeping is compatible with the area's rural character. In contrast, the Rural Residential Hillside (RRH), Rural Residential (RR), and Residential Single-Family (RS) zoning districts are intended primarily for residential use and generally have development patterns or lot sizes that make livestock keeping less compatible with surrounding neighborhoods.; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments would clarify that livestock keeping is allowed as an accessory use only in the Residential Estate (RE) zoning district. Livestock-keeping uses that were legally established in other residential zoning districts may continue in accordance with the Municipal Code as legal nonconforming uses; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments would clarify that animal husbandry is permitted only in the Residential Estate (RE) zoning district, as animal husbandry is generally a rural agricultural use that is most appropriate on larger lots with greater separation from nearby homes. Any animal husbandry uses that were legally established in other residential zoning districts may continue as legal nonconforming uses; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>ACMC Chapter 19.31 establishes standards for animal keeping, including minimum lot sizes, setbacks, maintenance requirements, sanitation standards, nuisance prevention measures, and enforcement provisions, all of which would remain in effect; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments primarily remove the prohibition on swine and update zoning regulations while retaining all existing animal-keeping standards and operational requirements; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments would remove obsolete General Plan policy references currently contained in ACMC Section 19.10.040; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>the proposed amendments are consistent with the General Plan because they support animal keeping and agricultural uses in appropriate locations while maintaining compatibility with surrounding properties through existing Municipal Code standards; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>on July 30, 2026, the Planning Commission of the City of American Canyon conducted a public hearing and unanimously recommended City Council approval of the ordinance; and</text>
+    </recital>
+    <recital>
+      <conjunction>WHEREAS,</conjunction>
+      <text>a duly noticed public hearing was held by the City Council of the City of American Canyon on September 1, 2026, at which time all interested persons were given an opportunity to be heard regarding the proposed Municipal Code amendments.</text>
+    </recital>
+    <recital>
+      <conjunction>NOW, THEREFORE,</conjunction>
+      <text>BE IT ORDAINED that the City Council of the City of American Canyon hereby adopts amendments to the American Canyon Municipal Code as follows:</text>
+    </recital>
+  </recitals>
+  <section>
+    <num>1</num>
+    <text>Amendment to ACMC <cite doc="City of American Canyon, Cal., Code" path="19.05.090">Section 19.05.090</cite> – Animal Husbandry</text>
+    <text>Amend the definition of Animal Husbandry to remove the prohibition on swine as follows:</text>
+    <text><strong>Animal Husbandry:</strong> Raising of animals or production of animal products, such as eggs or dairy products, on an agricultural or commercial basis. This classification includes grazing, ranching, dairy farming, poultry raising, the raising of fur-bearing animals, the raising of swine, and the sale and storage of materials produced on-site, but excludes feed lots, stockyards, slaughterhouses, dead animal rendering, and wild animal keeping.</text>
+    <codify:replace path="19.05.090" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.05.090">
+      <section><num>19.05.090</num><heading>Agricultural classifications.</heading><text><cite doc="City of American Canyon, Cal., Code" path="|19.05.090">This section</cite> is intended to implement the general plan's provision for certain agricultural uses.</text><text>Animal husbandry: Raising of animals or production of animal products, such as eggs or dairy products, on an agricultural or commercial basis. This classification includes grazing, ranching, dairy farming, poultry raising, the raising of fur-bearing animals, the raising of swine, and the sale and storage of materials produced on-site, but excludes feed lots, stockyards, slaughterhouses, dead animal rendering, and wild animal keeping.</text><text>Cannabis outdoor cultivation: growing cannabis plants entirely outdoors for personal or commercial purposes.</text><text>Crop production: raising and harvesting of tree crops, row crops, vine crops, or field crops on an agricultural or commercial basis, including pack-ing, processing and storage, but excluding canneries.</text><text>Winery: premises for the production, blending, cellar treatment, storage and bottling of wine other than cider, experimental wine or wine for personal consumption by the producer. Tasting rooms are allowed in conjunction with a primary winery use on the same site.</text>"
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>2</num>
+    <text>Amendment to ACMC <cite doc="City of American Canyon, Cal., Code" path="19.05.100">Section 19.05.100</cite> – Livestock Keeping</text>
+    <text>Amend the definition of Livestock Keeping to allow swine as follows:</text>
+    <text><strong>Livestock Keeping:</strong> The keeping of large animals for personal purposes, including equines, bovines, sheep, goats, and swine in accordance with the provisions of Chapter 19.31, Animal Keeping Regulations.</text>
+    <codify:replace path="19.05.100" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.05.100">
+      <section>
+        <num>19.05.100</num>
+        <heading>Accessory classifications.</heading>
+        <text>Accessory uses are uses that are incidental to the principal permitted or conditionally-permitted use or structure on a site and are customarily found on the same lot.</text>
+        <text>Accessory dwelling unit: a dwelling unit located in a commercial zoning district on the same site as a primary permitted or conditionally-permitted use.</text>
+        <text>Livestock keeping: The keeping of large animals for personal purposes, including equines, bovines, sheep, goats, and swine in accordance with the provisions of Chapter 19.31, Animal Keeping Regulations.</text>
+        <text>Cafeteria: incidental dining facilities provided for on-site employees and guests of a commercial or industrial use.</text>
+        <text>Caretaker's quarters: a dwelling unit on the site of a commercial, industrial, public or semipublic use, occupied by a guard, caretaker, or operator of a facility.</text>
+        <text>Day care home, large: the provision of care, protection and supervision, in the provider's own home, for seven to fourteen children, inclusive, including children under the age of ten years who reside at the home, on a less than twenty-four-hour basis.</text>
+        <text>Day care home, small: the provision of care, protection and supervision, in the provider's own home, for six or fewer children, inclusive, including children under the age of ten years who reside at the home, on a less than twenty-four-hour basis.</text>
+        <text>Family child care home, large: the provision of care, protection and supervision, in the provider's own home, for up to fourteen children on a less than twenty-four-hour basis.</text>
+        <text>Family child care home, small: the provision of care, protection and supervision, in the provider's own home, for eight or fewer children on a less than twenty-four-hour basis.</text>
+        <text>Guest house: detached living quarters of no more than six hundred forty square feet on the same premises as a primary residence for the use of family members, guests or employees of the occupants of such residence, containing no kitchen facilities and not rented or otherwise used as a separate dwelling.</text>
+        <text>Home occupation: one or more activities carried out for gain by a resident conducted as an accessory use in the resident's dwelling unit.</text>
+        <text>Horticulture, limited: the raising of vegetables, flowers, ornamental trees and shrubs, or orchard crops for personal use.</text>
+        <text>Recreational facilities, private: recreational facilities for the sole use of on-site or project residents or similar activities not requiring the use of roofed structures.</text>
+        <text>Tent: a temporary structure having a roof and/or walls of fabric.</text>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Amendment to ACMC <cite doc="City of American Canyon, Cal., Code" path="19.31.020|(B)|(2)">Section 19.31.020(B)(2)</cite> – Animal Keeping Standards</text>
+    <text>Amend the livestock provisions to allow swine as follows:</text>
+    <para>
+      <num>(B)</num>
+      <text>
+        <strong>Permitted Animals</strong>
+      </text>
+      <para>
+        <num>(2)</num>
+        <text>Livestock.</text>
+        <text>Large animals, including equines, bovines, sheep, goats, and swine, may be kept for personal purposes where livestock keeping is permitted as an accessory use in the underlying zoning district.</text>
+      </para>
+    </para>
+    <codify:replace path="19.31.020|(B)|(2)" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.31.020|(B)|(2)">
+      <para>
+        <num>(2)</num>
+        <text>Livestock. Large animals, including equines, bovines, sheep, goats, and swine, may be kept for personal purposes where livestock keeping is permitted as an accessory use in the underlying zoning district.</text>
+      </para>
+    </codify:replace>
+  </section>
+  <section>
+    <num>4</num>
+    <text>Amendment to ACMC <cite doc="City of American Canyon, Cal., Code" path="19.10.040">Section 19.10.040</cite> – Allowable Uses Table</text>
+    <text>Amend ACMC Section <cite doc="City of American Canyon, Cal., Code" path="19.10.040">19.10.040</cite> to:</text>
+    <para>
+      <num>1.</num>
+      <text>Permit livestock keeping as an accessory use only in the Residential Estate (RE) zoning district;</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Clarify where animal husbandry is permitted;</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Continue recognition of legally established nonconforming uses as provided by the Municipal Code; and</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Remove obsolete General Plan policy references as shown on the table below:</text>
+      <text class="center">
+        <strong>Table 19.10.040<br/>PERMITTED AND CONDITIONALLY PERMITTED USES<br/>RESIDENTIAL DISTRICTS<sup>1</sup></strong>
+      </text>
+      <text>
+        <table high-density="true">
+          <tbody>
+            <tr>
+              <th>RESIDENTIAL DISTRICT</th>
+              <th colspan="6">ZONING DISTRICTS</th>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <th>Use Classifications</th>
+              <th>RRH</th>
+              <th>RE</th>
+              <th>RR</th>
+              <th>RS</th>
+              <th>RM</th>
+              <th>RH</th>
+              <th colspan="2">Related Provisions</th>
+            </tr>
+            <tr>
+              <th>Residential</th>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Congregate living facility</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Cottage food operations</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Employee housing (1 to 6 occupants)</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Garden apartments</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Mobilehome</td>
+              <td>-</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Mobilehome park</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2">
+                <cite doc="City of American Canyon, Cal., Code" path="19.10">Chapter 19.10</cite>
+              </td>
+            </tr>
+            <tr>
+              <td>Multifamily residential</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Residential Care Home, Small</td>
+              <th>P</th>
+              <th>P</th>
+              <th>P</th>
+              <th>P</th>
+              <th>P</th>
+              <th>P</th>
+              <td/>
+              <td/>
+            </tr>
+            <tr>
+              <td>Second residential unit</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>-</td>
+              <td colspan="2">
+                <cite doc="City of American Canyon, Cal., Code" path="19.10.120">Section 19.10.120</cite>
+              </td>
+            </tr>
+            <tr>
+              <td>Single room occupancy</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>P</td>
+              <td colspan="2">
+                <cite doc="City of American Canyon, Cal., Code" path="19.10.160">Section 19.10.160</cite>
+              </td>
+            </tr>
+            <tr>
+              <td>Single-family residential</td>
+              <td/>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Detached</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P<sup>2</sup></td>
+              <td>P<sup>2</sup></td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Semidetached</td>
+              <td>-</td>
+              <td>-</td>
+              <td>P<sup>3</sup></td>
+              <td>P<sup>4</sup></td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Townhouses</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <th>Commercial</th>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Adult business</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Animal sales and service</td>
+              <td>-</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Boarding kennel</td>
+              <td>-</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Grooming</td>
+              <td>-</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Medical care</td>
+              <td>-</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Retail care</td>
+              <td>-</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Bank, savings and loan</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Drive-up service</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Walk-up service</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Building materials and services</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Catering</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Commercial printing</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Limited printing</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Communication services</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Entertainment, indoor</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Amusement center</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Gaming</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Funeral and interment services</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Health services</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Laboratory</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Lodging services</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Bed and breakfast inn</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Long-term care facility</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Maintenance and repair services</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Nursery</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Offices, business, and professional</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>On-premises liquor consumption</td>
+              <td/>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Tasting room</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Pawnshops</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Personal improvement services</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Night use</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Personal services</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Recycling collection center</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Restaurant</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Night use</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Restaurant, take-out</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Night use</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Retail food sales</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Convenience store</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Liquor store</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Retail sales</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Limited</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Visitor-oriented</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Vehicle/equipment sales and service</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Automobile rental</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Automobile washing</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Service station</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Vehicle/equipment repair</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Vehicle/equipment sales, lease and rentals</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Wholesaling, commercial</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <th>Industrial</th>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Hazardous use</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Industry, general</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Industry, limited</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Mineral extraction</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Recycling center</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Research and development</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Storage tank(s)</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Vehicle/equipment services</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Vehicle/equipment repair</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Vehicle storage</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Wholesaling, distribution and storage</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Small scale</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Trucking terminal</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <th>Recreational</th>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Recreational facilities, public</td>
+              <td>C</td>
+              <td>C</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Recreation and sports, outdoor</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Recreation, passive</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Staging area</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <th>Public and Quasi-Public</th>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Antenna</td>
+              <td>-</td>
+              <td>-</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>- Exceeding height limitations</td>
+              <td>-</td>
+              <td>-</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Community center</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Conference center</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Cultural facility</td>
+              <td>-</td>
+              <td>-</td>
+              <td/>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Day care center</td>
+              <td>-</td>
+              <td>M</td>
+              <td>M</td>
+              <td>M</td>
+              <td>M</td>
+              <td>M</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Homeless shelter</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2">
+                <cite doc="City of American Canyon, Cal., Code" path="19.42">Chapter 19.42</cite>
+              </td>
+            </tr>
+            <tr>
+              <td>Public safety facility</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Religious facility</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>School</td>
+              <td>-</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Utilities, major</td>
+              <td>-</td>
+              <td>-</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Utilities, minor</td>
+              <td>-</td>
+              <td>-</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <th>Agriculture</th>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Animal husbandry</td>
+              <td>-</td>
+              <td>P</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Crop production</td>
+              <td>C</td>
+              <td>P</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <th>Accessory</th>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Accessory dwelling unit</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Livestock keeping</td>
+              <td>
+                <s>-</s>
+              </td>
+              <td>P</td>
+              <td>
+                <s>-</s>
+              </td>
+              <td>
+                <s>-</s>
+              </td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2">
+                <cite doc="City of American Canyon, Cal., Code" path="19.31">Chapter 19.31</cite>
+              </td>
+            </tr>
+            <tr>
+              <td>Caretaker's quarters</td>
+              <td>C</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Family child care home, large</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2">
+                <cite doc="City of American Canyon, Cal., Code" path="19.33">Chapter 19.33</cite>
+              </td>
+            </tr>
+            <tr>
+              <td>Family child care home, small</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Guest house</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Home occupation</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2">
+                <cite doc="City of American Canyon, Cal., Code" path="19.29">Chapter 19.29</cite>
+              </td>
+            </tr>
+            <tr>
+              <td>Horticulture, limited</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Room rentals</td>
+              <td>-</td>
+              <td>-</td>
+              <td>C</td>
+              <td>C</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <th>Temporary</th>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Animal show</td>
+              <td/>
+              <td/>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td>-</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Commercial filming</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2"/>
+            </tr>
+            <tr>
+              <td>Mobile structures</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td>C</td>
+              <td colspan="2">
+                <cite doc="City of American Canyon, Cal., Code" path="19.30">Chapter 19.30</cite>
+              </td>
+            </tr>
+            <tr>
+              <td>Personal property sales</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td>P</td>
+              <td colspan="2"/>
+            </tr>
+          </tbody>
+        </table>
+      </text>
+    </para>
+    <codify:replace path="19.10.040" codified:doc="City of American Canyon, Cal., Code" codified:path="|19.10.040">
+      <section>
+        <num>19.10.040</num>
+        <heading>Permitted uses.</heading>
+        <text>Table <cite doc="City of American Canyon, Cal., Code" path="|19.10.040">19.10.040</cite> of <cite doc="City of American Canyon, Cal., Code" path="|19.10.040">this section</cite> sets forth the permitted and conditionally permitted uses for each residential district. A "P" designates a permitted use. A "C" indicates a conditionally permitted use subject to approval of a use permit by the planning commission. An "M" indicates a minor use permit is required pursuant to <cite path="19.42" doc="City of American Canyon, Cal., Ord. No. 2026-03">Chapter 19.42</cite>. If no letter is found opposite a particular use, it is not permitted in that district.</text>
+        <text class="center">
+          <strong>Table <cite doc="City of American Canyon, Cal., Code" path="|19.10.040">19.10.040</cite><br/>PERMITTED AND CONDITIONALLY PERMITTED USES<br/>RESIDENTIAL DISTRICTS</strong>
+          <sup>
+            <strong>1</strong>
+          </sup>
+        </text>
+        <text>
+          <table high-density="true">
+            <tbody>
+              <tr>
+                <th>RESIDENTIAL DISTRICT</th>
+                <th colspan="6">ZONING DISTRICTS</th>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <th>Use Classifications</th>
+                <th>RRH</th>
+                <th>RE</th>
+                <th>RR</th>
+                <th>RS</th>
+                <th>RM</th>
+                <th>RH</th>
+                <th colspan="2">Related Provisions</th>
+              </tr>
+              <tr>
+                <th>Residential</th>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Congregate living facility</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Cottage food operations</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Employee housing (1 to 6 occupants)</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Garden apartments</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Mobilehome</td>
+                <td>-</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Mobilehome park</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2">
+                  <cite doc="City of American Canyon, Cal., Code" path="19.10">Chapter 19.10</cite>
+                </td>
+              </tr>
+              <tr>
+                <td>Multifamily residential</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Residential Care Home, Small</td>
+                <th>P</th>
+                <th>P</th>
+                <th>P</th>
+                <th>P</th>
+                <th>P</th>
+                <th>P</th>
+                <td/>
+                <td/>
+              </tr>
+              <tr>
+                <td>Second residential unit</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>-</td>
+                <td colspan="2">
+                  <cite doc="City of American Canyon, Cal., Code" path="19.10.120">Section 19.10.120</cite>
+                </td>
+              </tr>
+              <tr>
+                <td>Single room occupancy</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>P</td>
+                <td colspan="2">
+                  <cite doc="City of American Canyon, Cal., Code" path="19.10.160">Section 19.10.160</cite>
+                </td>
+              </tr>
+              <tr>
+                <td>Single-family residential</td>
+                <td/>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Detached</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P<sup>2</sup></td>
+                <td>P<sup>2</sup></td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Semidetached</td>
+                <td>-</td>
+                <td>-</td>
+                <td>P<sup>3</sup></td>
+                <td>P<sup>4</sup></td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Townhouses</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <th>Commercial</th>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Adult business</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Animal sales and service</td>
+                <td>-</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Boarding kennel</td>
+                <td>-</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Grooming</td>
+                <td>-</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Medical care</td>
+                <td>-</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Retail care</td>
+                <td>-</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Bank, savings and loan</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Drive-up service</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Walk-up service</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Building materials and services</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Catering</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Commercial printing</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Limited printing</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Communication services</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Entertainment, indoor</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Amusement center</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Gaming</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Funeral and interment services</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Health services</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Laboratory</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Lodging services</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Bed and breakfast inn</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Long-term care facility</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Maintenance and repair services</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Nursery</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Offices, business, and professional</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>On-premises liquor consumption</td>
+                <td/>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Tasting room</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Pawnshops</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Personal improvement services</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Night use</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Personal services</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Recycling collection center</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Restaurant</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Night use</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Restaurant, take-out</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Night use</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Retail food sales</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Convenience store</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Liquor store</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Retail sales</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Limited</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Visitor-oriented</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Vehicle/equipment sales and service</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Automobile rental</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Automobile washing</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Service station</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Vehicle/equipment repair</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Vehicle/equipment sales, lease and rentals</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Wholesaling, commercial</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <th>Industrial</th>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Hazardous use</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Industry, general</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Industry, limited</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Mineral extraction</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Recycling center</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Research and development</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Storage tank(s)</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Vehicle/equipment services</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Vehicle/equipment repair</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Vehicle storage</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Wholesaling, distribution and storage</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Small scale</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Trucking terminal</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <th>Recreational</th>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Recreational facilities, public</td>
+                <td>C</td>
+                <td>C</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Recreation and sports, outdoor</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Recreation, passive</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Staging area</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <th>Public and Quasi-Public</th>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Antenna</td>
+                <td>-</td>
+                <td>-</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>- Exceeding height limitations</td>
+                <td>-</td>
+                <td>-</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Community center</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Conference center</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Cultural facility</td>
+                <td>-</td>
+                <td>-</td>
+                <td/>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Day care center</td>
+                <td>-</td>
+                <td>M</td>
+                <td>M</td>
+                <td>M</td>
+                <td>M</td>
+                <td>M</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Homeless shelter</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2">
+                  <cite doc="City of American Canyon, Cal., Code" path="19.42">Chapter 19.42</cite>
+                </td>
+              </tr>
+              <tr>
+                <td>Public safety facility</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Religious facility</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>School</td>
+                <td>-</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Utilities, major</td>
+                <td>-</td>
+                <td>-</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Utilities, minor</td>
+                <td>-</td>
+                <td>-</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <th>Agriculture</th>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Animal husbandry</td>
+                <td>-</td>
+                <td>P</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Crop production</td>
+                <td>C</td>
+                <td>P</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <th>Accessory</th>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Accessory dwelling unit</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Livestock keeping</td>
+                <td>
+                  <s>-</s>
+                </td>
+                <td>P</td>
+                <td>
+                  <s>-</s>
+                </td>
+                <td>
+                  <s>-</s>
+                </td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2">
+                  <cite doc="City of American Canyon, Cal., Code" path="19.31">Chapter 19.31</cite>
+                </td>
+              </tr>
+              <tr>
+                <td>Caretaker's quarters</td>
+                <td>C</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Family child care home, large</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2">
+                  <cite doc="City of American Canyon, Cal., Code" path="19.33">Chapter 19.33</cite>
+                </td>
+              </tr>
+              <tr>
+                <td>Family child care home, small</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Guest house</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Home occupation</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2">
+                  <cite doc="City of American Canyon, Cal., Code" path="19.29">Chapter 19.29</cite>
+                </td>
+              </tr>
+              <tr>
+                <td>Horticulture, limited</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Room rentals</td>
+                <td>-</td>
+                <td>-</td>
+                <td>C</td>
+                <td>C</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <th>Temporary</th>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td/>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Animal show</td>
+                <td/>
+                <td/>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Commercial filming</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2"/>
+              </tr>
+              <tr>
+                <td>Mobile structures</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td>C</td>
+                <td colspan="2">
+                  <cite doc="City of American Canyon, Cal., Code" path="19.30">Chapter 19.30</cite>
+                </td>
+              </tr>
+              <tr>
+                <td>Personal property sales</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td>P</td>
+                <td colspan="2"/>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+        <text><sup>1</sup> Permitted and conditionally permitted uses on parcels located within a designated Napa County Airport compatibility zone may be restricted or prohibited subject to the requirements of the policies related to airport compatibility in the American Canyon general plan and the Napa County Airport land use compatibility plan. Restrictions may include the requirement for recordation of overflight or avigation easements.</text>
+        <text/>
+      </section>
+    </codify:replace>
+  </section>
+  <section>
+    <num>5</num>
+    <text>CEQA Findings The City Council finds that the proposed Municipal Code amendments are exempt from environmental review under the California Environmental Quality Act (CEQA) Guidelines Section 15061(b)(3) (General Rule) because it is clear that the amendments will not have a significant effect on the environment.</text>
+    <text>The amendments do not allow new development, increase development density, expand the areas where livestock keeping or animal husbandry are permitted, or remove existing rules for animal keeping. Instead, the amendments remove the prohibition on swine in certain existing use classifications, clarify and in some cases limit where livestock keeping and animal husbandry are allowed, and continue to apply all existing standards related to lot size, setbacks, maintenance, sanitation, nuisance prevention, and code enforcement. Because the amendments will not cause a direct or reasonably foreseeable indirect physical change to the environment, they are exempt under CEQA Guidelines Section 15061(b)(3).</text>
+    <text>The City Council also finds that the amendments are exempt under CEQA Guidelines Section 15305 (Minor Alterations in Land Use Limitations) because they make only minor changes to land use regulations and do not change land use designations, allowed density, or development intensity.</text>
+  </section>
+  <section>
+    <num>6</num>
+    <text>Effective Date.  This ordinance shall become effective 30 days after its final passage pursuant to <cite doc="Cal. Gov't Code" path="§36937">Government Code section 36937</cite>.</text>
+  </section>
+  <section>
+    <num>7</num>
+    <text>Severability.  If any section, sentence, clause or phrase of this Ordinance is for any reason held to be invalid or unconstitutional by a decision of any court of competent jurisdiction, such decision shall not affect the validity of the remaining portions of this Ordinance.  The City Council hereby declares that it would have passed this Ordinance and adopted this Ordinance and each section, sentence, clause or phrase thereof, irrespective of the fact that one or more sections, subsections, sentences, clauses or phrases be declared invalid or unconstitutional.</text>
+  </section>
+  <section>
+    <num>8</num>
+    <text>Custodian of Records. The documents and materials that constitute the record of proceedings on which this Ordinance is based are located at the City Clerk's office located at 4831 Broadway, Suite 201, American Canyon, CA 94503.  The custodian of these records is the City Clerk.</text>
+  </section>
+  <procedural-data>
+    <text>The foregoing Ordinance was introduced at a regular meeting of the City Council of the City of American Canyon, State of California, held on the 1<sup>st</sup> day of September, 2026 by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmember Brando Cruz, Councilmember Melissa Lamattina, Vice Mayor Mark Joseph, Mayor Pierre Washington</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>Councilmember David Oro</td>
+        </tr>
+      </table>
+    </text>
+    <text>The foregoing Ordinance was adopted at a regular meeting of the City Council of the City of American Canyon, State of California,held on the 15th day of September 2026, by the following vote:</text>
+    <text>
+      <table>
+        <tr>
+          <th>AYES:</th>
+          <td>Councilmember Brando Cruz, Councilmember Melissa Lamattina, Vice Mayor Mark Joseph, Mayor Pierre Washington</td>
+        </tr>
+        <tr>
+          <th>NOES:</th>
+          <td>None</td>
+        </tr>
+        <tr>
+          <th>ABSTAIN:</th>
+          <td>Councilmember David Oro</td>
+        </tr>
+        <tr>
+          <th>ABSENT:</th>
+          <td>None</td>
+        </tr>
+      </table>
+    </text>
+    <text>_____________________________</text>
+    <text>Pierre Washington, Mayor</text>
+    <text>
+      <table class="layout-table">
+        <tr>
+          <td>ATTEST:</td>
+          <td class="text-indent-1">APPROVED AS TO FORM:</td>
+        </tr>
+        <tr>
+          <td>__________________________</td>
+          <td class="text-indent-1">__________________________</td>
+        </tr>
+        <tr>
+          <td>Taresa Geilfuss, CMC, City Clerk</td>
+          <td class="text-indent-1">Matthew Summers, City Attorney</td>
+        </tr>
+      </table>
+    </text>
+  </procedural-data>
+</document>

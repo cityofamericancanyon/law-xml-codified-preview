@@ -209,8 +209,8 @@
           <text>A project shall be approved pursuant to the provisions of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter</cite> and all applicable and objective development standards in the zone in which the development occurs that are not inconsistent with the requirements and streamlining provisions of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter (19.54)</cite>. Upon confirmation that the project meets the requirements of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter</cite>, the community development director will approve the application and issue a ministerial permit. Projects meeting the requirements of <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter</cite> and subject to the standard conditions of approval set forth herein shall be exempt from design review under <cite doc="City of American Canyon, Cal., Code" path="19.41">Chapter 19.41</cite>.</text>
         </section>
         <section>
-          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.51.030"/>
-          <num>19.51.030</num>
+          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.54.030"/>
+          <num>19.54.030</num>
           <heading>Design and appearance.</heading>
           <para>
             <num>(A)</num>
@@ -230,10 +230,10 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.51.050"/>
-          <num>19.51.050</num>
+          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.54.050"/>
+          <num>19.54.050</num>
           <heading>Sustainability standards</heading>
-          <text>Eligible projects must include design elements or features that meet the following sustainability standards set forth in <cite doc="City of American Canyon, Cal., Code" path="|19.51.030">this section</cite>.</text>
+          <text>Eligible projects must include design elements or features that meet the following sustainability standards set forth in <cite doc="City of American Canyon, Cal., Code" path="|19.54.050">this section</cite>.</text>
           <para>
             <num>(A)</num>
             <text>Stormwater and drainage. A stormwater pollution prevention plan to minimize contamination, erosion, and dust pollution during construction. All stormwater runoff from impervious surfaces (roofs and paving) must be routed through a specially designed water quality detention and treatment basin. On-site detention must be provided to meet the City of American Canyon standards.</text>
@@ -364,10 +364,10 @@
           </para>
         </section>
         <section>
-          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.51.060"/>
-          <num>19.51.060</num>
+          <codify:insert codified:doc="City of American Canyon, Cal., Code" codified:path="|19.54.060"/>
+          <num>19.54.060</num>
           <heading>Standard Conditions of Approval.</heading>
-          <text>Approval of a ministerial permit pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.54">this Chapter (19.54)</cite> does not preclude imposition of the objective standard conditions of approval set forth in <cite doc="City of American Canyon, Cal., Code" path="|19.51.060">this section</cite>. These include objective process requirements related to issuance of a building permit. Any further approvals, such as demolition, grading, and building permits shall be issued on a ministerial basis subject to the objective standards set forth herein, compliance with which shall be required as conditions of approval included in the Sustainable, Energy-Efficient Warehouse Design Permit approved by the City pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter (19.54)</cite>.</text>
+          <text>Approval of a ministerial permit pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.54">this Chapter (19.54)</cite> does not preclude imposition of the objective standard conditions of approval set forth in <cite doc="City of American Canyon, Cal., Code" path="|19.54.060">this section</cite>. These include objective process requirements related to issuance of a building permit. Any further approvals, such as demolition, grading, and building permits shall be issued on a ministerial basis subject to the objective standards set forth herein, compliance with which shall be required as conditions of approval included in the Sustainable, Energy-Efficient Warehouse Design Permit approved by the City pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.54">this chapter (19.54)</cite>.</text>
           <text>The conditions of this permit shall be printed on the first sheet of each plan set submitted for a building or other ministerial permit pursuant to this Sustainable, Energy-Efficient Warehouse Design Permit. This permit will be enforced pursuant to <cite doc="City of American Canyon, Cal., Code" path="19.02">Chapter 19.02</cite>.</text>
           <para>
             <num>(A)</num>
@@ -1204,7 +1204,7 @@
               </para>
               <para>
                 <num codify:value="(d)">d.</num>
-                <text>Provide a letter stating that all of the Standard Conditions of Approval set forth in <cite doc="City of American Canyon, Cal., Code" path="|19.51.060">this section</cite> have been met.</text>
+                <text>Provide a letter stating that all of the Standard Conditions of Approval set forth in <cite doc="City of American Canyon, Cal., Code" path="|19.54.060">this section</cite> have been met.</text>
               </para>
               <para>
                 <num codify:value="(e)">e.</num>
